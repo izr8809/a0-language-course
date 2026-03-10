@@ -1,0 +1,2018 @@
+# A0 Cours de Français — 5 Pistes, 18 Histoires (Paris / France)
+
+---
+
+# 💖 VIE PERSONNELLE (tu) >> La Vie à Paris
+
+# PI-1 : Salut, moi c'est ___!
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Première Rencontre
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Première rencontre à Paris.
+Respire un coup... et dis bonjour !
+
+---
+
+### sim1 : Enchanté(e)
+
+**Goal:** To introduce yourself, say where you're from, and share one thing you like about Paris.
+
+**📍 Lieu :** Dehors (Le Marais, Paris)
+
+**intro_text:**
+Première rencontre à Paris.
+Respire un coup... et dis bonjour !
+
+**Ouverture — Premier Saludo [Série 1]**
+AI: Salut ! Moi c'est Léa. Tu t'appelles comment ?
+User: Salut ! Moi c'est ___. / Je m'appelle ___.
+AI: Sympa ! Tu viens d'où ?
+User: Je viens de ___ !
+
+**Outro:**
+> Première impression : Réussie ! 🎯
+> Mais attends... pourquoi tu es vraiment à Paris ?
+>
+
+**Découverte — Ce que tu aimes [Série 2]**
+AI: Tu aimes Paris ?
+User: Oui, j'adore ! / C'est magnifique !
+AI: Qu'est-ce que tu aimes ici ?
+User: La nourriture ! / Les gens !
+
+**Outro:**
+> Elle a adoré ta réponse ! 👀
+> Drapeau rouge ou vert ? On va voir si vos goûts se ressemblent.
+>
+
+---
+
+### sim2 : On se rapproche
+
+**Goal:** To discover shared hobbies and talk about your experience with French food.
+
+**📍 Lieu :** Dehors (même endroit)
+
+**intro_text:**
+Vous continuez à parler. Bon signe !
+C'est l'heure de voir ce que vous avez en commun.
+
+**Loisirs — Qu'est-ce que tu aimes faire ? [Série 3]**
+User: Léa, tu aimes quoi ?
+AI: Moi ? J'adore la musique ! Et toi ?
+User: Moi aussi ! / J'aime les films !
+AI: Ah bon ? La musique française ?
+
+**Outro:**
+> Bonne vibe ! ✔️
+> Prépare-toi pour l'obsession numéro un de Paris... la nourriture.
+>
+
+**Nourriture — T'as déjà goûté ? [Série 4]**
+AI: T'as déjà mangé un croissant ici ?
+User: Oui ! / Pas encore !
+AI: Tu dois essayer ! C'est trop bon !
+User: Je veux goûter ! / Oui, c'était délicieux !
+
+**Outro:**
+> Assez parlé ! 🛑
+> C'est ta chance en or. Propose de sortir ensemble !
+>
+
+---
+
+### sim3 : On sort ?
+
+**Goal:** To make casual weekend plans and exchange WhatsApp numbers.
+
+**📍 Lieu :** Dehors (même endroit)
+
+**intro_text:**
+L'ambiance est super. Vraiment super.
+C'est l'heure de rendre ça officiel !
+
+**Plans — Ce week-end [Série 5]**
+User: Tu fais quoi ce week-end ?
+AI: Moi ? Rien encore ! Tu veux sortir ?
+User: Oui ! On fait quoi ?
+AI: On va manger quelque chose !
+
+**Outro:**
+> C'est officiellement un rendez-vous ! 🥂
+> Attends ! Ne la laisse pas partir sans son numéro WhatsApp !
+>
+
+**Contact — Restons en contact [Série 6]**
+User: T'as WhatsApp ?
+AI: Oui, bien sûr ! Voilà mon numéro.
+User: Super !
+AI: Écris-moi ! À bientôt !
+
+**Outro:**
+> Contact sauvegardé ! 🔒
+> La suite : Le test qui décide si vous êtes *vraiment* compatibles.
+>
+
+---
+
+# PI-2 : C'est quoi ton signe ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Petite Conversation
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Bases
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Lieu :** Café (Le Marais, Paris)
+
+**intro_text:**
+Tu es arrivé(e) au café. La vraie conversation commence.
+L'âge, le quartier... et puis la question que tout le monde pose.
+
+**Ouverture — L'âge [Série 1]**
+AI: T'as quel âge ?
+User: J'ai ___ ans ! / J'ai ___ !
+AI: Ah, pareil que moi ! J'ai 25 ans !
+User: Vraiment ? / Oh, c'est cool !
+
+**Outro:**
+> L'âge révélé ! 🎂
+> Maintenant, découvre où il/elle habite vraiment.
+>
+
+**Quartier — T'habites où ? [Série 2]**
+User: T'habites où ?
+AI: Moi ? Dans le Marais ! Et toi ?
+User: À Paris ! / Près de Montmartre !
+AI: Oh, c'est proche !
+
+**Outro:**
+> Voisins ? Peut-être ! 📍
+> Prépare-toi — la question du signe arrive.
+>
+
+---
+
+### sim2 : Le Signe Astro
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café est bon. La conversation aussi.
+C'est l'heure de la vraie question.
+
+**Signe — Astrologie [Série 3]**
+User: C'est quoi ton signe ?
+AI: Je suis Scorpion ! Et toi ?
+User: Je suis Verseau ! / Je sais pas !
+AI: Verseau ? On va bien s'entendre !
+
+**Outro:**
+> Compatibilité : Validée ! 💫
+> Maintenant, creuse un peu pour savoir qui il/elle est vraiment.
+>
+
+**Caractère — Personnalité [Série 4]**
+AI: T'es plutôt chez toi ou dehors ?
+User: Dehors, j'adore sortir ! / Chez moi, c'est bien !
+AI: Moi aussi ! On a le même style !
+User: Oh, pareil !
+
+**Outro:**
+> Même énergie ! ✨
+> Un dernier tour — qu'est-ce qu'il/elle fait en ce moment ?
+>
+
+---
+
+### sim3 : Parle-moi de toi
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café est presque fini. La conversation, elle, continue.
+Encore un peu... et tu sais tout.
+
+**Maintenant — Quoi de neuf ? [Série 5]**
+AI: Tu fais quoi en ce moment ?
+User: J'apprends le français ! / Je regarde des séries !
+AI: Le français, c'est comment ? C'est bien ?
+User: Oui, c'est sympa ! / C'est un peu dur.
+
+**Outro:**
+> Réponse honnête ! 😄
+> C'est l'heure de conclure et de prévoir de se revoir.
+>
+
+**Fin — On se reparle [Série 6]**
+AI: On se reparle bientôt !
+User: Oui, avec plaisir !
+AI: Écris-moi sur WhatsApp !
+User: OK !
+
+**Outro:**
+> Nouvel(le) ami(e) débloqué(e) ! 🔓
+> La suite : Transforme ce chat en vrais plans.
+>
+
+---
+
+# PI-3 : Tu fais quoi ce week-end ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Faire des Plans
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Ce Week-end
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+La bulle de message clignote.
+C'est l'heure de tenter ta chance — propose de sortir !
+
+**Plans — Le week-end [Série 1]**
+User: Tu fais quoi ce week-end ?
+AI: Moi ? Rien encore ! Pourquoi ?
+User: On sort ensemble ?
+AI: Bonne idée ! On fait quoi ?
+
+**Outro:**
+> Il/Elle a dit oui ! 🙌
+> Maintenant, décide ce que vous allez vraiment faire.
+>
+
+**Destination — On va où ? [Série 2]**
+User: On va au café ? On va manger ?
+AI: Manger ! J'ai faim ! Où ça ?
+User: Le Marais, ça te va ?
+AI: Parfait !
+
+**Outro:**
+> Destination : Le Marais ! 🗺️
+> Maintenant, fixe les détails — quand et où exactement ?
+>
+
+---
+
+### sim2 : Quand et Où
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Lieu :** En ligne (WhatsApp, même conversation)
+
+**intro_text:**
+Les plans sont lancés. Plus qu'à confirmer.
+Heure et lieu — et c'est bon !
+
+**Heure — On se retrouve quand ? [Série 3]**
+AI: On se retrouve à quelle heure ?
+User: À 14h ? / Le soir !
+AI: Bonne idée ! Devant le métro Arts et Métiers ?
+User: OK !
+
+**Outro:**
+> Heure confirmée ! ⏰
+> Une dernière confirmation et c'est réglé.
+>
+
+**Confirmation — C'est bon ? [Série 4]**
+AI: Alors samedi, Arts et Métiers !
+User: C'est bon !
+AI: Sois pas en retard !
+User: Promis ! / Je suis jamais en retard !
+
+**Outro:**
+> Plans confirmés ! 📅
+> Samedi arrive... tu es prêt(e) pour le vrai truc ?
+>
+
+---
+
+### sim3 : Le Jour J
+
+**Goal:** To meet up and start the outing together.
+
+**📍 Lieu :** Métro Arts et Métiers, Paris
+
+**intro_text:**
+Samedi. Tu es là. Il/Elle arrive.
+C'est parti !
+
+**Arrivée — On est là ! [Série 5]**
+User: Je suis là ! T'es où ?
+AI: J'arrive ! Une minute !
+User: OK, je t'attends !
+AI: Me voilà ! Désolé(e) !
+
+**Outro:**
+> Enfin réunis ! 🎉
+> Maintenant, profite du moment — c'est parti !
+>
+
+**Sortie — C'est parti ! [Série 6]**
+AI: On va où d'abord ?
+User: La boulangerie ! J'ai faim ! / Le café d'abord !
+AI: Bonne idée ! Allons-y !
+User: Super !
+
+**Outro:**
+> Aventure lancée ! 🥐
+> La suite : Est-ce que vous allez vous revoir ?
+>
+
+---
+
+# PI-4 : T'es sur les réseaux ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Réseaux Sociaux / WhatsApp
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Réseaux
+
+**Goal:** To ask about and share social media handles.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+Le café est bon. La conversation aussi.
+C'est l'heure de se connecter en ligne !
+
+**Réseaux — T'es où en ligne ? [Série 1]**
+AI: T'es sur Instagram ?
+User: Oui, je suis dessus ! / Non, pas vraiment.
+AI: T'es sur quoi alors ?
+User: C'est ___ ! / Je t'envoie sur WhatsApp !
+
+**Outro:**
+> Connectés en ligne ! 📱
+> Mais est-ce qu'il/elle poste des trucs intéressants ?
+>
+
+**Contenu — Tu postes quoi ? [Série 2]**
+User: Tu postes quoi sur Instagram ?
+AI: Des photos de Paris ! Et toi ?
+User: Des photos de nourriture ! / Des selfies !
+AI: Oh, j'adore ça !
+
+**Outro:**
+> Profil validé ! ✅
+> La suite : Est-ce que vous allez vous suivre ?
+>
+
+---
+
+### sim2 : WhatsApp
+
+**Goal:** To exchange WhatsApp contact and send a first message.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Instagram, c'est bien. WhatsApp, c'est mieux.
+C'est l'heure d'échanger les numéros !
+
+**Contact — WhatsApp [Série 3]**
+User: T'as WhatsApp ?
+AI: Oui ! Tu veux mon numéro ?
+User: Oui, s'il te plaît ! / Envoie-moi !
+AI: Voilà ! Je t'envoie un message.
+
+**Outro:**
+> Numéro échangé ! 🔢
+> Maintenant, envoie le premier message !
+>
+
+**Premier Message — Coucou ! [Série 4]**
+AI: Coucou ! C'est moi, Léa !
+User: Coucou ! Je t'ai eu ! / Salut ! Ça marche !
+AI: Super ! On se reparle bientôt !
+User: Oui, à bientôt !
+
+**Outro:**
+> Premier message envoyé ! 💬
+> La suite : La vraie conversation commence maintenant.
+>
+
+---
+
+### sim3 : On reste en contact
+
+**Goal:** To make plans to meet again and stay in touch.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Le contact est établi. Maintenant, il faut l'entretenir.
+Un message, et c'est reparti !
+
+**Plans — On se revoit ? [Série 5]**
+AI: On se revoit quand ?
+User: Ce week-end ? / La semaine prochaine !
+AI: Ce week-end, c'est parfait !
+User: Super, j'attends ça !
+
+**Outro:**
+> Plans en vue ! 🗓️
+> Confirme les détails et c'est dans la poche.
+>
+
+**Confirmation — C'est noté ! [Série 6]**
+User: Samedi, c'est bon pour toi ?
+AI: Oui, samedi c'est parfait !
+User: À samedi alors !
+AI: À samedi ! Hâte d'y être !
+
+**Outro:**
+> Rendez-vous confirmé ! 🎯
+> La suite : Samedi arrive... prépare-toi !
+>
+
+---
+
+# 🧳 VOYAGES ET DÉPLACEMENTS (vous) >> Paris et la France
+
+# TR-1 : Un café, s'il vous plaît
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Café / Brasserie
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous êtes dans un café parisien.
+Commandez comme un(e) vrai(e) Parisien(ne) !
+
+---
+
+### sim1 : La Commande
+
+**Goal:** To order a coffee and a pastry at a Parisian café.
+
+**📍 Lieu :** Café (Paris, rive gauche)
+
+**intro_text:**
+Vous êtes dans un café parisien.
+Commandez comme un(e) vrai(e) Parisien(ne) !
+
+**Commande — Au café [Série 1]**
+AI: Bonjour ! Vous désirez ?
+User: Un café, s'il vous plaît. / Un allongé, s'il vous plaît.
+AI: Très bien ! Et avec ça ?
+User: Un croissant, s'il vous plaît.
+
+**Outro:**
+> Commande passée ! ☕
+> Maintenant, trouvez une bonne table.
+>
+
+**Installation — La table [Série 2]**
+User: Excusez-moi, cette table est libre ?
+AI: Oui, bien sûr ! Asseyez-vous.
+User: Merci beaucoup.
+AI: Je vous apporte ça tout de suite.
+
+**Outro:**
+> Installé(e) ! 🪑
+> Le café arrive... savourez le moment.
+>
+
+---
+
+### sim2 : L'Addition
+
+**Goal:** To ask for the bill and pay at a café.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café était excellent. Maintenant, il faut payer.
+Comment demander l'addition en français ?
+
+**Addition — On paie [Série 3]**
+User: L'addition, s'il vous plaît.
+AI: Bien sûr ! Voilà, c'est 4 euros 50.
+User: Voilà. / Je paye par carte.
+AI: Merci ! Bonne journée !
+
+**Outro:**
+> Payé ! 💳
+> Vous avez survécu à votre premier café parisien !
+>
+
+**Départ — Au revoir [Série 4]**
+AI: Tout s'est bien passé ?
+User: Oui, c'était très bon ! / Excellent, merci !
+AI: Merci à vous ! À bientôt !
+User: Au revoir !
+
+**Outro:**
+> Expérience café : Réussie ! 🥐
+> La suite : Un vrai repas vous attend.
+>
+
+---
+
+### sim3 : Une Question
+
+**Goal:** To ask a question about the menu or a recommendation.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Vous voulez essayer quelque chose de nouveau.
+Demandez conseil au serveur !
+
+**Menu — Qu'est-ce que vous recommandez ? [Série 5]**
+User: Qu'est-ce que vous recommandez ?
+AI: Le café crème est très bon ! Et nos croissants sont frais.
+User: Parfait, je prends ça ! / Je vais prendre le café crème.
+AI: Excellent choix !
+
+**Outro:**
+> Conseil pris ! 👌
+> Vous commencez à vous sentir comme un(e) local(e).
+>
+
+**Spécialité — C'est quoi ça ? [Série 6]**
+AI: Vous voulez goûter notre tarte du jour ?
+User: C'est quoi ? / Oui, pourquoi pas !
+AI: C'est une tarte aux pommes. C'est délicieux !
+User: D'accord, je vais essayer !
+
+**Outro:**
+> Aventurier(ère) culinaire ! 🍎
+> La suite : Un restaurant vous attend ce soir.
+>
+
+---
+
+# TR-2 : Une table pour deux
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Restaurant
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Bienvenue
+
+**Goal:** To be seated and order drinks at a French restaurant.
+
+**📍 Lieu :** Restaurant (Paris, Montmartre)
+
+**intro_text:**
+Vous entrez dans un restaurant à Montmartre.
+Une belle soirée commence !
+
+**Accueil — Bonsoir [Série 1]**
+AI: Bonsoir ! Vous avez une réservation ?
+User: Oui, au nom de ___. / Non, est-ce qu'il y a de la place ?
+AI: Très bien ! Une table pour combien ?
+User: Pour deux, s'il vous plaît.
+
+**Outro:**
+> Table obtenue ! 🍽️
+> Maintenant, regardez la carte.
+>
+
+**Boissons — Qu'est-ce que vous buvez ? [Série 2]**
+User: Qu'est-ce que vous avez comme vin ?
+AI: Nous avons un très bon bordeaux. Et un rosé de Provence.
+User: Un verre de bordeaux, s'il vous plaît. / Le rosé, s'il vous plaît.
+AI: Très bien !
+
+**Outro:**
+> Vin choisi ! 🍷
+> La carte des plats vous attend.
+>
+
+---
+
+### sim2 : Le Plat Principal
+
+**Goal:** To order a main course and ask about ingredients.
+
+**📍 Lieu :** Restaurant (même endroit)
+
+**intro_text:**
+Le vin est servi. La carte est ouverte.
+Qu'est-ce que vous allez manger ?
+
+**Plat — La commande [Série 3]**
+User: Je voudrais le steak-frites, s'il vous plaît.
+AI: Quelle cuisson ? Saignant, à point ou bien cuit ?
+User: À point, s'il vous plaît. / Bien cuit, s'il vous plaît.
+AI: Parfait !
+
+**Outro:**
+> Commande passée ! 🥩
+> Le plat arrive... patience !
+>
+
+**Question — Les ingrédients [Série 4]**
+AI: Vous avez des allergies ?
+User: Non, pas d'allergies. / Oui, je suis allergique aux noix.
+AI: Très bien, je note. Merci !
+User: Merci à vous.
+
+**Outro:**
+> Informations données ! ✅
+> Votre repas sera parfait.
+>
+
+---
+
+### sim3 : L'Addition
+
+**Goal:** To ask for the bill and compliment the meal.
+
+**📍 Lieu :** Restaurant (même endroit)
+
+**intro_text:**
+Le repas était excellent. Il est temps de partir.
+Comment finir en beauté ?
+
+**Compliment — C'était bon ! [Série 5]**
+User: C'était délicieux ! Mes compliments au chef.
+AI: Merci beaucoup ! Vous avez tout aimé ?
+User: Oui, tout était parfait ! / Le steak était excellent !
+AI: Je suis ravi(e) !
+
+**Outro:**
+> Chef impressionné ! 👨‍🍳
+> Maintenant, demandez l'addition.
+>
+
+**Addition — On y va [Série 6]**
+AI: Vous désirez un dessert ?
+User: Non merci, l'addition s'il vous plaît. / Oui, qu'est-ce que vous avez ?
+AI: Voilà l'addition. C'est 45 euros.
+User: Voilà. Merci, bonne soirée !
+
+**Outro:**
+> Soirée parfaite ! 🌟
+> La suite : Paris vous attend dehors.
+>
+
+---
+
+# TR-3 : Excusez-moi, le métro ?
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Directions / Métro
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Dans la Rue
+
+**Goal:** To ask for and understand basic directions in Paris.
+
+**📍 Lieu :** Rue de Rivoli, Paris
+
+**intro_text:**
+Vous êtes perdu(e) dans Paris.
+Demandez votre chemin !
+
+**Direction — Où est... ? [Série 1]**
+User: Excusez-moi, où est la tour Eiffel ?
+AI: C'est par là ! Prenez la rue à gauche.
+User: C'est loin ? / Merci, c'est à droite ?
+AI: Non, c'est à gauche. Environ 10 minutes à pied.
+
+**Outro:**
+> Direction trouvée ! 🗺️
+> Maintenant, trouvez le métro.
+>
+
+**Métro — La station [Série 2]**
+User: Excusez-moi, il y a un métro près d'ici ?
+AI: Oui ! La station Châtelet est à 5 minutes.
+User: Merci beaucoup ! / C'est quelle ligne ?
+AI: La ligne 1. Direction La Défense.
+
+**Outro:**
+> Station trouvée ! 🚇
+> Vous maîtrisez le métro parisien !
+>
+
+---
+
+### sim2 : Dans le Métro
+
+**Goal:** To buy a ticket and find the right platform.
+
+**📍 Lieu :** Station de métro Châtelet, Paris
+
+**intro_text:**
+Vous êtes dans le métro. Maintenant, il faut le bon ticket.
+Et le bon quai !
+
+**Ticket — Au guichet [Série 3]**
+User: Un ticket, s'il vous plaît.
+AI: Un carnet ou un ticket simple ?
+User: Un ticket simple, s'il vous plaît. / Un carnet, s'il vous plaît.
+AI: Voilà, c'est 1 euro 90.
+
+**Outro:**
+> Ticket en main ! 🎫
+> Maintenant, trouvez le bon quai.
+>
+
+**Quai — Quelle direction ? [Série 4]**
+AI: Vous allez où ?
+User: Je vais à Montmartre. / Je vais à la tour Eiffel.
+AI: Prenez la ligne 4, direction Porte de Clignancourt.
+User: Merci !
+
+**Outro:**
+> Direction confirmée ! ✅
+> Vous voyagez comme un(e) Parisien(ne) !
+>
+
+---
+
+### sim3 : À l'Arrivée
+
+**Goal:** To ask for help finding your destination after exiting the metro.
+
+**📍 Lieu :** Sortie de métro Abbesses, Montmartre
+
+**intro_text:**
+Vous sortez du métro à Montmartre.
+Mais où est exactement ce que vous cherchez ?
+
+**Sortie — Par où ? [Série 5]**
+User: Excusez-moi, le Sacré-Cœur, c'est par où ?
+AI: Montez les escaliers et continuez tout droit.
+User: C'est loin ? / Merci, je continue tout droit ?
+AI: Non, c'est à 5 minutes. Vous ne pouvez pas le rater !
+
+**Outro:**
+> Presque arrivé(e) ! 🏔️
+> Le Sacré-Cœur vous attend.
+>
+
+**Arrivée — Vous y êtes ! [Série 6]**
+AI: Vous cherchez quelque chose ?
+User: Oui, je cherche un bon restaurant ici. / Oui, je cherche une boulangerie.
+AI: Il y en a un très bon rue Lepic !
+User: Merci beaucoup !
+
+**Outro:**
+> Montmartre exploré ! 🎨
+> La suite : Un hôtel confortable vous attend.
+>
+
+---
+
+# TR-4 : Une chambre, s'il vous plaît
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Hôtel
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Check-in
+
+**Goal:** To check in to a hotel and confirm your reservation.
+
+**📍 Lieu :** Hôtel (Paris, 6e arrondissement)
+
+**intro_text:**
+Vous arrivez à l'hôtel après une longue journée.
+La chambre vous attend !
+
+**Arrivée — Bonsoir [Série 1]**
+AI: Bonsoir ! Vous avez une réservation ?
+User: Oui, au nom de ___. / Oui, j'ai réservé en ligne.
+AI: Très bien ! Votre chambre est au 3e étage.
+User: Merci. C'est quelle chambre ?
+
+**Outro:**
+> Check-in réussi ! 🏨
+> Maintenant, posez vos valises.
+>
+
+**Chambre — Les détails [Série 2]**
+User: Est-ce que le petit-déjeuner est inclus ?
+AI: Oui, de 7h à 10h au restaurant.
+User: Très bien, merci. / Et le wifi, c'est gratuit ?
+AI: Oui, le wifi est gratuit. Voici le code.
+
+**Outro:**
+> Tout est clair ! 📋
+> Profitez de votre séjour à Paris !
+>
+
+---
+
+### sim2 : Un Problème
+
+**Goal:** To report a problem in your hotel room.
+
+**📍 Lieu :** Hôtel (même endroit)
+
+**intro_text:**
+La chambre est bien... mais il y a un petit problème.
+Comment le signaler poliment ?
+
+**Problème — À la réception [Série 3]**
+User: Excusez-moi, il y a un problème dans ma chambre.
+AI: Je suis désolé(e) ! C'est quoi le problème ?
+User: La douche ne marche pas. / Il n'y a pas de serviettes.
+AI: Je vous envoie quelqu'un tout de suite.
+
+**Outro:**
+> Problème signalé ! 🔧
+> La solution arrive.
+>
+
+**Solution — C'est réglé [Série 4]**
+AI: Voilà, c'est réparé. Tout va bien maintenant ?
+User: Oui, merci beaucoup ! / Oui, c'est parfait maintenant.
+AI: Je suis ravi(e). Bonne nuit !
+User: Merci, bonne nuit !
+
+**Outro:**
+> Problème résolu ! ✅
+> Dormez bien — Paris vous attend demain.
+>
+
+---
+
+### sim3 : Check-out
+
+**Goal:** To check out of the hotel and ask for a receipt.
+
+**📍 Lieu :** Hôtel (même endroit)
+
+**intro_text:**
+C'est le dernier matin. Il faut partir.
+Comment faire un bon check-out ?
+
+**Départ — Check-out [Série 5]**
+User: Je voudrais faire le check-out, s'il vous plaît.
+AI: Bien sûr ! Votre chambre était la 312 ?
+User: Oui, c'est ça. / Oui, au nom de ___.
+AI: Voilà votre facture.
+
+**Outro:**
+> Check-out lancé ! 🧳
+> Vérifiez la facture avant de partir.
+>
+
+**Facture — Tout est bon ? [Série 6]**
+AI: Tout s'est bien passé pendant votre séjour ?
+User: Oui, très bien, merci ! / Oui, c'était excellent !
+AI: Merci ! Bonne continuation et bon voyage !
+User: Merci, au revoir !
+
+**Outro:**
+> Séjour terminé ! 🌟
+> Paris vous a conquis(e). À bientôt !
+>
+
+---
+
+# 🎬 CULTURE POP / CINÉMA (tu) >> Séries et Cinéma Français
+
+# KD-1 : T'as vu cette série ?
+
+- Catégorie : Culture Pop / Cinéma
+- Sous-catégorie : Série Netflix
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+T'as commencé une nouvelle série.
+Et tu veux en parler à tout le monde !
+
+---
+
+### sim1 : La Série du Moment
+
+**Goal:** To recommend a series and ask if someone has watched it.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+T'as commencé une nouvelle série.
+Et tu veux en parler à tout le monde !
+
+**Série — T'as vu ? [Série 1]**
+AI: T'as vu Lupin sur Netflix ?
+User: Oui, j'adore ! / Non, c'est bien ?
+AI: C'est trop bien ! Omar Sy est génial !
+User: Je vais regarder ! / Oui, il est super !
+
+**Outro:**
+> Recommandation faite ! 📺
+> Mais c'est quoi ton genre préféré ?
+>
+
+**Genre — Tu aimes quoi ? [Série 2]**
+User: Tu aimes quel genre de série ?
+AI: J'adore les thrillers ! Et toi ?
+User: Moi aussi ! / J'aime les comédies !
+AI: Oh, t'as vu Dix pour cent ?
+
+**Outro:**
+> Goûts révélés ! 🎭
+> La suite : Votre prochaine série ensemble.
+>
+
+---
+
+### sim2 : On en parle
+
+**Goal:** To discuss a series episode and share opinions.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Vous avez regardé le même épisode.
+C'est l'heure d'en parler !
+
+**Épisode — T'as vu la fin ? [Série 3]**
+User: T'as vu le dernier épisode ?
+AI: Oui ! C'était incroyable ! La fin...
+User: Je sais ! C'était fou ! / Attends, j'ai pas fini !
+AI: Oh pardon ! Je dis rien !
+
+**Outro:**
+> Spoiler évité ! 🤫
+> Mais l'opinion générale, c'est quoi ?
+>
+
+**Opinion — C'est bien ? [Série 4]**
+AI: Tu aimes la série en général ?
+User: Oui, c'est excellent ! / C'est bien mais un peu lent.
+AI: Moi j'adore ! Je regarde tout le week-end !
+User: Moi aussi ! / Ah oui, c'est addictif !
+
+**Outro:**
+> Avis partagé ! ⭐
+> La suite : Un film cette fois ?
+>
+
+---
+
+### sim3 : On va au ciné ?
+
+**Goal:** To suggest going to the cinema and choose a film.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Les séries c'est bien. Le cinéma c'est mieux.
+Propose une sortie !
+
+**Ciné — On y va ? [Série 5]**
+User: On va au ciné ce soir ?
+AI: Bonne idée ! Il y a quoi ?
+User: Un film français ! / Un thriller américain !
+AI: Le film français, j'adore ça !
+
+**Outro:**
+> Sortie ciné décidée ! 🎬
+> Maintenant, choisissez le film.
+>
+
+**Film — Lequel ? [Série 6]**
+AI: T'as vu la bande-annonce du nouveau film d'Audiard ?
+User: Oui, ça a l'air bien ! / Non, c'est quoi ?
+AI: C'est un film de gangsters. Très français !
+User: On y va ! / Super, j'adore ce genre !
+
+**Outro:**
+> Film choisi ! 🍿
+> La suite : La séance vous attend.
+>
+
+---
+
+# KD-2 : Le Cinéma Français
+
+- Catégorie : Culture Pop / Cinéma
+- Sous-catégorie : Cinéma Français
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Avant la Séance
+
+**Goal:** To buy cinema tickets and find your seats.
+
+**📍 Lieu :** Cinéma (Paris, Grands Boulevards)
+
+**intro_text:**
+Vous êtes devant le cinéma.
+Achetez vos billets et entrez !
+
+**Billets — À la caisse [Série 1]**
+AI: Deux places pour le film de 20h ?
+User: Oui, s'il vous plaît ! / Oui, deux adultes.
+AI: Voilà ! Salle 3, rangée C.
+User: Merci !
+
+**Outro:**
+> Billets en main ! 🎟️
+> Maintenant, trouvez vos places.
+>
+
+**Popcorn — Au bar [Série 2]**
+User: Un popcorn, s'il te plaît !
+AI: Sucré ou salé ?
+User: Sucré ! / Salé, s'il te plaît !
+AI: Voilà ! Bonne séance !
+
+**Outro:**
+> Prêt(e) pour le film ! 🍿
+> La séance commence dans 5 minutes.
+>
+
+---
+
+### sim2 : Après le Film
+
+**Goal:** To discuss the film you just watched and share opinions.
+
+**📍 Lieu :** Dehors du cinéma (Paris)
+
+**intro_text:**
+Le film est fini. Vous sortez du cinéma.
+C'était bien ? Pas bien ?
+
+**Avis — C'était comment ? [Série 3]**
+User: C'était comment pour toi ?
+AI: J'ai adoré ! La fin était parfaite !
+User: Moi aussi ! / Hmm, j'ai pas trop aimé la fin.
+AI: Ah bon ? Pourquoi ?
+
+**Outro:**
+> Débat lancé ! 🎭
+> Les meilleures conversations commencent après le film.
+>
+
+**Acteur — Tu aimes qui ? [Série 4]**
+AI: T'as un acteur français préféré ?
+User: J'adore Omar Sy ! / J'aime bien Vincent Cassel !
+AI: Omar Sy est trop bien ! T'as vu Intouchables ?
+User: Oui, c'est magnifique ! / Non, pas encore !
+
+**Outro:**
+> Cinéphile confirmé(e) ! 🎬
+> La suite : Un autre film la semaine prochaine ?
+>
+
+---
+
+### sim3 : On recommande
+
+**Goal:** To recommend a French film to a friend.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Ton ami(e) cherche un bon film français.
+Tu as la réponse parfaite !
+
+**Recommandation — T'as vu ? [Série 5]**
+User: T'as une recommandation de film français ?
+AI: Oui ! Regarde Amélie Poulain !
+User: C'est bien ? / J'ai déjà vu !
+AI: C'est magnifique ! Paris est trop beau dans ce film !
+
+**Outro:**
+> Recommandation envoyée ! 📽️
+> Ton ami(e) va adorer.
+>
+
+**Réaction — T'as aimé ? [Série 6]**
+AI: T'as regardé Amélie ?
+User: Oui ! C'était trop bien ! / Oui, j'ai adoré !
+AI: Je savais que tu allais aimer !
+User: Merci pour la reco ! / C'est mon film préféré maintenant !
+
+**Outro:**
+> Mission accomplie ! 🌟
+> La suite : Le sport vous attend.
+>
+
+---
+
+# KD-3 : T'es foot ou pas ?
+
+- Catégorie : Culture Pop / Cinéma
+- Sous-catégorie : Sport
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Le Foot
+
+**Goal:** To talk about football and your favourite team.
+
+**📍 Lieu :** Bar (Paris, regarder un match)
+
+**intro_text:**
+Le match commence dans 10 minutes.
+T'es prêt(e) pour le foot ?
+
+**Foot — T'aimes ça ? [Série 1]**
+AI: T'aimes le foot ?
+User: Oui, j'adore ! / Pas vraiment, mais je regarde.
+AI: T'as une équipe préférée ?
+User: Le PSG ! / L'équipe de France !
+
+**Outro:**
+> Équipe choisie ! ⚽
+> Le match commence. Qui va gagner ?
+>
+
+**Match — Ça commence ! [Série 2]**
+User: C'est qui contre qui ce soir ?
+AI: PSG contre Marseille ! Le classique !
+User: Oh, c'est chaud ! / Super, j'adore ce match !
+AI: Oui, c'est le meilleur match de l'année !
+
+**Outro:**
+> Ambiance de feu ! 🔥
+> Le premier but arrive... qui va marquer ?
+>
+
+---
+
+### sim2 : Le Sport en Général
+
+**Goal:** To talk about different sports and physical activities.
+
+**📍 Lieu :** Parc (Paris, bord de Seine)
+
+**intro_text:**
+Vous vous promenez au bord de la Seine.
+Le sport, c'est un grand sujet !
+
+**Sport — Tu pratiques quoi ? [Série 3]**
+User: Tu fais du sport ?
+AI: Oui ! Je fais du vélo ! Et toi ?
+User: Je cours ! / Je fais de la natation !
+AI: Cool ! Tu cours où ?
+
+**Outro:**
+> Sportif(ve) confirmé(e) ! 🚴
+> Paris est parfait pour le sport en plein air.
+>
+
+**Lieu — Où tu fais ça ? [Série 4]**
+AI: Tu cours au bord de la Seine ?
+User: Oui, j'adore ça ! / Non, je cours au Bois de Boulogne.
+AI: C'est magnifique là-bas !
+User: Oui, c'est super ! / Oui, j'adore le matin !
+
+**Outro:**
+> Paris sportif ! 🌳
+> La suite : La musique vous attend.
+>
+
+---
+
+### sim3 : Les Jeux Olympiques
+
+**Goal:** To talk about the Paris Olympics and favourite sports.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+Paris a accueilli les Jeux Olympiques.
+C'est un grand moment pour la France !
+
+**JO — T'as regardé ? [Série 5]**
+User: T'as regardé les Jeux Olympiques ?
+AI: Oui ! C'était incroyable à Paris !
+User: Oui, c'était magnifique ! / J'ai regardé un peu.
+AI: La cérémonie sur la Seine était trop belle !
+
+**Outro:**
+> Fierté française ! 🇫🇷
+> Quel sport t'a le plus impressionné(e) ?
+>
+
+**Sport préféré — Aux JO [Série 6]**
+AI: T'as un sport préféré aux JO ?
+User: J'adore la natation ! / J'aime l'athlétisme !
+AI: Léon Marchand était incroyable !
+User: Oui, il est trop fort ! / Oui, c'est un champion !
+
+**Outro:**
+> Champion(ne) dans le cœur ! 🥇
+> La suite : La musique vous attend.
+>
+
+---
+
+# KD-4 : T'écoutes quoi ?
+
+- Catégorie : Culture Pop / Cinéma
+- Sous-catégorie : Musique
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Goûts Musicaux
+
+**Goal:** To talk about music preferences and favourite artists.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+La musique, c'est universel.
+Qu'est-ce que tu écoutes en ce moment ?
+
+**Musique — T'écoutes quoi ? [Série 1]**
+AI: T'écoutes quoi en ce moment ?
+User: J'écoute Aya Nakamura ! / J'écoute Stromae !
+AI: Aya Nakamura, j'adore ! T'as une chanson préférée ?
+User: Djadja ! C'est trop bien ! / Pookie, j'adore !
+
+**Outro:**
+> Goûts musicaux révélés ! 🎵
+> Mais quel genre tu préfères vraiment ?
+>
+
+**Genre — Tu aimes quoi ? [Série 2]**
+User: Tu aimes quel genre de musique ?
+AI: J'adore le R&B et la pop ! Et toi ?
+User: Moi aussi ! / J'aime le rap français !
+AI: Le rap français, c'est trop bien !
+
+**Outro:**
+> Playlist compatible ! 🎧
+> La suite : Un concert ensemble ?
+>
+
+---
+
+### sim2 : La Playlist
+
+**Goal:** To share and discuss a music playlist.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Tu veux partager ta playlist.
+C'est l'heure de montrer tes goûts !
+
+**Playlist — Je t'envoie [Série 3]**
+User: Je t'envoie ma playlist ?
+AI: Oui ! J'adore découvrir de la musique !
+User: Voilà ! Il y a Angèle, Stromae, PNL...
+AI: Oh, j'adore Angèle ! Sa voix est magnifique !
+
+**Outro:**
+> Playlist partagée ! 📱
+> Maintenant, écoute et donne ton avis.
+>
+
+**Avis — T'as aimé ? [Série 4]**
+AI: T'as écouté ma playlist ?
+User: Oui ! J'adore PNL ! / Oui, Angèle est trop bien !
+AI: Je savais que tu allais aimer !
+User: Merci ! C'est ma nouvelle playlist ! / On a les mêmes goûts !
+
+**Outro:**
+> Goûts partagés ! 🎶
+> La suite : Un concert en vrai ?
+>
+
+---
+
+### sim3 : Un Concert ?
+
+**Goal:** To suggest going to a concert and make plans.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Stromae est en concert à Paris.
+C'est l'occasion parfaite !
+
+**Concert — T'as vu ? [Série 5]**
+User: Stromae est en concert à Paris !
+AI: Sérieux ? Quand ?
+User: Le mois prochain ! On y va ? / Samedi prochain !
+AI: Oui ! J'adore Stromae !
+
+**Outro:**
+> Concert décidé ! 🎤
+> Maintenant, achetez les billets !
+>
+
+**Billets — On achète ! [Série 6]**
+AI: Les billets sont encore disponibles ?
+User: Oui ! Il reste des places ! / Je regarde sur le site.
+AI: Achète vite ! Ça va partir !
+User: OK, j'achète maintenant ! / Voilà, c'est fait !
+
+**Outro:**
+> Billets achetés ! 🎫
+> La suite : Le concert de ta vie t'attend.
+>
+
+---
+
+# 🎵 MUSIQUE / CHANSON (mixte) >> Scène Musicale Française
+
+# KP-1 : T'aimes quelle musique ?
+
+- Catégorie : Musique / Chanson
+- Sous-catégorie : Goûts Musicaux
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Préférences
+
+**Goal:** To discuss music tastes and discover shared favourites.
+
+**📍 Lieu :** Café (Paris, Le Marais)
+
+**intro_text:**
+La musique, c'est le meilleur sujet.
+Qu'est-ce que vous aimez ?
+
+**Goûts — Tu aimes quoi ? [Série 1]**
+AI: Tu aimes la musique française ?
+User: Oui, j'adore ! / Pas vraiment, je préfère le rap.
+AI: T'as un artiste préféré ?
+User: J'adore Stromae ! / J'aime bien Angèle !
+
+**Outro:**
+> Artiste préféré révélé ! 🎵
+> Mais c'est quoi ta chanson du moment ?
+>
+
+**Chanson — La préférée [Série 2]**
+User: T'as une chanson préférée en ce moment ?
+AI: Oui ! Papaoutai de Stromae ! C'est magnifique.
+User: J'adore cette chanson ! / Je connais pas, c'est bien ?
+AI: C'est trop bien ! Écoute ça !
+
+**Outro:**
+> Chanson partagée ! 🎶
+> La suite : Vous avez les mêmes goûts ?
+>
+
+---
+
+### sim2 : On Découvre
+
+**Goal:** To recommend new music and talk about discovering artists.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Vous partagez vos découvertes musicales.
+C'est l'heure d'explorer !
+
+**Découverte — T'as entendu ? [Série 3]**
+User: T'as entendu Aya Nakamura ?
+AI: Oui ! Elle est incroyable ! T'aimes ?
+User: J'adore ! Sa voix est unique ! / Oui, Djadja c'est trop bien !
+AI: Elle est la chanteuse française la plus écoutée au monde !
+
+**Outro:**
+> Découverte musicale ! 🌍
+> La scène française est riche.
+>
+
+**Artiste — Qui d'autre ? [Série 4]**
+AI: T'écoutes d'autres artistes français ?
+User: Oui, j'aime PNL ! / Oui, j'écoute Eddy de Pretto !
+AI: PNL, c'est trop bien ! La mélancolie française !
+User: Oui, c'est parfait pour le soir ! / Oui, j'adore l'ambiance !
+
+**Outro:**
+> Playlist enrichie ! 🎧
+> La suite : Un concert pour tout ça ?
+>
+
+---
+
+### sim3 : La Scène Live
+
+**Goal:** To talk about live music experiences in Paris.
+
+**📍 Lieu :** Salle de concert (Paris)
+
+**intro_text:**
+Vous êtes dans une salle de concert à Paris.
+La musique live, c'est une autre dimension !
+
+**Live — C'est comment ? [Série 5]**
+User: T'as déjà vu un concert live ?
+AI: Oui ! J'ai vu Angèle à l'Olympia ! C'était incroyable !
+User: Chanceux(se) ! / J'adore l'Olympia !
+AI: L'ambiance était magique !
+
+**Outro:**
+> Expérience live partagée ! 🎤
+> La musique live, c'est incomparable.
+>
+
+**Salle — L'Olympia [Série 6]**
+AI: Vous connaissez l'Olympia ?
+User: Oui, c'est la salle mythique ! / Non, c'est quoi ?
+AI: C'est la plus grande salle de Paris. Édith Piaf y a chanté !
+User: Incroyable ! Je veux y aller ! / Wow, c'est historique !
+
+**Outro:**
+> Histoire musicale ! 🎼
+> La suite : Un concert Stromae vous attend.
+>
+
+---
+
+# KP-2 : Le Concert de Stromae
+
+- Catégorie : Musique / Chanson
+- Sous-catégorie : Concert (Stromae / Angèle)
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Avant le Concert
+
+**Goal:** To prepare for a Stromae concert and find your seats.
+
+**📍 Lieu :** Accor Arena, Paris
+
+**intro_text:**
+Ce soir, c'est Stromae à l'Accor Arena.
+Vous êtes prêt(e) ?
+
+**Arrivée — On est là ! [Série 1]**
+AI: On est là ! T'es excité(e) ?
+User: Oui, trop ! / Oui, j'attends ça depuis longtemps !
+AI: Moi aussi ! C'est mon premier concert de Stromae !
+User: Le mien aussi ! / Moi j'ai déjà vu, c'est incroyable !
+
+**Outro:**
+> Excitation maximale ! 🎉
+> Trouvez vos places, le concert commence bientôt !
+>
+
+**Places — On cherche [Série 2]**
+User: C'est où nos places ?
+AI: Section B, rangée 12 ! Par là !
+User: Super, on y va ! / On a de bonnes places ?
+AI: Oui ! On voit très bien la scène !
+
+**Outro:**
+> Places trouvées ! 🎫
+> Le concert commence dans 10 minutes !
+>
+
+---
+
+### sim2 : Pendant le Concert
+
+**Goal:** To react to the concert and share emotions in real time.
+
+**📍 Lieu :** Accor Arena (pendant le concert)
+
+**intro_text:**
+Stromae est sur scène.
+C'est magique !
+
+**Concert — C'est incroyable ! [Série 3]**
+User: C'est trop bien ! T'aimes ?
+AI: Oui ! C'est incroyable ! La scène est magnifique !
+User: J'adore cette chanson ! / Papaoutai ! C'est ma préférée !
+AI: Moi aussi ! Je chante avec lui !
+
+**Outro:**
+> Moment magique ! ✨
+> Ces souvenirs durent toute une vie.
+>
+
+**Émotion — T'as aimé ? [Série 4]**
+AI: T'as les larmes aux yeux ?
+User: Oui, un peu ! C'est trop beau ! / Non, mais c'est magnifique !
+AI: Moi aussi ! Stromae, c'est un génie !
+User: Oui, il est incroyable ! / Complètement d'accord !
+
+**Outro:**
+> Émotion pure ! 💫
+> La suite : Après le concert.
+>
+
+---
+
+### sim3 : Après le Concert
+
+**Goal:** To discuss the concert after it ends and make plans to see another one.
+
+**📍 Lieu :** Dehors de l'Accor Arena
+
+**intro_text:**
+Le concert est fini. Vous sortez.
+Mais l'émotion reste !
+
+**Après — C'était comment ? [Série 5]**
+User: C'était comment pour toi ?
+AI: Incroyable ! Le meilleur concert de ma vie !
+User: Moi aussi ! / Oui, c'était parfait !
+AI: On revient l'année prochaine ?
+
+**Outro:**
+> Souvenir inoubliable ! 🌟
+> La musique reste dans le cœur.
+>
+
+**Prochain — On y retourne ? [Série 6]**
+AI: T'as vu qu'Angèle est en concert le mois prochain ?
+User: Oui ! On y va ? / Sérieux ? J'adore Angèle !
+AI: Bien sûr ! J'achète les billets demain !
+User: Super ! J'attends ça ! / Oui, achète vite !
+
+**Outro:**
+> Prochain concert planifié ! 🎤
+> La scène musicale française n'a pas fini de vous surprendre.
+>
+
+---
+
+# KP-3 : La Culture Fan
+
+- Catégorie : Musique / Chanson
+- Sous-catégorie : Culture Fan
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : T'es Fan de Qui ?
+
+**Goal:** To talk about being a fan and share your favourite artist.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+Être fan, c'est une passion.
+Parle de ton artiste préféré !
+
+**Fan — T'es fan de qui ? [Série 1]**
+AI: T'es fan de qui ?
+User: Je suis fan d'Aya Nakamura ! / Je suis fan de Stromae !
+AI: Ah, moi aussi ! Depuis quand ?
+User: Depuis 2 ans ! / Depuis longtemps !
+
+**Outro:**
+> Fan confirmé(e) ! 🎵
+> Mais c'est quoi ta chanson préférée ?
+>
+
+**Chanson — La meilleure [Série 2]**
+User: C'est quoi ta chanson préférée d'Aya ?
+AI: Djadja ! C'est trop bien ! Et toi ?
+User: Moi aussi Djadja ! / J'aime bien Pookie !
+AI: On a les mêmes goûts !
+
+**Outro:**
+> Goûts identiques ! 🎶
+> La suite : Vous suivez l'artiste en ligne ?
+>
+
+---
+
+### sim2 : Suivre l'Artiste
+
+**Goal:** To talk about following an artist on social media.
+
+**📍 Lieu :** En ligne (Instagram / WhatsApp)
+
+**intro_text:**
+Ton artiste préféré vient de poster quelque chose.
+Tu l'as vu ?
+
+**Réseaux — T'as vu ? [Série 3]**
+User: T'as vu le post d'Aya sur Instagram ?
+AI: Oui ! Elle annonce un nouveau single !
+User: J'attends ça ! / Trop bien ! Quand ?
+AI: Le mois prochain ! Je suis trop content(e) !
+
+**Outro:**
+> Nouveau single en vue ! 📱
+> La communauté fan s'emballe.
+>
+
+**Communauté — Les fans [Série 4]**
+AI: T'es dans un groupe de fans ?
+User: Oui, sur WhatsApp ! / Non, pas encore.
+AI: Rejoins le groupe ! On partage tout !
+User: Bonne idée ! Envoie-moi le lien ! / OK, je vais rejoindre !
+
+**Outro:**
+> Communauté rejointe ! 👥
+> La suite : Un événement fan arrive.
+>
+
+---
+
+### sim3 : L'Événement Fan
+
+**Goal:** To talk about a fan event and make plans to attend.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Il y a un événement fan ce week-end.
+C'est l'occasion de rencontrer d'autres fans !
+
+**Événement — T'as vu ? [Série 5]**
+User: Il y a une rencontre de fans ce week-end !
+AI: Sérieux ? Où ça ?
+User: À Paris, près des Champs-Élysées ! / Au Palais Royal !
+AI: On y va ! C'est trop bien !
+
+**Outro:**
+> Événement planifié ! 🎉
+> Rencontrer d'autres fans, c'est magique.
+>
+
+**Rencontre — On se retrouve [Série 6]**
+AI: On se retrouve où avant l'événement ?
+User: Devant le métro Concorde ? / Au café d'abord ?
+AI: Parfait ! À quelle heure ?
+User: À 14h ! / À 15h, ça te va ?
+
+**Outro:**
+> Rendez-vous fixé ! 📍
+> La communauté fan vous attend !
+>
+
+---
+
+# 💼 TRAVAIL (vous formel) >> Le Monde Professionnel Français
+
+# CR-1 : Je me présente
+
+- Catégorie : Travail
+- Sous-catégorie : Présentation Professionnelle
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : La Présentation
+
+**Goal:** To introduce yourself professionally in a French workplace.
+
+**📍 Lieu :** Bureau (Paris, La Défense)
+
+**intro_text:**
+Premier jour au bureau.
+C'est l'heure de vous présenter !
+
+**Présentation — Bonjour [Série 1]**
+AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
+User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
+AI: Enchanté(e) ! Je suis Marie, responsable du projet.
+User: Enchanté(e), Marie. Je suis ravi(e) d'être ici.
+
+**Outro:**
+> Première impression : Excellente ! 🤝
+> Maintenant, parlez de votre poste.
+>
+
+**Poste — Votre rôle [Série 2]**
+User: Je suis chargé(e) de communication. Et vous ?
+AI: Je suis chef de projet. Bienvenue dans l'équipe !
+User: Merci beaucoup. / Je suis très content(e) de rejoindre l'équipe.
+AI: Nous sommes ravis de vous avoir !
+
+**Outro:**
+> Rôles clarifiés ! 📋
+> La suite : La réunion vous attend.
+>
+
+---
+
+### sim2 : Le Bureau
+
+**Goal:** To ask about the office and find your way around.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous découvrez le bureau.
+Où est tout ?
+
+**Bureau — Où est... ? [Série 3]**
+User: Excusez-moi, où est la salle de réunion ?
+AI: C'est au 3e étage, à gauche de l'ascenseur.
+User: Merci beaucoup. / Et la cafétéria ?
+AI: La cafétéria est au rez-de-chaussée.
+
+**Outro:**
+> Bureau exploré ! 🏢
+> Vous commencez à vous repérer.
+>
+
+**Collègues — L'équipe [Série 4]**
+AI: Vous avez rencontré toute l'équipe ?
+User: Pas encore. Il y a combien de personnes ? / Oui, tout le monde est très sympa.
+AI: Nous sommes 12 dans l'équipe. Je vous présente tout le monde.
+User: Avec plaisir, merci !
+
+**Outro:**
+> Équipe découverte ! 👥
+> La suite : La première réunion arrive.
+>
+
+---
+
+### sim3 : La Première Journée
+
+**Goal:** To wrap up your first day and confirm plans for tomorrow.
+
+**📍 Lieu :** Bureau (fin de journée)
+
+**intro_text:**
+La première journée se termine.
+Comment ça s'est passé ?
+
+**Bilan — C'était bien ? [Série 5]**
+User: C'était une bonne première journée.
+AI: Vous vous êtes bien intégré(e) ?
+User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
+AI: Parfait ! Demain, nous avons une réunion à 9h.
+
+**Outro:**
+> Première journée réussie ! ✅
+> Demain, la vraie aventure commence.
+>
+
+**Demain — À demain [Série 6]**
+AI: Vous avez des questions pour demain ?
+User: Non, je crois que c'est bon. Merci ! / Oui, à quelle heure commence la réunion ?
+AI: La réunion est à 9h précises. Bonne soirée !
+User: Merci, bonne soirée à vous aussi !
+
+**Outro:**
+> Prêt(e) pour demain ! 🌅
+> La suite : La réunion vous attend.
+>
+
+---
+
+# CR-2 : La Réunion
+
+- Catégorie : Travail
+- Sous-catégorie : Réunion Professionnelle
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Avant la Réunion
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Lieu :** Salle de réunion (Paris, La Défense)
+
+**intro_text:**
+La réunion commence dans 5 minutes.
+Vous êtes prêt(e) ?
+
+**Préparation — Avant [Série 1]**
+AI: Bonjour ! Vous avez reçu l'ordre du jour ?
+User: Oui, je l'ai reçu ce matin. / Oui, par email.
+AI: Parfait. Nous commençons dans 5 minutes.
+User: Je suis prêt(e). Merci.
+
+**Outro:**
+> Réunion imminente ! 📊
+> Concentrez-vous — ça commence.
+>
+
+**Agenda — Les points [Série 2]**
+User: Combien de points à l'ordre du jour ?
+AI: Trois points principaux. Ça ne devrait pas être long.
+User: Très bien. / Et la durée prévue ?
+AI: Une heure environ.
+
+**Outro:**
+> Agenda clair ! 📋
+> La réunion commence.
+>
+
+---
+
+### sim2 : Pendant la Réunion
+
+**Goal:** To participate in a meeting and ask a question.
+
+**📍 Lieu :** Salle de réunion (même endroit)
+
+**intro_text:**
+La réunion est en cours.
+C'est l'heure de participer !
+
+**Question — Je peux ? [Série 3]**
+User: Permettez-moi de poser une question.
+AI: Bien sûr, je vous en prie.
+User: Quel est le délai pour ce projet ? / Qui est responsable de cette partie ?
+AI: Le délai est fin du mois. Merci pour la question.
+
+**Outro:**
+> Question posée ! 🙋
+> Vous participez activement.
+>
+
+**Avis — Votre opinion [Série 4]**
+AI: Vous avez un avis sur cette proposition ?
+User: Oui, je pense que c'est une bonne idée. / Je voudrais réfléchir encore.
+AI: Merci pour votre contribution.
+User: Je vous remercie.
+
+**Outro:**
+> Contribution notée ! ✅
+> La réunion se termine bien.
+>
+
+---
+
+### sim3 : Après la Réunion
+
+**Goal:** To follow up after a meeting and confirm next steps.
+
+**📍 Lieu :** Bureau (après la réunion)
+
+**intro_text:**
+La réunion est terminée.
+Quelles sont les prochaines étapes ?
+
+**Suivi — Les actions [Série 5]**
+User: Quelles sont les prochaines étapes ?
+AI: Vous préparez le rapport d'ici vendredi.
+User: Très bien, je m'en occupe. / D'accord, pas de problème.
+AI: Merci. N'hésitez pas si vous avez des questions.
+
+**Outro:**
+> Actions claires ! 📝
+> Le travail commence maintenant.
+>
+
+**Rapport — Vendredi [Série 6]**
+AI: Vous avez besoin d'aide pour le rapport ?
+User: Non merci, je pense que c'est bon. / Oui, pourriez-vous m'envoyer les données ?
+AI: Bien sûr, je vous envoie ça par email.
+User: Je vous remercie beaucoup.
+
+**Outro:**
+> Collaboration en marche ! 🤝
+> La suite : L'email professionnel vous attend.
+>
+
+---
+
+# CR-3 : Un Email Professionnel
+
+- Catégorie : Travail
+- Sous-catégorie : Email Professionnel
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Écrire un Email
+
+**Goal:** To write and send a professional email in French.
+
+**📍 Lieu :** Bureau (Paris)
+
+**intro_text:**
+Vous devez envoyer un email professionnel.
+Comment commencer ?
+
+**Email — La structure [Série 1]**
+AI: Vous savez comment commencer un email formel ?
+User: Je commence par "Madame, Monsieur" ? / Je commence par "Bonjour" ?
+AI: "Madame, Monsieur" pour un email formel. C'est parfait.
+User: Merci pour le conseil.
+
+**Outro:**
+> Structure apprise ! 📧
+> Maintenant, rédigez le corps de l'email.
+>
+
+**Corps — Le message [Série 2]**
+User: Comment je formule ma demande ?
+AI: "Je me permets de vous contacter au sujet de..."
+User: Merci, c'est clair. / Et pour finir l'email ?
+AI: "Je vous remercie de votre attention. Cordialement."
+
+**Outro:**
+> Email structuré ! ✉️
+> La suite : Envoyez et attendez la réponse.
+>
+
+---
+
+### sim2 : Répondre à un Email
+
+**Goal:** To respond to a professional email appropriately.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous avez reçu un email de votre collègue.
+Comment répondre ?
+
+**Réponse — Je réponds [Série 3]**
+User: J'ai reçu un email de Marie. Comment je réponds ?
+AI: Commencez par "Chère Marie" ou "Bonjour Marie".
+User: Et si c'est formel ? / Et pour un client ?
+AI: Pour un client, utilisez "Madame" ou "Monsieur".
+
+**Outro:**
+> Formule choisie ! 📝
+> Rédigez votre réponse.
+>
+
+**Formule — La politesse [Série 4]**
+AI: Vous avez une formule de politesse pour finir ?
+User: "Cordialement" ? / "Bien à vous" ?
+AI: Les deux sont parfaits. "Cordialement" est très courant.
+User: Merci, je vais utiliser ça.
+
+**Outro:**
+> Email professionnel maîtrisé ! ✅
+> Vous communiquez comme un(e) pro.
+>
+
+---
+
+### sim3 : Une Demande
+
+**Goal:** To make a professional request by email and follow up.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous devez faire une demande à votre responsable.
+Comment formuler ça par email ?
+
+**Demande — La requête [Série 5]**
+User: Je voudrais demander un jour de congé. Comment je formule ?
+AI: "Je me permets de solliciter un jour de congé le..."
+User: Merci, c'est parfait. / Et si c'est urgent ?
+AI: Ajoutez "dans les meilleurs délais" pour l'urgence.
+
+**Outro:**
+> Demande formulée ! 📋
+> Envoyez et attendez la réponse.
+>
+
+**Réponse — C'est accordé ? [Série 6]**
+AI: Votre responsable a répondu. C'est accordé !
+User: Excellent ! Je vous remercie. / Parfait, merci beaucoup !
+AI: De rien. Bon repos !
+User: Merci, bonne journée à vous !
+
+**Outro:**
+> Congé accordé ! 🎉
+> Vous maîtrisez le français professionnel. Bravo !
+>
