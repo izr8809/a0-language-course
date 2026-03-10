@@ -1,0 +1,2007 @@
+# A0 Curso de Español — 5 Pistas, 18 Historias (América Latina)
+
+---
+
+# 💖 VIDA PERSONAL (tú) >> Vida Cotidiana en LATAM
+
+# PI-1: ¡Hola, soy ___!
+
+- Categoría: Vida Personal
+- Subcategoría: Primera Cita de Amigos
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+Primera vez que se conocen en la Ciudad de México.
+¡Respira hondo... y saluda!
+
+---
+
+### sim1: Mucho Gusto
+
+**Goal:** To introduce yourself, say where you're from, and share one thing you like about Mexico City.
+
+**📍 Lugar:** Afuera (Colonia Roma / Condesa, CDMX)
+
+**intro_text:**
+Primera vez que se conocen en la Ciudad de México.
+¡Respira hondo... y saluda!
+
+**Apertura — Primer Saludo [Set 1]**
+AI: ¡Hola! Soy Alex. ¿Cómo te llamas?
+User: ¡Hola! Me llamo ___. / ¡Hola! Soy ___.
+AI: ¡Mucho gusto! ¿De dónde eres?
+User: ¡Soy de ___!
+
+**Outro:**
+> Primera impresión: ¡Aprobada! 🎯
+> Pero espera... ¿por qué estás realmente aquí en CDMX?
+>
+
+**Gustos — Lo que te gusta [Set 2]**
+AI: ¿Te gusta la Ciudad de México?
+User: ¡Sí, me encanta! / ¡Es muy bonita!
+AI: ¿Qué te gusta de aquí?
+User: ¡La comida! / ¡La gente!
+
+**Outro:**
+> ¡Les encantó tu respuesta! 👀
+> ¿Bandera roja o verde? Veamos si sus gustos coinciden.
+>
+
+---
+
+### sim2: Más Cerca
+
+**Goal:** To discover shared hobbies and talk about your experience with Mexican food.
+
+**📍 Lugar:** Afuera (mismo lugar)
+
+**intro_text:**
+Siguen hablando. ¡Buena señal!
+Es hora de ver qué tienen en común.
+
+**Pasatiempos — ¿Qué te gusta hacer? [Set 3]**
+User: Alex, ¿qué te gusta hacer?
+AI: ¿A mí? ¡Me gusta la música! ¿Y a ti?
+User: ¡A mí también! / ¡Me gustan las películas!
+AI: ¿En serio? ¿Música mexicana?
+
+**Outro:**
+> ¡Vibras compatibles! ✔️
+> Ahora prepárate para la obsesión número uno de México... la comida.
+>
+
+**Comida — ¿Ya probaste? [Set 4]**
+AI: ¿Ya probaste los tacos al pastor?
+User: ¡Sí! / ¡Todavía no!
+AI: ¡Tienes que probarlos! ¡Están riquísimos!
+User: ¡Quiero probarlos! / ¡Sí, estaban increíbles!
+
+**Outro:**
+> ¡Basta de hablar! 🛑
+> Esta es tu oportunidad de oro. ¡Propón salir juntos!
+>
+
+---
+
+### sim3: ¡Salgamos!
+
+**Goal:** To make casual weekend plans and exchange numbers on WhatsApp.
+
+**📍 Lugar:** Afuera (mismo lugar)
+
+**intro_text:**
+El ambiente está muy bien. Muy bien.
+¡Es hora de hacerlo oficial!
+
+**Planes — Este Fin de Semana [Set 5]**
+User: ¿Qué haces este fin de semana?
+AI: ¿Yo? ¡Nada todavía! ¿Quieres salir?
+User: ¡Sí! ¿Qué hacemos?
+AI: ¡Vamos a comer algo!
+
+**Outro:**
+> ¡Es oficialmente una cita! 🥂
+> ¡Espera! ¡No dejes que se vaya sin su número de WhatsApp!
+>
+
+**Contacto — Quedemos en Contacto [Set 6]**
+User: ¿Me das tu número de WhatsApp?
+AI: ¡Claro que sí! Aquí está.
+User: ¡Listo!
+AI: ¡Escríbeme! ¡Hasta pronto!
+
+**Outro:**
+> ¡Contacto guardado! 🔒
+> Lo siguiente: La prueba que decide si son *de verdad* compatibles.
+>
+
+---
+
+# PI-2: ¿Cuál es tu signo?
+
+- Categoría: Vida Personal
+- Subcategoría: Charla Casual
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Lo Básico
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Lugar:** Cafetería (Colonia Roma, CDMX)
+
+**intro_text:**
+Llegaste a la cafetería. Ahora empieza la charla de verdad.
+Edad, colonia... y luego la pregunta que todos hacen.
+
+**Apertura — Edad [Set 1]**
+AI: ¿Cuántos años tienes?
+User: ¡Tengo ___ años! / ¡Tengo ___!
+AI: ¡Ah, igual que yo! Tengo 25.
+User: ¿En serio? / ¡No puede ser!
+
+**Outro:**
+> ¡Edad revelada! 🎂
+> Ahora descubre dónde vive exactamente.
+>
+
+**¿Dónde vives? [Set 2]**
+User: ¿Dónde vives?
+AI: ¿Yo? ¡Vivo en Coyoacán! ¿Y tú?
+User: ¡Vivo en la Roma! / ¡Vivo cerca de aquí!
+AI: ¡Ah, qué cerca!
+
+**Outro:**
+> ¿Vecinos? ¡Quizás! 📍
+> Prepárate... la pregunta del signo zodiacal ya viene.
+>
+
+---
+
+### sim2: Signos del Zodiaco
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+El café está bueno. La conversación está mejor.
+Es hora de la pregunta que todos hacen en CDMX.
+
+**Signo Zodiacal [Set 3]**
+User: ¿Cuál es tu signo?
+AI: ¡Soy Escorpio! ¿Y tú?
+User: ¡Soy Leo! / ¡No sé!
+AI: ¿Leo? ¡Tiene mucho sentido!
+
+**Outro:**
+> ¡Compatibilidad: Aprobada! 💫
+> Ahora profundiza un poco más en quién es realmente.
+>
+
+**Personalidad [Set 4]**
+AI: ¿Eres más de quedarte en casa o de salir?
+User: ¡Me gusta salir! / ¡Prefiero quedarme en casa!
+AI: ¡A mí también me gusta salir!
+User: ¡Igual! / ¿En serio?
+
+**Outro:**
+> ¡Misma energía! ✨
+> Una ronda más... ¿qué está haciendo últimamente?
+>
+
+---
+
+### sim3: Cuéntame Más
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+Ya van por el segundo café. Esto va muy bien.
+Es hora de ponerse un poco más personal.
+
+**Últimamente [Set 5]**
+AI: ¿Qué has estado haciendo últimamente?
+User: ¡Aprendiendo español! / ¡Viendo Netflix!
+AI: ¡Qué bien! ¿Cómo te va?
+User: ¡Es divertido! / ¡Es un poco difícil!
+
+**Outro:**
+> ¡Respuesta honesta! 😄
+> Es hora de terminar y hacer planes para hablar de nuevo.
+>
+
+**Despedida [Set 6]**
+AI: ¡Deberíamos vernos de nuevo!
+User: ¡Sí, claro!
+AI: ¡Escríbeme, ¿sí?!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Nuevo amigo desbloqueado! 🔓
+> Lo siguiente: Convertir ese chat en planes de verdad.
+>
+
+---
+
+# PI-3: ¿Qué haces este fin de semana?
+
+- Categoría: Vida Personal
+- Subcategoría: Hacer Planes
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Este Fin de Semana
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+El mensaje está parpadeando.
+¡Es hora de lanzarte y proponer salir!
+
+**Apertura — Fin de Semana [Set 1]**
+User: ¿Qué haces este fin de semana?
+AI: ¿Yo? ¡Nada todavía! ¿Por qué?
+User: ¡Salgamos!
+AI: ¡Sí! ¿Qué quieres hacer?
+
+**Outro:**
+> ¡Dijo que sí! 🙌
+> Ahora decide qué van a hacer exactamente.
+>
+
+**¿A dónde? [Set 2]**
+User: ¿Vamos a tomar un café? ¿O a comer algo?
+AI: ¡A comer! Tengo hambre. ¿A dónde?
+User: ¿Qué tal la Roma?
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Destino: La Roma! 🗺️
+> Ahora confirma los detalles... ¿cuándo y dónde exactamente?
+>
+
+---
+
+### sim2: ¿Cuándo y Dónde?
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Los planes están listos. Ahora confirma los detalles.
+No seas esa persona que llega al lugar equivocado.
+
+**Hora [Set 3]**
+AI: ¿A qué hora nos vemos?
+User: ¿A las 2? / ¡Por la tarde!
+AI: ¡A las 2 está bien! ¿En el metro Insurgentes?
+User: ¡Perfecto!
+
+**Outro:**
+> ¡Hora confirmada! ⏰
+> Una confirmación más y ya están listos.
+>
+
+**Confirmar [Set 4]**
+AI: Entonces el sábado a las 2, en Insurgentes.
+User: ¡Sí!
+AI: ¡No llegues tarde!
+User: ¡No voy a llegar tarde! / ¡Ahí estaré!
+
+**Outro:**
+> ¡Planes confirmados! 📅
+> El sábado se acerca... ¿estás listo para el encuentro real?
+>
+
+---
+
+### sim3: El Día
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Lugar:** Metro Insurgentes, Colonia Roma
+
+**intro_text:**
+Es sábado. Ya casi llegas.
+¡Un último mensaje para encontrarse!
+
+**El Día [Set 5]**
+AI: ¿Ya vas para acá?
+User: ¡Sí, ya casi llego! / ¡Ya estoy aquí!
+AI: ¡Yo ya estoy aquí! ¡Apúrate!
+User: ¡Ya voy!
+
+**Outro:**
+> ¡Ya casi! 🏃
+> Solo un paso más... encuéntrense de verdad.
+>
+
+**¡Te encontré! [Set 6]**
+User: ¿Dónde estás?
+AI: ¡Aquí estoy! ¡Por aquí!
+User: ¡Ah, ya te veo!
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Se encontraron! 🎉
+> Lo siguiente: Mantenerse en contacto entre salidas.
+>
+
+---
+
+# PI-4: ¡Escríbeme!
+
+- Categoría: Vida Personal
+- Subcategoría: Mantenerse en Contacto
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Primer Mensaje
+
+**Goal:** To start a casual conversation over WhatsApp.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Ya tienes su número.
+¿Y ahora qué? ¡Escríbele!
+
+**Apertura — Primer Mensaje [Set 1]**
+User: ¿Qué estás haciendo?
+AI: ¡Aquí en casa! ¿Y tú?
+User: Igual, estoy aburrido/a.
+AI: ¡Yo también! ¿Salimos?
+
+**Outro:**
+> ¡Conversación iniciada! 💬
+> Ahora sigue... pregunta cómo estuvo su día.
+>
+
+**Chat — ¿Cómo estuvo tu día? [Set 2]**
+AI: ¿Qué hiciste hoy?
+User: Estudié español. / Vi Netflix.
+AI: ¡Qué bien! ¿Qué viste?
+User: ¡Algo nuevo! / ¡Es un secreto!
+
+**Outro:**
+> ¡Chateando como pros! 😎
+> Es hora de subir el nivel... comparte algo divertido.
+>
+
+---
+
+### sim2: Más Chat
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+La conversación fluye.
+¡Es hora de mandar algo divertido!
+
+**Foto [Set 3]**
+AI: ¡Mira dónde estoy! (foto)
+User: ¿Dónde es eso? / ¡Qué bonito!
+AI: ¡El Parque México! ¡Deberíamos ir juntos!
+User: ¡Vamos! / ¡Sí, me encantaría!
+
+**Outro:**
+> ¡Planes en el Parque México! 🌿
+> Ahora mándale algo gracioso.
+>
+
+**Cosas Divertidas [Set 4]**
+User: ¿Viste esto? (link)
+AI: ¿Qué es? ¡No lo he visto!
+User: ¡Es muy gracioso! ¡Míralo!
+AI: ¡Bueno, lo veo ahorita!
+
+**Outro:**
+> ¡Link enviado! 😂
+> La noche se acaba... es hora de decir buenas noches.
+>
+
+---
+
+### sim3: Buenas Noches
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Ya es tarde.
+Es hora de terminar la noche.
+
+**Por la Noche [Set 5]**
+AI: ¿Ya cenaste?
+User: ¡Sí, ya cené! / ¡Todavía no!
+AI: ¡Yo también! ¡Comí tacos!
+User: ¡Qué rico! / ¿En serio?
+
+**Outro:**
+> ¡Cena confirmada! 🌮
+> Ya casi es hora de terminar la noche.
+>
+
+**Buenas Noches [Set 6]**
+AI: ¡Me voy a dormir! ¡Buenas noches!
+User: ¡Buenas noches! ¡Hablamos pronto!
+AI: ¡Sí, hablamos pronto! ¡Escríbeme mañana!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Buenas noches dicho! 🌙
+> Lo siguiente: Llevar tu español al mundo real.
+>
+
+---
+
+# ✈️ VIAJES Y LUGARES (usted) >> Turismo en LATAM
+
+# TR-1: ¿Me puede traer un café?
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Café / Tortería
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Ordenando
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
+
+**📍 Lugar:** Mostrador de cafetería (Café de Olla, CDMX)
+
+**intro_text:**
+Primer pedido en una cafetería mexicana. ¡Usted puede... solo dígalo!
+
+**Apertura — Ordenar [Set 1]**
+AI: ¡Buenos días! ¿Qué le pongo?
+User: ¿Me puede traer un café americano, por favor? / ¿Me puede traer un café con leche, por favor?
+AI: ¿De qué tamaño?
+User: Mediano, por favor. / Grande, por favor.
+
+**Outro:**
+> ¡Bebida ordenada! ☕
+> Pero espera... ese pan dulce en el mostrador lo está llamando.
+>
+
+**Extra [Set 2]**
+AI: ¿Algo más?
+User: ¿Tienen pan dulce? / Eso es todo, gracias.
+AI: ¡Sí! Tenemos conchas y cuernitos.
+User: Una concha, por favor. / Un cuernito, por favor.
+
+**Outro:**
+> ¡Pedido completo! 🥐
+> Ahora, es hora de pagar como un experto.
+>
+
+---
+
+### sim2: Pagando
+
+**Goal:** To ask about payment methods and give your name for the order.
+
+**📍 Lugar:** Mostrador de cafetería (mismo)
+
+**intro_text:**
+Pedido hecho. Ahora viene el momento de la verdad.
+¡Es hora de pagar y dar su nombre!
+
+**Pago [Set 3]**
+AI: Son 85 pesos, por favor.
+User: ¿Puedo pagar con tarjeta? / Voy a pagar en efectivo.
+AI: ¡Claro que sí, adelante!
+User: Muchas gracias.
+
+**Outro:**
+> ¡Pago listo! 💳
+> Solo una cosa más antes de esperar...
+>
+
+**Nombre [Set 4]**
+AI: ¿A nombre de quién?
+User: A nombre de ___.
+AI: ¡Perfecto! Le avisamos cuando esté listo.
+User: ¡Gracias!
+
+**Outro:**
+> ¡Nombre dado! 📝
+> Ahora, la parte más difícil: esperar el café.
+>
+
+---
+
+### sim3: Recogiendo el Pedido
+
+**Goal:** To pick up your order, ask for extras, and find a seat.
+
+**📍 Lugar:** Cafetería → área de mesas
+
+**intro_text:**
+Ya van a llamar su nombre.
+¡Prepárese para recoger su pedido!
+
+**Recoger [Set 5]**
+AI: ¡___, su café americano está listo!
+User: ¡Muchas gracias!
+AI: ¿Necesita azúcar o crema?
+User: Azúcar, por favor. / No, gracias, así está bien.
+
+**Outro:**
+> ¡Café en mano! ☕
+> Ahora busque un lugar para sentarse.
+>
+
+**Asiento [Set 6]**
+User: Disculpe, ¿está ocupado este lugar?
+AI: No, está libre. ¡Pase!
+User: ¡Gracias!
+AI: ¡Que lo disfrute!
+
+**Outro:**
+> ¡Asiento encontrado! 🪑
+> Lo siguiente: Ordenar comida en un restaurante de verdad.
+>
+
+---
+
+# TR-2: Una Mesa para Dos
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Restaurante
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Reservación
+
+**Goal:** To ask for a table and get seated at a restaurant.
+
+**📍 Lugar:** Restaurante (Taquería El Califa, CDMX)
+
+**intro_text:**
+Primer restaurante en México. ¡Usted puede!
+Solo diga cuántos son y espere.
+
+**Apertura — Mesa [Set 1]**
+AI: ¡Buenas tardes! ¿Tiene reservación?
+User: No, no tengo reservación. / Sí, tengo reservación.
+AI: ¿Para cuántas personas?
+User: Para dos, por favor. / Para una persona, por favor.
+
+**Outro:**
+> ¡Mesa conseguida! 🍽️
+> Ahora viene la parte emocionante... el menú.
+>
+
+**El Menú [Set 2]**
+AI: Aquí tiene el menú. ¿Qué desea ordenar?
+User: ¿Qué recomienda? / Un momento, por favor.
+AI: ¡Los tacos al pastor están muy buenos!
+User: ¡Perfecto, esos quiero! / ¡Gracias, voy a pensar!
+
+**Outro:**
+> ¡Recomendación recibida! 👨‍🍳
+> Es hora de ordenar y esperar la comida.
+>
+
+---
+
+### sim2: Ordenando la Comida
+
+**Goal:** To order food and drinks at the table.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+Ya tiene el menú. Ahora es hora de ordenar.
+¡No tenga miedo de preguntar!
+
+**Ordenar [Set 3]**
+AI: ¿Listo para ordenar?
+User: Sí. ¿Me puede traer tres tacos al pastor? / Sí. ¿Me puede traer enchiladas, por favor?
+AI: ¡Con mucho gusto! ¿Y para tomar?
+User: Un agua de jamaica, por favor. / Una limonada, por favor.
+
+**Outro:**
+> ¡Pedido hecho! 🌮
+> Ahora espere... y disfrute el ambiente.
+>
+
+**Extras [Set 4]**
+AI: ¿Le traigo salsa?
+User: Sí, por favor. / No, gracias.
+AI: ¿Picante o suave?
+User: Picante, por favor. / Suave, por favor.
+
+**Outro:**
+> ¡Salsa lista! 🌶️
+> La comida ya viene... ¡prepárese!
+>
+
+---
+
+### sim3: La Cuenta
+
+**Goal:** To ask for the bill and pay at a restaurant.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+La comida estuvo deliciosa.
+Ahora es hora de pedir la cuenta.
+
+**La Cuenta [Set 5]**
+User: Disculpe, ¿me puede traer la cuenta?
+AI: ¡Claro! ¿Todo estuvo bien?
+User: ¡Sí, estuvo muy rico! / ¡Sí, estuvo excelente!
+AI: ¡Qué bueno! Ahorita le traigo la cuenta.
+
+**Outro:**
+> ¡Cuenta pedida! 🧾
+> Solo falta pagar y listo.
+>
+
+**Pagar [Set 6]**
+AI: Son 280 pesos.
+User: ¿Puedo pagar con tarjeta? / Aquí tiene, en efectivo.
+AI: ¡Por supuesto! ¿Necesita factura?
+User: No, gracias. / Sí, por favor.
+
+**Outro:**
+> ¡Cuenta pagada! ✅
+> Lo siguiente: Navegar la ciudad como un local.
+>
+
+---
+
+# TR-3: ¿Cómo Llego?
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Cómo Llegar
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: En la Calle
+
+**Goal:** To ask for and understand basic directions on the street.
+
+**📍 Lugar:** Calle (Colonia Roma, CDMX)
+
+**intro_text:**
+Está perdido/a en la Roma.
+¡Pida ayuda a alguien amable!
+
+**Apertura — Perdido/a [Set 1]**
+AI: ¡Buenos días! ¿En qué le puedo ayudar?
+User: Disculpe, ¿sabe dónde está el metro Insurgentes? / Disculpe, ¿cómo llego al Parque México?
+AI: ¡Claro! Siga derecho dos cuadras.
+User: ¿Dos cuadras? ¡Gracias! / ¿Y luego?
+
+**Outro:**
+> ¡Dirección recibida! 🗺️
+> Pero espera... ¿a la derecha o a la izquierda?
+>
+
+**Más Detalles [Set 2]**
+AI: Luego doble a la derecha.
+User: ¿A la derecha? ¡Entendido! / ¿Está lejos?
+AI: No, está muy cerca. Como cinco minutos.
+User: ¡Perfecto, muchas gracias!
+
+**Outro:**
+> ¡Ruta clara! 🧭
+> Ahora camine con confianza.
+>
+
+---
+
+### sim2: En el Metro
+
+**Goal:** To buy a metro ticket and ask which line to take.
+
+**📍 Lugar:** Metro (Estación Insurgentes, CDMX)
+
+**intro_text:**
+Llegó al metro. Ahora necesita un boleto.
+¡No se preocupe, es fácil!
+
+**Boleto [Set 3]**
+AI: ¡Buenos días! ¿Cuántos boletos?
+User: Un boleto, por favor. / Dos boletos, por favor.
+AI: Son 5 pesos.
+User: Aquí tiene. ¡Gracias!
+
+**Outro:**
+> ¡Boleto comprado! 🎫
+> Ahora, ¿qué línea toma?
+>
+
+**La Línea [Set 4]**
+User: Disculpe, ¿qué línea va al Zócalo?
+AI: La línea 2, la azul.
+User: ¿La azul? ¡Gracias! / ¿Y cuántas paradas son?
+AI: Son seis paradas. ¡Buen viaje!
+
+**Outro:**
+> ¡Línea correcta! 🚇
+> Ya casi llega a su destino.
+>
+
+---
+
+### sim3: En el Autobús
+
+**Goal:** To ask about bus routes and confirm your stop.
+
+**📍 Lugar:** Parada de autobús (CDMX)
+
+**intro_text:**
+Ahora quiere tomar el autobús.
+¡Pregunte al chofer!
+
+**El Autobús [Set 5]**
+AI: ¡Buenas tardes! ¿A dónde va?
+User: ¿Este autobús va a Coyoacán? / ¿Este camión va al Centro?
+AI: ¡Sí, suba! Son 8 pesos.
+User: ¡Gracias!
+
+**Outro:**
+> ¡En el autobús! 🚌
+> Ahora confirme su parada.
+>
+
+**La Parada [Set 6]**
+User: Disculpe, ¿me avisa cuando lleguemos a Coyoacán?
+AI: ¡Claro que sí! Le aviso.
+User: ¡Muchas gracias!
+AI: ¡Con gusto! Ya casi llegamos.
+
+**Outro:**
+> ¡Parada confirmada! 📍
+> Lo siguiente: Llegar al hotel y descansar.
+>
+
+---
+
+# TR-4: Una Habitación, Por Favor
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Hotel
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in to a hotel and confirm your reservation.
+
+**📍 Lugar:** Recepción de hotel (Hotel Centro Histórico, CDMX)
+
+**intro_text:**
+Llegó al hotel. ¡Por fin!
+Es hora de hacer el check-in.
+
+**Apertura — Reservación [Set 1]**
+AI: ¡Buenas tardes! ¿Tiene reservación?
+User: Sí, tengo una reservación. / Sí, reservé en línea.
+AI: ¿A nombre de quién?
+User: A nombre de ___.
+
+**Outro:**
+> ¡Reservación confirmada! 🏨
+> Ahora, ¿qué tipo de habitación tiene?
+>
+
+**La Habitación [Set 2]**
+AI: Tiene una habitación doble. ¿Está bien?
+User: ¡Sí, perfecto! / ¿Tiene habitación sencilla?
+AI: ¡Claro! ¿Prefiere piso alto o bajo?
+User: Piso alto, por favor. / Piso bajo, por favor.
+
+**Outro:**
+> ¡Habitación asignada! 🛏️
+> Ahora, ¿qué incluye el hotel?
+>
+
+---
+
+### sim2: Los Servicios
+
+**Goal:** To ask about hotel amenities and breakfast.
+
+**📍 Lugar:** Recepción de hotel (mismo)
+
+**intro_text:**
+Ya tiene su habitación. Ahora pregunte qué incluye.
+¡No tenga pena!
+
+**Desayuno [Set 3]**
+AI: ¿Tiene alguna pregunta?
+User: ¿El desayuno está incluido? / ¿A qué hora es el desayuno?
+AI: ¡Sí! El desayuno es de 7 a 10 de la mañana.
+User: ¡Perfecto, gracias!
+
+**Outro:**
+> ¡Desayuno confirmado! 🍳
+> Ahora pregunte por el WiFi.
+>
+
+**WiFi [Set 4]**
+User: ¿Cuál es la contraseña del WiFi?
+AI: La contraseña es "hotel2024".
+User: ¡Gracias! / ¿Tiene buena señal?
+AI: ¡Sí, muy buena! ¿Necesita algo más?
+
+**Outro:**
+> ¡WiFi conectado! 📶
+> Ya puede descansar... o explorar la ciudad.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and ask for a receipt.
+
+**📍 Lugar:** Recepción de hotel (mismo)
+
+**intro_text:**
+Es hora de salir. ¡Qué rápido pasó!
+Haga el check-out y pida su recibo.
+
+**Check-Out [Set 5]**
+AI: ¡Buenos días! ¿Va a hacer el check-out?
+User: Sí, voy a hacer el check-out. / Sí, me voy hoy.
+AI: ¿Cómo estuvo su estancia?
+User: ¡Muy bien, gracias! / ¡Excelente, me gustó mucho!
+
+**Outro:**
+> ¡Estancia terminada! 🧳
+> Solo falta pagar y pedir el recibo.
+>
+
+**El Recibo [Set 6]**
+AI: Son 1,200 pesos en total.
+User: ¿Me puede dar un recibo? / ¿Puedo pagar con tarjeta?
+AI: ¡Claro que sí! Aquí tiene su recibo.
+User: ¡Muchas gracias! ¡Hasta pronto!
+
+**Outro:**
+> ¡Check-out completo! ✅
+> Lo siguiente: Explorar la cultura pop en español.
+>
+
+---
+
+# 🎬 CULTURA POP / SERIES (tú) >> Entretenimiento LATAM
+
+# KD-1: ¿Qué estás viendo en Netflix?
+
+- Categoría: Cultura Pop / Series
+- Subcategoría: Netflix / Telenovela
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Serie
+
+**Goal:** To talk about what you're watching on Netflix and recommend a show.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Son las 10 de la noche y los dos están en casa.
+¡Hora de hablar de series!
+
+**Apertura — ¿Qué ves? [Set 1]**
+AI: ¡Oye! ¿Qué estás viendo en Netflix?
+User: ¡Estoy viendo una telenovela! / ¡Estoy viendo una serie nueva!
+AI: ¿Cuál? ¿Está buena?
+User: ¡Sí, está muy buena! / ¡Está increíble!
+
+**Outro:**
+> ¡Recomendación en camino! 📺
+> Ahora cuéntale de qué trata.
+>
+
+**De Qué Trata [Set 2]**
+AI: ¿De qué trata?
+User: ¡Es de amor! / ¡Es de misterio!
+AI: ¡Suena bien! ¿Cuántos capítulos tiene?
+User: ¡Muchos! / ¡No sé, estoy en el tres!
+
+**Outro:**
+> ¡Enganchado/a! 🎣
+> Ahora convéncelo/a de verla contigo.
+>
+
+---
+
+### sim2: ¡Vémonos!
+
+**Goal:** To make plans to watch a show together.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+La serie suena increíble.
+¡Es hora de hacer planes para verla juntos!
+
+**Planes [Set 3]**
+User: ¿Quieres verla conmigo?
+AI: ¡Sí! ¿Cuándo?
+User: ¿Esta noche? / ¿El viernes?
+AI: ¡Esta noche está bien! / ¡El viernes perfecto!
+
+**Outro:**
+> ¡Noche de series planeada! 🍿
+> Ahora decide qué comer mientras ven la serie.
+>
+
+**Botanas [Set 4]**
+AI: ¿Qué compramos para comer?
+User: ¡Palomitas! / ¡Papas y salsa!
+AI: ¡Perfecto! ¿Y para tomar?
+User: ¡Refresco! / ¡Agua de sabor!
+
+**Outro:**
+> ¡Botanas listas! 🎉
+> La noche de series está completa.
+>
+
+---
+
+### sim3: Después de Ver
+
+**Goal:** To react to a show and share your opinion.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Ya vieron el primer capítulo.
+¡Hora de dar tu opinión!
+
+**Opinión [Set 5]**
+AI: ¿Qué te pareció?
+User: ¡Me encantó! / ¡Estuvo muy buena!
+AI: ¿Verdad? ¡El final fue increíble!
+User: ¡Sí! / ¡No lo podía creer!
+
+**Outro:**
+> ¡Opinión compartida! 💬
+> Ahora, ¿qué pasa en el siguiente capítulo?
+>
+
+**El Siguiente Capítulo [Set 6]**
+User: ¿Vemos el siguiente capítulo?
+AI: ¡Sí! ¡Solo uno más!
+User: ¡Bueno! / ¡Está bien!
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Maratón de series activado! 🔥
+> Lo siguiente: Hablar de películas favoritas.
+>
+
+---
+
+# KD-2: ¿Vamos al Cine?
+
+- Categoría: Cultura Pop / Series
+- Subcategoría: Películas
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: ¿Qué Película?
+
+**Goal:** To decide on a movie to watch together.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Quieren ir al cine este fin de semana.
+¡Pero primero hay que decidir qué ver!
+
+**Apertura — La Película [Set 1]**
+AI: ¡Oye! ¿Vamos al cine este fin de semana?
+User: ¡Sí! ¿Qué quieres ver?
+AI: ¿Qué tal una de acción? / ¿Qué tal una comedia?
+User: ¡Me gustan las de acción! / ¡Prefiero comedia!
+
+**Outro:**
+> ¡Género elegido! 🎬
+> Ahora busca qué películas hay.
+>
+
+**Horario [Set 2]**
+AI: ¿A qué hora quieres ir?
+User: ¿A las 6? / ¿Por la tarde?
+AI: ¡A las 6 está bien! ¿En qué cine?
+User: ¡En el Cinemex de la Roma! / ¡En el Cinépolis!
+
+**Outro:**
+> ¡Cine y hora elegidos! 🕕
+> Ahora confirma los boletos.
+>
+
+---
+
+### sim2: Los Boletos
+
+**Goal:** To buy movie tickets and choose seats.
+
+**📍 Lugar:** Taquilla del cine (Cinemex, CDMX)
+
+**intro_text:**
+Llegaron al cine. ¡Ahora a comprar los boletos!
+
+**Boletos [Set 3]**
+AI: ¡Buenas tardes! ¿Cuántos boletos?
+User: Dos boletos, por favor. / Un boleto, por favor.
+AI: ¿Preferencial o general?
+User: Preferencial, por favor. / General está bien.
+
+**Outro:**
+> ¡Boletos comprados! 🎟️
+> Ahora elige tus asientos.
+>
+
+**Asientos [Set 4]**
+AI: ¿Qué asientos prefiere?
+User: ¿Hay lugares en el centro? / Al fondo, por favor.
+AI: ¡Sí! Fila G, asientos 12 y 13.
+User: ¡Perfecto!
+
+**Outro:**
+> ¡Asientos elegidos! 🪑
+> Ya casi empieza la película.
+>
+
+---
+
+### sim3: Después del Cine
+
+**Goal:** To talk about the movie after watching it.
+
+**📍 Lugar:** Afuera del cine
+
+**intro_text:**
+La película terminó. ¡Hora de dar tu opinión!
+
+**Opinión [Set 5]**
+AI: ¿Qué te pareció la película?
+User: ¡Me encantó! / ¡Estuvo muy buena!
+AI: ¿Verdad? ¡El final fue increíble!
+User: ¡Sí! / ¡Fue muy emocionante!
+
+**Outro:**
+> ¡Crítica de cine lista! 🎭
+> Ahora, ¿qué hacen después?
+>
+
+**Después [Set 6]**
+User: ¿Vamos a comer algo?
+AI: ¡Sí! Tengo hambre. ¿A dónde?
+User: ¿Qué tal unos tacos? / ¿Qué tal una torta?
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Noche perfecta! ✨
+> Lo siguiente: El deporte más importante de LATAM.
+>
+
+---
+
+# KD-3: ¡Vamos, México!
+
+- Categoría: Cultura Pop / Series
+- Subcategoría: Fútbol
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: El Partido
+
+**Goal:** To talk about an upcoming soccer match and make plans to watch it.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Hay partido hoy. ¡México juega!
+¡Es hora de hacer planes para verlo!
+
+**Apertura — El Partido [Set 1]**
+AI: ¡Oye! ¿Vas a ver el partido hoy?
+User: ¡Sí, claro! ¿Dónde lo ves? / ¡Sí! ¿A qué hora es?
+AI: ¡A las 8! ¿Lo vemos juntos?
+User: ¡Sí! ¿En tu casa? / ¡Sí! ¿En un bar?
+
+**Outro:**
+> ¡Planes de partido listos! ⚽
+> Ahora decide dónde verlo.
+>
+
+**¿Dónde? [Set 2]**
+AI: ¿Prefieres verlo en casa o en un bar?
+User: ¡En un bar! Más emocionante. / ¡En casa! Más cómodo.
+AI: ¡Buena idea! ¿Cuál bar?
+User: ¡El de siempre! / ¡Tú decides!
+
+**Outro:**
+> ¡Lugar elegido! 🏟️
+> El partido está por empezar.
+>
+
+---
+
+### sim2: Durante el Partido
+
+**Goal:** To react to goals and plays during a soccer match.
+
+**📍 Lugar:** Bar (CDMX)
+
+**intro_text:**
+Ya están en el bar. El partido empieza.
+¡Hora de gritar y celebrar!
+
+**El Gol [Set 3]**
+AI: ¡Oye! ¿Crees que México va a ganar?
+User: ¡Sí, claro! ¡México siempre gana! / ¡Espero que sí!
+AI: ¡Mira! ¡Gol de México!
+User: ¡¡¡GOOOL!!! / ¡¡¡Sí!!!
+
+**Outro:**
+> ¡Gol celebrado! 🥅
+> Pero el partido no ha terminado...
+>
+
+**La Jugada [Set 4]**
+User: ¡Qué jugada tan buena!
+AI: ¡Sí! ¡Ese jugador es increíble!
+User: ¿Cómo se llama? / ¡Es el mejor!
+AI: ¡Es el número 10! ¡El mejor del equipo!
+
+**Outro:**
+> ¡Fanático/a del fútbol activado/a! ⚽
+> El partido termina... ¿quién ganó?
+>
+
+---
+
+### sim3: Después del Partido
+
+**Goal:** To talk about the result and celebrate or commiserate.
+
+**📍 Lugar:** Bar (mismo)
+
+**intro_text:**
+El partido terminó. ¡Hora de hablar del resultado!
+
+**El Resultado [Set 5]**
+AI: ¡México ganó! ¿Qué te pareció el partido?
+User: ¡Estuvo increíble! / ¡Fue muy emocionante!
+AI: ¡Sí! ¡El gol del final fue lo mejor!
+User: ¡Sí! / ¡Totalmente!
+
+**Outro:**
+> ¡Victoria celebrada! 🏆
+> Ahora, ¿qué hacen para celebrar?
+>
+
+**Celebración [Set 6]**
+User: ¡Hay que celebrar! ¿Pedimos más?
+AI: ¡Sí! ¿Qué quieres?
+User: ¡Otra cerveza! / ¡Más botanas!
+AI: ¡Mesero! ¡Por favor!
+
+**Outro:**
+> ¡Celebración en marcha! 🎊
+> Lo siguiente: La música que mueve a LATAM.
+>
+
+---
+
+# KD-4: ¿Qué Música Escuchas?
+
+- Categoría: Cultura Pop / Series
+- Subcategoría: Música
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Gustos Musicales
+
+**Goal:** To talk about your music taste and favorite artists.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Están chateando por WhatsApp.
+¡Hora de hablar de música!
+
+**Apertura — Música [Set 1]**
+AI: ¡Oye! ¿Qué música escuchas?
+User: ¡Me gusta el reggaetón! / ¡Me gusta la cumbia!
+AI: ¡A mí también! ¿Quién es tu artista favorito?
+User: ¡Bad Bunny! / ¡J Balvin!
+
+**Outro:**
+> ¡Gustos musicales revelados! 🎵
+> Ahora comparte una canción favorita.
+>
+
+**La Canción [Set 2]**
+AI: ¿Cuál es tu canción favorita?
+User: ¡"Tití Me Preguntó"! / ¡"Con Calma"!
+AI: ¡Esa está muy buena! ¿La escuchas mucho?
+User: ¡Todo el tiempo! / ¡Sí, es mi favorita!
+
+**Outro:**
+> ¡Canción favorita compartida! 🎶
+> Ahora haz una playlist juntos.
+>
+
+---
+
+### sim2: La Playlist
+
+**Goal:** To create a shared playlist and discover new music.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Tienen gustos similares. ¡Perfecto!
+Es hora de hacer una playlist juntos.
+
+**La Playlist [Set 3]**
+User: ¿Hacemos una playlist juntos?
+AI: ¡Sí! ¿En Spotify?
+User: ¡Sí! ¿Qué canciones ponemos? / ¡Sí! ¿Empezamos con Bad Bunny?
+AI: ¡Claro! ¡Yo pongo una de Shakira!
+
+**Outro:**
+> ¡Playlist en construcción! 🎧
+> Ahora añade más canciones.
+>
+
+**Más Canciones [Set 4]**
+AI: ¿Conoces a Rosalía?
+User: ¡Sí, me encanta! / ¡Un poco!
+AI: ¡Ella es increíble! ¿La ponemos?
+User: ¡Sí! / ¡Claro!
+
+**Outro:**
+> ¡Playlist lista! 🎵
+> La música los une.
+>
+
+---
+
+### sim3: Escuchando Juntos
+
+**Goal:** To listen to music together and react to songs.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+La playlist está lista. ¡Hora de escuchar!
+
+**Escuchar [Set 5]**
+AI: ¡Escucha esta canción! ¿Te gusta?
+User: ¡Sí, está muy buena! / ¡Sí, me encanta!
+AI: ¿Verdad? ¡Es mi favorita ahora!
+User: ¡La voy a guardar! / ¡Yo también!
+
+**Outro:**
+> ¡Nueva canción favorita! 🎵
+> La noche musical está completa.
+>
+
+**Buenas Noches Musical [Set 6]**
+User: ¡Oye, ya es tarde!
+AI: ¡Sí! ¡Pero la música está muy buena!
+User: ¡Mañana seguimos! / ¡Buenas noches!
+AI: ¡Buenas noches! ¡Que sueñes con música!
+
+**Outro:**
+> ¡Noche musical perfecta! 🌙
+> Lo siguiente: El mundo del reggaetón y los conciertos.
+>
+
+---
+
+# 🎤 MÚSICA / REGGAETÓN (mixto) >> Cultura Fan LATAM
+
+# KP-1: ¿Cuál es tu Artista Favorito?
+
+- Categoría: Música / Reggaetón
+- Subcategoría: Gustos Musicales
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Hablando de Música
+
+**Goal:** To talk about your favorite music genre and artists.
+
+**📍 Lugar:** Cafetería (Colonia Roma, CDMX)
+
+**intro_text:**
+Están tomando café y hablando de música.
+¡El tema favorito de todos!
+
+**Apertura — Géneros [Set 1]**
+AI: ¿Qué tipo de música te gusta?
+User: ¡Me gusta el reggaetón! / ¡Me gusta el pop en español!
+AI: ¡A mí también! ¿Escuchas a Bad Bunny?
+User: ¡Sí, es mi favorito! / ¡Sí, lo escucho mucho!
+
+**Outro:**
+> ¡Fanático/a de Bad Bunny confirmado/a! 🐰
+> Ahora habla de su álbum favorito.
+>
+
+**El Álbum [Set 2]**
+AI: ¿Cuál es tu álbum favorito de él?
+User: ¡"Un Verano Sin Ti"! / ¡"YHLQMDLG"!
+AI: ¡Ese álbum es increíble! ¿Cuál canción te gusta más?
+User: ¡"Tití Me Preguntó"! / ¡"Dakiti"!
+
+**Outro:**
+> ¡Canción favorita revelada! 🎵
+> Ahora habla de otros artistas.
+>
+
+---
+
+### sim2: Otros Artistas
+
+**Goal:** To compare different Latin artists and their music styles.
+
+**📍 Lugar:** Cafetería (mismo)
+
+**intro_text:**
+La conversación de música sigue.
+¡Hora de hablar de más artistas!
+
+**Shakira [Set 3]**
+User: ¿Te gusta Shakira?
+AI: ¡Sí! ¡Ella es una leyenda!
+User: ¿Cuál es tu canción favorita de ella? / ¡Sí, es increíble!
+AI: ¡"Hips Don't Lie"! ¡Es un clásico!
+
+**Outro:**
+> ¡Shakira apreciada! 💃
+> Ahora habla de J Balvin.
+>
+
+**J Balvin [Set 4]**
+AI: ¿Conoces a J Balvin?
+User: ¡Sí! ¡Es muy bueno! / ¡Un poco!
+AI: ¡Él es el rey del reggaetón colombiano!
+User: ¡Sí! / ¡Qué bueno!
+
+**Outro:**
+> ¡Artistas LATAM explorados! 🌎
+> Ahora habla de conciertos.
+>
+
+---
+
+### sim3: ¿Fuiste a un Concierto?
+
+**Goal:** To talk about concert experiences and live music.
+
+**📍 Lugar:** Cafetería (mismo)
+
+**intro_text:**
+La música es increíble en vivo.
+¿Fuiste a algún concierto?
+
+**El Concierto [Set 5]**
+AI: ¿Fuiste a algún concierto?
+User: ¡Sí! ¡Fui al concierto de Bad Bunny! / ¡No, todavía no!
+AI: ¿En serio? ¿Cómo estuvo?
+User: ¡Increíble! ¡Fue lo mejor! / ¡Quiero ir pronto!
+
+**Outro:**
+> ¡Experiencia de concierto compartida! 🎤
+> Ahora habla de los próximos conciertos.
+>
+
+**Próximos Conciertos [Set 6]**
+User: ¿Hay algún concierto pronto?
+AI: ¡Sí! ¡Shakira viene a CDMX en junio!
+User: ¿En serio? ¡Quiero ir! / ¡Qué emocionante!
+AI: ¡Yo también quiero ir! ¿Vamos juntos?
+
+**Outro:**
+> ¡Planes de concierto en marcha! 🎊
+> Lo siguiente: El concierto del año.
+>
+
+---
+
+# KP-2: ¡El Concierto del Año!
+
+- Categoría: Música / Reggaetón
+- Subcategoría: Concierto (Bad Bunny / Shakira)
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Comprando los Boletos
+
+**Goal:** To buy concert tickets and coordinate with a friend.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+¡Shakira viene a CDMX!
+¡Hay que comprar los boletos ya!
+
+**Apertura — Los Boletos [Set 1]**
+AI: ¡Oye! ¡Ya salieron los boletos de Shakira!
+User: ¿En serio? ¡Hay que comprarlos! / ¿Cuánto cuestan?
+AI: ¡Son 800 pesos! ¿Compramos?
+User: ¡Sí! ¡Compra dos! / ¡Sí, vamos!
+
+**Outro:**
+> ¡Decisión tomada! 🎟️
+> Ahora compra los boletos antes de que se agoten.
+>
+
+**Comprar [Set 2]**
+AI: ¿Prefieres zona general o preferente?
+User: ¡Preferente! Quiero estar cerca. / ¡General está bien!
+AI: ¡Perfecto! ¿Pago con mi tarjeta?
+User: ¡Sí! Yo te pago después. / ¡Sí, gracias!
+
+**Outro:**
+> ¡Boletos comprados! 🎉
+> El concierto es en dos semanas.
+>
+
+---
+
+### sim2: El Día del Concierto
+
+**Goal:** To coordinate meeting up and getting to the concert venue.
+
+**📍 Lugar:** En línea (WhatsApp) → Foro Sol, CDMX
+
+**intro_text:**
+¡Por fin llegó el día del concierto!
+¡Hora de coordinar el encuentro!
+
+**Coordinando [Set 3]**
+User: ¡Hoy es el concierto! ¿A qué hora nos vemos?
+AI: ¡A las 6! ¿En la entrada principal?
+User: ¡Perfecto! / ¿Cuál entrada?
+AI: ¡La entrada A! ¡Ahí te espero!
+
+**Outro:**
+> ¡Punto de encuentro confirmado! 📍
+> Ya casi llegan al Foro Sol.
+>
+
+**En el Foro [Set 4]**
+AI: ¡Ya estoy aquí! ¿Dónde estás?
+User: ¡Ya casi llego! / ¡Estoy en el metro!
+AI: ¡Apúrate! ¡Ya va a empezar!
+User: ¡Ya voy! ¡Un minuto!
+
+**Outro:**
+> ¡Reunidos en el concierto! 🎤
+> ¡Shakira está por salir!
+>
+
+---
+
+### sim3: Durante y Después
+
+**Goal:** To react to the concert and share the experience.
+
+**📍 Lugar:** Foro Sol, CDMX
+
+**intro_text:**
+¡El concierto está increíble!
+¡Shakira está en el escenario!
+
+**El Show [Set 5]**
+AI: ¡Shakira está increíble!
+User: ¡Sí! ¡Es una diosa! / ¡Sí, es increíble!
+AI: ¡Mira cómo baila!
+User: ¡Wow! / ¡Es perfecta!
+
+**Outro:**
+> ¡Momento épico vivido! ✨
+> El concierto termina... ¿cómo se sienten?
+>
+
+**Después del Show [Set 6]**
+User: ¡Fue el mejor concierto de mi vida!
+AI: ¡Sí! ¡Estuvo increíble!
+User: ¡Gracias por venir conmigo! / ¡Hay que venir de nuevo!
+AI: ¡Claro que sí! ¡Fue perfecto!
+
+**Outro:**
+> ¡Memoria para siempre! 💫
+> Lo siguiente: La cultura fan en LATAM.
+>
+
+---
+
+# KP-3: ¡Soy Fan!
+
+- Categoría: Música / Reggaetón
+- Subcategoría: Cultura Fan
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: El Fandom
+
+**Goal:** To talk about being a fan and what you do as a fan.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Eres fan de Bad Bunny. ¡Orgulloso/a!
+¡Hora de hablar de tu fandom!
+
+**Apertura — Fan [Set 1]**
+AI: ¿Eres fan de algún artista?
+User: ¡Sí! ¡Soy fan de Bad Bunny! / ¡Sí! ¡Soy fan de Shakira!
+AI: ¡Yo también! ¿Desde cuándo?
+User: ¡Desde hace tres años! / ¡Desde siempre!
+
+**Outro:**
+> ¡Fan confirmado/a! 🐰
+> Ahora habla de lo que haces como fan.
+>
+
+**Actividades Fan [Set 2]**
+AI: ¿Qué haces como fan?
+User: ¡Escucho toda su música! / ¡Sigo su Instagram!
+AI: ¿Tienes su merch?
+User: ¡Sí! ¡Tengo su camiseta! / ¡Todavía no!
+
+**Outro:**
+> ¡Fan dedicado/a! 🎽
+> Ahora habla del grupo de fans.
+>
+
+---
+
+### sim2: El Grupo de Fans
+
+**Goal:** To talk about fan groups and online fan communities.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Los fans se organizan en grupos de WhatsApp.
+¡Únete a la comunidad!
+
+**El Grupo [Set 3]**
+User: ¿Estás en algún grupo de fans?
+AI: ¡Sí! ¡Hay un grupo de WhatsApp muy activo!
+User: ¿Me puedes agregar? / ¿De qué hablan?
+AI: ¡Claro! ¡Hablamos de todo sobre Bad Bunny!
+
+**Outro:**
+> ¡Grupo de fans encontrado! 👥
+> Ahora entra al grupo y preséntate.
+>
+
+**Presentación [Set 4]**
+AI: ¡Bienvenido/a al grupo! ¿Cómo te llamas?
+User: ¡Hola! Me llamo ___. / ¡Hola a todos! Soy ___.
+AI: ¡Bienvenido/a! ¿De dónde eres?
+User: ¡Soy de ___!
+
+**Outro:**
+> ¡Presentación hecha! 🎉
+> Ya eres parte de la comunidad fan.
+>
+
+---
+
+### sim3: Noticias del Artista
+
+**Goal:** To share and react to news about your favorite artist.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Hay noticias de Bad Bunny.
+¡El grupo está muy activo!
+
+**Las Noticias [Set 5]**
+AI: ¡Oye! ¿Viste las noticias de Bad Bunny?
+User: ¡No! ¿Qué pasó? / ¡Sí! ¡Está increíble!
+AI: ¡Tiene nuevo álbum!
+User: ¿En serio? ¡Qué emocionante! / ¡Ya lo sé! ¡Está buenísimo!
+
+**Outro:**
+> ¡Noticia recibida! 📰
+> Ahora comparte la noticia con todos.
+>
+
+**Compartir [Set 6]**
+User: ¡Hay que escuchar el nuevo álbum!
+AI: ¡Sí! ¿Lo escuchamos juntos?
+User: ¡Claro! ¿Cuándo? / ¡Sí, esta noche!
+AI: ¡Esta noche! ¡A las 9!
+
+**Outro:**
+> ¡Escucha grupal planeada! 🎧
+> Lo siguiente: El mundo profesional en español.
+>
+
+---
+
+# 💼 TRABAJO (usted formal) >> Entorno Profesional LATAM
+
+# CR-1: Mi Presentación
+
+- Categoría: Trabajo
+- Subcategoría: Presentación Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Presentación
+
+**Goal:** To introduce yourself professionally and state your role.
+
+**📍 Lugar:** Oficina (Ciudad de México)
+
+**intro_text:**
+Primer día en la oficina nueva.
+Es hora de presentarse con los colegas.
+
+**Apertura — Presentación [Set 1]**
+AI: ¡Buenos días! ¿Usted es el/la nuevo/a?
+User: Sí, buenos días. Me llamo ___. / Sí, mucho gusto. Soy ___.
+AI: ¡Mucho gusto! ¿En qué área trabaja?
+User: Trabajo en marketing. / Trabajo en ventas.
+
+**Outro:**
+> ¡Primera presentación: Aprobada! 👔
+> Ahora cuéntele más sobre su experiencia.
+>
+
+**La Experiencia [Set 2]**
+AI: ¿Tiene experiencia en esta área?
+User: Sí, tengo dos años de experiencia. / Soy nuevo/a en esto.
+AI: ¡Qué bien! ¿De dónde viene?
+User: Vengo de otra empresa. / Soy recién graduado/a.
+
+**Outro:**
+> ¡Experiencia compartida! 📋
+> Ya causó buena impresión.
+>
+
+---
+
+### sim2: La Reunión
+
+**Goal:** To participate in a basic work meeting and understand instructions.
+
+**📍 Lugar:** Sala de reuniones (mismo)
+
+**intro_text:**
+Hay una reunión en diez minutos.
+¡Prepárese para participar!
+
+**La Reunión [Set 3]**
+AI: ¡Buenos días a todos! Vamos a empezar la reunión.
+User: Buenos días. / Con mucho gusto.
+AI: ¿Tiene alguna pregunta sobre el proyecto?
+User: Sí, ¿cuál es la fecha límite? / No, todo está claro.
+
+**Outro:**
+> ¡Participación en reunión: Exitosa! 📊
+> Ahora tome nota de los puntos importantes.
+>
+
+**Los Puntos [Set 4]**
+AI: El proyecto termina el viernes.
+User: Entendido. ¿Necesita algo de mi parte? / Entendido. ¿Puedo ayudar?
+AI: Sí, por favor envíe el reporte mañana.
+User: Con mucho gusto. / Claro, lo envío mañana.
+
+**Outro:**
+> ¡Tarea asignada! ✅
+> Ahora prepare el reporte.
+>
+
+---
+
+### sim3: El Correo Profesional
+
+**Goal:** To write and send a basic professional email in Spanish.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+Necesita enviar un correo profesional.
+¡Usted puede!
+
+**El Correo [Set 5]**
+AI: ¿Ya envió el reporte?
+User: Todavía no. ¿A quién se lo envío? / Sí, ya lo envié.
+AI: Al señor García. Su correo es garcia@empresa.com.
+User: Entendido. Lo envío ahora. / Gracias, ya lo tengo.
+
+**Outro:**
+> ¡Correo en camino! 📧
+> Ahora confirme que llegó.
+>
+
+**Confirmación [Set 6]**
+User: Disculpe, ¿recibió mi correo?
+AI: Sí, lo recibí. Muchas gracias.
+User: Con mucho gusto. / ¡Perfecto!
+AI: Le agradezco su puntualidad.
+
+**Outro:**
+> ¡Correo confirmado! ✉️
+> Lo siguiente: Participar en una reunión más grande.
+>
+
+---
+
+# CR-2: La Reunión de Equipo
+
+- Categoría: Trabajo
+- Subcategoría: Reunión Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Antes de la Reunión
+
+**Goal:** To prepare for a team meeting and confirm attendance.
+
+**📍 Lugar:** Oficina (CDMX)
+
+**intro_text:**
+Hay una reunión de equipo mañana.
+¡Confirme su asistencia!
+
+**Apertura — Confirmación [Set 1]**
+AI: ¿Puede asistir a la reunión mañana?
+User: Sí, con mucho gusto. ¿A qué hora es? / Sí, ahí estaré.
+AI: A las 10 de la mañana, en la sala B.
+User: Entendido. Ahí estaré. / Perfecto, gracias.
+
+**Outro:**
+> ¡Asistencia confirmada! 📅
+> Ahora prepárese para la reunión.
+>
+
+**Preparación [Set 2]**
+AI: ¿Necesita algo para la reunión?
+User: ¿Hay agenda? / No, gracias, estoy listo/a.
+AI: Sí, le envío la agenda por correo.
+User: Muchas gracias. / Le agradezco.
+
+**Outro:**
+> ¡Preparación lista! 📋
+> La reunión empieza mañana.
+>
+
+---
+
+### sim2: Durante la Reunión
+
+**Goal:** To follow along in a meeting and ask for clarification.
+
+**📍 Lugar:** Sala de reuniones (mismo)
+
+**intro_text:**
+La reunión empezó. ¡Preste atención!
+
+**La Reunión [Set 3]**
+AI: Hoy vamos a hablar del nuevo proyecto.
+User: Disculpe, ¿puede repetir eso? / Entendido.
+AI: Claro. El proyecto empieza el lunes.
+User: Gracias. ¿Cuál es mi rol? / Entendido, gracias.
+
+**Outro:**
+> ¡Pregunta hecha con confianza! 💪
+> Ahora tome nota de su rol.
+>
+
+**El Rol [Set 4]**
+AI: Usted va a coordinar el equipo.
+User: Entendido. ¿Con quién trabajo? / Con mucho gusto.
+AI: Con la señora López y el señor Martínez.
+User: Perfecto. Gracias. / Entendido, gracias.
+
+**Outro:**
+> ¡Rol asignado! 🎯
+> Ya sabe qué hacer.
+>
+
+---
+
+### sim3: Después de la Reunión
+
+**Goal:** To follow up after a meeting and confirm next steps.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+La reunión terminó. ¡Buen trabajo!
+Ahora confirme los próximos pasos.
+
+**Próximos Pasos [Set 5]**
+AI: ¿Tiene alguna pregunta sobre lo que discutimos?
+User: Sí, ¿cuándo es la próxima reunión? / No, todo está claro.
+AI: La próxima reunión es el jueves.
+User: Entendido. Gracias. / Perfecto.
+
+**Outro:**
+> ¡Próximos pasos claros! 📆
+> Ahora envíe un correo de seguimiento.
+>
+
+**Seguimiento [Set 6]**
+User: ¿Le puedo enviar un resumen de la reunión?
+AI: Sí, por favor. Le agradezco mucho.
+User: Con mucho gusto. Lo envío hoy. / Claro, lo envío esta tarde.
+AI: Muchas gracias. Hasta luego.
+
+**Outro:**
+> ¡Profesional del año! 🏆
+> Lo siguiente: El correo profesional perfecto.
+>
+
+---
+
+# CR-3: El Correo Perfecto
+
+- Categoría: Trabajo
+- Subcategoría: Email Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Escribir el Correo
+
+**Goal:** To write a basic professional email requesting information.
+
+**📍 Lugar:** Oficina (CDMX)
+
+**intro_text:**
+Necesita información de un cliente.
+¡Es hora de escribir un correo profesional!
+
+**Apertura — El Correo [Set 1]**
+AI: ¿Necesita ayuda con el correo?
+User: Sí, por favor. ¿Cómo empiezo? / Sí, gracias. ¿Qué escribo primero?
+AI: Empiece con "Estimado/a señor/a".
+User: Entendido. ¿Y después? / Gracias, ¿qué sigue?
+
+**Outro:**
+> ¡Correo iniciado! ✍️
+> Ahora escriba el cuerpo del correo.
+>
+
+**El Cuerpo [Set 2]**
+AI: Escriba: "Le escribo para solicitar información sobre..."
+User: Entendido. ¿Y el cierre? / Gracias. ¿Cómo termino?
+AI: Termine con "Quedo a sus órdenes. Atentamente, ___".
+User: Perfecto. Muchas gracias. / Entendido, gracias.
+
+**Outro:**
+> ¡Correo escrito! 📝
+> Ahora revíselo antes de enviarlo.
+>
+
+---
+
+### sim2: Revisar y Enviar
+
+**Goal:** To review and send a professional email.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+El correo está escrito. ¡Revíselo!
+Un buen correo no tiene errores.
+
+**Revisión [Set 3]**
+AI: ¿Ya revisó el correo?
+User: Sí, ya lo revisé. / Todavía no.
+AI: ¿Está todo correcto?
+User: Sí, todo está bien. / Creo que sí.
+
+**Outro:**
+> ¡Correo revisado! 🔍
+> Ahora envíelo.
+>
+
+**Enviar [Set 4]**
+AI: ¿Listo para enviar?
+User: Sí, lo envío ahora. / Sí, ya está listo.
+AI: ¡Perfecto! ¿A quién va dirigido?
+User: Al señor Rodríguez. / A la señora Flores.
+
+**Outro:**
+> ¡Correo enviado! 📤
+> Ahora espere la respuesta.
+>
+
+---
+
+### sim3: La Respuesta
+
+**Goal:** To read and respond to a professional email reply.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+Llegó la respuesta del cliente.
+¡Léala con atención!
+
+**La Respuesta [Set 5]**
+AI: ¡Llegó la respuesta del señor Rodríguez!
+User: ¿Qué dice? / ¡Qué bien! ¿Qué responde?
+AI: Dice que puede reunirse el martes.
+User: Perfecto. Le respondo ahora. / Entendido. ¿A qué hora?
+
+**Outro:**
+> ¡Respuesta recibida! 📬
+> Ahora confirme la reunión.
+>
+
+**Confirmar la Reunión [Set 6]**
+User: ¿Le confirmo el martes a las 11?
+AI: Sí, por favor. Eso sería perfecto.
+User: Con mucho gusto. Le escribo ahora. / Entendido. Lo confirmo.
+AI: Le agradezco su eficiencia. Hasta el martes.
+
+**Outro:**
+> ¡Reunión confirmada! 🤝
+> ¡Felicidades! Completaste el curso de español A0.
+> ¡Ahora eres un/a profesional del español latinoamericano! 🌎
+>
