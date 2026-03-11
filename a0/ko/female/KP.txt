@@ -1,0 +1,431 @@
+# 🎵 KPOP (반말+존댓말 혼재)
+
+# KP-1: 언니 밥 먹었어?
+
+- 대분류: Kpop
+- 중분류: Fan Meeting
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Meeting Your Idol
+
+**Goal:** To greet your idol confidently, answer her questions, and show genuine care with a classic Korean expression.
+
+**📍 장소:** 팬미팅 현장 (테이블)
+
+**intro_text:**
+This is it. She's right there.
+Don't forget how to speak...
+
+**기 — 만남 [세트 1]**
+User: 안녕하세요!
+AI: 안녕! 반가워요! 어디에서 왔어요?
+User: ___에서 왔어요!
+AI: 와, 멀리서 왔네요!
+
+**Outro:**
+> You didn't faint! 🎉
+> Now, ask her the most caring Korean question.
+>
+
+**승 — 인사 [세트 2]**
+User: 밥 먹었어요?
+AI: 네! 먹었어요! 고마워요!
+User: 오늘 너무 멋있어요!
+AI: 진짜요? 고마워요!
+
+**Outro:**
+> He smiled at you! 😍
+> Get ready, he's about to compliment you.
+>
+
+---
+
+### sim2: Chatting with Idol
+
+**Goal:** To humbly accept a compliment about your Korean and share your favorite song with your idol.
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**승 — 칭찬 [세트 3]**
+AI: 한국어 잘하네요!
+User: 아니에요! / 아직 많이 못해요.
+AI: 아니에요, 진짜 잘해요!
+User: 감사해요!
+
+**Outro:**
+> He noticed your Korean! 🇰🇷
+> Now, tell him what your favorite song is.
+>
+
+**전 — 좋아하는 노래 [세트 4]**
+AI: 우리 노래 중에 뭐 제일 좋아해요?
+User: 다 좋아해요! / ___이요!
+AI: 진짜요? 감사해요!
+User: 오늘 불러주세요!
+
+**Outro:**
+> Request accepted! 🎶
+> Time is almost up. Quick, give him your gift!
+>
+
+---
+
+### sim3: Goodbye
+
+**Goal:** To give your idol a heartfelt gift and say a memorable goodbye without crying
+
+**📍 장소:** 팬미팅 현장 (동일)
+
+**전 — 선물 [세트 5]**
+User: 이거 선물이에요!
+AI: 와, 뭐예요? 감사해요!
+User: 편지예요!
+AI: 꼭 읽을게요!
+
+**Outro:**
+> He took your letter! 💌
+> Time to say the hardest word... goodbye.
+>
+
+**결 — 인사 [세트 6]**
+AI: 다음에 또 만나요!
+User: 네, 꼭이요!
+AI: 사랑해요!
+User: 저도 사랑해요!
+
+**Outro:**
+> Best moment of your life! ✨
+> Next up: Screaming your lungs out at the concert.
+>
+
+---
+
+# KP-2: 소리 질러!
+
+- 대분류: Kpop
+- 중분류: Concert
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Before the Show
+
+**Goal:** To make small talk with a fellow fan before the concert starts.
+
+📍 장소: 콘서트장 객석 (공연 전)
+
+**intro_text:**
+The lights are still on. The seat next to you is taken.
+Say hi — you might just make a new fan friend!
+
+### 기 — 콘서트 전 [세트 1]
+
+AI: 안녕하세요! 혼자 오셨어요?
+User: 네! / 네, 혼자요!
+
+AI: 저도요! 누구 팬이에요?
+User: ___이요! / 다 좋아해요!
+
+**Outro:**
+> New fan friend found! 🎪
+> The nerves are real — share the excitement.
+>
+
+### 승 — 기다림 [세트 2]
+
+AI: 떨리지 않아요?
+User: 떨려요! / 진짜 떨려요!
+
+AI: 저도요! 곧 시작해요!
+User: 빨리 보고 싶어요!
+
+**Outro:**
+> Countdown begins! ⏳
+> The lights are about to go dark...
+>
+
+## sim2: During the Show
+
+**Goal:** To respond to stage calls and cheer during the concert.
+
+📍 장소: 콘서트장 객석 (공연 중)
+
+### 승 — 공연 중 [세트 3]
+
+Ai: 와! 드디어 나왔어요!
+User: 대박이에요! / 너무 멋있어요!
+
+Ai: 노래 진짜 잘해요.
+User: 맞아요! / 최고예요!
+
+**Outro:**
+> Voice: gone. Heart: full. 🎤
+> The crowd wants more — time for the encore!
+>
+
+### 전 — 앵콜 [세트 4]
+
+Ai: 앵콜! 앵콜!
+User: 다시 나올까요? / 또 보고 싶어요.
+
+Ai: 진짜 다시 나왔어요!
+User: 와, 대박! / 너무 좋아요!
+
+**Outro:**
+> Encore secured! 🎶
+> The show is over... but the night isn't.
+>
+
+## sim3: After the Show
+
+**Goal:** To share excitement and bond with a fellow fan after the concert.
+
+📍 장소: 콘서트장 밖 (공연 후)
+
+### 전 — 끝 [세트 5]
+
+User: 진짜 좋았어요!
+AI: 맞아요! 대박이었어요!
+
+AI: 목소리 다 나갔어요!
+User: 저도요!
+
+**Outro:**
+> Post-concert high! 🌟
+> Make it official — plan the next one together.
+>
+
+### 결 — 인사 [세트 6]
+
+AI: 오늘 진짜 재밌었어요!
+User: 네, 진짜요!
+
+AI: 다음 콘서트도 같이 가요!
+User: 네, 좋아요!
+
+**Outro:**
+> Concert buddy secured! 🎫
+> Next up: Show your idol some love online.
+>
+
+---
+
+# KP-3: 수고했어요!
+
+- 대분류: Kpop
+- 중분류: Support
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: After a Performance
+
+**Goal:** To cheer and respond during an idol's live stream.
+
+📍 장소: 온라인 (라이브 방송)
+
+**intro_text:**
+Your idol just went live. The chat is moving fast.
+Type something — let them know you're here!
+
+### 기 — 라이브 방송 [세트 1]
+
+Ai: 안녕! 다들 잘 지냈어요?
+User: 네! / 잘 지냈어요!
+
+Ai: 오늘 공연 했는데, 재밌었어요!
+User: 수고했어요! / 대박이었어요!
+
+**Outro:**
+> Your message got through! 💬
+> Keep the conversation going.
+>
+
+### 승 — 대화 [세트 2]
+
+AI: 고마워요! 다들 뭐 하고 있어요?
+User: 라이브 보고 있어요! / 지금 이거 보고 있죠!
+
+AI: 와, 고마워요!
+User: 사랑해요!
+
+**Outro:**
+> Love sent! 💖
+> Next up: What do you say when they're having a hard time?
+>
+
+## sim2: Encouragement
+
+**Goal:** To encourage and express support for your idol.
+
+📍 장소: 온라인 (버블/위버스 메시지)
+
+### 승 — 격려 [세트 3]
+
+AI: 요즘 좀 힘들어요...
+User: 괜찮아요! / 화이팅!
+
+AI: 고마워요. 여러분 때문에 힘내요.
+User: 항상 응원할게요! / 힘내세요!
+
+**Outro:**
+> Your words reached them! 🌟
+> They want to say something back...
+>
+
+### 전 — 감사 [세트 4]
+
+AI: 팬분들이 있어서 행복해요.
+User: 저도 행복해요! / 고마워요!
+
+AI: 항상 감사해요!
+User: 저야말로 감사해요!
+
+**Outro:**
+> Mutual appreciation! 🥹
+> Time to send one last message before they go to sleep.
+>
+
+## sim3: Sending Love
+
+**Goal:** To send heartfelt messages and say goodnight to your idol.
+
+📍 장소: 온라인 (버블/위버스, 동일)
+
+### 전 — 메시지 [세트 5]
+
+User: 오늘 영상 봤어요!
+AI: 진짜요? 고마워요!
+
+User: 진짜 좋았어요!
+AI: 감사해요!
+
+**Outro:**
+> Message delivered! 📩
+> One last thing before the night ends.
+>
+
+### 결 — 잘 자 [세트 6]
+
+AI: 이제 잘 거예요! 잘 자요!
+User: 잘 자요!
+
+AI: 꿈에서 봐요!
+User: 좋은 꿈 꿔요!
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Time to put on your professional face.
+>
+
+---
+
+# 👔 CAREER (격식체)
+
+### CR-1: 안녕하십니까
+
+**대분류:** Career
+**중분류:** Office Greetings
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Morning
+
+**📍 장소:** 사무실 (출근)
+
+**Goal:** To exchange basic morning greetings and acknowledge a meeting schedule with the boss.
+
+**intro_text:**
+Morning commute done.
+Let's do this.
+
+**기 — 출근 [세트 1]**
+User: 안녕하십니까! / 안녕하세요!
+AI: 안녕하세요! 오늘 날씨 좋죠?
+User: 네, 좋습니다!
+AI: 오늘도 화이팅이에요!
+
+**Outro:**
+> Morning greetings cleared! ☀️
+> Uh oh, here comes the boss...
+>
+
+**승 — 상사 [세트 2]**
+AI: 오늘 회의 있어요. 알고 있죠?
+User: 네, 알고 있습니다. / 네, 알겠습니다.
+AI: 좋아요. 10시에 회의실이에요.
+User: 네, 알겠습니다.
+
+**Outro:**
+> Surviving the boss? Check! ✔️
+> Now, onto the most important office mission.
+>
+
+---
+
+### sim2: During the Day
+
+**Goal:** To handle casual lunchtime conversation and politely accept a simple workplace task.
+
+**📍 장소:** 사무실 (근무 중)
+
+**승 — 동료 [세트 3]**
+AI: 점심 먹었어요?
+User: 네, 먹었습니다. / 아직이요.
+AI: 같이 먹을래요?
+User: 네, 좋습니다. / 감사합니다.
+
+**Outro:**
+> Lunch buddy secured! 🍱
+> But wait... a wild task suddenly appears!
+>
+
+**전 — 부탁 [세트 4]**
+AI: 이거 좀 봐 주실 수 있어요?
+User: 네, 보겠습니다. / 네, 알겠습니다.
+AI: 감사합니다!
+User: 아닙니다.
+
+**Outro:**
+> Task handled like a true professional! 💻
+> Keep your eyes on the clock, it's almost time...
+>
+
+---
+
+### sim3: Leaving
+
+**Goal:** To use proper office etiquette when finishing the workday and saying goodbye to colleagues.
+
+**📍 장소:** 사무실 (퇴근)
+
+**전 — 퇴근 [세트 5]**
+AI: 오늘 수고 많으셨습니다!
+User: 수고하셨습니다!
+User: 먼저 가보겠습니다.
+AI: 네, 조심히 가세요!
+
+**Outro:**
+> The magic words: "Good work today"! 🎉
+> Just one last polite bow before you run.
+>
+
+**결 — 인사 [세트 6]**
+User: 내일 뵙겠습니다!
+AI: 네, 내일 봐요!
+User: 안녕히 가세요!
+AI: 안녕히 가세요!
+
+**Outro:**
+> First day at the Korean office: Conquered! 🏢
+> Next up: The ultimate phrase for corporate survival.
+>
+
+---

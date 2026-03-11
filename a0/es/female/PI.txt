@@ -1,0 +1,450 @@
+# 💖 VIDA PERSONAL (tú) >> Vida Cotidiana en LATAM
+
+# PI-1: ¡Hola, soy ___!
+
+- Categoría: Vida Personal
+- Subcategoría: Primera Cita de Amigos
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+Primera vez que se conocen en la Ciudad de México.
+¡Respira hondo... y saluda!
+
+---
+
+### sim1: Mucho Gusto
+
+**Goal:** To introduce yourself, say where you're from, and share one thing you like about Mexico City.
+
+**📍 Lugar:** Afuera (Colonia Roma / Condesa, CDMX)
+
+**intro_text:**
+Primera vez que se conocen en la Ciudad de México.
+¡Respira hondo... y saluda!
+
+**Apertura — Primer Saludo [Set 1]**
+AI: ¡Hola! Soy Alex. ¿Cómo te llamas?
+User: ¡Hola! Me llamo ___. / ¡Hola! Soy ___.
+AI: ¡Mucho gusto! ¿De dónde eres?
+User: ¡Soy de ___!
+
+**Outro:**
+> Primera impresión: ¡Aprobada! 🎯
+> Pero espera... ¿por qué estás realmente aquí en CDMX?
+>
+
+**Gustos — Lo que te gusta [Set 2]**
+AI: ¿Te gusta la Ciudad de México?
+User: ¡Sí, me encanta! / ¡Es muy bonita!
+AI: ¿Qué te gusta de aquí?
+User: ¡La comida! / ¡La gente!
+
+**Outro:**
+> ¡Les encantó tu respuesta! 👀
+> ¿Bandera roja o verde? Veamos si sus gustos coinciden.
+>
+
+---
+
+### sim2: Más Cerca
+
+**Goal:** To discover shared hobbies and talk about your experience with Mexican food.
+
+**📍 Lugar:** Afuera (mismo lugar)
+
+**intro_text:**
+Siguen hablando. ¡Buena señal!
+Es hora de ver qué tienen en común.
+
+**Pasatiempos — ¿Qué te gusta hacer? [Set 3]**
+User: Alex, ¿qué te gusta hacer?
+AI: ¿A mí? ¡Me gusta la música! ¿Y a ti?
+User: ¡A mí también! / ¡Me gustan las películas!
+AI: ¿En serio? ¿Música mexicana?
+
+**Outro:**
+> ¡Vibras compatibles! ✔️
+> Ahora prepárate para la obsesión número uno de México... la comida.
+>
+
+**Comida — ¿Ya probaste? [Set 4]**
+AI: ¿Ya probaste los tacos al pastor?
+User: ¡Sí! / ¡Todavía no!
+AI: ¡Tienes que probarlos! ¡Están riquísimos!
+User: ¡Quiero probarlos! / ¡Sí, estaban increíbles!
+
+**Outro:**
+> ¡Basta de hablar! 🛑
+> Esta es tu oportunidad de oro. ¡Propón salir juntos!
+>
+
+---
+
+### sim3: ¡Salgamos!
+
+**Goal:** To make casual weekend plans and exchange numbers on WhatsApp.
+
+**📍 Lugar:** Afuera (mismo lugar)
+
+**intro_text:**
+El ambiente está muy bien. Muy bien.
+¡Es hora de hacerlo oficial!
+
+**Planes — Este Fin de Semana [Set 5]**
+User: ¿Qué haces este fin de semana?
+AI: ¿Yo? ¡Nada todavía! ¿Quieres salir?
+User: ¡Sí! ¿Qué hacemos?
+AI: ¡Vamos a comer algo!
+
+**Outro:**
+> ¡Es oficialmente una cita! 🥂
+> ¡Espera! ¡No dejes que se vaya sin su número de WhatsApp!
+>
+
+**Contacto — Quedemos en Contacto [Set 6]**
+User: ¿Me das tu número de WhatsApp?
+AI: ¡Claro que sí! Aquí está.
+User: ¡Listo!
+AI: ¡Escríbeme! ¡Hasta pronto!
+
+**Outro:**
+> ¡Contacto guardado! 🔒
+> Lo siguiente: La prueba que decide si son *de verdad* compatibles.
+>
+
+---
+
+# PI-2: ¿Cuál es tu signo?
+
+- Categoría: Vida Personal
+- Subcategoría: Charla Casual
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Lo Básico
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Lugar:** Cafetería (Colonia Roma, CDMX)
+
+**intro_text:**
+Llegaste a la cafetería. Ahora empieza la charla de verdad.
+Edad, colonia... y luego la pregunta que todos hacen.
+
+**Apertura — Edad [Set 1]**
+AI: ¿Cuántos años tienes?
+User: ¡Tengo ___ años! / ¡Tengo ___!
+AI: ¡Ah, igual que yo! Tengo 25.
+User: ¿En serio? / ¡No puede ser!
+
+**Outro:**
+> ¡Edad revelada! 🎂
+> Ahora descubre dónde vive exactamente.
+>
+
+**¿Dónde vives? [Set 2]**
+User: ¿Dónde vives?
+AI: ¿Yo? ¡Vivo en Coyoacán! ¿Y tú?
+User: ¡Vivo en la Roma! / ¡Vivo cerca de aquí!
+AI: ¡Ah, qué cerca!
+
+**Outro:**
+> ¿Vecinos? ¡Quizás! 📍
+> Prepárate... la pregunta del signo zodiacal ya viene.
+>
+
+---
+
+### sim2: Signos del Zodiaco
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+El café está bueno. La conversación está mejor.
+Es hora de la pregunta que todos hacen en CDMX.
+
+**Signo Zodiacal [Set 3]**
+User: ¿Cuál es tu signo?
+AI: ¡Soy Escorpio! ¿Y tú?
+User: ¡Soy Leo! / ¡No sé!
+AI: ¿Leo? ¡Tiene mucho sentido!
+
+**Outro:**
+> ¡Compatibilidad: Aprobada! 💫
+> Ahora profundiza un poco más en quién es realmente.
+>
+
+**Personalidad [Set 4]**
+AI: ¿Eres más de quedarte en casa o de salir?
+User: ¡Me gusta salir! / ¡Prefiero quedarme en casa!
+AI: ¡A mí también me gusta salir!
+User: ¡Igual! / ¿En serio?
+
+**Outro:**
+> ¡Misma energía! ✨
+> Una ronda más... ¿qué está haciendo últimamente?
+>
+
+---
+
+### sim3: Cuéntame Más
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Lugar:** Cafetería (mismo lugar)
+
+**intro_text:**
+Ya van por el segundo café. Esto va muy bien.
+Es hora de ponerse un poco más personal.
+
+**Últimamente [Set 5]**
+AI: ¿Qué has estado haciendo últimamente?
+User: ¡Aprendiendo español! / ¡Viendo Netflix!
+AI: ¡Qué bien! ¿Cómo te va?
+User: ¡Es divertido! / ¡Es un poco difícil!
+
+**Outro:**
+> ¡Respuesta honesta! 😄
+> Es hora de terminar y hacer planes para hablar de nuevo.
+>
+
+**Despedida [Set 6]**
+AI: ¡Deberíamos vernos de nuevo!
+User: ¡Sí, claro!
+AI: ¡Escríbeme, ¿sí?!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Nuevo amigo desbloqueado! 🔓
+> Lo siguiente: Convertir ese chat en planes de verdad.
+>
+
+---
+
+# PI-3: ¿Qué haces este fin de semana?
+
+- Categoría: Vida Personal
+- Subcategoría: Hacer Planes
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Este Fin de Semana
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+El mensaje está parpadeando.
+¡Es hora de lanzarte y proponer salir!
+
+**Apertura — Fin de Semana [Set 1]**
+User: ¿Qué haces este fin de semana?
+AI: ¿Yo? ¡Nada todavía! ¿Por qué?
+User: ¡Salgamos!
+AI: ¡Sí! ¿Qué quieres hacer?
+
+**Outro:**
+> ¡Dijo que sí! 🙌
+> Ahora decide qué van a hacer exactamente.
+>
+
+**¿A dónde? [Set 2]**
+User: ¿Vamos a tomar un café? ¿O a comer algo?
+AI: ¡A comer! Tengo hambre. ¿A dónde?
+User: ¿Qué tal la Roma?
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Destino: La Roma! 🗺️
+> Ahora confirma los detalles... ¿cuándo y dónde exactamente?
+>
+
+---
+
+### sim2: ¿Cuándo y Dónde?
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Los planes están listos. Ahora confirma los detalles.
+No seas esa persona que llega al lugar equivocado.
+
+**Hora [Set 3]**
+AI: ¿A qué hora nos vemos?
+User: ¿A las 2? / ¡Por la tarde!
+AI: ¡A las 2 está bien! ¿En el metro Insurgentes?
+User: ¡Perfecto!
+
+**Outro:**
+> ¡Hora confirmada! ⏰
+> Una confirmación más y ya están listos.
+>
+
+**Confirmar [Set 4]**
+AI: Entonces el sábado a las 2, en Insurgentes.
+User: ¡Sí!
+AI: ¡No llegues tarde!
+User: ¡No voy a llegar tarde! / ¡Ahí estaré!
+
+**Outro:**
+> ¡Planes confirmados! 📅
+> El sábado se acerca... ¿estás listo para el encuentro real?
+>
+
+---
+
+### sim3: El Día
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Lugar:** Metro Insurgentes, Colonia Roma
+
+**intro_text:**
+Es sábado. Ya casi llegas.
+¡Un último mensaje para encontrarse!
+
+**El Día [Set 5]**
+AI: ¿Ya vas para acá?
+User: ¡Sí, ya casi llego! / ¡Ya estoy aquí!
+AI: ¡Yo ya estoy aquí! ¡Apúrate!
+User: ¡Ya voy!
+
+**Outro:**
+> ¡Ya casi! 🏃
+> Solo un paso más... encuéntrense de verdad.
+>
+
+**¡Te encontré! [Set 6]**
+User: ¿Dónde estás?
+AI: ¡Aquí estoy! ¡Por aquí!
+User: ¡Ah, ya te veo!
+AI: ¡Vamos!
+
+**Outro:**
+> ¡Se encontraron! 🎉
+> Lo siguiente: Mantenerse en contacto entre salidas.
+>
+
+---
+
+# PI-4: ¡Escríbeme!
+
+- Categoría: Vida Personal
+- Subcategoría: Mantenerse en Contacto
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Primer Mensaje
+
+**Goal:** To start a casual conversation over WhatsApp.
+
+**📍 Lugar:** En línea (WhatsApp)
+
+**intro_text:**
+Ya tienes su número.
+¿Y ahora qué? ¡Escríbele!
+
+**Apertura — Primer Mensaje [Set 1]**
+User: ¿Qué estás haciendo?
+AI: ¡Aquí en casa! ¿Y tú?
+User: Igual, estoy aburrido/a.
+AI: ¡Yo también! ¿Salimos?
+
+**Outro:**
+> ¡Conversación iniciada! 💬
+> Ahora sigue... pregunta cómo estuvo su día.
+>
+
+**Chat — ¿Cómo estuvo tu día? [Set 2]**
+AI: ¿Qué hiciste hoy?
+User: Estudié español. / Vi Netflix.
+AI: ¡Qué bien! ¿Qué viste?
+User: ¡Algo nuevo! / ¡Es un secreto!
+
+**Outro:**
+> ¡Chateando como pros! 😎
+> Es hora de subir el nivel... comparte algo divertido.
+>
+
+---
+
+### sim2: Más Chat
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+La conversación fluye.
+¡Es hora de mandar algo divertido!
+
+**Foto [Set 3]**
+AI: ¡Mira dónde estoy!
+User: ¿Dónde es eso? / ¡Qué bonito!
+AI: ¡El Parque México! ¡Deberíamos ir juntos!
+User: ¡Vamos! / ¡Sí, me encantaría!
+
+**Outro:**
+> ¡Planes en el Parque México! 🌿
+> Ahora mándale algo gracioso.
+>
+
+**Cosas Divertidas [Set 4]**
+User: ¿Viste esto?
+AI: ¿Qué es? ¡No lo he visto!
+User: ¡Es muy gracioso! ¡Míralo!
+AI: ¡Bueno, lo veo ahorita!
+
+**Outro:**
+> ¡Link enviado! 😂
+> La noche se acaba... es hora de decir buenas noches.
+>
+
+---
+
+### sim3: Buenas Noches
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Lugar:** En línea (WhatsApp, mismo)
+
+**intro_text:**
+Ya es tarde.
+Es hora de terminar la noche.
+
+**Por la Noche [Set 5]**
+AI: ¿Ya cenaste?
+User: ¡Sí, ya cené! / ¡Todavía no!
+AI: ¡Yo también! ¡Comí tacos!
+User: ¡Qué rico! / ¿En serio?
+
+**Outro:**
+> ¡Cena confirmada! 🌮
+> Ya casi es hora de terminar la noche.
+>
+
+**Buenas Noches [Set 6]**
+AI: ¡Me voy a dormir! ¡Buenas noches!
+User: ¡Buenas noches! ¡Hablamos pronto!
+AI: ¡Sí, hablamos pronto! ¡Escríbeme mañana!
+User: ¡Claro que sí!
+
+**Outro:**
+> ¡Buenas noches dicho! 🌙
+> Lo siguiente: Llevar tu español al mundo real.
+>
+
+---
+
+# ✈️ VIAJES Y LUGARES (usted) >> Turismo en LATAM

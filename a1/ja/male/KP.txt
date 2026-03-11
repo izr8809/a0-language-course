@@ -1,0 +1,309 @@
+# 🎵 J-POP・音楽 (タメ口+丁寧語 mixed) >> Japanese Fan Life
+
+# KP-4: 誕生日おめでとうございます！
+
+- 대분류: Kpop
+- 중분류: Special Event
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Birthday Message
+
+**Goal:** To send your favorite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 장소:** オンライン (ファンクラブアプリ)
+
+**intro_text:**
+Midnight JST. It's officially their birthday. My heart is racing...
+
+**기 — 誕生日 [세트 1]**
+User: 誕生日おめでとうございます！
+AI: ありがとうございます！うれしいです！
+User: 今日何してましたか？
+AI: メンバーとケーキ食べました！
+
+**Outro:**
+> First birthday message delivered! 🎂 Did they get your special gift yet?
+> The suspense is killing you — and them.
+>
+
+**승 — プレゼント [세트 2]**
+User: プレゼント送りました！届きましたか？
+AI: まだ届いてないです！何ですか？
+User: 秘密です！ / 手紙とプレゼントです！
+AI: 楽しみにしてます！ありがとうございます！
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: They just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: Fan Event
+
+**Goal:** To cheer for your favorite artist during their birthday live and react to their heartfelt birthday wish.
+
+**📍 장소:** オンライン (ライブ配信)
+
+**승 — 誕生日イベント [세트 3]**
+AI: みなさん誕生日を祝ってくれてありがとうございます！
+User: おめでとうございます！ / 大好きです！
+AI: ファンのみなさんのおかげで幸せです！
+User: 私もです。幸せでいてください！
+
+**Outro:**
+> They are literally an angel! 👼 Shh... they're about to make their birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — 願い [세트 4]**
+AI: 願い事しました！何かわかりますか？
+User: 何ですか？ / 教えてください！
+AI: ファンのみなさんとずっと一緒にいたいです！
+User: 感動しました！ / 私もです！
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: Ending
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favorite artist.
+
+**📍 장소:** オンライン (ライブ配信, 同じ)
+
+**전 — まとめ [세트 5]**
+AI: 今日本当に幸せでした！
+User: 私も幸せです！
+AI: 来年の誕生日も一緒にやりましょう！
+User: もちろんです！
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before they turn off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — おやすみなさい [세트 6]**
+AI: もう寝ます！おやすみなさい！
+User: おやすみなさい！
+AI: 大好きです！
+User: 私も大好きです！
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind their lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---
+
+# KP-5: この歌詞ってどういう意味？
+
+- 대분류: Kpop
+- 중분류: Understanding Lyrics
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking About Lyrics
+
+**Goal:** To ask your friend about Japanese lyrics you don't understand and learn some key phrases.
+
+**📍 장소:** 友達の家 (一緒に音楽を聴きながら)
+
+**intro_text:**
+Their new song is on repeat. But what does it actually mean?
+
+**기 — 歌詞 [세트 1]**
+User: この歌何て言ってるの？
+AI: どの部分？
+User: 「会いたい」この部分！
+AI: 「I miss you」って意味だよ！
+
+**Outro:**
+> "会いたい" — now you'll never forget it! 💭 What else don't you know?
+> The vocabulary lesson is just getting started.
+>
+
+**승 — もっと知る [세트 2]**
+User: 「好きだよ」は知ってる！じゃあ「愛してる」は？
+AI: それは「I love you」！「好きだよ」より強い気持ち！
+User: あ、違うんだ！ / 本当に？
+AI: うん！日本語の歌詞って面白いでしょ？
+
+**Outro:**
+> Love vs. like — the eternal J-Pop distinction! 🎵 Now you know the difference.
+> Time to put that knowledge to use and actually sing along.
+>
+
+---
+
+### sim2: Singing Along
+
+**Goal:** To try singing along to a Japanese song and get encouragement from your friend.
+
+**📍 장소:** 友達の家 (同じ)
+
+**승 — 一緒に歌う [세트 3]**
+AI: この歌一緒に歌ってみる？
+User: いいよ！ / 歌詞知らなくても大丈夫？
+AI: 大丈夫！真似してみて！
+User: わかった！
+
+**Outro:**
+> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
+> Your friend is about to give you the best compliment.
+>
+
+**전 — 歌う [세트 4]**
+AI: 上手じゃん！
+User: 本当に？ / 発音変じゃない？
+AI: 全然！上手だよ！センスある！
+User: ありがとう！
+
+**Outro:**
+> "センスある!" — you've got the feel! 🌟 That's the highest compliment.
+> Now let's talk about the new song everyone's obsessing over.
+>
+
+---
+
+### sim3: New Song
+
+**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
+
+**📍 장소:** 友達の家 (同じ)
+
+**전 — 新しい曲 [세트 5]**
+User: 最近新しい曲出たじゃん？聴いた？
+AI: うん！すごくいい！君は？
+User: 私も聴いた！歌詞が切ないね。
+AI: そう！「待ってるよ」の部分本当に切ない。
+
+**Outro:**
+> "待ってるよ" — I'll wait for you. 😢 Why is J-Pop always so emotional?
+> End the session the only way possible: listening together.
+>
+
+**결 — 一緒に聴く [세트 6]**
+User: 一緒に聴きながら歌詞教えて！
+AI: いいよ！聴いてみて！
+User: この曲本当にいい。
+AI: そう！
+
+**Outro:**
+> Music + friendship + Japanese lyrics = perfect afternoon! 🎶 You're basically fluent now.
+> Next up: a fan story that will make you want to go to a live immediately.
+>
+
+---
+
+# KP-6: ライブ行ってきた！
+
+- 대분류: Kpop
+- 중분류: Fan Story
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Telling the Story
+
+**Goal:** To tell your friend all about the concert and relive the most exciting moments.
+
+**📍 장소:** カフェ (友達に話す)
+
+**intro_text:**
+You just got back from the concert. Your hands are still shaking.
+
+**기 — 行ってきた [세트 1]**
+User: 昨日ライブ行ってきた！
+AI: やばい！どうだった？
+User: 本当に震えた！ / 最高だった！
+AI: うらやましい！何したの？
+
+**Outro:**
+> The story begins! 😱 Your friend is already jealous.
+> And it gets better — you actually got close to the stage.
+>
+
+**승 — 話 [세트 2]**
+User: 最前列近くで見れて、目が合った気がした！
+AI: え！何それ！すごい！
+User: 「大好きです！」って叫んだ！ / 手振ったら振り返してくれた！
+AI: 最高じゃん！何て言ってた？
+
+**Outro:**
+> You did WHAT?! 🤯 The audacity. The courage. The legend.
+> And their reaction? You need to hear this.
+>
+
+---
+
+### sim2: The Details
+
+**Goal:** To share their reaction, talk about the merch you bought, and make plans to go together next time.
+
+**📍 장소:** カフェ (同じ)
+
+**승 — 反応 [세트 3]**
+User: 笑いながら手振ってくれた！
+AI: 死ぬ！私も行きたかった！
+User: 次一緒に行こう！
+AI: 本当に？いいね！
+
+**Outro:**
+> Next concert: booked (mentally)! 🎫 Your friend is already planning the outfit.
+> But first — did you buy any merch?
+>
+
+**전 — グッズ [세트 4]**
+AI: グッズ買った？
+User: うん、Tシャツ買った！ / タオル買った！
+AI: 見せて！
+User: これ！かわいいでしょ！
+
+**Outro:**
+> Merch acquired! 🛍️ That's going straight to the fan Twitter.
+> The excitement still hasn't worn off — and it won't for a while.
+>
+
+---
+
+### sim3: After
+
+**Goal:** To still be buzzing from the experience, show off photos, and make a firm promise to go together.
+
+**📍 장소:** カフェ (同じ)
+
+**전 — まだ興奮してる [세트 5]**
+AI: まだ興奮してる？
+User: うん、まだ手震えてる！ / 実感ない！
+AI: うらやましい！写真見せて！
+User: これ！見て！
+
+**Outro:**
+> Photo evidence! 📸 This is going straight to the fan account.
+> One last promise to seal the deal.
+>
+
+**결 — 期待 [세트 6]**
+AI: 本当によかったね！
+User: 次絶対一緒に行こう！
+AI: うん！約束！
+User: 約束！
+
+**Outro:**
+> Pinky promise: concert together! 💖 The countdown starts now.
+> J-Pop fan life is the best life — and you're living proof.
+>
+
+---
+
+# 👔 仕事 (敬語) >> Japanese Work Life

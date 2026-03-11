@@ -1,0 +1,446 @@
+# ✈️ TRAVEL & PLACES (polite) >> US Travel
+
+# TR-1: Can I Get a Coffee?
+
+- Category: Travel & Places
+- Subcategory: Coffee Shop
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
+
+**📍 Location:** Coffee shop counter (Starbucks, NYC)
+
+**intro_text:**
+First American coffee order. You got this... just say it!
+
+**Opening — Order [Set 1]**
+AI: Hi there! What can I get for you?
+User: Can I get an iced coffee, please? / Can I get an iced latte, please?
+AI: What size?
+User: Medium, please. / Large, please.
+
+**Outro:**
+> Drink ordered! ☕
+> But wait... that muffin in the display is calling your name.
+>
+
+**Add-On [Set 2]**
+AI: Anything else for you?
+User: Do you have muffins? / That's all, thank you.
+AI: We have blueberry and chocolate chip!
+User: I'll take a blueberry one, please. / I'll take the chocolate chip, please.
+
+**Outro:**
+> Order complete! 🧁
+> Now, time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and give your name for the order.
+
+**📍 Location:** Coffee shop counter (same)
+
+**intro_text:**
+Order placed. Now comes the moment of truth.
+Time to pay and give your name!
+
+**Payment [Set 3]**
+AI: That'll be $7.50!
+User: Can I pay by card? / I'll pay with cash.
+AI: Of course, go ahead.
+User: Thank you so much.
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before you wait...
+>
+
+**Name [Set 4]**
+AI: Can I get a name for the order?
+User: It's ___.
+AI: Got it! We'll call your name when it's ready!
+User: Thank you!
+
+**Outro:**
+> Name given! 📝
+> Now, the hardest part: waiting for coffee.
+>
+
+---
+
+### sim3: Getting Your Order
+
+**Goal:** To pick up your order, ask for extras, and find a seat.
+
+**📍 Location:** Coffee shop pickup → seating area
+
+**intro_text:**
+Your name is about to be called.
+Get ready to grab your order!
+
+**Pickup [Set 5]**
+AI: ___, your iced coffee is ready!
+User: Thank you so much!
+AI: Do you need a straw?
+User: Yes, please. / No, I'm good, thanks.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now, find the perfect spot to enjoy it.
+>
+
+**Seat [Set 6]**
+User: Is this seat taken?
+AI: No, go ahead!
+User: Thank you!
+AI: Enjoy!
+
+**Outro:**
+> Mission accomplished! ☕🧁
+> You're officially a US coffee shop regular. Next up: Time to eat!
+>
+
+---
+
+# TR-2: Table for Two, Please
+
+- Category: Travel & Places
+- Subcategory: Restaurant
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 Location:** Restaurant (NYC)
+
+**intro_text:**
+First American restaurant experience.
+Get ready for some serious flavor!
+
+**Opening — Getting Seated [Set 1]**
+AI: Hi! How many?
+User: Just me. / Two, please.
+AI: Right this way!
+User: Thank you.
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**Order [Set 2]**
+AI: What can I get for you?
+User: Can I get a burger, please?
+AI: Sure! And to drink?
+User: Water, please. / A Coke, please.
+
+**Outro:**
+> Order placed! 🍔
+> But wait... is the burger too big for you?
+>
+
+---
+
+### sim2: The Flavor Check
+
+**Goal:** To adjust your order and politely request extra items.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+The food is on its way.
+Time to make sure everything is right!
+
+**Spice Check [Set 3]**
+AI: Just so you know, the sauce is a little spicy!
+User: Is it spicy? / That's okay, I like spicy!
+AI: Yeah, just a little bit.
+User: Can I get it on the side, please? / Spicy is fine!
+
+**Outro:**
+> Crisis averted! 🌶️
+> Time to discover the magic of American sides.
+>
+
+**Extras [Set 4]**
+User: Excuse me! Can I get a refill?
+AI: Of course! What would you like?
+User: More water, please. / More Coke, please.
+AI: Coming right up!
+
+**Outro:**
+> The food is amazing! 🍟
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle payment, and offer polite closing greetings.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+You're full. It was delicious.
+Time to pay and head out!
+
+**Bill [Set 5]**
+User: Excuse me! Can I get the check, please?
+AI: Of course! Here you go. It's $18.
+User: Can I pay by card? / I'll pay cash.
+AI: Do you need change?
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**Goodbye [Set 6]**
+User: Yes, please. / No, keep the change!
+AI: Thank you so much! Have a great day!
+User: Thank you! The food was great!
+AI: Come back soon!
+
+**Outro:**
+> Meal complete! 🍔
+> You're officially a US restaurant regular. Next up: Time to navigate the city!
+>
+
+---
+
+# TR-3: Excuse Me, Where Is...?
+
+- Category: Travel & Places
+- Subcategory: Asking Directions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Finding the Subway
+
+**Goal:** To ask for directions to the subway and understand basic directional responses.
+
+**📍 Location:** Street (Times Square, NYC)
+
+**intro_text:**
+You're lost in Times Square.
+Time to ask a local for help!
+
+**Opening — Directions [Set 1]**
+User: Excuse me! Where is the subway?
+AI: The subway? Go straight down this street.
+User: Straight down?
+AI: Yes, then turn left at the corner.
+
+**Outro:**
+> Directions received! 🗺️
+> But wait... which line do you need?
+>
+
+**Which Line? [Set 2]**
+User: Thank you! Which line goes to Brooklyn?
+AI: Take the A or C train.
+User: The A or C train. Got it, thank you!
+AI: No problem! Have a good one!
+
+**Outro:**
+> Line confirmed! 🚇
+> Now, can you actually get there on time?
+>
+
+---
+
+### sim2: At the Ticket Machine
+
+**Goal:** To buy a MetroCard and ask about the fare.
+
+**📍 Location:** Subway station (Times Square)
+
+**intro_text:**
+You found the station. Now you need a MetroCard.
+Let's figure this out!
+
+**Ticket [Set 3]**
+User: Excuse me! How much is the subway?
+AI: It's $2.90 per ride.
+User: Thank you!
+AI: No problem!
+
+**Outro:**
+> Fare found! 🎫
+> Now, figure out which platform to go to.
+>
+
+**Platform [Set 4]**
+User: Excuse me! Which platform for the A train?
+AI: It's on the lower level.
+User: Lower level. Got it, thank you!
+AI: Sure thing!
+
+**Outro:**
+> Platform found! 🚃
+> Almost there — just one more thing to check.
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm your stop and ask a fellow passenger for help.
+
+**📍 Location:** On the subway
+
+**intro_text:**
+You're on the train. Almost there.
+Just make sure you get off at the right stop!
+
+**On the Train [Set 5]**
+User: Excuse me! Is the next stop Brooklyn?
+AI: Yes, next stop!
+User: Thank you!
+AI: Sure!
+
+**Outro:**
+> Almost at your stop! 🚉
+> Just one more step — get off at the right place.
+>
+
+**Arrived [Set 6]**
+User: Excuse me! Is this my stop?
+AI: Yes, this is it!
+User: Thank you so much!
+AI: Have a good one!
+
+**Outro:**
+> Arrived safely! 🎉
+> Next up: Checking into your hotel.
+>
+
+---
+
+# TR-4: I Have a Reservation
+
+- Category: Travel & Places
+- Subcategory: Hotel / Airbnb
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in at the hotel, confirm your reservation, and get your room key.
+
+**📍 Location:** Hotel front desk (NYC)
+
+**intro_text:**
+Long day of travel. Finally, the hotel.
+Let's get that room key!
+
+**Opening — Check-In [Set 1]**
+AI: Welcome! Do you have a reservation?
+User: Yes, under the name ___.
+AI: Let me pull that up. Can I see your ID?
+User: Sure, here you go.
+
+**Outro:**
+> Check-in started! 🏨
+> But wait... what floor is your room on?
+>
+
+**Room Info [Set 2]**
+AI: You're in room 305, on the third floor.
+User: Thank you! Where's the elevator?
+AI: Right over there!
+User: Thank you so much!
+
+**Outro:**
+> Room confirmed! 🗝️
+> Now, find out what's included in your stay.
+>
+
+---
+
+### sim2: Room Amenities
+
+**Goal:** To ask about breakfast, Wi-Fi, and other hotel services.
+
+**📍 Location:** Hotel front desk (same)
+
+**intro_text:**
+Room key in hand. But first — a few questions.
+Let's find out what's included!
+
+**Breakfast [Set 3]**
+User: Is breakfast included?
+AI: Yes! It's from 7 to 10am.
+User: Great! Where is it?
+AI: In the restaurant on the first floor.
+
+**Outro:**
+> Breakfast info secured! 🍳
+> Now, get connected.
+>
+
+**Wi-Fi [Set 4]**
+User: Is there Wi-Fi?
+AI: Yes! Here's the password.
+User: Thank you!
+AI: Enjoy your stay!
+
+**Outro:**
+> Connected! 📶
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and confirm the bill.
+
+**📍 Location:** Hotel front desk
+
+**intro_text:**
+Time to check out. It was a great stay.
+Let's wrap it up!
+
+**Check-Out [Set 5]**
+User: I'd like to check out, please.
+AI: Of course! Let me get your bill. One moment.
+User: Sure.
+AI: Your total is $150. How would you like to pay?
+
+**Outro:**
+> Bill ready! 💳
+> Just one last thing before you head out.
+>
+
+**Goodbye [Set 6]**
+User: By card, please.
+AI: Perfect! Thank you for staying with us!
+User: Thank you! I had a great time!
+AI: Come back soon! Safe travels!
+
+**Outro:**
+> Check-out complete! 🧳
+> Next up: Time to explore pop culture!
+>
+
+---
+
+# 🎓 CAMPUS LIFE (casual + semi-formal) >> Studying in the US

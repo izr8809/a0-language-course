@@ -1,0 +1,415 @@
+# 🌏 TRAVELING (您/polite) >> China Travel
+
+# TR-1: 来一杯咖啡
+
+- 大分类: Traveling
+- 中分类: Café Order
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Entering the Café
+
+**Goal:** To greet café staff, ask about the menu, and order a drink politely.
+
+**📍 장소:** 咖啡馆 (三里屯)
+
+**intro_text:**
+You've found a cute café in Sanlitun.
+Time to order your first coffee in Chinese!
+
+**기 — 点单 [세트 1]**
+AI: 您好！欢迎光临！请问喝点什么？
+User: 请问有拿铁吗？ / 请问有美式吗？
+AI: 有的！要热的还是冰的？
+User: 要热的，谢谢！
+
+**Outro:**
+> Order placed! ☕
+> But wait... what size do you want?
+>
+
+**승 — 大小 [세트 2]**
+AI: 请问要大杯还是中杯？
+User: 大杯，谢谢！
+AI: 好的！还要别的吗？
+User: 不用了，谢谢！ / 再来一个蛋糕！
+
+**Outro:**
+> Order confirmed! 🎂
+> Now it's time to pay. Do you have the app ready?
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about the price, pay, and handle the transaction politely.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**승 — 多少钱 [세트 3]**
+User: 请问多少钱？
+AI: 一共38块！
+User: 可以微信支付吗？ / 可以刷卡吗？
+AI: 可以！请扫码！
+
+**Outro:**
+> Payment in progress! 💳
+> Almost done — just confirm the transaction!
+>
+
+**전 — 付款 [세트 4]**
+AI: 好的，付款成功！
+User: 谢谢！
+AI: 请稍等，马上好！
+User: 好的，谢谢！
+
+**Outro:**
+> Transaction complete! ✅
+> Now find a seat and enjoy your coffee!
+>
+
+---
+
+### sim3: Enjoying the Café
+
+**Goal:** To ask for help finding a seat and make small talk with the barista.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**전 — 找座位 [세트 5]**
+AI: 您的拿铁！请慢用！
+User: 谢谢！请问可以坐那里吗？
+AI: 当然可以！请便！
+User: 谢谢您！
+
+**Outro:**
+> Seated and sipping! ☕
+> One last interaction — the barista wants to chat!
+>
+
+**결 — 聊天 [세트 6]**
+AI: 请问您是第一次来吗？
+User: 是的，第一次！ / 不是，来过几次！
+AI: 欢迎！希望您喜欢！
+User: 谢谢！很好喝！
+
+**Outro:**
+> Café conquered! 🏆
+> You ordered, paid, and charmed the barista. Next stop: dinner!
+>
+
+---
+
+# TR-2: 我想点菜
+
+- 大分类: Traveling
+- 中分类: Restaurant
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Getting a Table
+
+**Goal:** To enter a restaurant, request a table, and get seated politely.
+
+**📍 장소:** 餐厅 (国贸)
+
+**intro_text:**
+You're hungry and you've found a great restaurant.
+Time to get a table and order like a local!
+
+**기 — 订位 [세트 1]**
+AI: 您好！请问几位？
+User: 两位，谢谢！ / 一位，谢谢！
+AI: 好的！请跟我来！
+User: 谢谢！
+
+**Outro:**
+> Seated! 🪑
+> Now get that menu and figure out what to order.
+>
+
+**승 — 看菜单 [세트 2]**
+AI: 这是菜单，请慢慢看！
+User: 谢谢！请问有推荐吗？
+AI: 我们的麻辣烫很受欢迎！
+User: 好！我要麻辣烫！ / 好！我要试试！
+
+**Outro:**
+> Order incoming! 🌶️
+> Now make sure you get everything you need!
+>
+
+---
+
+### sim2: Ordering Food
+
+**Goal:** To order food and drinks, and handle special requests politely.
+
+**📍 장소:** 餐厅 (同一)
+
+**승 — 点菜 [세트 3]**
+User: 服务员！
+AI: 来了！请问点什么？
+User: 我要一份麻辣烫！ / 我要一份炒饭！
+AI: 好的！要喝什么？
+
+**Outro:**
+> Food ordered! 🍜
+> Don't forget the drinks!
+>
+
+**전 — 饮料 [세트 4]**
+AI: 要喝什么？
+User: 一杯水，谢谢！ / 一杯茶，谢谢！
+AI: 好的！还要别的吗？
+User: 不用了，谢谢！
+
+**Outro:**
+> Full order placed! 🍵
+> Now wait for the food and enjoy the atmosphere!
+>
+
+---
+
+### sim3: Finishing Up
+
+**Goal:** To ask for the bill and wrap up the restaurant experience politely.
+
+**📍 장소:** 餐厅 (同一)
+
+**전 — 结账 [세트 5]**
+AI: 请问还需要什么吗？
+User: 不用了！麻烦结账！ / 谢谢！买单！
+AI: 好的！一共68块！
+User: 好的！微信支付可以吗？
+
+**Outro:**
+> Bill requested! 💰
+> Almost out the door — just finish the payment!
+>
+
+**결 — 离开 [세트 6]**
+AI: 可以！请扫码！付款成功！
+User: 谢谢！很好吃！
+AI: 谢谢您！欢迎下次再来！
+User: 好的！再见！
+
+**Outro:**
+> Dinner: Success! 🎉
+> You ordered, ate, and paid like a pro. Shanghai is yours!
+>
+
+---
+
+# TR-3: 去哪儿坐地铁？
+
+- 大分类: Traveling
+- 中分类: Subway/Transport
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Finding the Station
+
+**Goal:** To ask for directions to the subway station politely.
+
+**📍 장소:** 街上 (上海)
+
+**intro_text:**
+You're lost in Shanghai. The subway is somewhere nearby.
+Time to ask a local for help!
+
+**기 — 问路 [세트 1]**
+AI: 您好！请问地铁站在哪儿？
+User: 在前面！ / 在左边！
+AI: 哦，谢谢！请问怎么走？
+User: 一直走，然后左转！
+
+**Outro:**
+> Directions received! 🗺️
+> Now find the right line and platform!
+>
+
+**승 — 找站台 [세트 2]**
+AI: 您好！请问几号线去南京路？
+User: 坐2号线！ / 坐1号线！
+AI: 谢谢！在哪儿换乘？
+User: 在人民广场换！
+
+**Outro:**
+> Route confirmed! 🚇
+> Now buy your ticket and get on the train!
+>
+
+---
+
+### sim2: Buying a Ticket
+
+**Goal:** To buy a subway ticket and ask about the fare politely.
+
+**📍 장소:** 地铁站 (同一)
+
+**승 — 买票 [세트 3]**
+User: 请问去南京路多少钱？
+AI: 4块钱！
+User: 可以用手机支付吗？ / 可以用现金吗？
+AI: 可以！这边扫码！
+
+**Outro:**
+> Ticket sorted! 🎫
+> Now find the right platform!
+>
+
+**전 — 找站台 [세트 4]**
+AI: 请问2号线在哪儿？
+User: 在B出口！ / 在地下一层！
+AI: 谢谢！还有几分钟？
+User: 还有3分钟！快去吧！
+
+**Outro:**
+> Running for the train! 🏃
+> Made it? Let's hope so!
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm the stop and ask for help on the train.
+
+**📍 장소:** 地铁上
+
+**전 — 在车上 [세트 5]**
+AI: 请问这趟车去南京路吗？
+User: 是的！ / 不是，您坐反了！
+AI: 谢谢！还有几站？
+User: 还有两站！
+
+**Outro:**
+> Almost there! 🚉
+> One more stop — get ready to get off!
+>
+
+**결 — 到站了 [세트 6]**
+AI: 下一站，南京路！
+User: 谢谢！请问从哪个出口出去？
+AI: 从1号出口出去！
+User: 谢谢您！
+
+**Outro:**
+> Arrived! 🎯
+> You navigated Shanghai's subway like a local. Explorer badge earned!
+>
+
+---
+
+# TR-4: 这个多少钱？
+
+- 大分类: Traveling
+- 中分类: Shopping
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Browsing the Shop
+
+**Goal:** To browse a shop, ask about items, and express interest politely.
+
+**📍 장소:** 南京路 (上海)
+
+**intro_text:**
+You're on Nanjing Road and everything looks amazing.
+Time to shop — in Chinese!
+
+**기 — 逛街 [세트 1]**
+AI: 您好！欢迎！请随便看！
+User: 谢谢！这个是什么？
+AI: 这是丝巾！很受欢迎！
+User: 好漂亮！ / 哦，不错！
+
+**Outro:**
+> Interest sparked! 👀
+> Now find out how much it costs!
+>
+
+**승 — 问价格 [세트 2]**
+AI: 您喜欢吗？
+User: 喜欢！这个多少钱？
+AI: 这个198块！
+User: 有点贵！ / 好的，我考虑一下！
+
+**Outro:**
+> Price revealed! 💸
+> Time to negotiate — this is China, after all!
+>
+
+---
+
+### sim2: Negotiating
+
+**Goal:** To negotiate a price and decide whether to buy the item.
+
+**📍 장소:** 南京路 (同一)
+
+**승 — 还价 [세트 3]**
+User: 能便宜一点吗？
+AI: 最低180！
+User: 150可以吗？ / 160可以吗？
+AI: 好吧！就160！
+
+**Outro:**
+> Deal in progress! 🤝
+> Now seal the deal and pay!
+>
+
+**전 — 付款 [세트 4]**
+AI: 好！160块！怎么付？
+User: 微信支付！ / 现金！
+AI: 好的！请扫码！
+User: 好了！谢谢！
+
+**Outro:**
+> Purchase complete! 🛍️
+> You haggled and won. Shopping legend status achieved!
+>
+
+---
+
+### sim3: Wrapping Up
+
+**Goal:** To ask for a bag, get a receipt, and leave the shop politely.
+
+**📍 장소:** 南京路 (同一)
+
+**전 — 装袋 [세트 5]**
+AI: 需要袋子吗？
+User: 需要，谢谢！ / 不用了，谢谢！
+AI: 好的！这是您的东西！
+User: 谢谢！能给我收据吗？
+
+**Outro:**
+> Almost done! 🧾
+> Get that receipt and you're free to go!
+>
+
+**결 — 离开 [세트 6]**
+AI: 好的！这是收据！
+User: 谢谢！东西很好！
+AI: 谢谢您！欢迎下次再来！
+User: 好的！再见！
+
+**Outro:**
+> Shopping complete! 🎉
+> You bargained, bought, and walked away happy. Next adventure awaits!
+>
+
+---
+
+# 🎬 DRAMA/MOVIE (你/casual) >> Chinese Entertainment

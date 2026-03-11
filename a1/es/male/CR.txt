@@ -1,0 +1,308 @@
+# 👔 TRABAJO (usted formal) >> Entorno Profesional en LATAM
+
+# CR-4: ¿Está listo para la reunión?
+
+- 대분류: Career
+- 중분류: Meetings
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Antes de la reunión
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 장소:** Oficina (su escritorio)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — Preparación [세트 1]**
+AI: ¿Ya está listo/a para la reunión de hoy?
+User: Sí, ya estoy listo/a. / Casi, me falta poco.
+AI: ¿Ya imprimió los documentos?
+User: Sí, ya los imprimí. / Ahorita los imprimo.
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — La sala [세트 2]**
+AI: ¿Ya reservó la sala de juntas?
+User: Sí, la reservé para las tres.
+AI: ¡Perfecto! ¡Nos vemos allá!
+User: Sí, con mucho gusto.
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: Durante la reunión
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** Sala de juntas
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — En la reunión [세트 3]**
+AI: ¿Tiene alguna opinión sobre este punto?
+User: Sí, creo que podemos hacerlo así. / Estoy de acuerdo con la propuesta.
+AI: ¡Muy buena idea!
+User: Muchas gracias.
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — La pregunta [세트 4]**
+User: Tengo una pregunta.
+AI: ¡Claro, adelante!
+User: ¿Para cuándo tenemos que entregar esto?
+AI: ¡Para el próximo viernes!
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate LATAM!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: Después de la reunión
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** Sala de juntas → oficina (regresando)
+
+**전 — Después de la reunión [세트 5]**
+AI: ¡Buen trabajo en la reunión!
+User: ¡Igualmente, gracias!
+User: Yo le mando el acta de la reunión.
+AI: ¡Muchas gracias!
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — Hasta la próxima [세트 6]**
+AI: ¡Entonces nos vemos en la próxima reunión!
+User: Sí, con mucho gusto.
+AI: ¡Que tenga buen día!
+User: ¡Igualmente, gracias!
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate LATAM: 0, You: 1.
+>
+
+---
+
+# CR-5: ¿Ya almorzó?
+
+- 대분류: Career
+- 중분류: Workplace Socializing
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: La hora del almuerzo
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 장소:** Oficina
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — El almuerzo [세트 1]**
+AI: ¿Ya almorzó?
+User: Todavía no. / Sí, ya almorcé.
+AI: ¿Quiere ir a comer juntos?
+User: ¡Sí, con mucho gusto! / ¡Gracias!
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — ¿Qué comemos? [세트 2]**
+AI: ¿Qué quiere comer? ¡Hay un lugar muy bueno cerca!
+User: ¡Cualquier cosa! / ¿Qué tienen de bueno?
+AI: ¡Aquí la sopa de lima es muy famosa!
+User: ¡Perfecto! ¡Vamos!
+
+**Outro:**
+> Sopa de lima it is! 🌶️ The ultimate office lunch.
+> Time to bond over a bowl of something delicious.
+>
+
+---
+
+### sim2: En el restaurante
+
+**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
+
+**📍 장소:** Restaurante cerca de la oficina
+
+**승 — Comiendo [세트 3]**
+AI: ¿Le gusta la comida mexicana? ¿Come picante?
+User: ¡Sí, me gusta! / ¡No como picante!
+AI: ¡Entonces le recomiendo el caldo de pollo! ¡No pica!
+User: ¡Perfecto!
+
+**Outro:**
+> Caldo de pollo: the safe and delicious choice! 🥣 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — La conversación [세트 4]**
+AI: ¿Cómo le está yendo aquí? ¿Ya se está adaptando?
+User: Sí, poco a poco. / A veces es difícil.
+AI: ¡Si necesita algo, con mucho gusto le ayudo!
+User: Muchas gracias.
+
+**Outro:**
+> A coworker who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: Regresando
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** Restaurante
+
+**전 — La cuenta [세트 5]**
+User: Yo pago.
+AI: ¡No, no! ¡Yo invito, soy el/la mayor!
+User: ¡Muchas gracias!
+AI: ¿Le gustó la comida?
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — De regreso [세트 6]**
+User: ¡Sí, estuvo muy rica! ¡Gracias por invitarme!
+AI: ¡Con mucho gusto!
+AI: ¿Subimos?
+User: ¡Sí, vamos!
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---
+
+# CR-6: ¿Podría tomarme el día de mañana?
+
+- 대분류: Career
+- 중분류: Requesting Leave
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Pidiendo el día libre
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 장소:** Oficina (frente al escritorio del jefe/a)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — La solicitud [세트 1]**
+User: Disculpe, ¿puedo hablar con usted un momento?
+AI: Sí, claro. ¿Qué necesita?
+User: ¿Puedo tomar el día de mañana? / Tengo un asunto personal.
+AI: ¿Mañana? ¿Tiene algo urgente?
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — La explicación [세트 2]**
+User: Sí, tengo que ir al médico. / Tengo un asunto personal.
+AI: Entendido.
+AI: ¿Puede dejar sus pendientes con alguien?
+User: Sí, los dejo organizados antes de salir.
+
+**Outro:**
+> Proactive handover offer! 📋 That's exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: La confirmación
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 장소:** Oficina (frente al escritorio del jefe/a, mismo)
+
+**승 — La aprobación [세트 3]**
+AI: Está bien, puede tomar el día de mañana.
+User: Muchas gracias.
+AI: ¡No se fuerce! ¡Cuídese!
+User: Sí, muchas gracias.
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — Preparando todo [세트 4]**
+User: Le mando un correo con mis pendientes.
+AI: ¡Sí, gracias!
+User: ¿Necesita algo más de mi parte?
+AI: ¡No, está bien! ¡Buen trabajo!
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you're free.
+>
+
+---
+
+### sim3: El día después
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 장소:** Oficina (su escritorio)
+
+**전 — De regreso [세트 5]**
+User: Buenos días. Gracias por el día de ayer.
+AI: ¡No hay problema! ¿Cómo se siente?
+User: Mucho mejor, gracias. / Bien, gracias.
+AI: ¡Qué bueno!
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that's a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — Volviendo al trabajo [세트 6]**
+AI: ¡No se apure! ¡Poco a poco!
+User: Sí, muchas gracias.
+AI: ¡Buen trabajo!
+User: ¡Igualmente, gracias!
+
+**Outro:**
+> "¡Igualmente, gracias!" 🏢 The most professional way to end a workday.
+> You navigated Latin American office culture like a true professional.
+>

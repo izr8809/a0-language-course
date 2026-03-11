@@ -1,0 +1,450 @@
+# 💖 VIE PERSONNELLE (tu) >> La Vie à Paris
+
+# PI-1 : Salut, moi c'est ___!
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Première Rencontre
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Première rencontre à Paris.
+Respire un coup... et dis bonjour !
+
+---
+
+### sim1 : Enchantée
+
+**Goal:** To introduce yourself, say where you're from, and share one thing you like about Paris.
+
+**📍 Lieu :** Dehors (Le Marais, Paris)
+
+**intro_text:**
+Première rencontre à Paris.
+Respire un coup... et dis bonjour !
+
+**Ouverture — Premier Bonjour [Série 1]**
+AI: Salut ! Moi c'est Léo. Tu t'appelles comment ?
+User: Salut ! Moi c'est ___. / Je m'appelle ___.
+AI: Sympa ! Tu viens d'où ?
+User: Je viens de ___ !
+
+**Outro:**
+> Première impression : Réussie ! 🎯
+> Mais attends... pourquoi tu es vraiment à Paris ?
+>
+
+**Découverte — Ce que tu aimes [Série 2]**
+AI: Tu aimes Paris ?
+User: Oui, j'adore ! / C'est magnifique !
+AI: Qu'est-ce que tu aimes ici ?
+User: La nourriture ! / Les gens !
+
+**Outro:**
+> Elle a adoré ta réponse ! 👀
+> Drapeau rouge ou vert ? On va voir si vos goûts se ressemblent.
+>
+
+---
+
+### sim2 : On se rapproche
+
+**Goal:** To discover shared hobbies and talk about your experience with French food.
+
+**📍 Lieu :** Dehors (même endroit)
+
+**intro_text:**
+Vous continuez à parler. Bon signe !
+C'est l'heure de voir ce que vous avez en commun.
+
+**Loisirs — Qu'est-ce que tu aimes faire ? [Série 3]**
+User: Léo, tu aimes quoi ?
+AI: Moi ? J'adore la musique ! Et toi ?
+User: Moi aussi ! / J'aime les films !
+AI: Ah bon ? La musique française ?
+
+**Outro:**
+> Bonne vibe ! ✔️
+> Prépare-toi pour l'obsession numéro un de Paris... la nourriture.
+>
+
+**Nourriture — T'as déjà goûté ? [Série 4]**
+AI: T'as déjà mangé un croissant ici ?
+User: Oui ! / Pas encore !
+AI: Tu dois essayer ! C'est trop bon !
+User: Je veux goûter ! / Oui, c'était délicieux !
+
+**Outro:**
+> Assez parlé ! 🛑
+> C'est ta chance en or. Propose de sortir ensemble !
+>
+
+---
+
+### sim3 : On sort ?
+
+**Goal:** To make casual weekend plans and exchange WhatsApp numbers.
+
+**📍 Lieu :** Dehors (même endroit)
+
+**intro_text:**
+L'ambiance est super. Vraiment super.
+C'est l'heure de rendre ça officiel !
+
+**Plans — Ce week-end [Série 5]**
+User: Tu fais quoi ce week-end ?
+AI: Moi ? Rien encore ! Tu veux sortir ?
+User: Oui ! On fait quoi ?
+AI: On va manger quelque chose !
+
+**Outro:**
+> C'est officiellement un rendez-vous ! 🥂
+> Attends ! Ne la laisse pas partir sans son numéro WhatsApp !
+>
+
+**Contact — Restons en contact [Série 6]**
+User: T'as WhatsApp ?
+AI: Oui, bien sûr ! Voilà mon numéro.
+User: Super !
+AI: Écris-moi ! À bientôt !
+
+**Outro:**
+> Contact sauvegardé ! 🔒
+> La suite : Le test qui décide si vous êtes *vraiment* compatibles.
+>
+
+---
+
+# PI-2 : C'est quoi ton signe ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Petite Conversation
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Bases
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Lieu :** Café (Le Marais, Paris)
+
+**intro_text:**
+Tu es arrivé(e) au café. La vraie conversation commence.
+L'âge, le quartier... et puis la question que tout le monde pose.
+
+**Ouverture — L'âge [Série 1]**
+AI: T'as quel âge ?
+User: J'ai ___ ans ! / J'ai ___ !
+AI: Ah, pareil que moi ! J'ai 25 ans !
+User: Vraiment ? / Oh, c'est cool !
+
+**Outro:**
+> L'âge révélé ! 🎂
+> Maintenant, découvre où il/elle habite vraiment.
+>
+
+**Quartier — T'habites où ? [Série 2]**
+User: T'habites où ?
+AI: Moi ? Dans le Marais ! Et toi ?
+User: À Paris ! / Près de Montmartre !
+AI: Oh, c'est proche !
+
+**Outro:**
+> Voisins ? Peut-être ! 📍
+> Prépare-toi — la question du signe arrive.
+>
+
+---
+
+### sim2 : Le Signe Astro
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café est bon. La conversation aussi.
+C'est l'heure de la vraie question.
+
+**Signe — Astrologie [Série 3]**
+User: C'est quoi ton signe ?
+AI: Je suis Scorpion ! Et toi ?
+User: Je suis Verseau ! / Je sais pas !
+AI: Verseau ? On va bien s'entendre !
+
+**Outro:**
+> Compatibilité : Validée ! 💫
+> Maintenant, creuse un peu pour savoir qui il/elle est vraiment.
+>
+
+**Caractère — Personnalité [Série 4]**
+AI: T'es plutôt chez toi ou dehors ?
+User: Dehors, j'adore sortir ! / Chez moi, c'est bien !
+AI: Moi aussi ! On a le même style !
+User: Oh, pareil !
+
+**Outro:**
+> Même énergie ! ✨
+> Un dernier tour — qu'est-ce qu'il/elle fait en ce moment ?
+>
+
+---
+
+### sim3 : Parle-moi de toi
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café est presque fini. La conversation, elle, continue.
+Encore un peu... et tu sais tout.
+
+**Maintenant — Quoi de neuf ? [Série 5]**
+AI: Tu fais quoi en ce moment ?
+User: J'apprends le français ! / Je regarde des séries !
+AI: Le français, c'est comment ? C'est bien ?
+User: Oui, c'est sympa ! / C'est un peu dur.
+
+**Outro:**
+> Réponse honnête ! 😄
+> C'est l'heure de conclure et de prévoir de se revoir.
+>
+
+**Fin — On se reparle [Série 6]**
+AI: On se reparle bientôt !
+User: Oui, avec plaisir !
+AI: Écris-moi sur WhatsApp !
+User: OK !
+
+**Outro:**
+> Nouvel(le) ami(e) débloqué(e) ! 🔓
+> La suite : Transforme ce chat en vrais plans.
+>
+
+---
+
+# PI-3 : Tu fais quoi ce week-end ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Faire des Plans
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Ce Week-end
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+La bulle de message clignote.
+C'est l'heure de tenter ta chance — propose de sortir !
+
+**Plans — Le week-end [Série 1]**
+User: Tu fais quoi ce week-end ?
+AI: Moi ? Rien encore ! Pourquoi ?
+User: On sort ensemble ?
+AI: Bonne idée ! On fait quoi ?
+
+**Outro:**
+> Il/Elle a dit oui ! 🙌
+> Maintenant, décide ce que vous allez vraiment faire.
+>
+
+**Destination — On va où ? [Série 2]**
+User: On va au café ? On va manger ?
+AI: Manger ! J'ai faim ! Où ça ?
+User: Le Marais, ça te va ?
+AI: Parfait !
+
+**Outro:**
+> Destination : Le Marais ! 🗺️
+> Maintenant, fixe les détails — quand et où exactement ?
+>
+
+---
+
+### sim2 : Quand et Où
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Lieu :** En ligne (WhatsApp, même conversation)
+
+**intro_text:**
+Les plans sont lancés. Plus qu'à confirmer.
+Heure et lieu — et c'est bon !
+
+**Heure — On se retrouve quand ? [Série 3]**
+AI: On se retrouve à quelle heure ?
+User: À 14h ? / Le soir !
+AI: Bonne idée ! Devant le métro Arts et Métiers ?
+User: OK !
+
+**Outro:**
+> Heure confirmée ! ⏰
+> Une dernière confirmation et c'est réglé.
+>
+
+**Confirmation — C'est bon ? [Série 4]**
+AI: Alors samedi, Arts et Métiers !
+User: C'est bon !
+AI: Sois pas en retard !
+User: Promis ! / Je suis jamais en retard !
+
+**Outro:**
+> Plans confirmés ! 📅
+> Samedi arrive... tu es prête pour le vrai truc ?
+>
+
+---
+
+### sim3 : Le Jour J
+
+**Goal:** To meet up and start the outing together.
+
+**📍 Lieu :** Métro Arts et Métiers, Paris
+
+**intro_text:**
+Samedi. Tu es là. Il/Elle arrive.
+C'est parti !
+
+**Arrivée — On est là ! [Série 5]**
+User: Je suis là ! T'es où ?
+AI: J'arrive ! Une minute !
+User: OK, je t'attends !
+AI: Me voilà ! Désolé !
+
+**Outro:**
+> Enfin réunis ! 🎉
+> Maintenant, profite du moment — c'est parti !
+>
+
+**Sortie — C'est parti ! [Série 6]**
+AI: On va où d'abord ?
+User: La boulangerie ! J'ai faim ! / Le café d'abord !
+AI: Bonne idée ! Allons-y !
+User: Super !
+
+**Outro:**
+> Aventure lancée ! 🥐
+> La suite : Est-ce que vous allez vous revoir ?
+>
+
+---
+
+# PI-4 : T'es sur les réseaux ?
+
+- Catégorie : Vie Personnelle
+- Sous-catégorie : Réseaux Sociaux / WhatsApp
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Les Réseaux
+
+**Goal:** To ask about and share social media handles.
+
+**📍 Lieu :** Café (Paris)
+
+**intro_text:**
+Le café est bon. La conversation aussi.
+C'est l'heure de se connecter en ligne !
+
+**Réseaux — T'es où en ligne ? [Série 1]**
+AI: T'es sur Instagram ?
+User: Oui, je suis dessus ! / Non, pas vraiment.
+AI: T'es sur quoi alors ?
+User: C'est ___ ! / Je t'envoie sur WhatsApp !
+
+**Outro:**
+> Connectés en ligne ! 📱
+> Mais est-ce qu'il/elle poste des trucs intéressants ?
+>
+
+**Contenu — Tu postes quoi ? [Série 2]**
+User: Tu postes quoi sur Instagram ?
+AI: Des photos de Paris ! Et toi ?
+User: Des photos de nourriture ! / Des selfies !
+AI: Oh, j'adore ça !
+
+**Outro:**
+> Profil validé ! ✅
+> La suite : Est-ce que vous allez vous suivre ?
+>
+
+---
+
+### sim2 : WhatsApp
+
+**Goal:** To exchange WhatsApp contact and send a first message.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Instagram, c'est bien. WhatsApp, c'est mieux.
+C'est l'heure d'échanger les numéros !
+
+**Contact — WhatsApp [Série 3]**
+User: T'as WhatsApp ?
+AI: Oui ! Tu veux mon numéro ?
+User: Oui, s'il te plaît ! / Envoie-moi !
+AI: Voilà ! Je t'envoie un message.
+
+**Outro:**
+> Numéro échangé ! 🔢
+> Maintenant, envoie le premier message !
+>
+
+**Premier Message — Coucou ! [Série 4]**
+AI: Coucou ! C'est moi, Léo !
+User: Coucou ! Je t'ai eu ! / Salut ! Ça marche !
+AI: Super ! On se reparle bientôt !
+User: Oui, à bientôt !
+
+**Outro:**
+> Premier message envoyé ! 💬
+> La suite : La vraie conversation commence maintenant.
+>
+
+---
+
+### sim3 : On reste en contact
+
+**Goal:** To make plans to meet again and stay in touch.
+
+**📍 Lieu :** En ligne (WhatsApp)
+
+**intro_text:**
+Le contact est établi. Maintenant, il faut l'entretenir.
+Un message, et c'est reparti !
+
+**Plans — On se revoit ? [Série 5]**
+AI: On se revoit quand ?
+User: Ce week-end ? / La semaine prochaine !
+AI: Ce week-end, c'est parfait !
+User: Super, j'attends ça !
+
+**Outro:**
+> Plans en vue ! 🗓️
+> Confirme les détails et c'est dans la poche.
+>
+
+**Confirmation — C'est noté ! [Série 6]**
+User: Samedi, c'est bon pour toi ?
+AI: Oui, samedi c'est parfait !
+User: À samedi alors !
+AI: À samedi ! Hâte d'y être !
+
+**Outro:**
+> Rendez-vous confirmé ! 🎯
+> La suite : Samedi arrive... prépare-toi !
+>
+
+---
+
+# 🧳 VOYAGES ET DÉPLACEMENTS (vous) >> Paris et la France

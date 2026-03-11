@@ -1,3 +1,353 @@
+[ CR-4: Are you ready for the meeting? ]
+
+AI: Are you ready for the meeting today?
+User: Yes, I'm ready. / Almost, just finishing up.
+
+AI: Did you print the documents?
+User: Yes, I did. / I'll do that now.
+AI: Did you book the conference room?
+User: Yes, I booked it for 3 o'clock.
+
+AI: Perfect! See you then!
+User: Yes, see you there.
+AI: Does anyone have thoughts on this section?
+User: Yes, I think this approach would work well. / I agree with that direction.
+
+AI: That is a great point!
+User: Thank you.
+User: I have a question.
+
+AI: Of course, go ahead!
+User: When is the deadline for this section?
+
+AI: It is due by next Friday!
+AI: Great work today, everyone!
+User: Thank you!
+User: I'd be happy to send out the meeting notes.
+
+AI: That would be wonderful, thank you!
+AI: See you at the next meeting!
+User: Yes, I'll be there.
+
+AI: Have a good rest of your day!
+User: Thank you! You as well!
+
+[ CR-5: Have you had lunch yet? ]
+
+AI: Have you had lunch yet?
+User: Not yet. / Yes, I already ate.
+
+AI: Would you like to join me?
+User: Yes, I'd love that! / Thank you, that sounds great!
+AI: What are you in the mood for? There is a great place nearby!
+User: Anything is fine! / What do you recommend?
+
+AI: The deli on the corner is really good!
+User: That sounds great! Let's go!
+AI: Do you have any dietary restrictions? Anything you do not eat?
+User: No, I eat everything! / I don't eat meat.
+
+AI: They have great veggie options too!
+User: That's good to know!
+AI: How are you finding it here so far? Are you settling in?
+User: Yes, I'm getting used to it. / It's a bit tough!
+
+AI: If you ever need anything, please let me know!
+User: Thank you, I appreciate that.
+User: Please let me get this.
+
+AI: No, no — I invited you, so it is on me!
+User: Thank you so much!
+
+AI: Did you enjoy it?
+User: Yes, it was delicious! Thank you!
+
+AI: I am glad!
+
+AI: Shall we head back up?
+User: Yes, let's go!
+
+[ CR-6: Can I take tomorrow off? ]
+
+User: Excuse me, do you have a moment?
+
+AI: Of course, what is it?
+User: Can I take tomorrow off? I have a personal matter.
+
+AI: Tomorrow? Is everything okay?
+User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
+
+AI: I see.
+
+AI: Can you make sure your tasks are covered before you leave today?
+User: Yes, I'll take care of everything before I go.
+AI: Alright, you can take tomorrow off.
+User: Thank you so much.
+
+AI: Please take care of yourself!
+User: Thank you, I appreciate it.
+User: I'll send a summary email of my tasks before I leave today.
+
+AI: That would be great, thank you!
+User: Is there anything else you need from me?
+
+AI: No, that is all! Take care!
+User: Good morning. Thank you for yesterday.
+
+AI: Of course! How are you feeling?
+User: Much better, thank you. / I'm fine now, thank you.
+
+AI: I am glad to hear that!
+AI: Take it easy today! Do not push yourself too hard!
+User: Thank you, I appreciate that.
+
+AI: Have a good day!
+User: You too! Thank you!
+
+[ KD-5: I have a crush on someone ]
+
+User: I have to tell you something.
+
+AI: What? Tell me!
+User: I kind of have a crush on someone.
+
+AI: No way! Really? Who?!
+AI: Wait, do I know them?
+User: Yeah. / No, you don't.
+
+AI: What are they like?
+User: They're really sweet. / They have the best smile.
+AI: Where did you meet them?
+User: At a coffee shop! / In class!
+
+AI: That's so cute! So what happened?
+User: I didn't say anything. / I got their number though!
+AI: Are you gonna say something?
+User: I want to but I'm scared. / It's still too early.
+
+AI: You're amazing! Just go for it!
+User: You really think so? Thanks.
+AI: Tell me when you do it! I'm rooting for you!
+User: Okay! / I'm nervous but I'll try.
+
+AI: You've got this!
+User: Thank you!
+AI: It's gonna work out!
+User: I really hope so.
+
+AI: Of course it will! Keep me posted!
+User: I will!
+
+[ KD-6: You've got it all wrong ]
+
+AI: Why were you with someone else yesterday?
+User: What? What are you talking about? / You've got it all wrong!
+
+AI: I saw you. At the coffee shop.
+User: That's just a friend! / Oh, that?
+AI: Just a friend, really?
+User: Yes, really. We're in the same class. / Don't be suspicious.
+
+AI: I'm sorry. I think I got a little jealous.
+User: It's okay. / I get it.
+User: Why didn't you just ask me?
+
+AI: I didn't know how to bring it up.
+User: Next time, just ask. Don't assume.
+
+AI: You're right. I'm sorry.
+AI: I'm really sorry.
+User: It's okay. Just trust me.
+
+AI: I do. I won't do that again.
+User: Good.
+AI: Are we good?
+User: We're good. / Almost.
+
+AI: Let's go get food. My treat.
+User: Okay!
+AI: Next time I'll just ask!
+User: Good!
+
+AI: I like you.
+User: I like you too.
+
+[ KD-7: Do you wanna be official? ]
+
+AI: You said you had something to tell me. What is it?
+User: I'm a little nervous. / Come sit closer.
+
+AI: Why are you nervous? Just say it!
+User: I... I like you.
+AI: Really? I like you too.
+User: Really? / Since when?
+
+AI: Since the first time we met.
+User: Me too.
+AI: So are we... together now?
+User: Yeah. / I think so, right?
+
+AI: I'm happy.
+User: Me too.
+AI: So what should our first date be?
+User: I want to go to the beach! / Let's go somewhere with good food!
+
+AI: Yes! Let's go this weekend!
+User: I can't wait!
+AI: Did you get home okay?
+User: Yeah, just got back!
+
+AI: Tonight was really special.
+User: Me too. / I keep thinking about it.
+AI: I want to see you again tomorrow.
+User: I want to see you too.
+
+AI: Goodnight. Sweet dreams.
+User: Goodnight.
+
+[ KD-8: Why have you been so distant? ]
+
+User: Why didn't you text me?
+
+AI: Sorry, I've just been really busy.
+User: I get that, but that's too long!
+
+AI: I know. I'm sorry.
+User: I feel like you don't care anymore. It hurts.
+
+AI: That's not it at all.
+
+AI: I've just had a lot going on. I'm really sorry.
+User: Okay. But please just text me.
+AI: I've been going through a lot. I wasn't handling it well.
+User: Why didn't you tell me? / If you're struggling, talk to me.
+
+AI: I didn't want to worry you.
+User: Don't be silly. You can always talk to me.
+AI: Thank you. I'll do better.
+User: I'm sorry too. I was a little harsh.
+
+AI: No, you were right.
+User: Let's just be honest with each other from now on.
+AI: Starting today, I'll be better.
+User: Me too!
+
+AI: I missed you.
+User: I missed you too.
+AI: Let's go get food. What do you want?
+User: Anything! I just want to be with you.
+
+AI: Let's go!
+User: Let's go!
+
+[ KP-4: Happy birthday! ]
+
+User: Happy birthday!!!
+
+AI: Thank you so much! You're so sweet!
+User: What did you do today?
+
+AI: I had cake with my team!
+User: I sent you a gift! Did you get it?
+
+AI: Not yet! What is it?
+User: It's a secret! / It's a letter and a little something!
+
+AI: I can't wait! Thank you so much!
+AI: Thank you all so much for the birthday love!
+User: Happy birthday! / We love you!
+
+AI: You guys make me so happy!
+User: We're happy too! Have the best day!
+AI: I made a wish! Do you want to know what it was?
+User: Yes! Tell us! / Please!
+
+AI: I wished to keep making music with all of you for a long, long time!
+User: That made me cry! / Same! Me too!
+AI: Today was honestly the best day!
+User: For us too!
+
+AI: Let's do this again next year!
+User: Obviously! We'll be here!
+AI: Okay, I'm going to sleep now! Goodnight!
+User: Goodnight!
+
+AI: I love you all!
+User: We love you too!
+
+[ KP-5: What does this lyric mean? ]
+
+User: What is she saying in this part?
+
+AI: Which part?
+User: "I'm the problem, it's me" — this part!
+
+AI: It means she's saying she's the one causing the issues!
+User: I know "I love you"! What about "I miss you"?
+
+AI: That's "I miss you" — pretty much the same in English!
+User: Oh, that's easy! / Wait, really?
+
+AI: Yeah! English lyrics are fun, right?
+AI: Want to try singing along?
+User: Sure! / Do I have to know all the words?
+
+AI: Nope! Just follow along!
+User: Okay, let's try!
+AI: Hey, you're actually really good!
+User: Really? / Is my accent weird?
+
+AI: No way, you sound great! You've got the feel for it!
+User: Thank you!
+User: Did you hear her new song? Have you listened yet?
+
+AI: Yes! I love it! What about you?
+User: I listened! The lyrics are so sad though.
+
+AI: Right? The part about "waiting" is so emotional.
+User: Listen with me and explain the lyrics!
+
+AI: Yes! Let's go!
+User: This song is so good.
+
+AI: Right?!
+
+[ KP-6: I just went to a meet-and-greet! ]
+
+User: I went to the meet-and-greet yesterday!
+
+AI: No way! How was it?
+User: I was shaking the whole time! / It was the best thing ever!
+
+AI: I'm so jealous! What happened?
+User: I got to shake her hand and talk to her!
+
+AI: What?! What did you say?
+User: I said "I love your music"! / I asked her what her favorite song to perform is!
+
+AI: Oh my god! What did she say?
+User: She smiled and said "thank you so much"!
+
+AI: I'm literally dying! I want to go too!
+User: Let's go together next time!
+
+AI: Yes! I'm in!
+AI: Did you bring her anything?
+User: Yes, I wrote her a letter! / I made her a little gift!
+
+AI: Did she read it?
+User: She said she would read every single one!
+AI: Are you still shaking?
+User: Yes, my hands are still trembling! / I still can't believe it happened!
+
+AI: I'm so jealous! Show me photos!
+User: Here! Look!
+AI: That looks so amazing!
+User: We have to go together next time!
+
+AI: Yes! Promise!
+User: Promise!
+
 [ PI-5: Let's grab food together ]
 
 User: I'm starving! What should we eat?
@@ -284,353 +634,3 @@ AI: Thank you so much! Come back anytime!
 User: I will!
 
 AI: Enjoy the rest of your day!
-
-[ KD-5: I have a crush on someone ]
-
-User: I have to tell you something.
-
-AI: What? Tell me!
-User: I kind of have a crush on someone.
-
-AI: No way! Really? Who?!
-AI: Wait, do I know them?
-User: Yeah. / No, you don't.
-
-AI: What are they like?
-User: They're really sweet. / They have the best smile.
-AI: Where did you meet them?
-User: At a coffee shop! / In class!
-
-AI: That's so cute! So what happened?
-User: I didn't say anything. / I got their number though!
-AI: Are you gonna say something?
-User: I want to but I'm scared. / It's still too early.
-
-AI: You're amazing! Just go for it!
-User: You really think so? Thanks.
-AI: Tell me when you do it! I'm rooting for you!
-User: Okay! / I'm nervous but I'll try.
-
-AI: You've got this!
-User: Thank you!
-AI: It's gonna work out!
-User: I really hope so.
-
-AI: Of course it will! Keep me posted!
-User: I will!
-
-[ KD-6: You've got it all wrong ]
-
-AI: Why were you with someone else yesterday?
-User: What? What are you talking about? / You've got it all wrong!
-
-AI: I saw you. At the coffee shop.
-User: That's just a friend! / Oh, that?
-AI: Just a friend, really?
-User: Yes, really. We're in the same class. / Don't be suspicious.
-
-AI: I'm sorry. I think I got a little jealous.
-User: It's okay. / I get it.
-User: Why didn't you just ask me?
-
-AI: I didn't know how to bring it up.
-User: Next time, just ask. Don't assume.
-
-AI: You're right. I'm sorry.
-AI: I'm really sorry.
-User: It's okay. Just trust me.
-
-AI: I do. I won't do that again.
-User: Good.
-AI: Are we good?
-User: We're good. / Almost.
-
-AI: Let's go get food. My treat.
-User: Okay!
-AI: Next time I'll just ask!
-User: Good!
-
-AI: I like you.
-User: I like you too.
-
-[ KD-7: Do you wanna be official? ]
-
-AI: You said you had something to tell me. What is it?
-User: I'm a little nervous. / Come sit closer.
-
-AI: Why are you nervous? Just say it!
-User: I... I like you.
-AI: Really? I like you too.
-User: Really? / Since when?
-
-AI: Since the first time we met.
-User: Me too.
-AI: So are we... together now?
-User: Yeah. / I think so, right?
-
-AI: I'm happy.
-User: Me too.
-AI: So what should our first date be?
-User: I want to go to the beach! / Let's go somewhere with good food!
-
-AI: Yes! Let's go this weekend!
-User: I can't wait!
-AI: Did you get home okay?
-User: Yeah, just got back!
-
-AI: Tonight was really special.
-User: Me too. / I keep thinking about it.
-AI: I want to see you again tomorrow.
-User: I want to see you too.
-
-AI: Goodnight. Sweet dreams.
-User: Goodnight.
-
-[ KD-8: Why have you been so distant? ]
-
-User: Why didn't you text me?
-
-AI: Sorry, I've just been really busy.
-User: I get that, but that's too long!
-
-AI: I know. I'm sorry.
-User: I feel like you don't care anymore. It hurts.
-
-AI: That's not it at all.
-
-AI: I've just had a lot going on. I'm really sorry.
-User: Okay. But please just text me.
-AI: I've been going through a lot. I wasn't handling it well.
-User: Why didn't you tell me? / If you're struggling, talk to me.
-
-AI: I didn't want to worry you.
-User: Don't be silly. You can always talk to me.
-AI: Thank you. I'll do better.
-User: I'm sorry too. I was a little harsh.
-
-AI: No, you were right.
-User: Let's just be honest with each other from now on.
-AI: Starting today, I'll be better.
-User: Me too!
-
-AI: I missed you.
-User: I missed you too.
-AI: Let's go get food. What do you want?
-User: Anything! I just want to be with you.
-
-AI: Let's go!
-User: Let's go!
-
-[ KP-4: Happy birthday! ]
-
-User: Happy birthday!!!
-
-AI: Thank you so much! You're so sweet!
-User: What did you do today?
-
-AI: I had cake with my team!
-User: I sent you a gift! Did you get it?
-
-AI: Not yet! What is it?
-User: It's a secret! / It's a letter and a little something!
-
-AI: I can't wait! Thank you so much!
-AI: Thank you all so much for the birthday love!
-User: Happy birthday! / We love you!
-
-AI: You guys make me so happy!
-User: We're happy too! Have the best day!
-AI: I made a wish! Do you want to know what it was?
-User: Yes! Tell us! / Please!
-
-AI: I wished to keep making music with all of you for a long, long time!
-User: That made me cry! / Same! Me too!
-AI: Today was honestly the best day!
-User: For us too!
-
-AI: Let's do this again next year!
-User: Obviously! We'll be here!
-AI: Okay, I'm going to sleep now! Goodnight!
-User: Goodnight!
-
-AI: I love you all!
-User: We love you too!
-
-[ KP-5: What does this lyric mean? ]
-
-User: What is she saying in this part?
-
-AI: Which part?
-User: "I'm the problem, it's me" — this part!
-
-AI: It means she's saying she's the one causing the issues!
-User: I know "I love you"! What about "I miss you"?
-
-AI: That's "I miss you" — pretty much the same in English!
-User: Oh, that's easy! / Wait, really?
-
-AI: Yeah! English lyrics are fun, right?
-AI: Want to try singing along?
-User: Sure! / Do I have to know all the words?
-
-AI: Nope! Just follow along!
-User: Okay, let's try!
-AI: Hey, you're actually really good!
-User: Really? / Is my accent weird?
-
-AI: No way, you sound great! You've got the feel for it!
-User: Thank you!
-User: Did you hear her new song? Have you listened yet?
-
-AI: Yes! I love it! What about you?
-User: I listened! The lyrics are so sad though.
-
-AI: Right? The part about "waiting" is so emotional.
-User: Listen with me and explain the lyrics!
-
-AI: Yes! Let's go!
-User: This song is so good.
-
-AI: Right?!
-
-[ KP-6: I just went to a meet-and-greet! ]
-
-User: I went to the meet-and-greet yesterday!
-
-AI: No way! How was it?
-User: I was shaking the whole time! / It was the best thing ever!
-
-AI: I'm so jealous! What happened?
-User: I got to shake her hand and talk to her!
-
-AI: What?! What did you say?
-User: I said "I love your music"! / I asked her what her favorite song to perform is!
-
-AI: Oh my god! What did she say?
-User: She smiled and said "thank you so much"!
-
-AI: I'm literally dying! I want to go too!
-User: Let's go together next time!
-
-AI: Yes! I'm in!
-AI: Did you bring her anything?
-User: Yes, I wrote her a letter! / I made her a little gift!
-
-AI: Did she read it?
-User: She said she would read every single one!
-AI: Are you still shaking?
-User: Yes, my hands are still trembling! / I still can't believe it happened!
-
-AI: I'm so jealous! Show me photos!
-User: Here! Look!
-AI: That looks so amazing!
-User: We have to go together next time!
-
-AI: Yes! Promise!
-User: Promise!
-
-[ CR-4: Are you ready for the meeting? ]
-
-AI: Are you ready for the meeting today?
-User: Yes, I'm ready. / Almost, just finishing up.
-
-AI: Did you print the documents?
-User: Yes, I did. / I'll do that now.
-AI: Did you book the conference room?
-User: Yes, I booked it for 3 o'clock.
-
-AI: Perfect! See you then!
-User: Yes, see you there.
-AI: Does anyone have thoughts on this section?
-User: Yes, I think this approach would work well. / I agree with that direction.
-
-AI: That is a great point!
-User: Thank you.
-User: I have a question.
-
-AI: Of course, go ahead!
-User: When is the deadline for this section?
-
-AI: It is due by next Friday!
-AI: Great work today, everyone!
-User: Thank you!
-User: I'd be happy to send out the meeting notes.
-
-AI: That would be wonderful, thank you!
-AI: See you at the next meeting!
-User: Yes, I'll be there.
-
-AI: Have a good rest of your day!
-User: Thank you! You as well!
-
-[ CR-5: Have you had lunch yet? ]
-
-AI: Have you had lunch yet?
-User: Not yet. / Yes, I already ate.
-
-AI: Would you like to join me?
-User: Yes, I'd love that! / Thank you, that sounds great!
-AI: What are you in the mood for? There is a great place nearby!
-User: Anything is fine! / What do you recommend?
-
-AI: The deli on the corner is really good!
-User: That sounds great! Let's go!
-AI: Do you have any dietary restrictions? Anything you do not eat?
-User: No, I eat everything! / I don't eat meat.
-
-AI: They have great veggie options too!
-User: That's good to know!
-AI: How are you finding it here so far? Are you settling in?
-User: Yes, I'm getting used to it. / It's a bit tough!
-
-AI: If you ever need anything, please let me know!
-User: Thank you, I appreciate that.
-User: Please let me get this.
-
-AI: No, no — I invited you, so it is on me!
-User: Thank you so much!
-
-AI: Did you enjoy it?
-User: Yes, it was delicious! Thank you!
-
-AI: I am glad!
-
-AI: Shall we head back up?
-User: Yes, let's go!
-
-[ CR-6: Can I take tomorrow off? ]
-
-User: Excuse me, do you have a moment?
-
-AI: Of course, what is it?
-User: Can I take tomorrow off? I have a personal matter.
-
-AI: Tomorrow? Is everything okay?
-User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
-
-AI: I see.
-
-AI: Can you make sure your tasks are covered before you leave today?
-User: Yes, I'll take care of everything before I go.
-AI: Alright, you can take tomorrow off.
-User: Thank you so much.
-
-AI: Please take care of yourself!
-User: Thank you, I appreciate it.
-User: I'll send a summary email of my tasks before I leave today.
-
-AI: That would be great, thank you!
-User: Is there anything else you need from me?
-
-AI: No, that is all! Take care!
-User: Good morning. Thank you for yesterday.
-
-AI: Of course! How are you feeling?
-User: Much better, thank you. / I'm fine now, thank you.
-
-AI: I am glad to hear that!
-AI: Take it easy today! Do not push yourself too hard!
-User: Thank you, I appreciate that.
-
-AI: Have a good day!
-User: You too! Thank you!

@@ -1,3 +1,353 @@
+[ CR-4: ¿Está listo para la reunión? ]
+
+AI: ¿Ya está listo/a para la reunión de hoy?
+User: Sí, ya estoy listo/a. / Casi, me falta poco.
+
+AI: ¿Ya imprimió los documentos?
+User: Sí, ya los imprimí. / Ahorita los imprimo.
+AI: ¿Ya reservó la sala de juntas?
+User: Sí, la reservé para las tres.
+
+AI: ¡Perfecto! ¡Nos vemos allá!
+User: Sí, con mucho gusto.
+AI: ¿Tiene alguna opinión sobre este punto?
+User: Sí, creo que podemos hacerlo así. / Estoy de acuerdo con la propuesta.
+
+AI: ¡Muy buena idea!
+User: Muchas gracias.
+User: Tengo una pregunta.
+
+AI: ¡Claro, adelante!
+User: ¿Para cuándo tenemos que entregar esto?
+
+AI: ¡Para el próximo viernes!
+AI: ¡Buen trabajo en la reunión!
+User: ¡Igualmente, gracias!
+User: Yo le mando el acta de la reunión.
+
+AI: ¡Muchas gracias!
+AI: ¡Entonces nos vemos en la próxima reunión!
+User: Sí, con mucho gusto.
+
+AI: ¡Que tenga buen día!
+User: ¡Igualmente, gracias!
+
+[ CR-5: ¿Ya almorzó? ]
+
+AI: ¿Ya almorzó?
+User: Todavía no. / Sí, ya almorcé.
+
+AI: ¿Quiere ir a comer juntos?
+User: ¡Sí, con mucho gusto! / ¡Gracias!
+AI: ¿Qué quiere comer? ¡Hay un lugar muy bueno cerca!
+User: ¡Cualquier cosa! / ¿Qué tienen de bueno?
+
+AI: ¡Aquí la sopa de lima es muy famosa!
+User: ¡Perfecto! ¡Vamos!
+AI: ¿Le gusta la comida mexicana? ¿Come picante?
+User: ¡Sí, me gusta! / ¡No como picante!
+
+AI: ¡Entonces le recomiendo el caldo de pollo! ¡No pica!
+User: ¡Perfecto!
+AI: ¿Cómo le está yendo aquí? ¿Ya se está adaptando?
+User: Sí, poco a poco. / A veces es difícil.
+
+AI: ¡Si necesita algo, con mucho gusto le ayudo!
+User: Muchas gracias.
+User: Yo pago.
+
+AI: ¡No, no! ¡Yo invito, soy el/la mayor!
+User: ¡Muchas gracias!
+
+AI: ¿Le gustó la comida?
+User: ¡Sí, estuvo muy rica! ¡Gracias por invitarme!
+
+AI: ¡Con mucho gusto!
+
+AI: ¿Subimos?
+User: ¡Sí, vamos!
+
+[ CR-6: ¿Podría tomarme el día de mañana? ]
+
+User: Disculpe, ¿puedo hablar con usted un momento?
+
+AI: Sí, claro. ¿Qué necesita?
+User: ¿Puedo tomar el día de mañana? / Tengo un asunto personal.
+
+AI: ¿Mañana? ¿Tiene algo urgente?
+User: Sí, tengo que ir al médico. / Tengo un asunto personal.
+
+AI: Entendido.
+
+AI: ¿Puede dejar sus pendientes con alguien?
+User: Sí, los dejo organizados antes de salir.
+AI: Está bien, puede tomar el día de mañana.
+User: Muchas gracias.
+
+AI: ¡No se fuerce! ¡Cuídese!
+User: Sí, muchas gracias.
+User: Le mando un correo con mis pendientes.
+
+AI: ¡Sí, gracias!
+User: ¿Necesita algo más de mi parte?
+
+AI: ¡No, está bien! ¡Buen trabajo!
+User: Buenos días. Gracias por el día de ayer.
+
+AI: ¡No hay problema! ¿Cómo se siente?
+User: Mucho mejor, gracias. / Bien, gracias.
+
+AI: ¡Qué bueno!
+AI: ¡No se apure! ¡Poco a poco!
+User: Sí, muchas gracias.
+
+AI: ¡Buen trabajo!
+User: ¡Igualmente, gracias!
+
+[ KD-5: Me gusta alguien ]
+
+User: Tengo un secreto.
+
+AI: ¿Qué? ¡Dime!
+User: Me gusta alguien.
+
+AI: ¡No manches! ¿En serio? ¿Quién?
+AI: ¿Lo conozco?
+User: Sí. / No, no lo conoces.
+
+AI: ¿Cómo es?
+User: Es muy buena persona. / Cuando sonríe es muy bonito/a.
+AI: ¿Dónde lo/la conociste?
+User: ¡En una cafetería! / ¡En clase!
+
+AI: ¡Qué romántico! ¿Y qué pasó?
+User: Todavía no le digo nada. / ¡Ya tengo su número!
+AI: ¿No le vas a decir algo?
+User: Quiero, pero me da miedo. / Todavía es muy pronto.
+
+AI: ¡Eres muy buena persona! ¡Díselo con confianza!
+User: ¿De verdad? Gracias.
+AI: ¡Cuéntame cuando le digas algo! ¡Te apoyo!
+User: ¡Sí! / ¡Estoy nerviosa/o pero lo voy a intentar!
+
+AI: ¡Tú puedes!
+User: ¡Gracias!
+AI: ¡Va a salir bien!
+User: ¡Espero!
+
+AI: ¡Claro que sí! ¡Escríbeme!
+User: ¡Sí!
+
+[ KD-6: No me malinterpretes ]
+
+AI: Ayer, ¿por qué estabas con otra persona?
+User: ¿Qué? ¿De qué hablas? / ¡No me malinterpretes!
+
+AI: Te vi. En la cafetería.
+User: ¡Esa persona es solo mi amigo/a! / ¡Ah, ¿eso?
+AI: ¿De verdad es solo tu amigo/a?
+User: Sí, de verdad. Estamos en la misma clase. / No desconfíes de mí.
+
+AI: Perdón. Creo que me puse celoso/a.
+User: Está bien. / Puede pasarle a cualquiera.
+User: ¿Por qué no me preguntaste directamente?
+
+AI: Me dio un poco de pena.
+User: La próxima vez pregúntame. No malinterpretes.
+
+AI: Tienes razón, lo siento.
+AI: De verdad lo siento.
+User: Está bien. Pero confía en mí.
+
+AI: Sí, confío. No vuelve a pasar.
+User: Está bien.
+AI: ¿Ya estás bien?
+User: Sí, ya estoy bien. / Casi.
+
+AI: ¿Vamos a comer algo? Yo invito.
+User: ¡Sí, vamos!
+AI: ¡La próxima vez te pregunto directamente!
+User: ¡Así me gusta!
+
+AI: Te quiero.
+User: Yo también.
+
+[ KD-7: ¿Quieres que seamos novios? ]
+
+AI: Dijiste que tenías algo que decirme. ¿Qué es?
+User: Estoy un poco nervioso/a. / Acércate.
+
+AI: ¿Por qué estás nervioso/a? ¡Dime!
+User: Es que... me gustas.
+AI: ¿En serio? A mí también me gustas.
+User: ¿De verdad? / ¿Desde cuándo?
+
+AI: Desde la primera vez que te vi.
+User: Yo también.
+AI: Entonces, ¿quieres que seamos novios?
+User: Sí. / ¿Tú qué crees?
+
+AI: ¡Qué bueno!
+User: A mí también me da gusto.
+AI: ¡Ahora tenemos que tener nuestra primera cita! ¿A dónde quieres ir?
+User: ¡Quiero ir a la playa! / ¡Vamos a comer algo rico!
+
+AI: ¡Sí! ¡El fin de semana vamos!
+User: ¡Tengo muchas ganas!
+AI: ¿Ya llegaste a tu casa?
+User: ¡Sí, acabo de llegar!
+
+AI: Esta noche estuvo muy bonita.
+User: A mí también me gustó mucho. / No puedo dejar de pensar en eso.
+AI: Mañana quiero verte de nuevo.
+User: Yo también quiero verte.
+
+AI: Buenas noches. Que sueñes conmigo.
+User: Buenas noches.
+
+[ KD-8: ¿Por qué estás tan raro/a últimamente? ]
+
+User: ¿Por qué últimamente no me escribes?
+
+AI: Perdón, he estado muy ocupado/a.
+User: Lo entiendo, pero es mucho tiempo sin escribir.
+
+AI: Lo siento.
+User: Siento que ya no te importo.
+
+AI: No, no es eso.
+
+AI: De verdad es por el trabajo. Lo siento mucho.
+User: Está bien. ¡Pero escríbeme más!
+AI: Últimamente he estado muy mal. No te traté bien.
+User: ¿Por qué no me dijiste? / Si estás mal, dímelo.
+
+AI: No quería preocuparte.
+User: Tonto/a. Puedes decirme todo.
+AI: Gracias. Voy a mejorar.
+User: Yo también lo siento, fui muy duro/a.
+
+AI: No, tenías razón.
+User: Vamos a ser más honestos.
+AI: Desde hoy voy a portarme mejor.
+User: ¡Yo también!
+
+AI: Te extrañé.
+User: Yo también te extrañé.
+AI: ¿Vamos a comer algo? ¿Qué se te antoja?
+User: ¡Me da igual! Con tal de estar contigo.
+
+AI: ¡Vamos!
+User: ¡Sí!
+
+[ KP-4: ¡Feliz cumpleaños! ]
+
+User: ¡Feliz cumpleaños!
+
+AI: ¡Gracias! ¡Muchas gracias!
+User: ¿Qué hiciste hoy?
+
+AI: ¡Celebré con el equipo! ¡Comimos pastel!
+User: ¡Te mandé un regalo! ¿Ya lo recibiste?
+
+AI: ¡Todavía no! ¿Qué es?
+User: ¡Es un secreto! / ¡Una carta y un regalo!
+
+AI: ¡Qué emoción! ¡Muchas gracias!
+AI: ¡Gracias a todos por felicitarme!
+User: ¡Felicidades! / ¡Te queremos mucho!
+
+AI: ¡Gracias a ustedes soy muy feliz!
+User: ¡Nosotros también! ¡Sé muy feliz!
+AI: ¡Pedí un deseo! ¿Saben cuál es?
+User: ¿Cuál es? / ¡Díganos!
+
+AI: ¡Quiero seguir con ustedes por mucho tiempo!
+User: ¡Qué bonito! / ¡Yo también!
+AI: ¡Hoy fue un día muy especial!
+User: ¡Para nosotros también!
+
+AI: ¡El año que viene también lo celebramos juntos!
+User: ¡Por supuesto!
+AI: ¡Ya me voy a dormir! ¡Buenas noches!
+User: ¡Buenas noches!
+
+AI: ¡Los quiero mucho!
+User: ¡Nosotros también los queremos!
+
+[ KP-5: ¿Qué significa esta letra? ]
+
+User: ¿Qué dice esta canción?
+
+AI: ¿Qué parte?
+User: ¡Esta parte de aquí!
+
+AI: ¡Dice que te extraña mucho!
+User: ¿Y "te quiero" qué significa?
+
+AI: ¡Significa "I love you" pero más casual!
+User: ¡Ah, qué interesante! / ¿En serio?
+
+AI: ¡Sí! ¡Las letras en español son muy bonitas!
+AI: ¿Quieres cantar esta canción conmigo?
+User: ¡Sí! / ¿No importa si no sé la letra?
+
+AI: ¡No importa! ¡Repite lo que yo diga!
+User: ¡Está bien!
+AI: ¡Lo haces muy bien!
+User: ¿De verdad? / ¿No suena raro?
+
+AI: ¡No! ¡Tienes muy buen ritmo!
+User: ¡Gracias!
+User: ¿Ya escuchaste la nueva canción de Karol G?
+
+AI: ¡Sí! ¡Está buenísima! ¿Y tú?
+User: ¡Sí! ¡La letra es muy triste!
+
+AI: ¡Sí! ¡La parte de "te espero" me llegó al corazón!
+User: ¡Escúchala conmigo y me explicas la letra!
+
+AI: ¡Sí! ¡Ponla!
+User: ¡Esta canción está muy buena!
+
+AI: ¡Sí!
+
+[ KP-6: ¡Fui al meet and greet! ]
+
+User: ¡Ayer fui al meet and greet de Bad Bunny!
+
+AI: ¡No manches! ¿Cómo estuvo?
+User: ¡Estaba muy nerviosa/o! / ¡Estuvo increíble!
+
+AI: ¡Qué envidia! ¿Qué pasó?
+User: ¡Le di la mano y le hablé!
+
+AI: ¡No puede ser! ¿Qué le dijiste?
+User: ¡Le dije "te quiero mucho"! / ¡Le pregunté si ya comió!
+
+AI: ¡Estás loco/a! ¡Qué valiente! ¿Y qué dijo?
+User: ¡Se rió y me dijo "gracias"!
+
+AI: ¡Me muero! ¡Yo también quería ir!
+User: ¡La próxima vez vamos juntos!
+
+AI: ¿En serio? ¡Sí!
+AI: ¿Le diste algo?
+User: ¡Sí, le di una carta! / ¡Intercambiamos fotocards!
+
+AI: ¿La va a leer?
+User: ¡Sí, prometió leerla!
+AI: ¿Todavía estás emocionado/a?
+User: ¡Sí, todavía me tiemblan las manos! / ¡No lo puedo creer!
+
+AI: ¡Qué envidia! ¡Muéstrame las fotos!
+User: ¡Aquí están! ¡Mira!
+AI: ¡Qué increíble!
+User: ¡La próxima vez vamos juntos, sí o sí!
+
+AI: ¡Sí! ¡Lo prometo!
+User: ¡Prometido!
+
 [ PI-5: ¡Vamos a comer juntos! ]
 
 User: ¡Tengo hambre! ¿Qué comemos?
@@ -284,353 +634,3 @@ AI: ¡Muchas gracias! ¡Vuelva cuando quiera!
 User: ¡Sí!
 
 AI: ¡Buen provecho y buen viaje!
-
-[ KD-5: Me gusta alguien ]
-
-User: Tengo un secreto.
-
-AI: ¿Qué? ¡Dime!
-User: Me gusta alguien.
-
-AI: ¡No manches! ¿En serio? ¿Quién?
-AI: ¿Lo conozco?
-User: Sí. / No, no lo conoces.
-
-AI: ¿Cómo es?
-User: Es muy buena persona. / Cuando sonríe es muy bonito/a.
-AI: ¿Dónde lo/la conociste?
-User: ¡En una cafetería! / ¡En clase!
-
-AI: ¡Qué romántico! ¿Y qué pasó?
-User: Todavía no le digo nada. / ¡Ya tengo su número!
-AI: ¿No le vas a decir algo?
-User: Quiero, pero me da miedo. / Todavía es muy pronto.
-
-AI: ¡Eres muy buena persona! ¡Díselo con confianza!
-User: ¿De verdad? Gracias.
-AI: ¡Cuéntame cuando le digas algo! ¡Te apoyo!
-User: ¡Sí! / ¡Estoy nerviosa/o pero lo voy a intentar!
-
-AI: ¡Tú puedes!
-User: ¡Gracias!
-AI: ¡Va a salir bien!
-User: ¡Espero!
-
-AI: ¡Claro que sí! ¡Escríbeme!
-User: ¡Sí!
-
-[ KD-6: No me malinterpretes ]
-
-AI: Ayer, ¿por qué estabas con otra persona?
-User: ¿Qué? ¿De qué hablas? / ¡No me malinterpretes!
-
-AI: Te vi. En la cafetería.
-User: ¡Esa persona es solo mi amigo/a! / ¡Ah, ¿eso?
-AI: ¿De verdad es solo tu amigo/a?
-User: Sí, de verdad. Estamos en la misma clase. / No desconfíes de mí.
-
-AI: Perdón. Creo que me puse celoso/a.
-User: Está bien. / Puede pasarle a cualquiera.
-User: ¿Por qué no me preguntaste directamente?
-
-AI: Me dio un poco de pena.
-User: La próxima vez pregúntame. No malinterpretes.
-
-AI: Tienes razón, lo siento.
-AI: De verdad lo siento.
-User: Está bien. Pero confía en mí.
-
-AI: Sí, confío. No vuelve a pasar.
-User: Está bien.
-AI: ¿Ya estás bien?
-User: Sí, ya estoy bien. / Casi.
-
-AI: ¿Vamos a comer algo? Yo invito.
-User: ¡Sí, vamos!
-AI: ¡La próxima vez te pregunto directamente!
-User: ¡Así me gusta!
-
-AI: Te quiero.
-User: Yo también.
-
-[ KD-7: ¿Quieres que seamos novios? ]
-
-AI: Dijiste que tenías algo que decirme. ¿Qué es?
-User: Estoy un poco nervioso/a. / Acércate.
-
-AI: ¿Por qué estás nervioso/a? ¡Dime!
-User: Es que... me gustas.
-AI: ¿En serio? A mí también me gustas.
-User: ¿De verdad? / ¿Desde cuándo?
-
-AI: Desde la primera vez que te vi.
-User: Yo también.
-AI: Entonces, ¿quieres que seamos novios?
-User: Sí. / ¿Tú qué crees?
-
-AI: ¡Qué bueno!
-User: A mí también me da gusto.
-AI: ¡Ahora tenemos que tener nuestra primera cita! ¿A dónde quieres ir?
-User: ¡Quiero ir a la playa! / ¡Vamos a comer algo rico!
-
-AI: ¡Sí! ¡El fin de semana vamos!
-User: ¡Tengo muchas ganas!
-AI: ¿Ya llegaste a tu casa?
-User: ¡Sí, acabo de llegar!
-
-AI: Esta noche estuvo muy bonita.
-User: A mí también me gustó mucho. / No puedo dejar de pensar en eso.
-AI: Mañana quiero verte de nuevo.
-User: Yo también quiero verte.
-
-AI: Buenas noches. Que sueñes conmigo.
-User: Buenas noches.
-
-[ KD-8: ¿Por qué estás tan raro/a últimamente? ]
-
-User: ¿Por qué últimamente no me escribes?
-
-AI: Perdón, he estado muy ocupado/a.
-User: Lo entiendo, pero es mucho tiempo sin escribir.
-
-AI: Lo siento.
-User: Siento que ya no te importo.
-
-AI: No, no es eso.
-
-AI: De verdad es por el trabajo. Lo siento mucho.
-User: Está bien. ¡Pero escríbeme más!
-AI: Últimamente he estado muy mal. No te traté bien.
-User: ¿Por qué no me dijiste? / Si estás mal, dímelo.
-
-AI: No quería preocuparte.
-User: Tonto/a. Puedes decirme todo.
-AI: Gracias. Voy a mejorar.
-User: Yo también lo siento, fui muy duro/a.
-
-AI: No, tenías razón.
-User: Vamos a ser más honestos.
-AI: Desde hoy voy a portarme mejor.
-User: ¡Yo también!
-
-AI: Te extrañé.
-User: Yo también te extrañé.
-AI: ¿Vamos a comer algo? ¿Qué se te antoja?
-User: ¡Me da igual! Con tal de estar contigo.
-
-AI: ¡Vamos!
-User: ¡Sí!
-
-[ KP-4: ¡Feliz cumpleaños! ]
-
-User: ¡Feliz cumpleaños!
-
-AI: ¡Gracias! ¡Muchas gracias!
-User: ¿Qué hiciste hoy?
-
-AI: ¡Celebré con el equipo! ¡Comimos pastel!
-User: ¡Te mandé un regalo! ¿Ya lo recibiste?
-
-AI: ¡Todavía no! ¿Qué es?
-User: ¡Es un secreto! / ¡Una carta y un regalo!
-
-AI: ¡Qué emoción! ¡Muchas gracias!
-AI: ¡Gracias a todos por felicitarme!
-User: ¡Felicidades! / ¡Te queremos mucho!
-
-AI: ¡Gracias a ustedes soy muy feliz!
-User: ¡Nosotros también! ¡Sé muy feliz!
-AI: ¡Pedí un deseo! ¿Saben cuál es?
-User: ¿Cuál es? / ¡Díganos!
-
-AI: ¡Quiero seguir con ustedes por mucho tiempo!
-User: ¡Qué bonito! / ¡Yo también!
-AI: ¡Hoy fue un día muy especial!
-User: ¡Para nosotros también!
-
-AI: ¡El año que viene también lo celebramos juntos!
-User: ¡Por supuesto!
-AI: ¡Ya me voy a dormir! ¡Buenas noches!
-User: ¡Buenas noches!
-
-AI: ¡Los quiero mucho!
-User: ¡Nosotros también los queremos!
-
-[ KP-5: ¿Qué significa esta letra? ]
-
-User: ¿Qué dice esta canción?
-
-AI: ¿Qué parte?
-User: ¡Esta parte de aquí!
-
-AI: ¡Dice que te extraña mucho!
-User: ¿Y "te quiero" qué significa?
-
-AI: ¡Significa "I love you" pero más casual!
-User: ¡Ah, qué interesante! / ¿En serio?
-
-AI: ¡Sí! ¡Las letras en español son muy bonitas!
-AI: ¿Quieres cantar esta canción conmigo?
-User: ¡Sí! / ¿No importa si no sé la letra?
-
-AI: ¡No importa! ¡Repite lo que yo diga!
-User: ¡Está bien!
-AI: ¡Lo haces muy bien!
-User: ¿De verdad? / ¿No suena raro?
-
-AI: ¡No! ¡Tienes muy buen ritmo!
-User: ¡Gracias!
-User: ¿Ya escuchaste la nueva canción de Karol G?
-
-AI: ¡Sí! ¡Está buenísima! ¿Y tú?
-User: ¡Sí! ¡La letra es muy triste!
-
-AI: ¡Sí! ¡La parte de "te espero" me llegó al corazón!
-User: ¡Escúchala conmigo y me explicas la letra!
-
-AI: ¡Sí! ¡Ponla!
-User: ¡Esta canción está muy buena!
-
-AI: ¡Sí!
-
-[ KP-6: ¡Fui al meet and greet! ]
-
-User: ¡Ayer fui al meet and greet de Bad Bunny!
-
-AI: ¡No manches! ¿Cómo estuvo?
-User: ¡Estaba muy nerviosa/o! / ¡Estuvo increíble!
-
-AI: ¡Qué envidia! ¿Qué pasó?
-User: ¡Le di la mano y le hablé!
-
-AI: ¡No puede ser! ¿Qué le dijiste?
-User: ¡Le dije "te quiero mucho"! / ¡Le pregunté si ya comió!
-
-AI: ¡Estás loco/a! ¡Qué valiente! ¿Y qué dijo?
-User: ¡Se rió y me dijo "gracias"!
-
-AI: ¡Me muero! ¡Yo también quería ir!
-User: ¡La próxima vez vamos juntos!
-
-AI: ¿En serio? ¡Sí!
-AI: ¿Le diste algo?
-User: ¡Sí, le di una carta! / ¡Intercambiamos fotocards!
-
-AI: ¿La va a leer?
-User: ¡Sí, prometió leerla!
-AI: ¿Todavía estás emocionado/a?
-User: ¡Sí, todavía me tiemblan las manos! / ¡No lo puedo creer!
-
-AI: ¡Qué envidia! ¡Muéstrame las fotos!
-User: ¡Aquí están! ¡Mira!
-AI: ¡Qué increíble!
-User: ¡La próxima vez vamos juntos, sí o sí!
-
-AI: ¡Sí! ¡Lo prometo!
-User: ¡Prometido!
-
-[ CR-4: ¿Está listo para la reunión? ]
-
-AI: ¿Ya está listo/a para la reunión de hoy?
-User: Sí, ya estoy listo/a. / Casi, me falta poco.
-
-AI: ¿Ya imprimió los documentos?
-User: Sí, ya los imprimí. / Ahorita los imprimo.
-AI: ¿Ya reservó la sala de juntas?
-User: Sí, la reservé para las tres.
-
-AI: ¡Perfecto! ¡Nos vemos allá!
-User: Sí, con mucho gusto.
-AI: ¿Tiene alguna opinión sobre este punto?
-User: Sí, creo que podemos hacerlo así. / Estoy de acuerdo con la propuesta.
-
-AI: ¡Muy buena idea!
-User: Muchas gracias.
-User: Tengo una pregunta.
-
-AI: ¡Claro, adelante!
-User: ¿Para cuándo tenemos que entregar esto?
-
-AI: ¡Para el próximo viernes!
-AI: ¡Buen trabajo en la reunión!
-User: ¡Igualmente, gracias!
-User: Yo le mando el acta de la reunión.
-
-AI: ¡Muchas gracias!
-AI: ¡Entonces nos vemos en la próxima reunión!
-User: Sí, con mucho gusto.
-
-AI: ¡Que tenga buen día!
-User: ¡Igualmente, gracias!
-
-[ CR-5: ¿Ya almorzó? ]
-
-AI: ¿Ya almorzó?
-User: Todavía no. / Sí, ya almorcé.
-
-AI: ¿Quiere ir a comer juntos?
-User: ¡Sí, con mucho gusto! / ¡Gracias!
-AI: ¿Qué quiere comer? ¡Hay un lugar muy bueno cerca!
-User: ¡Cualquier cosa! / ¿Qué tienen de bueno?
-
-AI: ¡Aquí la sopa de lima es muy famosa!
-User: ¡Perfecto! ¡Vamos!
-AI: ¿Le gusta la comida mexicana? ¿Come picante?
-User: ¡Sí, me gusta! / ¡No como picante!
-
-AI: ¡Entonces le recomiendo el caldo de pollo! ¡No pica!
-User: ¡Perfecto!
-AI: ¿Cómo le está yendo aquí? ¿Ya se está adaptando?
-User: Sí, poco a poco. / A veces es difícil.
-
-AI: ¡Si necesita algo, con mucho gusto le ayudo!
-User: Muchas gracias.
-User: Yo pago.
-
-AI: ¡No, no! ¡Yo invito, soy el/la mayor!
-User: ¡Muchas gracias!
-
-AI: ¿Le gustó la comida?
-User: ¡Sí, estuvo muy rica! ¡Gracias por invitarme!
-
-AI: ¡Con mucho gusto!
-
-AI: ¿Subimos?
-User: ¡Sí, vamos!
-
-[ CR-6: ¿Podría tomarme el día de mañana? ]
-
-User: Disculpe, ¿puedo hablar con usted un momento?
-
-AI: Sí, claro. ¿Qué necesita?
-User: ¿Puedo tomar el día de mañana? / Tengo un asunto personal.
-
-AI: ¿Mañana? ¿Tiene algo urgente?
-User: Sí, tengo que ir al médico. / Tengo un asunto personal.
-
-AI: Entendido.
-
-AI: ¿Puede dejar sus pendientes con alguien?
-User: Sí, los dejo organizados antes de salir.
-AI: Está bien, puede tomar el día de mañana.
-User: Muchas gracias.
-
-AI: ¡No se fuerce! ¡Cuídese!
-User: Sí, muchas gracias.
-User: Le mando un correo con mis pendientes.
-
-AI: ¡Sí, gracias!
-User: ¿Necesita algo más de mi parte?
-
-AI: ¡No, está bien! ¡Buen trabajo!
-User: Buenos días. Gracias por el día de ayer.
-
-AI: ¡No hay problema! ¿Cómo se siente?
-User: Mucho mejor, gracias. / Bien, gracias.
-
-AI: ¡Qué bueno!
-AI: ¡No se apure! ¡Poco a poco!
-User: Sí, muchas gracias.
-
-AI: ¡Buen trabajo!
-User: ¡Igualmente, gracias!

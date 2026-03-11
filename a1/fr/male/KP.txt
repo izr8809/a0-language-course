@@ -1,0 +1,309 @@
+# 🎵 MUSIQUE (tu+vous mixte) >> La scène musicale française
+
+# KP-4: Joyeux anniversaire !
+
+- 대분류: Musique
+- 중분류: Birthday
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Le message d'anniversaire
+
+**Goal:** To send your favourite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 장소:** En ligne (Discord fans / fan club officiel)
+
+**intro_text:**
+Midnight. It's officially their birthday. My heart is racing...
+
+**기 — Joyeux anniversaire [세트 1]**
+User: Joyeux anniversaire !
+AI: Merci beaucoup ! Merci à tous !
+User: Vous avez fait quoi aujourd'hui ?
+AI: J'ai passé la journée avec l'équipe, on a mangé un gâteau !
+
+**Outro:**
+> First birthday message delivered! 🎂 Did they get your special gift yet?
+> The suspense is killing you — and them.
+>
+
+**승 — Le cadeau [세트 2]**
+User: J'ai envoyé un cadeau ! Vous l'avez reçu ?
+AI: Pas encore ! C'est quoi ?
+User: C'est un secret ! / Une lettre et un cadeau !
+AI: J'ai hâte ! Merci beaucoup !
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: They just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: L'événement fan
+
+**Goal:** To cheer for your favourite artist during their birthday live and react to their heartfelt birthday wish.
+
+**📍 장소:** En ligne (live stream)
+
+**승 — Le live d'anniversaire [세트 3]**
+AI: Merci à tous d'être là pour mon anniversaire !
+User: Joyeux anniversaire ! / On vous aime !
+AI: Grâce à vous, je suis tellement heureux/heureuse !
+User: Nous aussi. Soyez heureux/heureuse !
+
+**Outro:**
+> They are literally an angel! 👼 Shh... they're about to make their birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — Le vœu [세트 4]**
+AI: J'ai fait un vœu ! Vous savez ce que c'est ?
+User: C'est quoi ? / Dites-nous !
+AI: Je veux rester longtemps avec vous, les fans !
+User: On est touchés ! / Nous aussi !
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: La fin du live
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favourite artist.
+
+**📍 장소:** En ligne (live stream, même endroit)
+
+**전 — On finit [세트 5]**
+AI: Aujourd'hui, j'ai été vraiment heureux/heureuse !
+User: Nous aussi, on est heureux/heureuses !
+AI: L'année prochaine, on fait pareil !
+User: Bien sûr !
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before they turn off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — Bonne nuit [세트 6]**
+AI: Je vais dormir maintenant ! Bonne nuit !
+User: Bonne nuit !
+AI: Je vous aime !
+User: Nous aussi, on vous aime !
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind their lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---
+
+# KP-5: C'est quoi le sens de ces paroles ?
+
+- 대분류: Musique
+- 중분류: Understanding Lyrics
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: On demande
+
+**Goal:** To ask your friend about French lyrics you don't understand and learn some key phrases.
+
+**📍 장소:** Chez un(e) ami(e) (en écoutant de la musique)
+
+**intro_text:**
+Stromae's new song is on repeat. But what does it actually mean?
+
+**기 — Les paroles [세트 1]**
+User: C'est quoi ce qu'il dit dans cette chanson ?
+AI: Quelle partie ?
+User: "Alors on danse" — ça veut dire quoi exactement ?
+AI: Ça veut dire "So we dance" — c'est une métaphore pour continuer malgré tout !
+
+**Outro:**
+> "Alors on danse" — now you'll never forget it! 💭 What else don't you know?
+> The vocabulary lesson is just getting started.
+>
+
+**승 — On apprend [세트 2]**
+User: Et "papaoutai", ça veut dire quoi ?
+AI: C'est "papa où t'es ?" — "where are you, dad?" C'est très émouvant !
+User: Ah, je comprends maintenant ! / Vraiment ?
+AI: Ouais ! Les paroles françaises sont super riches !
+
+**Outro:**
+> Papaoutai decoded — the most emotional lyric in French pop! 🎵 Now you know the story.
+> Time to put that knowledge to use and actually sing along.
+>
+
+---
+
+### sim2: On chante
+
+**Goal:** To try singing along to a French song and get encouragement from your friend.
+
+**📍 장소:** Chez un(e) ami(e) (même endroit)
+
+**승 — On chante ensemble [세트 3]**
+AI: On chante ensemble ?
+User: Bonne idée ! / Je connais pas toutes les paroles.
+AI: C'est pas grave ! Suis le rythme !
+User: D'accord !
+
+**Outro:**
+> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
+> Your friend is about to give you the best compliment.
+>
+
+**전 — T'es doué(e) ! [세트 4]**
+AI: T'es pas mal du tout !
+User: Vraiment ? / Ma prononciation est bizarre ?
+AI: Non, t'as le rythme ! C'est bien !
+User: Merci !
+
+**Outro:**
+> "T'as le rythme!" — you've got the feel! 🌟 That's the highest compliment.
+> Now let's talk about the new song everyone's obsessing over.
+>
+
+---
+
+### sim3: La nouvelle chanson
+
+**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
+
+**📍 장소:** Chez un(e) ami(e) (même endroit)
+
+**전 — La nouvelle sortie [세트 5]**
+User: T'as entendu la nouvelle chanson d'Angèle ?
+AI: Oui ! Elle est trop bien ! Et toi ?
+User: J'ai écouté ! Les paroles sont tristes.
+AI: Ouais ! La partie "je t'attends" est vraiment émouvante.
+
+**Outro:**
+> "Je t'attends" — I'm waiting for you. 😢 Why is French pop always so emotional?
+> End the session the only way possible: listening together.
+>
+
+**결 — On écoute ensemble [세트 6]**
+User: Écoute avec moi et explique-moi les paroles !
+AI: Bonne idée ! Écoute bien !
+User: Cette chanson est vraiment belle.
+AI: Ouais !
+
+**Outro:**
+> Music + friendship + French lyrics = perfect afternoon! 🎶 You're basically fluent now.
+> Next up: a fan story that will make you want to go to a meet and greet immediately.
+>
+
+---
+
+# KP-6: J'ai été à la rencontre avec les fans !
+
+- 대분류: Musique
+- 중분류: Fan Story
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: On raconte
+
+**Goal:** To tell your friend all about the fan meet and greet and relive the most exciting moments.
+
+**📍 장소:** Café (en racontant à un(e) ami(e))
+
+**intro_text:**
+You just got back from the meet and greet. Your hands are still shaking.
+
+**기 — J'y étais ! [세트 1]**
+User: J'étais à la rencontre avec les fans hier !
+AI: Sérieux ? C'était comment ?
+User: J'étais tellement stressée ! / C'était incroyable !
+AI: Je suis jaloux ! T'as fait quoi ?
+
+**Outro:**
+> The story begins! 😱 Your friend is already jealous.
+> And it gets better — you actually talked to them.
+>
+
+**승 — Les détails [세트 2]**
+User: J'ai serré la main et j'ai parlé !
+AI: Non ! T'as dit quoi ?
+User: J'ai dit "je vous adore" ! / "Merci pour votre musique" !
+AI: C'est ouf ! Et ils ont dit quoi ?
+
+**Outro:**
+> You said WHAT?! 🤯 The audacity. The courage. The legend.
+> And their reaction? You need to hear this.
+>
+
+---
+
+### sim2: Les détails
+
+**Goal:** To share their reaction, talk about the gift exchange, and make plans to go together next time.
+
+**📍 장소:** Café (même endroit)
+
+**승 — La réaction [세트 3]**
+User: Ils ont souri et dit "merci" !
+AI: Je vais mourir ! Je veux y aller aussi !
+User: La prochaine fois, on y va ensemble !
+AI: Vraiment ? Trop bien !
+
+**Outro:**
+> Next meet and greet: booked (mentally)! 🎫 Your friend is already planning the outfit.
+> But first — did you give them a gift?
+>
+
+**전 — Le cadeau [세트 4]**
+AI: T'as donné un cadeau ?
+User: Oui, une lettre ! / J'ai échangé des photos !
+AI: Ils vont la lire ?
+User: Oui, ils ont promis de tout lire !
+
+**Outro:**
+> They promised to read your letter! 💌 That's basically a love confession.
+> The excitement still hasn't worn off — and it won't for a while.
+>
+
+---
+
+### sim3: Encore sous le choc
+
+**Goal:** To still be buzzing from the experience, show off photos, and make a firm promise to go together.
+
+**📍 장소:** Café (même endroit)
+
+**전 — T'es encore sous le choc [세트 5]**
+AI: T'es encore sous le choc ?
+User: Oui, j'ai encore les mains qui tremblent ! / J'arrive pas à y croire !
+AI: Je suis jaloux ! Montre-moi les photos !
+User: Regarde ! Voilà !
+
+**Outro:**
+> Photo evidence! 📸 This is going straight to the fan club Discord.
+> One last promise to seal the deal.
+>
+
+**결 — Promis ! [세트 6]**
+AI: C'est trop bien !
+User: La prochaine fois, on y va ensemble !
+AI: Promis !
+User: Promis !
+
+**Outro:**
+> Pinky promise: meet and greet together! 💖 The countdown starts now.
+> Fan life is the best life — and you're living proof.
+>
+
+---
+
+# 👔 TRAVAIL (vous formel) >> Le monde professionnel français

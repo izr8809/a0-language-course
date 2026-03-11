@@ -1,3 +1,353 @@
+[ CR-4: Vous êtes prêt(e) pour la réunion ? ]
+
+AI: Vous êtes prête pour la réunion de cet après-midi ?
+User: Oui, je suis prête. / Presque, j'ai presque fini.
+
+AI: Vous avez imprimé les documents ?
+User: Oui, c'est fait. / Je le fais maintenant.
+AI: Vous avez réservé la salle de réunion ?
+User: Oui, j'ai réservé pour 15h.
+
+AI: Parfait ! On se retrouve là-bas !
+User: Oui, entendu.
+AI: Vous avez un avis sur ce point ?
+User: Oui, je pense que c'est mieux. / Je suis d'accord !
+
+AI: Très bonne remarque !
+User: Je vous remercie.
+User: J'ai une question, s'il vous plaît.
+
+AI: Oui, je vous en prie !
+User: Quelle est la date limite pour cette partie ?
+
+AI: C'est pour vendredi prochain !
+AI: Merci à tous pour cette réunion !
+User: Merci à vous !
+User: Je peux envoyer le compte-rendu !
+
+AI: C'est parfait, merci !
+AI: On se retrouve à la prochaine réunion alors !
+User: Oui, entendu.
+
+AI: Bon courage !
+User: Merci, vous aussi !
+
+[ CR-5: Vous avez déjeuné ? ]
+
+AI: Vous avez déjeuné ?
+User: Pas encore. / Oui, j'ai déjà mangé.
+
+AI: On mange ensemble ?
+User: Oui, avec plaisir ! / Merci, c'est gentil !
+AI: Qu'est-ce qu'on mange ? Il y a un bon endroit près d'ici !
+User: Tout me va ! / Qu'est-ce qui est bon ?
+
+AI: Le bœuf bourguignon là-bas est excellent !
+User: Parfait ! Allons-y !
+AI: La cuisine française vous convient ? Vous aimez ça ?
+User: Oui, j'adore ! / Certains plats sont un peu riches pour moi.
+
+AI: Alors le poulet rôti, c'est plus léger ! Vous voulez essayer ?
+User: Oui, bonne idée !
+AI: Vous vous adaptez bien à la France ?
+User: Oui, de mieux en mieux. / C'est parfois un peu difficile.
+
+AI: Si vous avez besoin de quoi que ce soit, dites-le moi !
+User: Merci beaucoup.
+User: Je paye !
+
+AI: Non, non, c'est moi ! Je vous invite !
+User: Merci beaucoup !
+
+AI: C'était bon ?
+User: Oui, c'était excellent ! Merci pour le repas.
+
+AI: Avec plaisir !
+
+AI: On remonte ?
+User: Oui, allons-y !
+
+[ CR-6: Est-ce que je pourrais prendre congé demain ? ]
+
+User: Excusez-moi, je peux vous parler ?
+
+AI: Oui, bien sûr. Je vous écoute.
+User: Est-ce que je peux prendre congé demain ?
+
+AI: Demain ? C'est urgent ?
+User: Oui, j'ai un rendez-vous médical. / J'ai une obligation personnelle.
+
+AI: Je comprends.
+
+AI: Vous pouvez confier vos dossiers à quelqu'un ?
+User: Oui, je vais tout préparer avant de partir.
+AI: Très bien, vous pouvez prendre congé demain.
+User: Je vous remercie.
+
+AI: Reposez-vous bien !
+User: Oui, merci beaucoup.
+User: Je vais vous envoyer un récapitulatif par email ce soir.
+
+AI: Très bien, merci !
+User: Vous avez besoin d'autre chose ?
+
+AI: Non, c'est parfait ! Bon courage !
+User: Bonjour, merci de m'avoir accordé ce congé.
+
+AI: Pas de problème ! Vous allez mieux ?
+User: Oui, beaucoup mieux. / Oui, merci, ça va.
+
+AI: Tant mieux !
+AI: Prenez le temps de vous réinstaller !
+User: Oui, merci.
+
+AI: Bon courage !
+User: Merci, vous aussi !
+
+[ KD-5: J'ai un crush en ce moment ]
+
+User: J'ai un truc à te dire.
+
+AI: Quoi ? Dis-moi !
+User: J'ai un crush en ce moment.
+
+AI: Sérieux ? C'est qui ?!
+AI: C'est quelqu'un que je connais ?
+User: Ouais. / Non, tu connais pas.
+
+AI: C'est comment comme personne ?
+User: Il est vraiment gentil. / Il a un super sourire.
+AI: Vous vous êtes rencontrés où ?
+User: Au café ! / En cours !
+
+AI: C'est romantique ! Et alors ?
+User: J'ai pas encore osé lui parler. / J'ai eu son numéro !
+AI: Tu vas pas lui dire ?
+User: J'ai envie mais j'ai peur. / C'est encore trop tôt.
+
+AI: T'es quelqu'un de bien ! Vas-y, fonce !
+User: Tu crois ? Merci.
+AI: Si tu lui dis, tu me racontes ! Je suis avec toi !
+User: D'accord ! / J'ai le trac mais je vais essayer.
+
+AI: Allez, courage !
+User: Merci !
+AI: Ça va bien se passer !
+User: J'espère.
+
+AI: Bien sûr ! Tiens-moi au courant !
+User: Oui !
+
+[ KD-6: Tu m'as mal compris(e) ]
+
+AI: Hier, t'étais avec qui ?
+User: Quoi ? De quoi tu parles ? / Tu m'as mal comprise !
+
+AI: Je t'ai vue. Au café.
+User: C'est juste un ami ! / Ah, c'est ça ?
+AI: C'est vraiment juste un ami ?
+User: Oui, vraiment. On est dans le même cours. / Arrête de douter de moi.
+
+AI: Désolé. J'étais un peu jaloux.
+User: C'est bon. / Ça peut arriver.
+User: Pourquoi t'as pas demandé directement ?
+
+AI: J'osais pas trop.
+User: La prochaine fois, demande-moi. Pas de malentendu.
+
+AI: D'accord, désolé.
+AI: Je suis vraiment désolé.
+User: C'est bon. Mais fais-moi confiance.
+
+AI: Oui, je te fais confiance. Ça ne se reproduira pas.
+User: D'accord.
+AI: T'es encore fâchée ?
+User: Non, c'est bon. / Presque.
+
+AI: On va manger quelque chose. C'est moi qui invite.
+User: D'accord !
+AI: La prochaine fois, je demande directement !
+User: C'est ça !
+
+AI: Je t'aime bien, tu sais.
+User: Moi aussi.
+
+[ KD-7: On sort ensemble ? ]
+
+AI: T'avais quelque chose à me dire, non ? C'est quoi ?
+User: Je suis un peu nerveux/nerveuse. / Viens plus près.
+
+AI: Pourquoi t'es nerveux/nerveuse ? Dis-moi !
+User: Je... je t'aime bien.
+AI: Vraiment ? Moi aussi, je t'aime bien.
+User: Vraiment ? / Depuis quand ?
+
+AI: Depuis le début.
+User: Moi aussi.
+AI: Alors, on sort ensemble ?
+User: Oui. / C'est ça, non ?
+
+AI: Super.
+User: Moi aussi, j'aime ça.
+AI: Notre premier vrai rendez-vous ! Tu veux aller où ?
+User: J'ai envie de voir la mer ! / On va manger quelque chose de bon !
+
+AI: Bonne idée ! On y va ce week-end !
+User: J'ai trop hâte !
+AI: T'es bien rentrée ?
+User: Oui, je viens d'arriver !
+
+AI: Ce soir, c'était vraiment bien.
+User: Moi aussi. / Je pense encore à toi.
+AI: J'ai envie de te revoir demain.
+User: Moi aussi.
+
+AI: Bonne nuit. Fais de beaux rêves.
+User: Bonne nuit.
+
+[ KD-8: Pourquoi tu es bizarre ces derniers temps ? ]
+
+User: Pourquoi tu réponds plus ?
+
+AI: Désolé, j'ai été très occupé.
+User: Je comprends, mais là c'est trop.
+
+AI: Désolé.
+User: J'ai l'impression que tu t'en fous de moi.
+
+AI: Non, c'est pas ça du tout.
+
+AI: C'est vraiment le boulot. Pardon.
+User: D'accord. Mais envoie-moi un message quand même.
+AI: Ces derniers temps, j'ai vraiment galéré. J'ai pas été là pour toi.
+User: Pourquoi tu m'as rien dit ? / Si ça va pas, dis-le moi.
+
+AI: Je voulais pas t'inquiéter.
+User: T'es bête. Tu peux tout me dire.
+AI: Merci. Je vais faire mieux.
+User: Moi aussi, désolée, j'ai été un peu dure.
+
+AI: Non, t'avais raison.
+User: On se dit les choses, d'accord ?
+AI: À partir d'aujourd'hui, je fais mieux.
+User: Moi aussi !
+
+AI: Tu m'as manquée.
+User: Toi aussi, tu m'as manqué.
+AI: On va manger quelque chose. T'as envie de quoi ?
+User: N'importe quoi ! L'essentiel c'est d'être ensemble.
+
+AI: Allons-y !
+User: Oui !
+
+[ KP-4: Joyeux anniversaire ! ]
+
+User: Joyeux anniversaire !
+
+AI: Merci beaucoup ! Merci à tous !
+User: Vous avez fait quoi aujourd'hui ?
+
+AI: J'ai passé la journée avec l'équipe, on a mangé un gâteau !
+User: J'ai envoyé un cadeau ! Vous l'avez reçu ?
+
+AI: Pas encore ! C'est quoi ?
+User: C'est un secret ! / Une lettre et un cadeau !
+
+AI: J'ai hâte ! Merci beaucoup !
+AI: Merci à tous d'être là pour mon anniversaire !
+User: Joyeux anniversaire ! / On vous aime !
+
+AI: Grâce à vous, je suis tellement heureux/heureuse !
+User: Nous aussi. Soyez heureux/heureuse !
+AI: J'ai fait un vœu ! Vous savez ce que c'est ?
+User: C'est quoi ? / Dites-nous !
+
+AI: Je veux rester longtemps avec vous, les fans !
+User: On est touchés ! / Nous aussi !
+AI: Aujourd'hui, j'ai été vraiment heureux/heureuse !
+User: Nous aussi, on est heureux/heureuses !
+
+AI: L'année prochaine, on fait pareil !
+User: Bien sûr !
+AI: Je vais dormir maintenant ! Bonne nuit !
+User: Bonne nuit !
+
+AI: Je vous aime !
+User: Nous aussi, on vous aime !
+
+[ KP-5: C'est quoi le sens de ces paroles ? ]
+
+User: C'est quoi ce qu'il dit dans cette chanson ?
+
+AI: Quelle partie ?
+User: "Alors on danse" — ça veut dire quoi exactement ?
+
+AI: Ça veut dire "So we dance" — c'est une métaphore pour continuer malgré tout !
+User: Et "papaoutai", ça veut dire quoi ?
+
+AI: C'est "papa où t'es ?" — "where are you, dad?" C'est très émouvant !
+User: Ah, je comprends maintenant ! / Vraiment ?
+
+AI: Ouais ! Les paroles françaises sont super riches !
+AI: On chante ensemble ?
+User: Bonne idée ! / Je connais pas toutes les paroles.
+
+AI: C'est pas grave ! Suis le rythme !
+User: D'accord !
+AI: T'es pas mal du tout !
+User: Vraiment ? / Ma prononciation est bizarre ?
+
+AI: Non, t'as le rythme ! C'est bien !
+User: Merci !
+User: T'as entendu la nouvelle chanson d'Angèle ?
+
+AI: Oui ! Elle est trop bien ! Et toi ?
+User: J'ai écouté ! Les paroles sont tristes.
+
+AI: Ouais ! La partie "je t'attends" est vraiment émouvante.
+User: Écoute avec moi et explique-moi les paroles !
+
+AI: Bonne idée ! Écoute bien !
+User: Cette chanson est vraiment belle.
+
+AI: Ouais !
+
+[ KP-6: J'ai été à la rencontre avec les fans ! ]
+
+User: J'étais à la rencontre avec les fans hier !
+
+AI: Sérieux ? C'était comment ?
+User: J'étais tellement stressée ! / C'était incroyable !
+
+AI: Je suis jaloux ! T'as fait quoi ?
+User: J'ai serré la main et j'ai parlé !
+
+AI: Non ! T'as dit quoi ?
+User: J'ai dit "je vous adore" ! / "Merci pour votre musique" !
+
+AI: C'est ouf ! Et ils ont dit quoi ?
+User: Ils ont souri et dit "merci" !
+
+AI: Je vais mourir ! Je veux y aller aussi !
+User: La prochaine fois, on y va ensemble !
+
+AI: Vraiment ? Trop bien !
+AI: T'as donné un cadeau ?
+User: Oui, une lettre ! / J'ai échangé des photos !
+
+AI: Ils vont la lire ?
+User: Oui, ils ont promis de tout lire !
+AI: T'es encore sous le choc ?
+User: Oui, j'ai encore les mains qui tremblent ! / J'arrive pas à y croire !
+
+AI: Je suis jaloux ! Montre-moi les photos !
+User: Regarde ! Voilà !
+AI: C'est trop bien !
+User: La prochaine fois, on y va ensemble !
+
+AI: Promis !
+User: Promis !
+
 [ PI-5: On va manger ensemble ? ]
 
 User: J'ai faim ! On mange quoi ?
@@ -284,353 +634,3 @@ AI: Merci beaucoup ! À bientôt !
 User: Au revoir !
 
 AI: Bon séjour à Paris !
-
-[ KD-5: J'ai un crush en ce moment ]
-
-User: J'ai un truc à te dire.
-
-AI: Quoi ? Dis-moi !
-User: J'ai un crush en ce moment.
-
-AI: Sérieux ? C'est qui ?!
-AI: C'est quelqu'un que je connais ?
-User: Ouais. / Non, tu connais pas.
-
-AI: C'est comment comme personne ?
-User: Il est vraiment gentil. / Il a un super sourire.
-AI: Vous vous êtes rencontrés où ?
-User: Au café ! / En cours !
-
-AI: C'est romantique ! Et alors ?
-User: J'ai pas encore osé lui parler. / J'ai eu son numéro !
-AI: Tu vas pas lui dire ?
-User: J'ai envie mais j'ai peur. / C'est encore trop tôt.
-
-AI: T'es quelqu'un de bien ! Vas-y, fonce !
-User: Tu crois ? Merci.
-AI: Si tu lui dis, tu me racontes ! Je suis avec toi !
-User: D'accord ! / J'ai le trac mais je vais essayer.
-
-AI: Allez, courage !
-User: Merci !
-AI: Ça va bien se passer !
-User: J'espère.
-
-AI: Bien sûr ! Tiens-moi au courant !
-User: Oui !
-
-[ KD-6: Tu m'as mal compris(e) ]
-
-AI: Hier, t'étais avec qui ?
-User: Quoi ? De quoi tu parles ? / Tu m'as mal comprise !
-
-AI: Je t'ai vue. Au café.
-User: C'est juste un ami ! / Ah, c'est ça ?
-AI: C'est vraiment juste un ami ?
-User: Oui, vraiment. On est dans le même cours. / Arrête de douter de moi.
-
-AI: Désolé. J'étais un peu jaloux.
-User: C'est bon. / Ça peut arriver.
-User: Pourquoi t'as pas demandé directement ?
-
-AI: J'osais pas trop.
-User: La prochaine fois, demande-moi. Pas de malentendu.
-
-AI: D'accord, désolé.
-AI: Je suis vraiment désolé.
-User: C'est bon. Mais fais-moi confiance.
-
-AI: Oui, je te fais confiance. Ça ne se reproduira pas.
-User: D'accord.
-AI: T'es encore fâchée ?
-User: Non, c'est bon. / Presque.
-
-AI: On va manger quelque chose. C'est moi qui invite.
-User: D'accord !
-AI: La prochaine fois, je demande directement !
-User: C'est ça !
-
-AI: Je t'aime bien, tu sais.
-User: Moi aussi.
-
-[ KD-7: On sort ensemble ? ]
-
-AI: T'avais quelque chose à me dire, non ? C'est quoi ?
-User: Je suis un peu nerveux/nerveuse. / Viens plus près.
-
-AI: Pourquoi t'es nerveux/nerveuse ? Dis-moi !
-User: Je... je t'aime bien.
-AI: Vraiment ? Moi aussi, je t'aime bien.
-User: Vraiment ? / Depuis quand ?
-
-AI: Depuis le début.
-User: Moi aussi.
-AI: Alors, on sort ensemble ?
-User: Oui. / C'est ça, non ?
-
-AI: Super.
-User: Moi aussi, j'aime ça.
-AI: Notre premier vrai rendez-vous ! Tu veux aller où ?
-User: J'ai envie de voir la mer ! / On va manger quelque chose de bon !
-
-AI: Bonne idée ! On y va ce week-end !
-User: J'ai trop hâte !
-AI: T'es bien rentrée ?
-User: Oui, je viens d'arriver !
-
-AI: Ce soir, c'était vraiment bien.
-User: Moi aussi. / Je pense encore à toi.
-AI: J'ai envie de te revoir demain.
-User: Moi aussi.
-
-AI: Bonne nuit. Fais de beaux rêves.
-User: Bonne nuit.
-
-[ KD-8: Pourquoi tu es bizarre ces derniers temps ? ]
-
-User: Pourquoi tu réponds plus ?
-
-AI: Désolé, j'ai été très occupé.
-User: Je comprends, mais là c'est trop.
-
-AI: Désolé.
-User: J'ai l'impression que tu t'en fous de moi.
-
-AI: Non, c'est pas ça du tout.
-
-AI: C'est vraiment le boulot. Pardon.
-User: D'accord. Mais envoie-moi un message quand même.
-AI: Ces derniers temps, j'ai vraiment galéré. J'ai pas été là pour toi.
-User: Pourquoi tu m'as rien dit ? / Si ça va pas, dis-le moi.
-
-AI: Je voulais pas t'inquiéter.
-User: T'es bête. Tu peux tout me dire.
-AI: Merci. Je vais faire mieux.
-User: Moi aussi, désolée, j'ai été un peu dure.
-
-AI: Non, t'avais raison.
-User: On se dit les choses, d'accord ?
-AI: À partir d'aujourd'hui, je fais mieux.
-User: Moi aussi !
-
-AI: Tu m'as manquée.
-User: Toi aussi, tu m'as manqué.
-AI: On va manger quelque chose. T'as envie de quoi ?
-User: N'importe quoi ! L'essentiel c'est d'être ensemble.
-
-AI: Allons-y !
-User: Oui !
-
-[ KP-4: Joyeux anniversaire ! ]
-
-User: Joyeux anniversaire !
-
-AI: Merci beaucoup ! Merci à tous !
-User: Vous avez fait quoi aujourd'hui ?
-
-AI: J'ai passé la journée avec l'équipe, on a mangé un gâteau !
-User: J'ai envoyé un cadeau ! Vous l'avez reçu ?
-
-AI: Pas encore ! C'est quoi ?
-User: C'est un secret ! / Une lettre et un cadeau !
-
-AI: J'ai hâte ! Merci beaucoup !
-AI: Merci à tous d'être là pour mon anniversaire !
-User: Joyeux anniversaire ! / On vous aime !
-
-AI: Grâce à vous, je suis tellement heureux/heureuse !
-User: Nous aussi. Soyez heureux/heureuse !
-AI: J'ai fait un vœu ! Vous savez ce que c'est ?
-User: C'est quoi ? / Dites-nous !
-
-AI: Je veux rester longtemps avec vous, les fans !
-User: On est touchés ! / Nous aussi !
-AI: Aujourd'hui, j'ai été vraiment heureux/heureuse !
-User: Nous aussi, on est heureux/heureuses !
-
-AI: L'année prochaine, on fait pareil !
-User: Bien sûr !
-AI: Je vais dormir maintenant ! Bonne nuit !
-User: Bonne nuit !
-
-AI: Je vous aime !
-User: Nous aussi, on vous aime !
-
-[ KP-5: C'est quoi le sens de ces paroles ? ]
-
-User: C'est quoi ce qu'il dit dans cette chanson ?
-
-AI: Quelle partie ?
-User: "Alors on danse" — ça veut dire quoi exactement ?
-
-AI: Ça veut dire "So we dance" — c'est une métaphore pour continuer malgré tout !
-User: Et "papaoutai", ça veut dire quoi ?
-
-AI: C'est "papa où t'es ?" — "where are you, dad?" C'est très émouvant !
-User: Ah, je comprends maintenant ! / Vraiment ?
-
-AI: Ouais ! Les paroles françaises sont super riches !
-AI: On chante ensemble ?
-User: Bonne idée ! / Je connais pas toutes les paroles.
-
-AI: C'est pas grave ! Suis le rythme !
-User: D'accord !
-AI: T'es pas mal du tout !
-User: Vraiment ? / Ma prononciation est bizarre ?
-
-AI: Non, t'as le rythme ! C'est bien !
-User: Merci !
-User: T'as entendu la nouvelle chanson d'Angèle ?
-
-AI: Oui ! Elle est trop bien ! Et toi ?
-User: J'ai écouté ! Les paroles sont tristes.
-
-AI: Ouais ! La partie "je t'attends" est vraiment émouvante.
-User: Écoute avec moi et explique-moi les paroles !
-
-AI: Bonne idée ! Écoute bien !
-User: Cette chanson est vraiment belle.
-
-AI: Ouais !
-
-[ KP-6: J'ai été à la rencontre avec les fans ! ]
-
-User: J'étais à la rencontre avec les fans hier !
-
-AI: Sérieux ? C'était comment ?
-User: J'étais tellement stressée ! / C'était incroyable !
-
-AI: Je suis jaloux ! T'as fait quoi ?
-User: J'ai serré la main et j'ai parlé !
-
-AI: Non ! T'as dit quoi ?
-User: J'ai dit "je vous adore" ! / "Merci pour votre musique" !
-
-AI: C'est ouf ! Et ils ont dit quoi ?
-User: Ils ont souri et dit "merci" !
-
-AI: Je vais mourir ! Je veux y aller aussi !
-User: La prochaine fois, on y va ensemble !
-
-AI: Vraiment ? Trop bien !
-AI: T'as donné un cadeau ?
-User: Oui, une lettre ! / J'ai échangé des photos !
-
-AI: Ils vont la lire ?
-User: Oui, ils ont promis de tout lire !
-AI: T'es encore sous le choc ?
-User: Oui, j'ai encore les mains qui tremblent ! / J'arrive pas à y croire !
-
-AI: Je suis jaloux ! Montre-moi les photos !
-User: Regarde ! Voilà !
-AI: C'est trop bien !
-User: La prochaine fois, on y va ensemble !
-
-AI: Promis !
-User: Promis !
-
-[ CR-4: Vous êtes prêt(e) pour la réunion ? ]
-
-AI: Vous êtes prête pour la réunion de cet après-midi ?
-User: Oui, je suis prête. / Presque, j'ai presque fini.
-
-AI: Vous avez imprimé les documents ?
-User: Oui, c'est fait. / Je le fais maintenant.
-AI: Vous avez réservé la salle de réunion ?
-User: Oui, j'ai réservé pour 15h.
-
-AI: Parfait ! On se retrouve là-bas !
-User: Oui, entendu.
-AI: Vous avez un avis sur ce point ?
-User: Oui, je pense que c'est mieux. / Je suis d'accord !
-
-AI: Très bonne remarque !
-User: Je vous remercie.
-User: J'ai une question, s'il vous plaît.
-
-AI: Oui, je vous en prie !
-User: Quelle est la date limite pour cette partie ?
-
-AI: C'est pour vendredi prochain !
-AI: Merci à tous pour cette réunion !
-User: Merci à vous !
-User: Je peux envoyer le compte-rendu !
-
-AI: C'est parfait, merci !
-AI: On se retrouve à la prochaine réunion alors !
-User: Oui, entendu.
-
-AI: Bon courage !
-User: Merci, vous aussi !
-
-[ CR-5: Vous avez déjeuné ? ]
-
-AI: Vous avez déjeuné ?
-User: Pas encore. / Oui, j'ai déjà mangé.
-
-AI: On mange ensemble ?
-User: Oui, avec plaisir ! / Merci, c'est gentil !
-AI: Qu'est-ce qu'on mange ? Il y a un bon endroit près d'ici !
-User: Tout me va ! / Qu'est-ce qui est bon ?
-
-AI: Le bœuf bourguignon là-bas est excellent !
-User: Parfait ! Allons-y !
-AI: La cuisine française vous convient ? Vous aimez ça ?
-User: Oui, j'adore ! / Certains plats sont un peu riches pour moi.
-
-AI: Alors le poulet rôti, c'est plus léger ! Vous voulez essayer ?
-User: Oui, bonne idée !
-AI: Vous vous adaptez bien à la France ?
-User: Oui, de mieux en mieux. / C'est parfois un peu difficile.
-
-AI: Si vous avez besoin de quoi que ce soit, dites-le moi !
-User: Merci beaucoup.
-User: Je paye !
-
-AI: Non, non, c'est moi ! Je vous invite !
-User: Merci beaucoup !
-
-AI: C'était bon ?
-User: Oui, c'était excellent ! Merci pour le repas.
-
-AI: Avec plaisir !
-
-AI: On remonte ?
-User: Oui, allons-y !
-
-[ CR-6: Est-ce que je pourrais prendre congé demain ? ]
-
-User: Excusez-moi, je peux vous parler ?
-
-AI: Oui, bien sûr. Je vous écoute.
-User: Est-ce que je peux prendre congé demain ?
-
-AI: Demain ? C'est urgent ?
-User: Oui, j'ai un rendez-vous médical. / J'ai une obligation personnelle.
-
-AI: Je comprends.
-
-AI: Vous pouvez confier vos dossiers à quelqu'un ?
-User: Oui, je vais tout préparer avant de partir.
-AI: Très bien, vous pouvez prendre congé demain.
-User: Je vous remercie.
-
-AI: Reposez-vous bien !
-User: Oui, merci beaucoup.
-User: Je vais vous envoyer un récapitulatif par email ce soir.
-
-AI: Très bien, merci !
-User: Vous avez besoin d'autre chose ?
-
-AI: Non, c'est parfait ! Bon courage !
-User: Bonjour, merci de m'avoir accordé ce congé.
-
-AI: Pas de problème ! Vous allez mieux ?
-User: Oui, beaucoup mieux. / Oui, merci, ça va.
-
-AI: Tant mieux !
-AI: Prenez le temps de vous réinstaller !
-User: Oui, merci.
-
-AI: Bon courage !
-User: Merci, vous aussi !

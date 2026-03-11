@@ -1,0 +1,450 @@
+# 💖 PERSONAL INTEREST (casual) >> American Daily Life
+
+# PI-1: Hey, I'm ___!
+
+- Category: Personal Interest
+- Subcategory: First Meeting
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+First meeting in New York.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, say where you're from, and share one reason you like the US.
+
+**📍 Location:** Outside (SoHo, NYC)
+
+**intro_text:**
+First meeting in New York.
+Deep breath... say hi!
+
+**Opening — First Hello [Set 1]**
+AI: Hey! I'm Alex! What's your name?
+User: I'm ___! / My name is ___!
+AI: Nice to meet you! Where are you from?
+User: I'm from ___!
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in New York?
+>
+
+**Getting Closer — Likes [Set 2]**
+AI: Do you like it here?
+User: Yeah, I love it! / It's so cool!
+AI: What do you like about it?
+User: The food! / The people!
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with American food.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+You're still talking. Good sign!
+Time to find out what you have in common.
+
+**Hobbies — What Do You Like? [Set 3]**
+User: Alex, what do you like?
+AI: Me? I love music! What about you?
+User: Me too! / I like movies!
+AI: Oh really? American music?
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate American obsession... Food.
+>
+
+**Food — Have You Tried It? [Set 4]**
+AI: Have you tried BBQ here?
+User: Yeah! / Not yet!
+AI: You have to try it! It's so good!
+User: I want to! / Yeah, it was amazing!
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them to hang out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange numbers to stay in touch.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+The vibe is good. Really good.
+Time to make this official!
+
+**Plans — This Weekend [Set 5]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Wanna hang out?
+User: Yeah! What should we do?
+AI: Let's grab some food!
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their number!
+>
+
+**Contact — Let's Stay in Touch [Set 6]**
+User: Can I get your number?
+AI: Yeah, for sure! Here you go!
+User: Got it!
+AI: Text me! See you soon!
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: What's Your Sign?
+
+- Category: Personal Interest
+- Subcategory: Small Talk
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+You made it to the coffee shop. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+**Opening — Age [Set 1]**
+AI: How old are you?
+User: I'm ___! / I'm ___ years old!
+AI: Oh, same as me! I'm 25!
+User: Really? / No way!
+
+**Outro:**
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
+**Where Do You Live? [Set 2]**
+User: Where do you live?
+AI: Me? I live in Brooklyn! What about you?
+User: I live in Manhattan! / I live near here!
+AI: Oh, that's close!
+
+**Outro:**
+> Neighbors? Maybe! 📍
+> Get ready — the astrology question is coming.
+>
+
+---
+
+### sim2: Astrology Talk
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The coffee is good. The conversation is better.
+Time for the question everyone in NYC asks.
+
+**Star Sign [Set 3]**
+User: What's your sign?
+AI: I'm a Scorpio! What about you?
+User: I'm a Leo! / I don't know!
+AI: A Leo? That makes sense!
+
+**Outro:**
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
+**Personality [Set 4]**
+AI: Are you more of a homebody or do you go out a lot?
+User: I go out a lot! / I stay home mostly!
+AI: Me too, I love going out!
+User: Same! / Oh really?
+
+**Outro:**
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
+---
+
+### sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+You're on your second coffee. This is going well.
+Time to get a little more personal.
+
+**Lately [Set 5]**
+AI: What have you been up to lately?
+User: Learning English! / Watching Netflix!
+AI: Nice! How's that going?
+User: It's fun! / It's a little hard.
+
+**Outro:**
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
+**Wrap Up [Set 6]**
+AI: We should hang out again!
+User: Yeah, for sure!
+AI: Text me, okay?
+User: I will!
+
+**Outro:**
+> New friend unlocked! 🔓
+> Next up: Turn that chat into actual plans.
+>
+
+---
+
+# PI-3: What Are You Doing This Weekend?
+
+- Category: Personal Interest
+- Subcategory: Making Plans
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**Opening — Weekend [Set 1]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Why?
+User: Let's hang out!
+AI: Yeah! What do you wanna do?
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**Where? [Set 2]**
+User: Wanna get coffee? Or grab food?
+AI: Food! I'm hungry. Where?
+User: How about SoHo?
+AI: Let's do it!
+
+**Outro:**
+> Destination: SoHo! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+Plans are set. Now lock in the details.
+Don't be that person who shows up at the wrong time.
+
+**Time [Set 3]**
+AI: What time should we meet?
+User: 2pm? / In the evening!
+AI: 2pm works! Spring Street station?
+User: Perfect!
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**Confirm [Set 4]**
+AI: So Saturday at 2, Spring Street!
+User: Yes!
+AI: Don't be late!
+User: I won't! / I'll be there!
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Location:** Spring Street Station, SoHo
+
+**intro_text:**
+It's Saturday. You're almost there.
+One last text to find each other!
+
+**Day Of [Set 5]**
+AI: Are you on your way?
+User: Yeah, almost there! / I'm here!
+AI: I'm here already! Hurry!
+User: Coming now!
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**Found You [Set 6]**
+User: Where are you?
+AI: I'm right here! Over here!
+User: Oh, I see you!
+AI: Let's go!
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---
+
+# PI-4: Text Me!
+
+- Category: Personal Interest
+- Subcategory: Staying in Touch
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+You have their number.
+Now what? Just... text them!
+
+**Opening — First Text [Set 1]**
+User: What are you up to?
+AI: Just at home! What about you?
+User: Same, I'm bored.
+AI: Me too! Wanna go out?
+
+**Outro:**
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
+**Chat — How Was Your Day? [Set 2]**
+AI: What did you do today?
+User: Studied English. / Watched Netflix.
+AI: Oh nice, what did you watch?
+User: Something new! / It's a secret!
+
+**Outro:**
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
+---
+
+### sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+The conversation is flowing.
+Time to send something fun!
+
+**Photo [Set 3]**
+AI: Look where I am!
+User: Where is that? / Wow, that's beautiful!
+AI: Central Park! We should go together sometime!
+User: Let's do it! / Yeah, I'd love that!
+
+**Outro:**
+> Central Park plans made! 🌿
+> Now send them something funny.
+>
+
+**Fun Stuff [Set 4]**
+User: Did you see this?
+AI: What is it? I haven't seen it!
+User: It's so funny! Watch it!
+AI: Okay, I'll check it out!
+
+**Outro:**
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
+---
+
+### sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+It's getting late.
+Time to wrap up the night.
+
+**Evening [Set 5]**
+AI: Did you eat dinner?
+User: Yeah, I did. / Not yet!
+AI: Me too! I had pizza!
+User: Nice! / Really?
+
+**Outro:**
+> Dinner check done! 🍕
+> Almost time to wrap up for the night.
+>
+
+**Goodnight [Set 6]**
+AI: I'm gonna sleep now! Goodnight!
+User: Goodnight! Talk soon!
+AI: Yeah, talk soon! Text me tomorrow!
+User: I will!
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Taking your English out into the real world.
+>
+
+---
+
+# ✈️ TRAVEL & PLACES (polite) >> US Travel

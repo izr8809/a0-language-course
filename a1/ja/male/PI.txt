@@ -1,0 +1,414 @@
+# 💖 PERSONAL INTEREST (タメ口) >> Japanese Life
+
+# PI-5: 一緒にご飯食べに行こうよ
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Choosing a Place
+
+**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** 渋谷の路上
+
+**intro_text:**
+Lunchtime in Tokyo. Endless options. What are we eating?
+
+**기 — 何食べる [세트 1]**
+User: お腹すいた！何食べようか？
+AI: 私もお腹すいた！何食べたい？
+User: 焼肉食べたい！ / 焼肉どう？
+AI: いいね！おいしい店知ってる！行こう！
+
+**Outro:**
+> Yakiniku it is! 🥩 Now the real question: how far is it?
+> Lace up your shoes — it might be a walk.
+>
+
+**승 — 行き方 [세트 2]**
+AI: ここから近いよ！歩いて行く？
+User: うん、歩こう！ / どのくらいかかる？
+AI: 10分くらいかな！行こう！
+User: わかった！
+
+**Outro:**
+> Just a short walk! 🚶 The smell of grilling meat is already calling.
+> Almost there — get ready for a feast.
+>
+
+---
+
+### sim2: At the Restaurant
+
+**Goal:** To order food together and enjoy yakiniku like a true Tokyo local.
+
+**📍 장소:** 焼肉屋の中
+
+**intro_text:**
+We're here. The grill is already hot.
+
+**승 — 食堂 [세트 3]**
+AI: ここだよ！どう？
+User: わあ、いいね！ / 人多い！
+AI: 何頼む？メニュー見て！
+User: 牛タン！ / カルビ！
+
+**Outro:**
+> Order placed! 🔥 Now comes the most important question in Japan...
+> Who manages the grill? The real power move starts now.
+>
+
+**전 — 食べる [세트 4]**
+AI: 焼いてあげようか？
+User: うん、焼いて！ / 自分で焼く！
+AI: おいしい！
+User: 本当においしい！ / ここ来てよかった！
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
+> Brace yourself — the Japanese bill fight is legendary.
+>
+
+---
+
+### sim3: After Eating
+
+**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+
+**📍 장소:** 焼肉屋の中 → 外の路上
+
+**전 — 食後 [세트 5]**
+User: 私が払う！
+AI: いや、割り勘にしよう！
+User: いや、今日は私が出す！
+AI: 本当に？ありがとう！次は私が払う！
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — 次は [세트 6]**
+AI: お腹いっぱい！次何する？
+User: カフェ行く？ / ちょっと歩く？
+AI: いいね、行こう！
+User: 行こう！
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---
+
+# PI-6: 君のおかげで日本語勉強してる
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Getting Personal
+
+**Goal:** To open up about why you're learning Japanese and feel supported by your friend's encouragement.
+
+**📍 장소:** カフェ
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — 深い話 [세트 1]**
+AI: 日本語なんで勉強してるの？
+User: 日本の友達作りたくて！ / アニメわかるようになりたくて！
+AI: え、本当に？今すごく上手だよ！
+User: まだまだだよ。 / 本当に？ありがとう！
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in Japan, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — 日本生活 [세트 2]**
+AI: 日本で大変なことない？
+User: たまに寂しくなる。 / 言葉が通じない時。
+AI: 大変な時は私に話して！
+User: ありがとう。 / うん、そうする。
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Encouragement
+
+**Goal:** To reflect on how far you've come with Japanese and feel genuinely motivated to keep going.
+
+**📍 장소:** カフェ (同じ)
+
+**승 — 応援 [세트 3]**
+AI: 日本語最初に勉強した時どうだった？
+User: 本当に難しかった！ / 全然わからなかった。
+AI: でも今こんなに上手じゃん！
+User: そう？ありがとう！ / まだ全然足りないよ。
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — 感動 [세트 4]**
+User: 君のおかげで日本語もっと頑張りたい。
+AI: 本当に？感動した！
+User: 本当だよ！
+AI: 私も君のおかげで英語勉強したくなった！
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Real Friends
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** カフェ (同じ)
+
+**전 — 本当の友達 [세트 5]**
+AI: 私たち知り合ってどのくらいになった？
+User: 一ヶ月くらい？ / もう二ヶ月！
+AI: 時間経つの早い！
+User: 本当に！
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — 約束 [세트 6]**
+AI: これからもよく会おう！
+User: もちろん！
+AI: 来週何かしよう！
+User: いいね！連絡して！
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Tokyo life just got a whole lot better.
+>
+
+---
+
+# PI-7: 何か悩んでる？
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Something's Wrong
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** カフェ
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — 悩み [세트 1]**
+AI: 最近元気なさそう。何かあった？
+User: ちょっとしんどい。 / 悩みがある。
+AI: どんな悩み？話してみて。
+User: 日本生活がちょっとしんどい。 / 仕事が多すぎる。
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — 聞いてあげる [세트 2]**
+AI: 何が一番しんどい？
+User: 一人でいる時間が多くて。 / 日本語がまだ難しくて。
+AI: それはしんどかったね。
+User: うん、ちょっとね。
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Advice
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** カフェ → 代々木公園
+
+**승 — アドバイス [세트 3]**
+AI: 一人で抱え込まないで。私に話して！
+User: ありがとう。 / そうする。
+AI: 気分転換必要じゃない？出かけよう！
+User: どこ？ / いいね！
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Yoyogi Park has a way of making everything feel better.
+>
+
+**전 — 外で [세트 4]**
+AI: 代々木公園行こう！外の空気吸ったら気分よくなるよ！
+User: そうだね、行こう！
+AI: 何か買って行く？
+User: いいね！ / コンビニ寄ろう！
+
+**Outro:**
+> Convenience store snacks + Yoyogi Park = perfect combo! 🍙 Let's go.
+> The best conversations happen under the open sky.
+>
+
+---
+
+### sim3: Feeling Better
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** 代々木公園
+
+**전 — 気分転換 [세트 5]**
+AI: 気分よくなった？
+User: うん、だいぶよくなった！ / おかげで！
+AI: よかった！
+User: 本当にありがとう。
+
+**Outro:**
+> From stressed to refreshed! 🌿 Yoyogi Park delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — いつでも [세트 6]**
+AI: しんどい時はいつでも連絡して！
+User: うん、そうする！
+AI: 約束だよ！
+User: 約束！
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Tokyo life is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: 一緒に旅行しない？
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Where to Go
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** カフェ
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — 旅行の提案 [세트 1]**
+User: 来週の連休何する？
+AI: まだ何もない！なんで？
+User: 一緒に旅行しない？
+AI: やばい！いいね！どこ？
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Kyoto or Osaka? The debate begins.
+>
+
+**승 — 決める [세트 2]**
+User: 京都どう？ / 大阪行きたい！
+AI: いいね！私も行きたかった！
+AI: 何日行く？
+User: 一泊二日？ / 二泊三日？
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: Planning
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** カフェ (同じ)
+
+**승 — 計画 [세트 3]**
+AI: 何で行く？新幹線？バス？
+User: 新幹線にしよう！ / バス安い？
+AI: 新幹線が早い！2時間くらいで着くよ！
+User: いいね！
+
+**Outro:**
+> Shinkansen it is! 🚅 Fast, smooth, and very Japanese.
+> Next up: where are we sleeping?
+>
+
+**전 — 宿泊 [세트 4]**
+AI: 宿どうする？ホテル？ゲストハウス？
+User: ゲストハウス！安いから！ / ホテルの方が楽じゃない？
+AI: ゲストハウス予約するね！
+User: うん、ありがとう！
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: Getting Excited
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** カフェ (同じ)
+
+**전 — ワクワク [세트 5]**
+User: 京都で何したい？
+AI: 伏見稲荷行きたい！君は？
+User: 私は抹茶食べたい！ / 嵐山行きたい！
+AI: いいね！全部行こう！
+
+**Outro:**
+> The itinerary is basically writing itself! 🌸 Shrines, matcha, bamboo — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — 楽しみ [세트 6]**
+AI: 楽しみだね！
+User: 私も！早く行きたい！
+AI: じゃあその時ね！荷物まとめといて！
+User: わかった！
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> Japan is waiting — and so is the best matcha of your life.
+>
+
+---
+
+# ✈️ TRAVELING (です・ます体) >> Japan Travel

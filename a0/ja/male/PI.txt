@@ -1,0 +1,418 @@
+# 💖 PERSONAL INTEREST (タメ口) >> Japanese Daily Life
+
+# PI-1: はじめまして！
+
+- 大分類: Personal Interest
+- 中分類: First Meeting
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+First meeting in Japan.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, state where you are from, and briefly share why you like Japan.
+
+**📍 場所:** 外 (渋谷)
+
+**intro_text:**
+First meeting in Japan.
+Deep breath... say hi!
+
+**起 — はじめまして [セット 1]**
+AI: ねえ、はじめまして！わたしは けんただよ！なまえは？
+User: わたしは ___だよ！ / ___だよ！
+AI: あ、よろしく！どこから きたの？
+User: ___から きたよ！
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in Japan?
+>
+
+**承 — 仲良くなろう [セット 2]**
+AI: 日本、すき？
+User: うん、すき！ / めっちゃすき！
+AI: 日本、なんで すきなの？
+User: アニメ！ / ごはん！
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with Japanese food.
+
+**📍 場所:** 外 (同じ)
+
+**承 — 趣味 [セット 3]**
+User: けんた、なにが すき？
+AI: わたし？おんがく すき！きみは？
+User: わたしも おんがく！ / アニメが すき！
+AI: え、ほんと？日本の おんがく？
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate Japanese obsession... Food.
+>
+
+**転 — ごはん [セット 4]**
+AI: 日本の ごはん、たべた？
+User: うん！ / まだ！
+AI: 焼肉、たべた？めっちゃ おいしいよ！
+User: たべてみたい！ / うん、おいしかった！
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange LINE IDs to stay in touch.
+
+**📍 場所:** 外 (同じ)
+
+**転 — あそぼう [セット 5]**
+User: しゅうまつ、なにする？
+AI: わたし？まだ よていない！いっしょに あそぶ？
+User: いいね！なにしよう？
+AI: ごはん たべに いこう！
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their LINE ID!
+>
+
+**結 — れんらく [セット 6]**
+User: LINE、ある？
+AI: うん、ある！ID おしえて！
+User: これ！
+AI: れんらくするね！またね！
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: 血液型なに？
+
+- 大分類: Personal Interest
+- 中分類: Small Talk
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 場所:** カフェ
+
+**intro_text:**
+You made it to the café. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+**起 — 年齢 [セット 1]**
+AI: なんさい？
+User: ___さいだよ！
+AI: あ、わたしと おなじくらい！わたしは 25さい！
+User: ほんと？ / え、そうなの？
+
+**Outro:**
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
+**承 — どこに すんでる [セット 2]**
+User: どこに すんでる？
+AI: わたし？六本木だよ！きみは？
+User: 渋谷だよ！ / 渋谷の ちかくだよ！
+AI: え、ちかい！
+
+**Outro:**
+> Neighbors? Maybe! 📍
+> Get ready — the blood type question is coming.
+>
+
+---
+
+### sim2: Blood Type Talk
+
+**Goal:** To discuss blood types and talk about personality.
+
+**📍 場所:** カフェ (同じ)
+
+**承 — 血液型 [セット 3]**
+User: 血液型、なに？
+AI: わたしは A型だよ！きみは？
+User: B型だよ！ / わからない！
+AI: B型？なんか わかる気がする！
+
+**Outro:**
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
+**転 — 性格 [セット 4]**
+AI: うちに いるの すき？そとに でるの すき？
+User: そとが すき！ / うちが すき！
+AI: わたしも そとが すき！
+User: え、おなじ！
+
+**Outro:**
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
+---
+
+### sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 場所:** カフェ (同じ)
+
+**転 — さいきん なにしてる [セット 5]**
+AI: さいきん なにしてる？
+User: 日本語の べんきょう！ / アニメ みてる！
+AI: 日本語、どう？たのしい？
+User: うん、たのしい！ / ちょっと むずかしい。
+
+**Outro:**
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
+**結 — まとめ [セット 6]**
+AI: また はなそうよ！
+User: うん、いいね！
+AI: LINE してね！
+User: うん！
+
+**Outro:**
+> New friend unlocked! 🔓
+> Next up: Turn that chat into actual plans.
+>
+
+---
+
+# PI-3: しゅうまつ、なにする？
+
+- 大分類: Personal Interest
+- 中分類: Making Plans
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 場所:** オンライン (LINE)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**起 — しゅうまつ [セット 1]**
+User: しゅうまつ、なにする？
+AI: わたし？まだ ないよ！なんで？
+User: いっしょに あそぼう！
+AI: いいね！なにしよう？
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**承 — どこ いこう [セット 2]**
+User: カフェ いく？ごはん たべに いく？
+AI: ごはん！おなかすいた！どこ？
+User: 渋谷は どう？
+AI: いいね！
+
+**Outro:**
+> Destination: Shibuya! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 場所:** オンライン (LINE, 同じ)
+
+**承 — じかん [セット 3]**
+AI: なんじに あう？
+User: 2じ？ / よるに！
+AI: 2じ いいね！渋谷えき まえ？
+User: うん！
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**転 — かくにん [セット 4]**
+AI: じゃあ どようび 2じ、渋谷えき！
+User: うん！
+AI: おくれないでね！
+User: わかった！ / おくれないよ！
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 場所:** 渋谷えき まえ (外)
+
+**転 — とうじつ [セット 5]**
+AI: でた？
+User: うん、もうすぐ！ / でてる！
+AI: わたし ついたよ！はやく きて！
+User: すぐ いく！
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**結 — あった [セット 6]**
+User: どこ？
+AI: ここ！こっち！
+User: あ、みえた！
+AI: いこう！
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---
+
+# PI-4: LINE してね！
+
+- 大分類: Personal Interest
+- 中分類: Staying in Touch
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+**📍 場所:** オンライン (LINE)
+
+**intro_text:**
+You have their LINE ID.
+Now what? Just... text them!
+
+**起 — はじめての LINE [セット 1]**
+User: なにしてる？
+AI: うちに いる！きみは？
+User: わたしも うち！ひまだ。
+AI: わたしも！でかけよう？
+
+**Outro:**
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
+**承 — はなし [セット 2]**
+AI: きょう なにした？
+User: 日本語 べんきょうした。 / アニメ みた。
+AI: え、なに みた？
+User: あたらしいやつ！ / ひみつ！
+
+**Outro:**
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
+---
+
+### sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+**📍 場所:** オンライン (LINE, 同じ)
+
+**承 — しゃしん [セット 3]**
+AI: わたし いま ここだよ！
+User: どこ？ / わあ、きれい！
+AI: 隅田川だよ！こんど いっしょに いこう！
+User: いこう！ / うん、いきたい！
+
+**Outro:**
+> Sumida River plans made! 🌊
+> Now send them something funny.
+>
+
+**転 — たのしい [セット 4]**
+User: これ みた？
+AI: なに？みてない！
+User: めっちゃ おもしろい！みてみて！
+AI: わかった！みる！
+
+**Outro:**
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
+---
+
+### sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 場所:** オンライン (LINE, 同じ)
+
+**転 — よる [セット 5]**
+AI: ごはん たべた？
+User: うん、たべた。 / まだ！
+AI: わたしも たべた！ラーメン！
+User: いいな！ / まじで？
+
+**Outro:**
+> Dinner check done! 🍜
+> Almost time to wrap up for the night.
+>
+
+**結 — おやすみ [セット 6]**
+AI: わたし もう ねるね！おやすみ！
+User: おやすみ！またね！
+AI: うん、またね！またLINEしてね！
+User: うん！
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Taking your Japanese out into the real world.
+>
+
+---
+
+# ✈️ TRAVELING (です・ます) >> Japan Travel

@@ -1,0 +1,415 @@
+# 🎌 ANIME & DRAMA (タメ口) >> Otaku Culture
+
+# KD-1: このアニメ、しってる？
+
+- 大分類: Anime & Drama
+- 中分類: Favorite Anime
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Anime Talk
+
+**Goal:** To talk about your favorite anime and find out what your friend is watching.
+
+**📍 場所:** ネカフェ (渋谷)
+
+**intro_text:**
+You're at a net café in Shibuya.
+Time to find out if they're a real otaku!
+
+**起 — アニメ [セット 1]**
+AI: ねえ、アニメ すき？
+User: めっちゃ すき！ / まあまあ すき！
+AI: いま なに みてる？
+User: 鬼滅の刃！ / ワンピース！
+
+**Outro:**
+> Otaku level: Confirmed! 🎌
+> But wait... what's their all-time favorite?
+>
+
+**承 — いちばん すき [セット 2]**
+AI: いちばん すきな アニメ なに？
+User: 進撃の巨人！ / ハイキュー！
+AI: え、わたしも すき！
+User: ほんと？やばい！
+
+**Outro:**
+> Same taste! ✨
+> Now, find out how deep their otaku knowledge goes.
+>
+
+---
+
+### sim2: Deep Dive
+
+**Goal:** To discuss anime characters and share opinions about the story.
+
+**📍 場所:** ネカフェ (同じ)
+
+**承 — キャラ [セット 3]**
+User: いちばん すきな キャラ だれ？
+AI: わたし？リヴァイ！きみは？
+User: エレン！ / ミカサ！
+AI: え、いいね！なんで？
+
+**Outro:**
+> Character debate: Started! ⚔️
+> Now, talk about the story itself.
+>
+
+**転 — ストーリー [セット 4]**
+AI: ストーリー どう おもう？
+User: めっちゃ おもしろい！ / ちょっと むずかしい。
+AI: わかる！さいごは びっくりした！
+User: ほんとに！ / やばい！なきそうだった！
+
+**Outro:**
+> No spoilers! 🛑
+> This is your chance — recommend something new!
+>
+
+---
+
+### sim3: Recommendations
+
+**Goal:** To recommend an anime and make plans to watch together.
+
+**📍 場所:** ネカフェ (同じ)
+
+**転 — おすすめ [セット 5]**
+User: なにか おすすめ ある？
+AI: YOASOBI の アニメ みた？「推しの子」！
+User: みてない！おもしろい？ / みた！めっちゃ いい！
+AI: めっちゃ いいよ！みてみて！
+
+**Outro:**
+> Recommendation made! 📺
+> Now, make plans to watch together!
+>
+
+**結 — いっしょに みよう [セット 6]**
+AI: いっしょに みる？
+User: みたい！いつ？
+AI: こんしゅう どう？
+User: いいね！
+
+**Outro:**
+> Watch party planned! 🍿
+> Next up: Time to talk about voice actors!
+>
+
+---
+
+# KD-2: このせいゆう、やばくない？
+
+- 大分類: Anime & Drama
+- 中分類: Voice Actors
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Voice Actor Talk
+
+**Goal:** To talk about favorite voice actors and their roles.
+
+**📍 場所:** カフェ
+
+**intro_text:**
+The anime talk is getting serious.
+Time to test their seiyuu knowledge!
+
+**起 — せいゆう [セット 1]**
+AI: せいゆう、すき？
+User: うん、めっちゃ すき！ / まあまあ。
+AI: いちばん すきな せいゆう だれ？
+User: 花江夏樹！ / 神谷浩史！
+
+**Outro:**
+> Seiyuu knowledge: Confirmed! 🎙️
+> But wait... do they know their favorite roles?
+>
+
+**承 — やく [セット 2]**
+AI: 花江夏樹、なんの やく すき？
+User: 炭治郎！ / 東京グールの カネキ！
+AI: え、いいね！こえ やばくない？
+User: ほんとに！めっちゃ いい！
+
+**Outro:**
+> Voice appreciation: Unlocked! 🔓
+> Now, find out if they've been to a seiyuu event.
+>
+
+---
+
+### sim2: Events
+
+**Goal:** To talk about seiyuu events and anime conventions.
+
+**📍 場所:** カフェ (同じ)
+
+**承 — イベント [セット 3]**
+User: せいゆう の イベント いった こと ある？
+AI: うん、いった！めっちゃ よかった！きみは？
+User: まだ！いきたい！ / うん、いった！
+AI: ぜったい いって！
+
+**Outro:**
+> Event talk: Started! 🎪
+> Now, talk about anime conventions.
+>
+
+**転 — コミケ [セット 4]**
+AI: コミケ いった こと ある？
+User: うん！めっちゃ たのしかった！ / まだ！
+AI: コミケ、すごいよ！ひと おおい！
+User: いきたい！ / わかる！
+
+**Outro:**
+> Comiket dreams! 🎌
+> Now, make plans for the next event!
+>
+
+---
+
+### sim3: Next Event
+
+**Goal:** To make plans to attend an anime event together.
+
+**📍 場所:** カフェ (同じ)
+
+**転 — つぎの イベント [セット 5]**
+User: つぎの イベント いっしょに いく？
+AI: いきたい！いつ？
+User: らいげつ どう？
+AI: いいね！なんの イベント？
+
+**Outro:**
+> Event plans: In progress! 📅
+> Almost there — just confirm the details!
+>
+
+**結 — かくにん [セット 6]**
+User: アニメ エキスポ！しってる？
+AI: しってる！めっちゃ いきたかった！
+User: じゃあ いっしょに いこう！
+AI: やった！たのしみ！
+
+**Outro:**
+> Event confirmed! 🎉
+> Next up: Time to talk about J-Pop!
+>
+
+---
+
+# KD-3: このドラマ、みた？
+
+- 大分類: Anime & Drama
+- 中分類: J-Drama
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Drama Talk
+
+**Goal:** To talk about your favorite J-drama and find out what your friend is watching.
+
+**📍 場所:** うち
+
+**intro_text:**
+Netflix is open. Popcorn is ready.
+Time to find out what they're watching!
+
+**起 — ドラマ [セット 1]**
+AI: ドラマ すき？
+User: うん、すき！ / アニメの ほうが すき！
+AI: いま なに みてる？
+User: 半沢直樹！ / あたらしい やつ！
+
+**Outro:**
+> Drama fan: Confirmed! 📺
+> But wait... what's their all-time favorite?
+>
+
+**承 — いちばん すき [セット 2]**
+AI: いちばん すきな ドラマ なに？
+User: 逃げるは恥だが役に立つ！ / コウノドリ！
+AI: え、みた！めっちゃ よかった！
+User: ほんとに！なきそうだった！
+
+**Outro:**
+> Same taste! 😭
+> Now, find out what they think about the ending.
+>
+
+---
+
+### sim2: Opinions
+
+**Goal:** To share opinions about a drama and discuss favorite scenes.
+
+**📍 場所:** うち (同じ)
+
+**承 — いけん [セット 3]**
+User: さいごは どう おもった？
+AI: めっちゃ よかった！なきそうだった！きみは？
+User: わたしも！ / ちょっと びっくりした！
+AI: わかる！あの シーン やばかった！
+
+**Outro:**
+> Feelings shared! 💬
+> Now, talk about your favorite character.
+>
+
+**転 — キャラ [セット 4]**
+AI: いちばん すきな キャラ だれ？
+User: みくり！ / ひらまさ！
+AI: え、いいね！なんで？
+User: かわいいから！ / かっこいいから！
+
+**Outro:**
+> Character love: Confirmed! ❤️
+> Now, recommend something new!
+>
+
+---
+
+### sim3: Recommendations
+
+**Goal:** To recommend a drama and make plans to watch together.
+
+**📍 場所:** うち (同じ)
+
+**転 — おすすめ [セット 5]**
+User: なにか おすすめ ある？
+AI: 「silent」みた？めっちゃ いいよ！
+User: みてない！どんな はなし？ / みた！めっちゃ よかった！
+AI: ラブストーリーだよ！みてみて！
+
+**Outro:**
+> Recommendation made! 📺
+> Now, make plans to watch together!
+>
+
+**結 — いっしょに みよう [セット 6]**
+AI: いっしょに みる？
+User: みたい！いつ？
+AI: こんど どう？
+User: いいね！たのしみ！
+
+**Outro:**
+> Watch party planned! 🍿
+> Next up: Time to talk about J-Pop idols!
+>
+
+---
+
+# KD-4: このシーン、やばくない？
+
+- 大分類: Anime & Drama
+- 中分類: Memorable Scenes
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Scene Talk
+
+**Goal:** To talk about a memorable scene from an anime or drama.
+
+**📍 場所:** カフェ
+
+**intro_text:**
+You just finished watching something amazing.
+Time to talk about THAT scene!
+
+**起 — シーン [セット 1]**
+AI: ねえ、あの シーン みた？
+User: どの シーン？ / うん、みた！やばかった！
+AI: あの さいごの シーン！
+User: え、まだ みてない！ / うん！なきそうだった！
+
+**Outro:**
+> No spoilers! 🛑
+> But wait... they need to watch it first!
+>
+
+**承 — はやく みて [セット 2]**
+AI: はやく みて！めっちゃ いいから！
+User: わかった！みる！ / もう みた！
+AI: みたら おしえて！
+User: うん！
+
+**Outro:**
+> Spoiler avoided! 😅
+> Now, talk about your reaction when you first watched it.
+>
+
+---
+
+### sim2: Reactions
+
+**Goal:** To share your emotional reaction to a scene and discuss it.
+
+**📍 場所:** カフェ (同じ)
+
+**承 — はんのう [セット 3]**
+User: みたよ！やばかった！
+AI: でしょ！どう おもった？
+User: めっちゃ なきそうだった！ / びっくりした！
+AI: わかる！わたしも なきそうだった！
+
+**Outro:**
+> Feelings shared! 😭
+> Now, talk about your favorite part.
+>
+
+**転 — いちばん すきな ところ [セット 4]**
+AI: いちばん すきな ところ どこ？
+User: あの セリフ！ / あの シーン！
+AI: え、どの セリフ？
+User: 「ずっと いっしょに いる」！ / 「まけないよ」！
+
+**Outro:**
+> Favorite moment: Locked in! 🔒
+> Now, find out if they want to rewatch it!
+>
+
+---
+
+### sim3: Rewatch
+
+**Goal:** To suggest rewatching a show and make plans.
+
+**📍 場所:** カフェ (同じ)
+
+**転 — もう いちど みよう [セット 5]**
+User: もう いちど みたい！
+AI: わたしも！いっしょに みる？
+User: みたい！いつ？
+AI: こんしゅう どう？
+
+**Outro:**
+> Rewatch planned! 📺
+> Almost there — just confirm the details!
+>
+
+**結 — かくにん [セット 6]**
+User: どようび どう？
+AI: いいね！うちに くる？
+User: いく！なにか もってく？
+AI: おかし もってきて！
+
+**Outro:**
+> Rewatch confirmed! 🍿
+> Next up: Time to talk about J-Pop!
+>
+
+---
+
+# 🎓 STUDY ABROAD (です・ます + 敬語) >> Campus Life in Japan

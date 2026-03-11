@@ -1,0 +1,450 @@
+# 🧳 VOYAGES ET DÉPLACEMENTS (vous) >> Paris et la France
+
+# TR-1 : Un café, s'il vous plaît
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Café / Brasserie
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous êtes dans un café parisien.
+Commandez comme un(e) vrai(e) Parisien(ne) !
+
+---
+
+### sim1 : La Commande
+
+**Goal:** To order a coffee and a pastry at a Parisian café.
+
+**📍 Lieu :** Café (Paris, rive gauche)
+
+**intro_text:**
+Vous êtes dans un café parisien.
+Commandez comme un(e) vrai(e) Parisien(ne) !
+
+**Commande — Au café [Série 1]**
+AI: Bonjour ! Vous désirez ?
+User: Un café, s'il vous plaît. / Un allongé, s'il vous plaît.
+AI: Très bien ! Et avec ça ?
+User: Un croissant, s'il vous plaît.
+
+**Outro:**
+> Commande passée ! ☕
+> Maintenant, trouvez une bonne table.
+>
+
+**Installation — La table [Série 2]**
+User: Excusez-moi, cette table est libre ?
+AI: Oui, bien sûr ! Asseyez-vous.
+User: Merci beaucoup.
+AI: Je vous apporte ça tout de suite.
+
+**Outro:**
+> Installé(e) ! 🪑
+> Le café arrive... savourez le moment.
+>
+
+---
+
+### sim2 : L'Addition
+
+**Goal:** To ask for the bill and pay at a café.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Le café était excellent. Maintenant, il faut payer.
+Comment demander l'addition en français ?
+
+**Addition — On paie [Série 3]**
+User: L'addition, s'il vous plaît.
+AI: Bien sûr ! Voilà, c'est 4 euros 50.
+User: Voilà. / Je paye par carte.
+AI: Merci ! Bonne journée !
+
+**Outro:**
+> Payé ! 💳
+> Vous avez survécu à votre premier café parisien !
+>
+
+**Départ — Au revoir [Série 4]**
+AI: Tout s'est bien passé ?
+User: Oui, c'était très bon ! / Excellent, merci !
+AI: Merci à vous ! À bientôt !
+User: Au revoir !
+
+**Outro:**
+> Expérience café : Réussie ! 🥐
+> La suite : Un vrai repas vous attend.
+>
+
+---
+
+### sim3 : Une Question
+
+**Goal:** To ask a question about the menu or a recommendation.
+
+**📍 Lieu :** Café (même endroit)
+
+**intro_text:**
+Vous voulez essayer quelque chose de nouveau.
+Demandez conseil au serveur !
+
+**Menu — Qu'est-ce que vous recommandez ? [Série 5]**
+User: Qu'est-ce que vous recommandez ?
+AI: Le café crème est très bon ! Et nos croissants sont frais.
+User: Parfait, je prends ça ! / Je vais prendre le café crème.
+AI: Excellent choix !
+
+**Outro:**
+> Conseil pris ! 👌
+> Vous commencez à vous sentir comme un(e) local(e).
+>
+
+**Spécialité — C'est quoi ça ? [Série 6]**
+AI: Vous voulez goûter notre tarte du jour ?
+User: C'est quoi ? / Oui, pourquoi pas !
+AI: C'est une tarte aux pommes. C'est délicieux !
+User: D'accord, je vais essayer !
+
+**Outro:**
+> Aventurier(ère) culinaire ! 🍎
+> La suite : Un restaurant vous attend ce soir.
+>
+
+---
+
+# TR-2 : Une table pour deux
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Restaurant
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Bienvenue
+
+**Goal:** To be seated and order drinks at a French restaurant.
+
+**📍 Lieu :** Restaurant (Paris, Montmartre)
+
+**intro_text:**
+Vous entrez dans un restaurant à Montmartre.
+Une belle soirée commence !
+
+**Accueil — Bonsoir [Série 1]**
+AI: Bonsoir ! Vous avez une réservation ?
+User: Oui, au nom de ___. / Non, est-ce qu'il y a de la place ?
+AI: Très bien ! Une table pour combien ?
+User: Pour deux, s'il vous plaît.
+
+**Outro:**
+> Table obtenue ! 🍽️
+> Maintenant, regardez la carte.
+>
+
+**Boissons — Qu'est-ce que vous buvez ? [Série 2]**
+User: Qu'est-ce que vous avez comme vin ?
+AI: Nous avons un très bon bordeaux. Et un rosé de Provence.
+User: Un verre de bordeaux, s'il vous plaît. / Le rosé, s'il vous plaît.
+AI: Très bien !
+
+**Outro:**
+> Vin choisi ! 🍷
+> La carte des plats vous attend.
+>
+
+---
+
+### sim2 : Le Plat Principal
+
+**Goal:** To order a main course and ask about ingredients.
+
+**📍 Lieu :** Restaurant (même endroit)
+
+**intro_text:**
+Le vin est servi. La carte est ouverte.
+Qu'est-ce que vous allez manger ?
+
+**Plat — La commande [Série 3]**
+User: Je voudrais le steak-frites, s'il vous plaît.
+AI: Quelle cuisson ? Saignant, à point ou bien cuit ?
+User: À point, s'il vous plaît. / Bien cuit, s'il vous plaît.
+AI: Parfait !
+
+**Outro:**
+> Commande passée ! 🥩
+> Le plat arrive... patience !
+>
+
+**Question — Les ingrédients [Série 4]**
+AI: Vous avez des allergies ?
+User: Non, pas d'allergies. / Oui, je suis allergique aux noix.
+AI: Très bien, je note. Merci !
+User: Merci à vous.
+
+**Outro:**
+> Informations données ! ✅
+> Votre repas sera parfait.
+>
+
+---
+
+### sim3 : L'Addition
+
+**Goal:** To ask for the bill and compliment the meal.
+
+**📍 Lieu :** Restaurant (même endroit)
+
+**intro_text:**
+Le repas était excellent. Il est temps de partir.
+Comment finir en beauté ?
+
+**Compliment — C'était bon ! [Série 5]**
+User: C'était délicieux ! Mes compliments au chef.
+AI: Merci beaucoup ! Vous avez tout aimé ?
+User: Oui, tout était parfait ! / Le steak était excellent !
+AI: Je suis ravi !
+
+**Outro:**
+> Chef impressionné ! 👨‍🍳
+> Maintenant, demandez l'addition.
+>
+
+**Addition — On y va [Série 6]**
+AI: Vous désirez un dessert ?
+User: Non merci, l'addition s'il vous plaît. / Oui, qu'est-ce que vous avez ?
+AI: Voilà l'addition. C'est 45 euros.
+User: Voilà. Merci, bonne soirée !
+
+**Outro:**
+> Soirée parfaite ! 🌟
+> La suite : Paris vous attend dehors.
+>
+
+---
+
+# TR-3 : Excusez-moi, le métro ?
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Directions / Métro
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Dans la Rue
+
+**Goal:** To ask for and understand basic directions in Paris.
+
+**📍 Lieu :** Rue de Rivoli, Paris
+
+**intro_text:**
+Vous êtes perdu(e) dans Paris.
+Demandez votre chemin !
+
+**Direction — Où est... ? [Série 1]**
+User: Excusez-moi, où est la tour Eiffel ?
+AI: C'est par là ! Prenez la rue à gauche.
+User: C'est loin ? / Merci, c'est à droite ?
+AI: Non, c'est à gauche. Environ 10 minutes à pied.
+
+**Outro:**
+> Direction trouvée ! 🗺️
+> Maintenant, trouvez le métro.
+>
+
+**Métro — La station [Série 2]**
+User: Excusez-moi, il y a un métro près d'ici ?
+AI: Oui ! La station Châtelet est à 5 minutes.
+User: Merci beaucoup ! / C'est quelle ligne ?
+AI: La ligne 1. Direction La Défense.
+
+**Outro:**
+> Station trouvée ! 🚇
+> Vous maîtrisez le métro parisien !
+>
+
+---
+
+### sim2 : Dans le Métro
+
+**Goal:** To buy a ticket and find the right platform.
+
+**📍 Lieu :** Station de métro Châtelet, Paris
+
+**intro_text:**
+Vous êtes dans le métro. Maintenant, il faut le bon ticket.
+Et le bon quai !
+
+**Ticket — Au guichet [Série 3]**
+User: Un ticket, s'il vous plaît.
+AI: Un carnet ou un ticket simple ?
+User: Un ticket simple, s'il vous plaît. / Un carnet, s'il vous plaît.
+AI: Voilà, c'est 1 euro 90.
+
+**Outro:**
+> Ticket en main ! 🎫
+> Maintenant, trouvez le bon quai.
+>
+
+**Quai — Quelle direction ? [Série 4]**
+AI: Vous allez où ?
+User: Je vais à Montmartre. / Je vais à la tour Eiffel.
+AI: Prenez la ligne 4, direction Porte de Clignancourt.
+User: Merci !
+
+**Outro:**
+> Direction confirmée ! ✅
+> Vous voyagez comme un(e) Parisien(ne) !
+>
+
+---
+
+### sim3 : À l'Arrivée
+
+**Goal:** To ask for help finding your destination after exiting the metro.
+
+**📍 Lieu :** Sortie de métro Abbesses, Montmartre
+
+**intro_text:**
+Vous sortez du métro à Montmartre.
+Mais où est exactement ce que vous cherchez ?
+
+**Sortie — Par où ? [Série 5]**
+User: Excusez-moi, le Sacré-Cœur, c'est par où ?
+AI: Montez les escaliers et continuez tout droit.
+User: C'est loin ? / Merci, je continue tout droit ?
+AI: Non, c'est à 5 minutes. Vous ne pouvez pas le rater !
+
+**Outro:**
+> Presque arrivé(e) ! 🏔️
+> Le Sacré-Cœur vous attend.
+>
+
+**Arrivée — Vous y êtes ! [Série 6]**
+AI: Vous cherchez quelque chose ?
+User: Oui, je cherche un bon restaurant ici. / Oui, je cherche une boulangerie.
+AI: Il y en a un très bon rue Lepic !
+User: Merci beaucoup !
+
+**Outro:**
+> Montmartre exploré ! 🎨
+> La suite : Un hôtel confortable vous attend.
+>
+
+---
+
+# TR-4 : Une chambre, s'il vous plaît
+
+- Catégorie : Voyages et Déplacements
+- Sous-catégorie : Hôtel
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Check-in
+
+**Goal:** To check in to a hotel and confirm your reservation.
+
+**📍 Lieu :** Hôtel (Paris, 6e arrondissement)
+
+**intro_text:**
+Vous arrivez à l'hôtel après une longue journée.
+La chambre vous attend !
+
+**Arrivée — Bonsoir [Série 1]**
+AI: Bonsoir ! Vous avez une réservation ?
+User: Oui, au nom de ___. / Oui, j'ai réservé en ligne.
+AI: Très bien ! Votre chambre est au 3e étage.
+User: Merci. C'est quelle chambre ?
+
+**Outro:**
+> Check-in réussi ! 🏨
+> Maintenant, posez vos valises.
+>
+
+**Chambre — Les détails [Série 2]**
+User: Est-ce que le petit-déjeuner est inclus ?
+AI: Oui, de 7h à 10h au restaurant.
+User: Très bien, merci. / Et le wifi, c'est gratuit ?
+AI: Oui, le wifi est gratuit. Voici le code.
+
+**Outro:**
+> Tout est clair ! 📋
+> Profitez de votre séjour à Paris !
+>
+
+---
+
+### sim2 : Un Problème
+
+**Goal:** To report a problem in your hotel room.
+
+**📍 Lieu :** Hôtel (même endroit)
+
+**intro_text:**
+La chambre est bien... mais il y a un petit problème.
+Comment le signaler poliment ?
+
+**Problème — À la réception [Série 3]**
+User: Excusez-moi, il y a un problème dans ma chambre.
+AI: Je suis désolé ! C'est quoi le problème ?
+User: La douche ne marche pas. / Il n'y a pas de serviettes.
+AI: Je vous envoie quelqu'un tout de suite.
+
+**Outro:**
+> Problème signalé ! 🔧
+> La solution arrive.
+>
+
+**Solution — C'est réglé [Série 4]**
+AI: Voilà, c'est réparé. Tout va bien maintenant ?
+User: Oui, merci beaucoup ! / Oui, c'est parfait maintenant.
+AI: Je suis ravi. Bonne nuit !
+User: Merci, bonne nuit !
+
+**Outro:**
+> Problème résolu ! ✅
+> Dormez bien — Paris vous attend demain.
+>
+
+---
+
+### sim3 : Check-out
+
+**Goal:** To check out of the hotel and ask for a receipt.
+
+**📍 Lieu :** Hôtel (même endroit)
+
+**intro_text:**
+C'est le dernier matin. Il faut partir.
+Comment faire un bon check-out ?
+
+**Départ — Check-out [Série 5]**
+User: Je voudrais faire le check-out, s'il vous plaît.
+AI: Bien sûr ! Votre chambre était la 312 ?
+User: Oui, c'est ça. / Oui, au nom de ___.
+AI: Voilà votre facture.
+
+**Outro:**
+> Check-out lancé ! 🧳
+> Vérifiez la facture avant de partir.
+>
+
+**Facture — Tout est bon ? [Série 6]**
+AI: Tout s'est bien passé pendant votre séjour ?
+User: Oui, très bien, merci ! / Oui, c'était excellent !
+AI: Merci ! Bonne continuation et bon voyage !
+User: Merci, au revoir !
+
+**Outro:**
+> Séjour terminé ! 🌟
+> Paris vous a conquis(e). À bientôt !
+>
+
+---
+
+# 🥐 ART DE VIVRE (tu/vous mixte) >> French Culture & Lifestyle

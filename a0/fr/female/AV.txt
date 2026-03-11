@@ -1,0 +1,459 @@
+# 🥐 ART DE VIVRE (tu/vous mixte) >> French Culture & Lifestyle
+
+# AV-1 : Au Marché — Pain et Fromage
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Marché / Boulangerie
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous explorez un marché parisien.
+Pain frais, fromages affinés... c'est l'art de vivre !
+
+---
+
+### sim1 : À la Boulangerie
+
+**Goal:** To buy bread and pastries at a French bakery using polite vous.
+
+**📍 Lieu :** Boulangerie (Paris, Montmartre)
+
+**intro_text:**
+Vous êtes devant une boulangerie.
+L'odeur du pain frais vous attire irrésistiblement !
+
+**Pain — Une baguette, s'il vous plaît ! [Série 1]**
+AI: Bonjour ! Vous désirez ?
+User: Bonjour ! Une baguette tradition, s'il vous plaît.
+AI: Tradition ou ordinaire ?
+User: Tradition, s'il vous plaît. Bien cuite !
+
+**Outro:**
+> Baguette en main ! 🥖
+> La vraie tradition française dans chaque bouchée.
+>
+
+**Viennoiserie — Et avec ça ? [Série 2]**
+User: Vous avez des croissants frais ce matin ?
+AI: Oui, sortis du four à l'instant ! Combien ?
+User: Deux, s'il vous plaît.
+AI: Voilà ! Ça fait 3 euros 20. Bonne journée !
+
+**Outro:**
+> Petit-déjeuner parfait ! 🥐
+> Demain, même heure, même boulangerie. C'est promis !
+>
+
+---
+
+### sim2 : Chez le Fromager
+
+**Goal:** To choose and buy artisan cheese at a market stall using polite vous.
+
+**📍 Lieu :** Marché (Paris, Bastille)
+
+**intro_text:**
+Le marché sent bon le fromage.
+Comment choisir parmi 300 variétés françaises ?
+
+**Fromage — C'est quoi ce fromage ? [Série 3]**
+User: Excusez-moi, c'est quoi ce fromage, là ?
+AI: C'est un comté ! Affiné 18 mois. Un pur délice !
+User: Il est fort ? / C'est bon avec du pain ?
+AI: Parfait avec une baguette fraîche du matin !
+
+**Outro:**
+> Fromage identifié ! 🧀
+> Il y a toute une science derrière le fromage français.
+>
+
+**Dégustation — Goûtez, c'est gratuit ! [Série 4]**
+AI: Vous voulez goûter ? Je vous donne un morceau !
+User: Oui, avec plaisir ! / Oh oui, merci beaucoup !
+AI: Et celui-ci, c'est un brie de Meaux. Goûtez !
+User: Délicieux ! Je prends les deux ! / C'est excellent !
+
+**Outro:**
+> Amateur(rice) de fromage confirmé(e) ! 🥛
+> La suite : Retour à la maison avec vos trésors du marché.
+>
+
+---
+
+### sim3 : Retour du Marché
+
+**Goal:** To talk about your market purchases with a French friend using informal tu.
+
+**📍 Lieu :** Appartement (Paris, 11e)
+
+**intro_text:**
+Tu reviens du marché avec plein de bonnes choses.
+Montre à ton ami(e) ce que t'as trouvé !
+
+**Marché — T'as acheté quoi ? [Série 5]**
+User: Regarde ! J'ai trouvé ça au marché ce matin !
+AI: Oh là là ! Du fromage, du pain... t'as super bien fait !
+User: Et du miel local ! / Et du saucisson artisanal aussi !
+AI: C'est parfait pour ce soir. Un vrai festin !
+
+**Outro:**
+> Marché réussi ! 🛍️
+> Ce soir, un vrai festin à la française !
+>
+
+**Cuisine — On fait quoi ce soir ? [Série 6]**
+AI: Avec tout ça, on cuisine quoi ce soir ?
+User: Un plateau de fromages ! / Une tarte aux légumes du marché !
+AI: Génial ! J'apporte le vin. Un bordeaux ou un bourgogne ?
+User: Un bordeaux ! / Surprise-moi !
+
+**Outro:**
+> Soirée parfaite planifiée ! 🍷
+> La gastronomie française commence chez soi.
+>
+
+---
+
+# AV-2 : Le Café Parisien — L'Art de l'Apéro
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Café Parisien / Apéritif
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+L'apéro, le déjeuner long... l'art de vivre à la française !
+Commandez, savourez, restez longtemps !
+
+---
+
+### sim1 : L'Apéritif
+
+**Goal:** To order an aperitif and enjoy the café atmosphere using polite vous.
+
+**📍 Lieu :** Café (Paris, Saint-Germain-des-Prés)
+
+**intro_text:**
+L'apéro, c'est sacré en France.
+Commandez comme un(e) vrai(e) Parisien(ne) !
+
+**Apéro — Qu'est-ce qu'on prend ? [Série 1]**
+AI: Bonjour ! Vous désirez pour l'apéritif ?
+User: Un kir, s'il vous plaît. / Un Perrier rondelle, s'il vous plaît.
+AI: Très bon choix ! Et des olives avec ça ?
+User: Oui, avec plaisir ! / Oui, et des cacahuètes si vous avez !
+
+**Outro:**
+> Apéro commandé ! 🥂
+> L'apéro, c'est le début de toute bonne conversation française.
+>
+
+**Terrasse — On s'installe dehors [Série 2]**
+User: Vous avez de la place en terrasse, s'il vous plaît ?
+AI: Oui, par là ! Il reste une belle table au soleil.
+User: Parfait, merci ! On va en terrasse.
+AI: Je vous apporte votre commande tout de suite.
+
+**Outro:**
+> Terrasse trouvée ! ☀️
+> Paris vu depuis une terrasse de café... c'est la vie !
+>
+
+---
+
+### sim2 : Le Déjeuner
+
+**Goal:** To order lunch and enjoy a proper French meal using polite vous.
+
+**📍 Lieu :** Café (Paris, même endroit)
+
+**intro_text:**
+En France, le déjeuner est une pause sacrée d'une heure.
+Prenez votre temps !
+
+**Plat du jour — Qu'est-ce que c'est ? [Série 3]**
+AI: Le plat du jour, c'est un magret de canard aux cèpes. Vous prenez ?
+User: Oui, je prends ça ! / Qu'est-ce qu'il y a d'autre ?
+AI: On a aussi une quiche lorraine. Très populaire !
+User: Parfait, je prends la quiche ! / D'accord, le magret alors.
+
+**Outro:**
+> Plat du jour choisi ! 🍽️
+> Le vrai déjeuner français dure au moins une heure. Profitez !
+>
+
+**Fin du repas — L'addition [Série 4]**
+User: C'était délicieux ! L'addition, s'il vous plaît.
+AI: Bien sûr ! Ce sera 18 euros 50. Vous avez passé un bon moment ?
+User: Excellent, merci ! Je reviendrai demain. / Vraiment très bon !
+AI: Merci à vous ! À bientôt !
+
+**Outro:**
+> Déjeuner réussi ! 🎉
+> La cuisine française mérite toute votre attention.
+>
+
+---
+
+### sim3 : L'Art du Café Long
+
+**Goal:** To enjoy a long coffee with a French friend using informal tu.
+
+**📍 Lieu :** Café (Paris, Le Marais)
+
+**intro_text:**
+En France, "prendre un café" peut durer deux heures.
+C'est une vraie institution !
+
+**Café — On reste encore ? [Série 5]**
+User: On reste encore un peu ? Je suis tellement bien ici !
+AI: Bien sûr ! C'est ça la vie parisienne ! Un autre café ?
+User: Oui ! / Non merci, juste de l'eau gazeuse.
+AI: Garçon, encore un café et une eau gazeuse s'il vous plaît !
+
+**Outro:**
+> L'art du café long maîtrisé ! ☕
+> Les meilleures conversations n'ont pas de fin.
+>
+
+**Retour — Notre café préféré [Série 6]**
+AI: C'est sympa ici, hein ? T'avais déjà été dans ce café ?
+User: Non, c'est la première fois ! / Si, j'adore cet endroit !
+AI: On revient la semaine prochaine, alors ?
+User: Avec plaisir ! C'est notre nouveau café préféré !
+
+**Outro:**
+> Café favori trouvé ! 📍
+> Paris a un café parfait pour chaque humeur et chaque saison.
+>
+
+---
+
+# AV-3 : La Soirée — Dîner Chez des Amis
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Soirée / Dîner entre Amis
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Tu es invité(e) à dîner chez des amis français.
+Complimenter, partager, rire... bienvenue dans une vraie soirée française !
+
+---
+
+### sim1 : L'Arrivée
+
+**Goal:** To arrive at a French dinner party and greet your host using informal tu.
+
+**📍 Lieu :** Appartement (Paris, 11e arrondissement)
+
+**intro_text:**
+Tu es invité(e) à dîner chez ton ami(e) français(e).
+Tu apportes du vin et du fromage — parfait !
+
+**Arrivée — Coucou ! [Série 1]**
+User: Coucou ! Bonsoir ! J'apporte du vin !
+AI: Super ! Entre, entre ! T'es en avance !
+User: Oh pardon ! Je repasse dans dix minutes ? / Non, c'est bien ?
+AI: Mais non, je blague ! Viens, l'apéro est prêt !
+
+**Outro:**
+> Arrivée réussie ! 🎉
+> En France, arriver légèrement en retard est même considéré poli !
+>
+
+**Compliment — Ça sent tellement bon ! [Série 2]**
+AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
+User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
+AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
+User: Mon plat préféré ! / Tu es vraiment un chef !
+
+**Outro:**
+> Compliments échangés ! 💝
+> Un bon hôte français met tout son cœur dans la cuisine.
+>
+
+---
+
+### sim2 : Le Dîner
+
+**Goal:** To compliment the food and discuss wine at a French dinner using informal tu.
+
+**📍 Lieu :** Salle à manger (même appartement)
+
+**intro_text:**
+Le dîner est servi. C'est magnifique !
+Complimente ton ami(e) comme un(e) vrai(e) Français(e) !
+
+**Plat — C'est absolument délicieux ! [Série 3]**
+User: Mmm ! C'est absolument délicieux ! Tu as fait ça toi-même ?
+AI: Oui ! C'est la recette de ma grand-mère. Un secret de famille !
+User: C'est incroyable ! / Vraiment, c'est parfait !
+AI: Tu me flattes ! Sers-toi encore, il y en a plein !
+
+**Outro:**
+> Chef du soir reconnu ! 👨‍🍳
+> En France, complimenter la cuisine, c'est un signe de respect.
+>
+
+**Vin — Tu m'en sers encore ? [Série 4]**
+AI: Tu veux encore du vin ? C'est un bordeaux de 2019.
+User: Oui, s'il te plaît ! / Juste un tout petit peu, merci.
+AI: Il est bon, non ? Mon oncle me l'a apporté de Bordeaux.
+User: Il est excellent ! / Oui, vraiment très bon. Quelle région ?
+
+**Outro:**
+> Œnologue amateur ! 🍷
+> Le vin, c'est toute une culture et une conversation en France.
+>
+
+---
+
+### sim3 : La Fin de Soirée
+
+**Goal:** To enjoy dessert and say goodbye at the end of a French dinner using informal tu.
+
+**📍 Lieu :** Salon (même appartement)
+
+**intro_text:**
+Le dîner est fini, mais la soirée continue.
+Dessert et bonne humeur — c'est incontournable !
+
+**Dessert — C'est quoi ? [Série 5]**
+User: Oh, tu as préparé un dessert aussi ?
+AI: Bien sûr ! Une tarte tatin maison ! Tu aimes ?
+User: J'adore la tarte tatin ! / Oui, c'est mon dessert préféré !
+AI: Parfait ! Avec une boule de glace à la vanille ?
+
+**Outro:**
+> Dessert parfait ! 🍮
+> Les soirées françaises finissent toujours trop tôt...
+>
+
+**Départ — Merci pour tout ! [Série 6]**
+AI: Tu pars déjà ? Il est presque minuit !
+User: Oui, il faut y aller... Merci pour ce dîner incroyable !
+AI: Avec plaisir ! Tu reviens la semaine prochaine ?
+User: Avec joie ! / Oui, la prochaine fois c'est moi qui cuisine !
+
+**Outro:**
+> Soirée inoubliable ! 🌟
+> La prochaine fois, c'est toi qui cuisines !
+>
+
+---
+
+# AV-4 : La Galerie — L'Art à la Française
+
+- Catégorie : Art de Vivre
+- Sous-catégorie : Galerie d'Art / Événements Culturels
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+Vous visitez une galerie d'art parisienne.
+L'art français, c'est une autre façon de voir le monde !
+
+---
+
+### sim1 : À la Galerie
+
+**Goal:** To buy tickets and start a gallery visit using polite vous.
+
+**📍 Lieu :** Galerie d'art (Paris, Le Marais)
+
+**intro_text:**
+Vous entrez dans une belle galerie d'art du Marais.
+Des peintures, des sculptures... un autre monde s'ouvre !
+
+**Entrée — Un billet, s'il vous plaît ! [Série 1]**
+User: Bonjour ! C'est combien l'entrée ?
+AI: Bonjour ! C'est 8 euros. Tarif réduit 5 euros avec étudiant.
+User: Un billet plein tarif, s'il vous plaît.
+AI: Voilà ! La visite dure environ une heure. Bonne découverte !
+
+**Outro:**
+> Visite commencée ! 🎨
+> Paris a plus de 200 galeries. Vous avez fait le bon choix !
+>
+
+**Premier tableau — C'est magnifique ! [Série 2]**
+AI: Voici notre pièce maîtresse — un Matisse de 1923.
+User: C'est magnifique ! / Oh là là, c'est absolument incroyable !
+AI: Henri Matisse était fasciné par la lumière et la couleur.
+User: Je comprends pourquoi ! / C'est tellement vivant et lumineux !
+
+**Outro:**
+> Premier chef-d'œuvre admiré ! 🖼️
+> L'art français, c'est une conversation entre le passé et le présent.
+>
+
+---
+
+### sim2 : La Visite
+
+**Goal:** To express artistic opinions and discuss art with a guide using vous.
+
+**📍 Lieu :** Galerie (même endroit)
+
+**intro_text:**
+Le guide explique chaque œuvre avec passion.
+Posez vos questions, exprimez vos goûts !
+
+**Style — Vous aimez quel style ? [Série 3]**
+User: Vous aimez quel style d'art vous-même ?
+AI: J'adore l'impressionnisme ! Monet, Renoir... c'est magique !
+User: Moi aussi ! / Moi, je préfère l'art contemporain.
+AI: Les deux sont magnifiques ! Chaque époque a son propre génie.
+
+**Outro:**
+> Goût artistique révélé ! 🎭
+> L'impressionnisme est né en France. Une fierté nationale !
+>
+
+**Guide — Expliquez-moi ! [Série 4]**
+AI: Vous avez des questions sur cette œuvre ?
+User: Oui ! Qu'est-ce que ça représente ? / C'est quelle technique ?
+AI: C'est une scène de vie parisienne du XIXe siècle. Regardez les détails !
+User: Fascinant ! / C'est incroyable comme c'est précis et détaillé !
+
+**Outro:**
+> Culture enrichie ! 📚
+> La suite : Partagez cette belle expérience avec un(e) ami(e).
+>
+
+---
+
+### sim3 : Après la Galerie
+
+**Goal:** To share your gallery experience with a French friend at a bistrot using tu.
+
+**📍 Lieu :** Bistrot (Paris, juste à côté de la galerie)
+
+**intro_text:**
+La visite est finie. Tu retrouves ton ami(e) au bistrot.
+Parle de ce que t'as vu. Partage l'émotion !
+
+**Galerie — T'as adoré ? [Série 5]**
+User: J'ai adoré ! Les peintures étaient absolument incroyables !
+AI: T'as un tableau préféré ?
+User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
+AI: Oh, j'adore Matisse ! T'es devenue fan d'art ?
+
+**Outro:**
+> Amateur(rice) d'art confirmé(e) ! 🎨
+> Paris est une ville-musée. Il y a toujours plus à découvrir.
+>
+
+**Prochain événement — On y retourne ? [Série 6]**
+AI: T'as envie d'aller au musée d'Orsay la prochaine fois ?
+User: Oh oui ! J'adore les impressionnistes ! / Oui, j'adorerais !
+AI: Super ! Et il y a aussi une expo Rodin ce mois-ci au musée Rodin.
+User: C'est parfait ! On y va ce week-end ? / Oui, réservons maintenant !
+
+**Outro:**
+> Agenda culturel bien rempli ! 🗓️
+> L'art de vivre à la française, c'est aussi l'art de s'émerveiller.
+>
+
+---
+
+# 💼 TRAVAIL (vous formel) >> Le Monde Professionnel Français

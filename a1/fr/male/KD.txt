@@ -1,0 +1,411 @@
+# 🎬 CINÉMA & SÉRIES (tu) >> La vie romantique française
+
+# KD-5: J'ai un crush en ce moment
+
+- 대분류: Cinéma & Séries
+- 중분류: Crush
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Confession à un(e) ami(e)
+
+**Goal:** To confess to your best friend that you have a crush and share details about who they are.
+
+**📍 장소:** Café (Paris)
+
+**intro_text:**
+Two coffees. One secret. Here we go...
+
+**기 — Le secret [세트 1]**
+User: J'ai un truc à te dire.
+AI: Quoi ? Dis-moi !
+User: J'ai un crush en ce moment.
+AI: Sérieux ? C'est qui ?!
+
+**Outro:**
+> The secret is out! 🤫 Now, who is this lucky person?
+> Your friend is already losing their mind.
+>
+
+**승 — C'est qui ? [세트 2]**
+AI: C'est quelqu'un que je connais ?
+User: Ouais. / Non, tu connais pas.
+AI: C'est comment comme personne ?
+User: Il est vraiment gentil. / Il a un super sourire.
+
+**Outro:**
+> A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
+> The origin story is always the best part.
+>
+
+---
+
+### sim2: Les détails
+
+**Goal:** To share how you met your crush and open up about being too nervous to confess.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Comment vous vous êtes rencontré(e)s ? [세트 3]**
+AI: Vous vous êtes rencontrés où ?
+User: Au café ! / En cours !
+AI: C'est romantique ! Et alors ?
+User: J'ai pas encore osé lui parler. / J'ai eu son numéro !
+
+**Outro:**
+> You got their number?! That's huge! 📱 So... is it time to make a move?
+> Your friend is about to give you the push you need.
+>
+
+**전 — Un conseil [세트 4]**
+AI: Tu vas pas lui dire ?
+User: J'ai envie mais j'ai peur. / C'est encore trop tôt.
+AI: T'es quelqu'un de bien ! Vas-y, fonce !
+User: Tu crois ? Merci.
+
+**Outro:**
+> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
+> The confession is getting closer — can you feel it?
+>
+
+---
+
+### sim3: Les encouragements
+
+**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
+
+**📍 장소:** Café (même endroit)
+
+**전 — On y va ! [세트 5]**
+AI: Si tu lui dis, tu me racontes ! Je suis avec toi !
+User: D'accord ! / J'ai le trac mais je vais essayer.
+AI: Allez, courage !
+User: Merci !
+
+**Outro:**
+> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
+> The universe is rooting for you.
+>
+
+**결 — Bonne chance [세트 6]**
+AI: Ça va bien se passer !
+User: J'espère.
+AI: Bien sûr ! Tiens-moi au courant !
+User: Oui !
+
+**Outro:**
+> Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
+> Stay tuned — the story is just getting started.
+>
+
+---
+
+# KD-6: Tu m'as mal compris(e)
+
+- 대분류: Cinéma & Séries
+- 중분류: Misunderstanding
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Le malentendu
+
+**Goal:** To face a jealous accusation, stay calm, and explain the situation clearly.
+
+**📍 장소:** Banc dans un parc (Paris)
+
+**intro_text:**
+A park bench. A tense silence. Someone saw something they didn't understand.
+
+**기 — C'est quoi ça ? [세트 1]**
+AI: Hier, t'étais avec qui ?
+User: Quoi ? De quoi tu parles ? / Tu m'as mal comprise !
+AI: Je t'ai vue. Au café.
+User: C'est juste un ami ! / Ah, c'est ça ?
+
+**Outro:**
+> Caught! 😬 But it's not what it looks like — time to explain.
+> The truth is simple, but jealousy makes everything complicated.
+>
+
+**승 — L'explication [세트 2]**
+AI: C'est vraiment juste un ami ?
+User: Oui, vraiment. On est dans le même cours. / Arrête de douter de moi.
+AI: Désolé. J'étais un peu jaloux.
+User: C'est bon. / Ça peut arriver.
+
+**Outro:**
+> Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
+> The real conversation is just beginning.
+>
+
+---
+
+### sim2: On en parle
+
+**Goal:** To address the misunderstanding directly and agree to communicate better next time.
+
+**📍 장소:** Banc dans un parc (même endroit)
+
+**승 — On discute [세트 3]**
+User: Pourquoi t'as pas demandé directement ?
+AI: J'osais pas trop.
+User: La prochaine fois, demande-moi. Pas de malentendu.
+AI: D'accord, désolé.
+
+**Outro:**
+> Communication rules established! 📋 This is how healthy relationships work.
+> Now it's time to actually forgive and move on.
+>
+
+**전 — On règle ça [세트 4]**
+AI: Je suis vraiment désolé.
+User: C'est bon. Mais fais-moi confiance.
+AI: Oui, je te fais confiance. Ça ne se reproduira pas.
+User: D'accord.
+
+**Outro:**
+> Trust restored! 🤝 That's what matters most.
+> Now let's get out of this park and do something fun.
+>
+
+---
+
+### sim3: On se réconcilie
+
+**Goal:** To fully make up, agree to grab food together, and end on a sweet note.
+
+**📍 장소:** Parc → rue (en marchant)
+
+**전 — On fait la paix [세트 5]**
+AI: T'es encore fâchée ?
+User: Non, c'est bon. / Presque.
+AI: On va manger quelque chose. C'est moi qui invite.
+User: D'accord !
+
+**Outro:**
+> Food fixes everything! 🍽️ The classic French makeup move.
+> One last sweet moment before the credits roll.
+>
+
+**결 — On repart [세트 6]**
+AI: La prochaine fois, je demande directement !
+User: C'est ça !
+AI: Je t'aime bien, tu sais.
+User: Moi aussi.
+
+**Outro:**
+> "Moi aussi." Two words. Maximum impact. 💕 French ending unlocked.
+> This couple just got stronger — misunderstanding and all.
+>
+
+---
+
+# KD-7: On sort ensemble ?
+
+- 대분류: Cinéma & Séries
+- 중분류: Getting Together
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Le moment
+
+**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
+
+**📍 장소:** Bords de Seine (le soir)
+
+**intro_text:**
+Seine at sunset. You said you had something to say. This is it.
+
+**기 — La confession [세트 1]**
+AI: T'avais quelque chose à me dire, non ? C'est quoi ?
+User: Je suis un peu nerveux/nerveuse. / Viens plus près.
+AI: Pourquoi t'es nerveux/nerveuse ? Dis-moi !
+User: Je... je t'aime bien.
+
+**Outro:**
+> You said it! 💘 Three words that change everything.
+> Now hold your breath and wait for the answer.
+>
+
+**승 — La réponse [세트 2]**
+AI: Vraiment ? Moi aussi, je t'aime bien.
+User: Vraiment ? / Depuis quand ?
+AI: Depuis le début.
+User: Moi aussi.
+
+**Outro:**
+> Mutual feelings confirmed! 🌅 The Seine just witnessed a cinéma moment.
+> So... does this mean what we think it means?
+>
+
+---
+
+### sim2: Officiellement ensemble
+
+**Goal:** To officially become a couple and start planning your first date together.
+
+**📍 장소:** Bords de Seine (même endroit)
+
+**승 — On est ensemble ? [세트 3]**
+AI: Alors, on sort ensemble ?
+User: Oui. / C'est ça, non ?
+AI: Super.
+User: Moi aussi, j'aime ça.
+
+**Outro:**
+> Official! 💑 You are now a couple. Congratulations.
+> First order of business: plan the perfect first date.
+>
+
+**전 — Le premier rendez-vous [세트 4]**
+AI: Notre premier vrai rendez-vous ! Tu veux aller où ?
+User: J'ai envie de voir la mer ! / On va manger quelque chose de bon !
+AI: Bonne idée ! On y va ce week-end !
+User: J'ai trop hâte !
+
+**Outro:**
+> First date planned! 🗓️ The excitement is real.
+> But first — the sweetest part of any new relationship.
+>
+
+---
+
+### sim3: Les premiers messages
+
+**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
+
+**📍 장소:** Chacun chez soi (WhatsApp)
+
+**전 — Les messages [세트 5]**
+AI: T'es bien rentrée ?
+User: Oui, je viens d'arriver !
+AI: Ce soir, c'était vraiment bien.
+User: Moi aussi. / Je pense encore à toi.
+
+**Outro:**
+> Late night texts after a perfect evening! 📱 This feeling is everything.
+> One last message before you both fall asleep smiling.
+>
+
+**결 — Bonne nuit [세트 6]**
+AI: J'ai envie de te revoir demain.
+User: Moi aussi.
+AI: Bonne nuit. Fais de beaux rêves.
+User: Bonne nuit.
+
+**Outro:**
+> "Fais de beaux rêves." 😴 The most romantic goodnight in French.
+> Sweet dreams — you're going to need the energy for what comes next.
+>
+
+---
+
+# KD-8: Pourquoi tu es bizarre ces derniers temps ?
+
+- 대분류: Cinéma & Séries
+- 중분류: Relationship Trouble
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Quelque chose a changé
+
+**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
+
+**📍 장소:** Chacun chez soi (WhatsApp)
+
+**intro_text:**
+Three days. No message. Something is definitely off.
+
+**기 — T'es bizarre [세트 1]**
+User: Pourquoi tu réponds plus ?
+AI: Désolé, j'ai été très occupé.
+User: Je comprends, mais là c'est trop.
+AI: Désolé.
+
+**Outro:**
+> "Désolé(e)." Is that enough? 😔 You need more than an apology.
+> Time to say what's really on your mind.
+>
+
+**승 — Ce que je ressens [세트 2]**
+User: J'ai l'impression que tu t'en fous de moi.
+AI: Non, c'est pas ça du tout.
+AI: C'est vraiment le boulot. Pardon.
+User: D'accord. Mais envoie-moi un message quand même.
+
+**Outro:**
+> Feelings expressed, explanation given. 💬 Now you need to actually meet.
+> Some conversations only work face to face.
+>
+
+---
+
+### sim2: On se parle vraiment
+
+**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
+
+**📍 장소:** Café (en se retrouvant)
+
+**승 — Honnêtement [세트 3]**
+AI: Ces derniers temps, j'ai vraiment galéré. J'ai pas été là pour toi.
+User: Pourquoi tu m'as rien dit ? / Si ça va pas, dis-le moi.
+AI: Je voulais pas t'inquiéter.
+User: T'es bête. Tu peux tout me dire.
+
+**Outro:**
+> Walls coming down! 🧱 This is what real intimacy looks like.
+> Now it's your turn to be honest too.
+>
+
+**전 — On se comprend [세트 4]**
+AI: Merci. Je vais faire mieux.
+User: Moi aussi, désolée, j'ai été un peu dure.
+AI: Non, t'avais raison.
+User: On se dit les choses, d'accord ?
+
+**Outro:**
+> Both sides heard, both sides understood. 🤍 This is growth.
+> The hard part is over — now comes the good part.
+>
+
+---
+
+### sim3: Ça va mieux
+
+**Goal:** To feel the warmth return between you and end the day closer than before.
+
+**📍 장소:** Café → rue (en sortant)
+
+**전 — On est bien [세트 5]**
+AI: À partir d'aujourd'hui, je fais mieux.
+User: Moi aussi !
+AI: Tu m'as manquée.
+User: Toi aussi, tu m'as manqué.
+
+**Outro:**
+> "Tu m'as manqué(e)." Said out loud. 💗 That's the real turning point.
+> End the day the right way — together.
+>
+
+**결 — On repart [세트 6]**
+AI: On va manger quelque chose. T'as envie de quoi ?
+User: N'importe quoi ! L'essentiel c'est d'être ensemble.
+AI: Allons-y !
+User: Oui !
+
+**Outro:**
+> "L'essentiel c'est d'être ensemble." 🥺 The most cinéma line of the whole course.
+> Relationship trouble? More like relationship upgrade.
+>
+
+---
+
+# 🎵 MUSIQUE (tu+vous mixte) >> La scène musicale française

@@ -1,3 +1,255 @@
+[ AV-1 : Au Marché — Pain et Fromage ]
+
+AI: Bonjour ! Vous désirez ?
+User: Bonjour ! Une baguette tradition, s'il vous plaît.
+
+AI: Tradition ou ordinaire ?
+User: Tradition, s'il vous plaît. Bien cuite !
+User: Vous avez des croissants frais ce matin ?
+
+AI: Oui, sortis du four à l'instant ! Combien ?
+User: Deux, s'il vous plaît.
+
+AI: Voilà ! Ça fait 3 euros 20. Bonne journée !
+User: Excusez-moi, c'est quoi ce fromage, là ?
+
+AI: C'est un comté ! Affiné 18 mois. Un pur délice !
+User: Il est fort ? / C'est bon avec du pain ?
+
+AI: Parfait avec une baguette fraîche du matin !
+AI: Vous voulez goûter ? Je vous donne un morceau !
+User: Oui, avec plaisir ! / Oh oui, merci beaucoup !
+
+AI: Et celui-ci, c'est un brie de Meaux. Goûtez !
+User: Délicieux ! Je prends les deux ! / C'est excellent !
+User: Regarde ! J'ai trouvé ça au marché ce matin !
+
+AI: Oh là là ! Du fromage, du pain... t'as super bien fait !
+User: Et du miel local ! / Et du saucisson artisanal aussi !
+
+AI: C'est parfait pour ce soir. Un vrai festin !
+AI: Avec tout ça, on cuisine quoi ce soir ?
+User: Un plateau de fromages ! / Une tarte aux légumes du marché !
+
+AI: Génial ! J'apporte le vin. Un bordeaux ou un bourgogne ?
+User: Un bordeaux ! / Surprise-moi !
+
+[ AV-2 : Le Café Parisien — L'Art de l'Apéro ]
+
+AI: Bonjour ! Vous désirez pour l'apéritif ?
+User: Un kir, s'il vous plaît. / Un Perrier rondelle, s'il vous plaît.
+
+AI: Très bon choix ! Et des olives avec ça ?
+User: Oui, avec plaisir ! / Oui, et des cacahuètes si vous avez !
+User: Vous avez de la place en terrasse, s'il vous plaît ?
+
+AI: Oui, par là ! Il reste une belle table au soleil.
+User: Parfait, merci ! On va en terrasse.
+
+AI: Je vous apporte votre commande tout de suite.
+AI: Le plat du jour, c'est un magret de canard aux cèpes. Vous prenez ?
+User: Oui, je prends ça ! / Qu'est-ce qu'il y a d'autre ?
+
+AI: On a aussi une quiche lorraine. Très populaire !
+User: Parfait, je prends la quiche ! / D'accord, le magret alors.
+User: C'était délicieux ! L'addition, s'il vous plaît.
+
+AI: Bien sûr ! Ce sera 18 euros 50. Vous avez passé un bon moment ?
+User: Excellent, merci ! Je reviendrai demain. / Vraiment très bon !
+
+AI: Merci à vous ! À bientôt !
+User: On reste encore un peu ? Je suis tellement bien ici !
+
+AI: Bien sûr ! C'est ça la vie parisienne ! Un autre café ?
+User: Oui ! / Non merci, juste de l'eau gazeuse.
+
+AI: Garçon, encore un café et une eau gazeuse s'il vous plaît !
+AI: C'est sympa ici, hein ? T'avais déjà été dans ce café ?
+User: Non, c'est la première fois ! / Si, j'adore cet endroit !
+
+AI: On revient la semaine prochaine, alors ?
+User: Avec plaisir ! C'est notre nouveau café préféré !
+
+[ AV-3 : La Soirée — Dîner Chez des Amis ]
+
+User: Coucou ! Bonsoir ! J'apporte du vin !
+
+AI: Super ! Entre, entre ! T'es en avance !
+User: Oh pardon ! Je repasse dans dix minutes ? / Non, c'est bien ?
+
+AI: Mais non, je blague ! Viens, l'apéro est prêt !
+AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
+User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
+
+AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
+User: Mon plat préféré ! / Tu es vraiment un chef !
+User: Mmm ! C'est absolument délicieux ! Tu as fait ça toi-même ?
+
+AI: Oui ! C'est la recette de ma grand-mère. Un secret de famille !
+User: C'est incroyable ! / Vraiment, c'est parfait !
+
+AI: Tu me flattes ! Sers-toi encore, il y en a plein !
+AI: Tu veux encore du vin ? C'est un bordeaux de 2019.
+User: Oui, s'il te plaît ! / Juste un tout petit peu, merci.
+
+AI: Il est bon, non ? Mon oncle me l'a apporté de Bordeaux.
+User: Il est excellent ! / Oui, vraiment très bon. Quelle région ?
+User: Oh, tu as préparé un dessert aussi ?
+
+AI: Bien sûr ! Une tarte tatin maison ! Tu aimes ?
+User: J'adore la tarte tatin ! / Oui, c'est mon dessert préféré !
+
+AI: Parfait ! Avec une boule de glace à la vanille ?
+AI: Tu pars déjà ? Il est presque minuit !
+User: Oui, il faut y aller... Merci pour ce dîner incroyable !
+
+AI: Avec plaisir ! Tu reviens la semaine prochaine ?
+User: Avec joie ! / Oui, la prochaine fois c'est moi qui cuisine !
+
+[ AV-4 : La Galerie — L'Art à la Française ]
+
+User: Bonjour ! C'est combien l'entrée ?
+
+AI: Bonjour ! C'est 8 euros. Tarif réduit 5 euros avec étudiant.
+User: Un billet plein tarif, s'il vous plaît.
+
+AI: Voilà ! La visite dure environ une heure. Bonne découverte !
+AI: Voici notre pièce maîtresse — un Matisse de 1923.
+User: C'est magnifique ! / Oh là là, c'est absolument incroyable !
+
+AI: Henri Matisse était fasciné par la lumière et la couleur.
+User: Je comprends pourquoi ! / C'est tellement vivant et lumineux !
+User: Vous aimez quel style d'art vous-même ?
+
+AI: J'adore l'impressionnisme ! Monet, Renoir... c'est magique !
+User: Moi aussi ! / Moi, je préfère l'art contemporain.
+
+AI: Les deux sont magnifiques ! Chaque époque a son propre génie.
+AI: Vous avez des questions sur cette œuvre ?
+User: Oui ! Qu'est-ce que ça représente ? / C'est quelle technique ?
+
+AI: C'est une scène de vie parisienne du XIXe siècle. Regardez les détails !
+User: Fascinant ! / C'est incroyable comme c'est précis et détaillé !
+User: J'ai adoré ! Les peintures étaient absolument incroyables !
+
+AI: T'as un tableau préféré ?
+User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
+
+AI: Oh, j'adore Matisse ! T'es devenue fan d'art ?
+AI: T'as envie d'aller au musée d'Orsay la prochaine fois ?
+User: Oh oui ! J'adore les impressionnistes ! / Oui, j'adorerais !
+
+AI: Super ! Et il y a aussi une expo Rodin ce mois-ci au musée Rodin.
+User: C'est parfait ! On y va ce week-end ? / Oui, réservons maintenant !
+
+[ CR-1 : Je me présente ]
+
+AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
+User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
+
+AI: Enchanté ! Je suis ___, responsable du projet.
+User: Enchantée, ___. Je suis ravie d'être ici.
+User: Je suis chargée de communication. Et vous ?
+
+AI: Je suis chef de projet. Bienvenue dans l'équipe !
+User: Merci beaucoup. / Je suis très contente de rejoindre l'équipe.
+
+AI: Nous sommes ravis de vous avoir !
+User: Excusez-moi, où est la salle de réunion ?
+
+AI: C'est au 3e étage, à gauche de l'ascenseur.
+User: Merci beaucoup. / Et la cafétéria ?
+
+AI: La cafétéria est au rez-de-chaussée.
+AI: Vous avez rencontré toute l'équipe ?
+User: Pas encore. Il y a combien de personnes ? / Oui, tout le monde est très sympa.
+
+AI: Nous sommes 12 dans l'équipe. Je vous présente tout le monde.
+User: Avec plaisir, merci !
+User: C'était une bonne première journée.
+
+AI: Vous vous êtes bien intégrée ?
+User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
+
+AI: Parfait ! Demain, nous avons une réunion à 9h.
+AI: Vous avez des questions pour demain ?
+User: Non, je crois que c'est bon. Merci ! / Oui, à quelle heure commence la réunion ?
+
+AI: La réunion est à 9h précises. Bonne soirée !
+User: Merci, bonne soirée à vous aussi !
+
+[ CR-2 : La Réunion ]
+
+AI: Bonjour ! Vous avez reçu l'ordre du jour ?
+User: Oui, je l'ai reçu ce matin. / Oui, par email.
+
+AI: Parfait. Nous commençons dans 5 minutes.
+User: Je suis prête. Merci.
+User: Combien de points à l'ordre du jour ?
+
+AI: Trois points principaux. Ça ne devrait pas être long.
+User: Très bien. / Et la durée prévue ?
+
+AI: Une heure environ.
+User: Permettez-moi de poser une question.
+
+AI: Bien sûr, je vous en prie.
+User: Quel est le délai pour ce projet ? / Qui est responsable de cette partie ?
+
+AI: Le délai est fin du mois. Merci pour la question.
+AI: Vous avez un avis sur cette proposition ?
+User: Oui, je pense que c'est une bonne idée. / Je voudrais réfléchir encore.
+
+AI: Merci pour votre contribution.
+User: Je vous remercie.
+User: Quelles sont les prochaines étapes ?
+
+AI: Vous préparez le rapport d'ici vendredi.
+User: Très bien, je m'en occupe. / D'accord, pas de problème.
+
+AI: Merci. N'hésitez pas si vous avez des questions.
+AI: Vous avez besoin d'aide pour le rapport ?
+User: Non merci, je pense que c'est bon. / Oui, pourriez-vous m'envoyer les données ?
+
+AI: Bien sûr, je vous envoie ça par email.
+User: Je vous remercie beaucoup.
+
+[ CR-3 : Un Email Professionnel ]
+
+AI: Vous savez comment commencer un email formel ?
+User: Je commence par "Madame, Monsieur" ? / Je commence par "Bonjour" ?
+
+AI: "Madame, Monsieur" pour un email formel. C'est parfait.
+User: Merci pour le conseil.
+User: Comment je formule ma demande ?
+
+AI: "Je me permets de vous contacter au sujet de..."
+User: Merci, c'est clair. / Et pour finir l'email ?
+
+AI: "Je vous remercie de votre attention. Cordialement."
+User: J'ai reçu un email de Marie. Comment je réponds ?
+
+AI: Commencez par "Chère Marie" ou "Bonjour Marie".
+User: Et si c'est formel ? / Et pour un client ?
+
+AI: Pour un client, utilisez "Madame" ou "Monsieur".
+AI: Vous avez une formule de politesse pour finir ?
+User: "Cordialement" ? / "Bien à vous" ?
+
+AI: Les deux sont parfaits. "Cordialement" est très courant.
+User: Merci, je vais utiliser ça.
+User: Je voudrais demander un jour de congé. Comment je formule ?
+
+AI: "Je me permets de solliciter un jour de congé le..."
+User: Merci, c'est parfait. / Et si c'est urgent ?
+
+AI: Ajoutez "dans les meilleurs délais" pour l'urgence.
+AI: Votre responsable a répondu. C'est accordé !
+User: Excellent ! Je vous remercie. / Parfait, merci beaucoup !
+
+AI: De rien. Bon repos !
+User: Merci, bonne journée à vous !
+
 [ PI-1 : Salut, moi c'est ___! ]
 
 AI: Salut ! Moi c'est Léo. Tu t'appelles comment ?
@@ -285,255 +537,3 @@ User: Oui, très bien, merci ! / Oui, c'était excellent !
 
 AI: Merci ! Bonne continuation et bon voyage !
 User: Merci, au revoir !
-
-[ AV-1 : Au Marché — Pain et Fromage ]
-
-AI: Bonjour ! Vous désirez ?
-User: Bonjour ! Une baguette tradition, s'il vous plaît.
-
-AI: Tradition ou ordinaire ?
-User: Tradition, s'il vous plaît. Bien cuite !
-User: Vous avez des croissants frais ce matin ?
-
-AI: Oui, sortis du four à l'instant ! Combien ?
-User: Deux, s'il vous plaît.
-
-AI: Voilà ! Ça fait 3 euros 20. Bonne journée !
-User: Excusez-moi, c'est quoi ce fromage, là ?
-
-AI: C'est un comté ! Affiné 18 mois. Un pur délice !
-User: Il est fort ? / C'est bon avec du pain ?
-
-AI: Parfait avec une baguette fraîche du matin !
-AI: Vous voulez goûter ? Je vous donne un morceau !
-User: Oui, avec plaisir ! / Oh oui, merci beaucoup !
-
-AI: Et celui-ci, c'est un brie de Meaux. Goûtez !
-User: Délicieux ! Je prends les deux ! / C'est excellent !
-User: Regarde ! J'ai trouvé ça au marché ce matin !
-
-AI: Oh là là ! Du fromage, du pain... t'as super bien fait !
-User: Et du miel local ! / Et du saucisson artisanal aussi !
-
-AI: C'est parfait pour ce soir. Un vrai festin !
-AI: Avec tout ça, on cuisine quoi ce soir ?
-User: Un plateau de fromages ! / Une tarte aux légumes du marché !
-
-AI: Génial ! J'apporte le vin. Un bordeaux ou un bourgogne ?
-User: Un bordeaux ! / Surprise-moi !
-
-[ AV-2 : Le Café Parisien — L'Art de l'Apéro ]
-
-AI: Bonjour ! Vous désirez pour l'apéritif ?
-User: Un kir, s'il vous plaît. / Un Perrier rondelle, s'il vous plaît.
-
-AI: Très bon choix ! Et des olives avec ça ?
-User: Oui, avec plaisir ! / Oui, et des cacahuètes si vous avez !
-User: Vous avez de la place en terrasse, s'il vous plaît ?
-
-AI: Oui, par là ! Il reste une belle table au soleil.
-User: Parfait, merci ! On va en terrasse.
-
-AI: Je vous apporte votre commande tout de suite.
-AI: Le plat du jour, c'est un magret de canard aux cèpes. Vous prenez ?
-User: Oui, je prends ça ! / Qu'est-ce qu'il y a d'autre ?
-
-AI: On a aussi une quiche lorraine. Très populaire !
-User: Parfait, je prends la quiche ! / D'accord, le magret alors.
-User: C'était délicieux ! L'addition, s'il vous plaît.
-
-AI: Bien sûr ! Ce sera 18 euros 50. Vous avez passé un bon moment ?
-User: Excellent, merci ! Je reviendrai demain. / Vraiment très bon !
-
-AI: Merci à vous ! À bientôt !
-User: On reste encore un peu ? Je suis tellement bien ici !
-
-AI: Bien sûr ! C'est ça la vie parisienne ! Un autre café ?
-User: Oui ! / Non merci, juste de l'eau gazeuse.
-
-AI: Garçon, encore un café et une eau gazeuse s'il vous plaît !
-AI: C'est sympa ici, hein ? T'avais déjà été dans ce café ?
-User: Non, c'est la première fois ! / Si, j'adore cet endroit !
-
-AI: On revient la semaine prochaine, alors ?
-User: Avec plaisir ! C'est notre nouveau café préféré !
-
-[ AV-3 : La Soirée — Dîner Chez des Amis ]
-
-User: Coucou ! Bonsoir ! J'apporte du vin !
-
-AI: Super ! Entre, entre ! T'es en avance !
-User: Oh pardon ! Je repasse dans dix minutes ? / Non, c'est bien ?
-
-AI: Mais non, je blague ! Viens, l'apéro est prêt !
-AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
-User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
-
-AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
-User: Mon plat préféré ! / Tu es vraiment un chef !
-User: Mmm ! C'est absolument délicieux ! Tu as fait ça toi-même ?
-
-AI: Oui ! C'est la recette de ma grand-mère. Un secret de famille !
-User: C'est incroyable ! / Vraiment, c'est parfait !
-
-AI: Tu me flattes ! Sers-toi encore, il y en a plein !
-AI: Tu veux encore du vin ? C'est un bordeaux de 2019.
-User: Oui, s'il te plaît ! / Juste un tout petit peu, merci.
-
-AI: Il est bon, non ? Mon oncle me l'a apporté de Bordeaux.
-User: Il est excellent ! / Oui, vraiment très bon. Quelle région ?
-User: Oh, tu as préparé un dessert aussi ?
-
-AI: Bien sûr ! Une tarte tatin maison ! Tu aimes ?
-User: J'adore la tarte tatin ! / Oui, c'est mon dessert préféré !
-
-AI: Parfait ! Avec une boule de glace à la vanille ?
-AI: Tu pars déjà ? Il est presque minuit !
-User: Oui, il faut y aller... Merci pour ce dîner incroyable !
-
-AI: Avec plaisir ! Tu reviens la semaine prochaine ?
-User: Avec joie ! / Oui, la prochaine fois c'est moi qui cuisine !
-
-[ AV-4 : La Galerie — L'Art à la Française ]
-
-User: Bonjour ! C'est combien l'entrée ?
-
-AI: Bonjour ! C'est 8 euros. Tarif réduit 5 euros avec étudiant.
-User: Un billet plein tarif, s'il vous plaît.
-
-AI: Voilà ! La visite dure environ une heure. Bonne découverte !
-AI: Voici notre pièce maîtresse — un Matisse de 1923.
-User: C'est magnifique ! / Oh là là, c'est absolument incroyable !
-
-AI: Henri Matisse était fasciné par la lumière et la couleur.
-User: Je comprends pourquoi ! / C'est tellement vivant et lumineux !
-User: Vous aimez quel style d'art vous-même ?
-
-AI: J'adore l'impressionnisme ! Monet, Renoir... c'est magique !
-User: Moi aussi ! / Moi, je préfère l'art contemporain.
-
-AI: Les deux sont magnifiques ! Chaque époque a son propre génie.
-AI: Vous avez des questions sur cette œuvre ?
-User: Oui ! Qu'est-ce que ça représente ? / C'est quelle technique ?
-
-AI: C'est une scène de vie parisienne du XIXe siècle. Regardez les détails !
-User: Fascinant ! / C'est incroyable comme c'est précis et détaillé !
-User: J'ai adoré ! Les peintures étaient absolument incroyables !
-
-AI: T'as un tableau préféré ?
-User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
-
-AI: Oh, j'adore Matisse ! T'es devenue fan d'art ?
-AI: T'as envie d'aller au musée d'Orsay la prochaine fois ?
-User: Oh oui ! J'adore les impressionnistes ! / Oui, j'adorerais !
-
-AI: Super ! Et il y a aussi une expo Rodin ce mois-ci au musée Rodin.
-User: C'est parfait ! On y va ce week-end ? / Oui, réservons maintenant !
-
-[ CR-1 : Je me présente ]
-
-AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
-User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
-
-AI: Enchanté ! Je suis ___, responsable du projet.
-User: Enchantée, ___. Je suis ravie d'être ici.
-User: Je suis chargée de communication. Et vous ?
-
-AI: Je suis chef de projet. Bienvenue dans l'équipe !
-User: Merci beaucoup. / Je suis très contente de rejoindre l'équipe.
-
-AI: Nous sommes ravis de vous avoir !
-User: Excusez-moi, où est la salle de réunion ?
-
-AI: C'est au 3e étage, à gauche de l'ascenseur.
-User: Merci beaucoup. / Et la cafétéria ?
-
-AI: La cafétéria est au rez-de-chaussée.
-AI: Vous avez rencontré toute l'équipe ?
-User: Pas encore. Il y a combien de personnes ? / Oui, tout le monde est très sympa.
-
-AI: Nous sommes 12 dans l'équipe. Je vous présente tout le monde.
-User: Avec plaisir, merci !
-User: C'était une bonne première journée.
-
-AI: Vous vous êtes bien intégrée ?
-User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
-
-AI: Parfait ! Demain, nous avons une réunion à 9h.
-AI: Vous avez des questions pour demain ?
-User: Non, je crois que c'est bon. Merci ! / Oui, à quelle heure commence la réunion ?
-
-AI: La réunion est à 9h précises. Bonne soirée !
-User: Merci, bonne soirée à vous aussi !
-
-[ CR-2 : La Réunion ]
-
-AI: Bonjour ! Vous avez reçu l'ordre du jour ?
-User: Oui, je l'ai reçu ce matin. / Oui, par email.
-
-AI: Parfait. Nous commençons dans 5 minutes.
-User: Je suis prête. Merci.
-User: Combien de points à l'ordre du jour ?
-
-AI: Trois points principaux. Ça ne devrait pas être long.
-User: Très bien. / Et la durée prévue ?
-
-AI: Une heure environ.
-User: Permettez-moi de poser une question.
-
-AI: Bien sûr, je vous en prie.
-User: Quel est le délai pour ce projet ? / Qui est responsable de cette partie ?
-
-AI: Le délai est fin du mois. Merci pour la question.
-AI: Vous avez un avis sur cette proposition ?
-User: Oui, je pense que c'est une bonne idée. / Je voudrais réfléchir encore.
-
-AI: Merci pour votre contribution.
-User: Je vous remercie.
-User: Quelles sont les prochaines étapes ?
-
-AI: Vous préparez le rapport d'ici vendredi.
-User: Très bien, je m'en occupe. / D'accord, pas de problème.
-
-AI: Merci. N'hésitez pas si vous avez des questions.
-AI: Vous avez besoin d'aide pour le rapport ?
-User: Non merci, je pense que c'est bon. / Oui, pourriez-vous m'envoyer les données ?
-
-AI: Bien sûr, je vous envoie ça par email.
-User: Je vous remercie beaucoup.
-
-[ CR-3 : Un Email Professionnel ]
-
-AI: Vous savez comment commencer un email formel ?
-User: Je commence par "Madame, Monsieur" ? / Je commence par "Bonjour" ?
-
-AI: "Madame, Monsieur" pour un email formel. C'est parfait.
-User: Merci pour le conseil.
-User: Comment je formule ma demande ?
-
-AI: "Je me permets de vous contacter au sujet de..."
-User: Merci, c'est clair. / Et pour finir l'email ?
-
-AI: "Je vous remercie de votre attention. Cordialement."
-User: J'ai reçu un email de Marie. Comment je réponds ?
-
-AI: Commencez par "Chère Marie" ou "Bonjour Marie".
-User: Et si c'est formel ? / Et pour un client ?
-
-AI: Pour un client, utilisez "Madame" ou "Monsieur".
-AI: Vous avez une formule de politesse pour finir ?
-User: "Cordialement" ? / "Bien à vous" ?
-
-AI: Les deux sont parfaits. "Cordialement" est très courant.
-User: Merci, je vais utiliser ça.
-User: Je voudrais demander un jour de congé. Comment je formule ?
-
-AI: "Je me permets de solliciter un jour de congé le..."
-User: Merci, c'est parfait. / Et si c'est urgent ?
-
-AI: Ajoutez "dans les meilleurs délais" pour l'urgence.
-AI: Votre responsable a répondu. C'est accordé !
-User: Excellent ! Je vous remercie. / Parfait, merci beaucoup !
-
-AI: De rien. Bon repos !
-User: Merci, bonne journée à vous !

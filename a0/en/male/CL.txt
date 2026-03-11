@@ -1,0 +1,447 @@
+# 🎓 CAMPUS LIFE (casual + semi-formal) >> Studying in the US
+
+# CL-1: Hey, I Think We're Roommates!
+
+- Category: Campus Life
+- Subcategory: Dorm Life
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Moving In
+
+**Goal:** To introduce yourself to your new roommate and get settled in your dorm room.
+
+**📍 Location:** Dorm room (first day on campus)
+
+**intro_text:**
+Move-in day. Your stuff is everywhere.
+Someone just walked in — it's your roommate!
+
+**Opening — First Hello [Set 1]**
+AI: Hey! I think we're roommates! I'm Chris!
+User: Hey! I'm ___! Nice to meet you!
+AI: Cool! Where are you from?
+User: I'm from ___! What about you?
+
+**Outro:**
+> Roommate unlocked! 🛏️
+> But wait... which bed do they want?
+>
+
+**Beds [Set 2]**
+AI: Do you have a preference for the bed?
+User: I'll take the one by the window! / I don't mind, you pick!
+AI: Works for me! I'll take this side.
+User: Sounds good! Thanks!
+
+**Outro:**
+> Beds sorted! 😌
+> Now, find out a little more about each other.
+>
+
+---
+
+### sim2: Getting to Know You
+
+**Goal:** To discover shared interests and ask about your roommate's major.
+
+**📍 Location:** Dorm room (same)
+
+**intro_text:**
+You're both unpacking.
+Good time to break the ice!
+
+**Major [Set 3]**
+User: What's your major?
+AI: Computer science! What about you?
+User: I'm studying ___! / I'm still deciding!
+AI: Nice! Have you been to any of your classes yet?
+
+**Outro:**
+> Majors shared! 📚
+> Now, find out about life on campus!
+>
+
+**Campus Life [Set 4]**
+AI: Have you been to the dining hall yet?
+User: Not yet! Is it good? / Yeah, I went this morning!
+AI: It's decent! The meal plan is pretty convenient though.
+User: Good to know! Thanks!
+
+**Outro:**
+> Campus tip received! 🍽️
+> Now, make your first plans as roommates.
+>
+
+---
+
+### sim3: First Night
+
+**Goal:** To make plans for dinner on your first night and talk about orientation.
+
+**📍 Location:** Dorm hallway → dining hall
+
+**intro_text:**
+It's almost dinnertime.
+What's the plan for tonight?
+
+**Dinner Plans [Set 5]**
+User: Hey, wanna grab dinner together?
+AI: Yeah! The dining hall or somewhere off campus?
+User: Let's try the dining hall! / Off campus sounds fun!
+AI: Let's go! I'll grab my student ID!
+
+**Outro:**
+> Dinner plans: Made! 🍴
+> Now, talk about orientation!
+>
+
+**Orientation [Set 6]**
+AI: Did you go to orientation today?
+User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
+AI: Same! So much info. But it's exciting, right?
+User: Totally! I can't wait to start!
+
+**Outro:**
+> Roommate bond: Started! 🤝
+> Next up: Time to hit the classroom!
+>
+
+---
+
+# CL-2: Professor, Do You Have a Minute?
+
+- Category: Campus Life
+- Subcategory: Classes & Professors
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Day of Class
+
+**Goal:** To find a seat and chat with a classmate before class starts.
+
+**📍 Location:** Lecture hall (campus)
+
+**intro_text:**
+First day of class. You have no idea where to sit.
+Good thing someone nearby looks friendly!
+
+**Finding a Seat [Set 1]**
+AI: Hey, is this seat taken?
+User: No, go ahead! / Sure, sit down!
+AI: Thanks! Is this your first time in this class?
+User: Yeah, first day! What about you?
+
+**Outro:**
+> Classmate found! 🙋
+> But wait... do they know what the class is about?
+>
+
+**Class Info [Set 2]**
+AI: Do you know what this class is like?
+User: I heard it's tough! / I think it's supposed to be interesting!
+AI: Yeah, me too. I hope the professor is cool!
+User: Same! Let's hope for the best!
+
+**Outro:**
+> Class buddy: Found! 📖
+> Now, time to meet the professor!
+>
+
+---
+
+### sim2: After Class
+
+**Goal:** To ask the professor a question after class using polite English.
+
+**📍 Location:** Lecture hall (after class)
+
+**intro_text:**
+Class just ended. You have a question.
+Time to talk to the professor!
+
+**Asking a Question [Set 3]**
+User: Excuse me, Professor? Do you have a quick minute?
+AI: Of course! What can I help you with?
+User: I wasn't sure about the assignment. Could you explain it again?
+AI: Sure! It's due Friday — just one page about today's topic.
+
+**Outro:**
+> Question answered! 🙋
+> Now, ask about office hours!
+>
+
+**Office Hours [Set 4]**
+AI: Feel free to come to office hours if you have more questions.
+User: When are your office hours? / That's really helpful, thank you!
+AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
+User: Thank you so much, Professor!
+
+**Outro:**
+> Office hours noted! 📅
+> Now, go work on that group project!
+>
+
+---
+
+### sim3: Group Project
+
+**Goal:** To meet with classmates and plan a group project together.
+
+**📍 Location:** Campus café
+
+**intro_text:**
+You and your group are meeting for the first time.
+Time to figure out who does what!
+
+**Meeting Up [Set 5]**
+User: Okay, so we have a project due next week. Where do we start?
+AI: Good question! What should we each do?
+User: I can do the research! / I'll work on the slides!
+AI: Perfect! I'll write up the introduction then.
+
+**Outro:**
+> Work divided! ✅
+> Almost there — set a time to meet again!
+>
+
+**Next Meeting [Set 6]**
+AI: When should we meet again to put it all together?
+User: How about Thursday? / Is Sunday okay?
+AI: Thursday works for me! Let's meet here again.
+User: Great! See you then!
+
+**Outro:**
+> Group project: In progress! 📝
+> Next up: Time to explore campus life!
+>
+
+---
+
+# CL-3: What's the Dining Hall Like?
+
+- Category: Campus Life
+- Subcategory: Campus Daily Life
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Dining Hall Talk
+
+**Goal:** To navigate the dining hall, chat with a new person, and talk about the meal plan.
+
+**📍 Location:** Dining hall (campus)
+
+**intro_text:**
+Lunchtime. The dining hall is packed.
+Find a table and make a friend!
+
+**Opening — Dining Hall [Set 1]**
+AI: Hey! Do you mind if I sit here?
+User: Not at all, go ahead! / Sure, sit down!
+AI: Thanks! Is the food here always this good?
+User: It's pretty solid! / It's hit or miss, honestly!
+
+**Outro:**
+> New lunch buddy! 🍽️
+> Now, talk about the meal plan!
+>
+
+**Meal Plan [Set 2]**
+AI: Are you on the meal plan?
+User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
+AI: Me too! It's way more convenient than cooking every day.
+User: For sure! Saves so much time!
+
+**Outro:**
+> Meal plan discussed! 🥗
+> Now, talk about the best spots on campus!
+>
+
+---
+
+### sim2: Library Life
+
+**Goal:** To find a study spot in the library and make a study plan.
+
+**📍 Location:** Campus library
+
+**intro_text:**
+Midterms are coming up fast.
+Time to hit the library and get serious!
+
+**Study Spot [Set 3]**
+User: Excuse me, is anyone sitting here?
+AI: No, it's free! Go ahead.
+User: Thanks! Are you studying for the midterm? / Thanks so much!
+AI: Yeah, I've been here for two hours already. It's a lot!
+
+**Outro:**
+> Study spot secured! 📚
+> Now, talk about the exam!
+>
+
+**Exam Talk [Set 4]**
+AI: Are you feeling ready for the test?
+User: Not really! I need to review more. / Getting there, I think!
+AI: Same! Do you wanna study together sometime?
+User: That sounds great! / Sure, let's do it!
+
+**Outro:**
+> Study partner found! 💪
+> Almost done — one more part of campus life!
+>
+
+---
+
+### sim3: Campus Clubs
+
+**Goal:** To ask about campus clubs and sign up at the student union.
+
+**📍 Location:** Student union (club fair)
+
+**intro_text:**
+It's club fair day at the student union.
+So many options — which one looks good?
+
+**Club Fair [Set 5]**
+User: Hey, what club is this?
+AI: It's the photography club! We meet every Friday evening.
+User: That sounds awesome! How do I sign up? / I love photography!
+AI: Just put your name here! We'd love to have you!
+
+**Outro:**
+> Club found! 🎉
+> Almost there — make plans with your new club friend!
+>
+
+**Signing Up [Set 6]**
+User: When's the first meeting?
+AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
+User: I'll be there for sure! / Sounds great!
+AI: Awesome! See you Friday!
+
+**Outro:**
+> Campus club: Joined! 🌟
+> Next up: Time to handle some campus admin!
+>
+
+---
+
+# CL-4: Can I Come to Office Hours?
+
+- Category: Campus Life
+- Subcategory: Campus Admin
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Office Hours
+
+**Goal:** To visit a professor's office hours and ask about your grade or an assignment.
+
+**📍 Location:** Professor's office
+
+**intro_text:**
+You're standing outside the professor's door.
+Deep breath — it's just office hours!
+
+**Knocking [Set 1]**
+AI: Come in! Oh hi, have a seat!
+User: Thank you, Professor. I had a question about the last assignment.
+AI: Of course! Which part are you wondering about?
+User: I wasn't sure if my answer was right!
+
+**Outro:**
+> Office hours: Started! 📋
+> Now, ask your real question!
+>
+
+**The Question [Set 2]**
+AI: Walk me through what you wrote — let's look at it together.
+User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
+AI: Good start! Revisions are welcome by Friday — just email it to me.
+User: Thank you so much, Professor! That really helps.
+
+**Outro:**
+> Feedback received! 😊
+> Now, talk about changing your schedule!
+>
+
+---
+
+### sim2: Changing Your Schedule
+
+**Goal:** To talk to a classmate about the add/drop period and changing your class schedule.
+
+**📍 Location:** Campus café
+
+**intro_text:**
+The add/drop deadline is coming up fast.
+Are you keeping all your classes?
+
+**Drop or Stay [Set 3]**
+User: Hey, are you keeping all your classes this semester?
+AI: Honestly, I'm thinking about dropping one. It's way too much work!
+User: I get it! Which one? / I'm keeping all of mine!
+AI: Econ 101. What about you?
+
+**Outro:**
+> Class decision: In progress! 🤔
+> Now, talk about what to take instead!
+>
+
+**Switching [Set 4]**
+AI: What are you thinking about taking instead?
+User: Maybe intro to psychology! / I'm looking at art history!
+AI: Oh, I heard that class is great! And pretty easy too.
+User: That's exactly why I want it! Ha!
+
+**Outro:**
+> New class in sight! 📋
+> Almost done — now talk to your RA!
+>
+
+---
+
+### sim3: Talking to Your RA
+
+**Goal:** To talk to your RA (resident advisor) about a dorm issue and learn the rules.
+
+**📍 Location:** Dorm hallway
+
+**intro_text:**
+There's an issue in the dorm. You need help.
+Time to find your RA!
+
+**Talking to the RA [Set 5]**
+User: Hey, are you the RA for this floor?
+AI: Yeah, that's me! What's going on?
+User: My roommate plays loud music late at night. / There's a noise problem on my floor.
+AI: I hear you! I'll take care of it. Thanks for letting me know.
+
+**Outro:**
+> Problem reported! 🙌
+> Almost there — ask about dorm rules!
+>
+
+**Dorm Rules [Set 6]**
+AI: Do you have any questions about the dorm policies?
+User: Yeah — what are quiet hours? / When does the front door lock at night?
+AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
+User: Got it! Thanks so much!
+
+**Outro:**
+> Dorm life: Figured out! 🏠
+> You're officially a campus pro. Next up: Workplace English!
+>
+
+---
+
+# 💼 WORKPLACE (formal) >> American Professional Life

@@ -1,0 +1,220 @@
+# CR-2: 네, 알겠습니다
+
+- 대분류: Career
+- 중분류: Office Survival
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Getting Instructions
+
+**Goal:** To receive and confirm work instructions from your boss.
+
+📍 장소: 사무실 (자기 자리)
+
+**intro_text:**
+Your boss just walked over. They have a task for you.
+Listen carefully and confirm — this is your moment.
+
+### 기 — 업무 지시 [세트 1]
+
+AI: 이거 오늘까지 해 주세요.
+User: 네, 알겠습니다.
+
+AI: 질문 있으면 말해 주세요.
+User: 알겠습니다. / 지금은 없습니다.
+**Outro:**
+> Instructions received! 📋
+> Now show them you're on top of it.
+>
+
+### 승 — 진행 [세트 2]
+
+AI: 다 했어요?
+User: 거의 다 했습니다. / 조금만 더 걸립니다.
+
+AI: 알겠어요. 천천히 하세요.
+User: 감사합니다.
+
+**Outro:**
+> Progress reported! ✅
+> Next up: Time to survive the meeting room.
+>
+
+## sim2: Meeting
+
+**Goal:** To participate in a basic office meeting.
+
+📍 장소: 회의실
+
+### 승 — 회의 [세트 3]
+
+AI: 의견 있으면 말해 주세요.
+User: 네. / 네, 알겠습니다.
+
+AI: 이 부분 어떻게 생각해요?
+User: 좋은 것 같습니다. / 괜찮은 것 같습니다.
+
+**Outro:**
+> Opinion shared! 💼
+> Time to wrap up the meeting.
+>
+
+### 전 — 마무리 [세트 4]
+
+AI: 그러면 이렇게 하겠습니다.
+User: 좋습니다.
+
+AI: 수고하셨습니다!
+User: 수고하셨습니다!
+
+**Outro:**
+> Meeting survived! 🤝
+> One last task before you can go home.
+>
+
+## sim3: End of Day
+
+**Goal:** To report task completion and say goodbye at the end of the workday.
+
+📍 장소: 사무실 (자기 자리)
+
+### 전 — 보고 [세트 5]
+
+User: 다 끝났습니다. 확인해 주세요.
+AI: 네, 감사합니다! 바로 볼게요.
+
+AI: 잘 했어요!
+User: 감사합니다.
+
+**Outro:**
+> Work approved! ⭐
+> Now say goodbye the right way.
+>
+
+### 결 — 퇴근 [세트 6]
+
+AI: 오늘도 수고하셨습니다!
+User: 수고하셨습니다!
+
+User: 먼저 가보겠습니다.
+AI: 네, 수고하세요!
+
+**Outro:**
+> Another day conquered! 🏆
+> Next up: What do you do when you don't understand something?
+>
+
+---
+
+# CR-3: 다시 말씀해 주시겠어요?
+
+- 대분류: Career
+- 중분류: Asking for Help
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: I Don't Understand
+
+**Goal:** To ask someone to repeat or clarify what they said.
+
+📍 장소: 사무실 (상사 자리 앞)
+
+**intro_text:**
+Your boss just explained something. Fast.
+You caught maybe half of it. Time to be brave.
+
+### 기 — 못 알아들었어요 [세트 1]
+
+AI: 이거 오늘까지 이메일로 보내주세요.
+User: 죄송하지만 다시 말씀해 주시겠어요?
+
+AI: 아, 네! 이거 오늘까지 이메일로 보내주세요.
+User: 감사합니다.
+
+**Outro:**
+> Clarification requested! 🙋
+> Now make sure you actually understood.
+>
+
+### 승 — 확인 [세트 2]
+
+AI: 이해되셨어요?
+User: 네, 알겠습니다. / 이 부분이 잘 모르겠습니다.
+
+AI: 이 부분은 이렇게 하시면 돼요.
+User: 아, 네. 알겠습니다.
+
+**Outro:**
+> Fully understood! ✅
+> Next up: What if a colleague can help instead?
+>
+
+## sim2: Asking for Help
+
+**Goal:** To ask a colleague for help politely.
+
+📍 장소: 사무실 (동료 자리)
+
+### 승 — 도움 [세트 3]
+
+User: 저기, 질문이 있습니다.
+AI: 네, 말씀하세요!
+
+User: 이거 어떻게 해야 돼요?
+AI: 이렇게 하시면 됩니다!
+
+**Outro:**
+> Colleague to the rescue! 🤝
+> Don't forget to say thank you properly.
+>
+
+### 전 — 감사 [세트 4]
+
+User: 아, 감사합니다.
+AI: 또 모르는 거 있으면 말해 주세요!
+
+User: 네, 감사합니다.
+AI: 천만에요.
+
+**Outro:**
+> Gratitude expressed! 🙏
+> One more situation — what if you can't meet a deadline?
+>
+
+## sim3: Apologizing
+
+**Goal:** To apologize professionally and accept a deadline extension.
+
+📍 장소: 사무실 (자기 자리)
+
+### 전 — 사과 [세트 5]
+
+Ai: 이거 내일까지 가능할까요?
+User: 좀 어려울 것 같습니다. / 네, 하겠습니다.
+
+AI: 그럼 모레까지는 괜찮으실까요?
+User: 네, 감사합니다! 모레까지 마칠게요.
+
+**Outro:**
+> Extension granted! 😮‍💨
+> Wrap it up with grace.
+>
+
+### 결 — 마무리 [세트 6]
+
+AI: 괜찮아요! 천천히 하세요.
+User: 감사합니다.
+
+AI: 수고하세요!
+User: 수고하셨습니다!
+
+**Outro:**
+> Office survival: complete! 🏢
+> You've made it through the full Korean workplace experience.
+>
+
+---

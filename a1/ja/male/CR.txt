@@ -1,0 +1,306 @@
+# CR-4: 会議の準備できましたか？
+
+- 대분류: Career
+- 중분류: Meetings
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 장소:** オフィス (自分の席)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — 準備 [세트 1]**
+AI: 今日の会議の準備はできましたか？
+User: はい、準備できました。 / ほぼできました。
+AI: 資料はプリントしましたか？
+User: はい、しました。 / 今します。
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — 会議室 [세트 2]**
+AI: 会議室は予約しましたか？
+User: はい、3時に予約しました。
+AI: よかったです！その時間にお会いしましょう！
+User: はい、よろしくお願いします。
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** 会議室
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — 会議中 [세트 3]**
+AI: この件についてご意見はありますか？
+User: はい、これがいいと思います。 / 私も同じ考えです。
+AI: よいご意見ですね！
+User: ありがとうございます。
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — 質問 [세트 4]**
+User: 一つ質問があります。
+AI: はい、どうぞ！
+User: この部分はいつまでですか？
+AI: 来週の金曜日までにお願いします！
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate Japan!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: After the Meeting
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** 会議室 → オフィス (戻る)
+
+**전 — 会議後 [세트 5]**
+AI: 本日はお疲れ様でした！
+User: お疲れ様でした！
+User: 議事録は私が送ります。
+AI: ありがとうございます！
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — まとめ [세트 6]**
+AI: では次回の会議でお会いしましょう！
+User: はい、よろしくお願いします。
+AI: お疲れ様です！
+User: ありがとうございます！
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate Japan: 0, You: 1.
+>
+
+---
+
+# CR-5: 昼食はまだですか？
+
+- 대분류: Career
+- 중분류: Workplace Socializing
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Lunch Break
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 장소:** オフィス
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — 昼食 [세트 1]**
+AI: 昼食はまだですか？
+User: まだです。 / はい、いただきました。
+AI: よろしければご一緒にいかがですか？
+User: はい、ぜひ！ / ありがとうございます！
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — メニュー [세트 2]**
+AI: 何を召し上がりますか？近くにおいしいところがありますよ！
+User: 何でも大丈夫です！ / 何がおいしいですか？
+AI: ここのラーメンが有名なんですよ！
+User: いいですね！行きましょう！
+
+**Outro:**
+> Ramen it is! 🍜 The ultimate Japanese office lunch.
+> Time to bond over a bowl of something delicious.
+>
+
+---
+
+### sim2: At Lunch
+
+**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
+
+**📍 장소:** 会社近くの食堂
+
+**승 — 食事中 [세트 3]**
+AI: 日本食は大丈夫ですか？辛いものは得意ですか？
+User: はい、大丈夫です！ / 少し辛いのは苦手です。
+AI: それでしたら味噌ラーメンはいかがですか？辛くないですよ！
+User: いいですね！
+
+**Outro:**
+> Miso ramen: the safe and delicious choice! 🥣 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — 会話 [세트 4]**
+AI: 日本の生活はいかがですか？慣れてきましたか？
+User: はい、だんだん慣れてきました。 / 少し大変な時もあります。
+AI: 大変な時はおっしゃってください！お手伝いします！
+User: ありがとうございます。
+
+**Outro:**
+> A coworker who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: Going Back
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** 食堂
+
+**전 — 会計 [세트 5]**
+User: 私が払います。
+AI: いいえ、先輩がご馳走しますよ！
+User: ありがとうございます！
+AI: おいしかったですか？
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — 戻る [세트 6]**
+User: はい、とてもおいしかったです！ごちそうさまでした。
+AI: よかったです！
+AI: では戻りましょうか？
+User: はい、戻りましょう！
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---
+
+# CR-6: 明日お休みいただいてもよろしいでしょうか？
+
+- 대분류: Career
+- 중분류: Requesting Leave
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking for Leave
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 장소:** オフィス (上司の席の前)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — お願い [세트 1]**
+User: 部長、少しいいですか？
+AI: はい、どうぞ。
+User: 明日、休んでもいいですか？個人的な理由です。
+AI: 明日ですか？急なご用件ですか？
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — 説明 [세트 2]**
+User: はい、病院に行きます。 / 個人的な用事があります。
+AI: わかりました。
+AI: 明日のお仕事は他の方にお願いできますか？
+User: はい、準備しておきます。
+
+**Outro:**
+> Proactive handover offer! 📋 That's exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: Confirmation
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 장소:** オフィス (上司の席の前, 同じ)
+
+**승 — 確認 [세트 3]**
+AI: では明日はお休みください。
+User: ありがとうございます。
+AI: 無理なさらないでください！
+User: はい、ありがとうございます。
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — 準備 [세트 4]**
+User: 明日の仕事をまとめてメールで送ります。
+AI: はい、ありがとうございます！
+User: 他に何かありますか？
+AI: いいえ、大丈夫です！お疲れ様でした！
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you're free.
+>
+
+---
+
+### sim3: The Day After
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 장소:** オフィス (自分の席)
+
+**전 — 復帰 [세트 5]**
+User: おはようございます。昨日はありがとうございました。
+AI: 大丈夫ですよ！お体の具合はいかがですか？
+User: だいぶよくなりました。 / 大丈夫です、ありがとうございます。
+AI: よかったです！
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that's a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — 業務復帰 [세트 6]**
+AI: ゆっくりやってください！無理しないでくださいね！
+User: はい、ありがとうございます。
+AI: お疲れ様です！
+User: ありがとうございます！よろしくお願いします！
+
+**Outro:**
+> "よろしくお願いいたします！" 🏢 The most Japanese way to end a workday.
+> You navigated Japanese office culture like a true professional.
+>

@@ -1,0 +1,414 @@
+# ✈️ TRAVELING (です・ます) >> Japan Travel
+
+# TR-1: アイスコーヒー ください
+
+- 大分類: Traveling
+- 中分類: Cafe
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like cake.
+
+**📍 場所:** カフェ カウンター
+
+**intro_text:**
+First Japanese café order. You got this... just say it!
+
+**起 — ちゅうもん [セット 1]**
+AI: いらっしゃいませ！ご注文は？
+User: アイスコーヒー ください。 / アイスラテ ください。
+AI: サイズは？
+User: レギュラーで。 / ラージで。
+
+**Outro:**
+> Drink ordered! ☕
+> But wait... that cake in the display is calling your name.
+>
+
+**承 — ついか [セット 2]**
+AI: ほかに なにか ありますか？
+User: ケーキ ありますか？ / だいじょうぶです。
+AI: チーズケーキと チョコケーキが あります！
+User: チーズケーキ ください。 / チョコケーキ ください。
+
+**Outro:**
+> Order complete! 🍰
+> Now, time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and provide your name for the order pickup.
+
+**📍 場所:** カフェ カウンター (同じ)
+
+**承 — おしはらい [セット 3]**
+AI: 500円です！
+User: カード つかえますか？ / 現金で おねがいします。
+AI: はい、どうぞ。
+User: ありがとうございます。
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before you wait...
+>
+
+**転 — まつ [セット 4]**
+AI: すこし おまちください！おなまえは？
+User: ___です。
+AI: できたら よびます！
+User: はい！
+
+**Outro:**
+> Name given! 📝
+> Now, the hardest part: waiting for coffee.
+>
+
+---
+
+### sim3: Getting the Drink
+
+**Goal:** To pick up your order, request any extras, and find a seat in the café.
+
+**📍 場所:** カフェ ピックアップ → カフェ せき
+
+**転 — うけとり [セット 5]**
+AI: アイスコーヒー できました！
+User: ありがとうございます！
+AI: ストロー いりますか？
+User: はい、ください。 / だいじょうぶです。
+
+**Outro:**
+> Coffee in hand! ☕
+> Now, find the perfect spot to enjoy it.
+>
+
+**結 — せき [セット 6]**
+User: せき ありますか？
+AI: おくに あります！
+User: ありがとうございます！
+AI: ごゆっくり どうぞ！
+
+**Outro:**
+> Mission accomplished! ☕🍰
+> You're officially a Japanese café regular. Next up: Time to explore the streets!
+>
+
+---
+
+# TR-2: からくない やつ ください
+
+- 大分類: Traveling
+- 中分類: Restaurant
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 場所:** 食堂
+
+**intro_text:**
+First Japanese restaurant experience.
+Get ready for some serious flavor!
+
+**起 — せきにつく [セット 1]**
+AI: いらっしゃいませ！なんめいさまですか？
+User: ひとりです。 / ふたりです。
+AI: こちらへ どうぞ。
+User: はい、ありがとうございます。
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**承 — ちゅうもん [セット 2]**
+AI: ご注文は？
+User: すみません！カレーライス ひとつ ください。
+AI: はい、カレーライス ひとつですね。
+User: あ、それから お水も ください。
+
+**Outro:**
+> Order placed! 🍲
+> But wait... is the curry too spicy for you?
+>
+
+---
+
+### sim2: The Flavor Check
+
+**Goal:** To adjust your order and politely request extra items.
+
+**📍 場所:** 食堂 (同じ)
+
+**承 — からさ [セット 3]**
+AI: カレーライス、すこし からいです。だいじょうぶですか？
+User: からいですか？ / はい、だいじょうぶです！
+AI: はい、すこし からいです。
+User: じゃあ からくない やつ ください。 / からくて だいじょうぶです！
+
+**Outro:**
+> Crisis averted! 🥵
+> Time to discover the magic of Japanese side dishes.
+>
+
+**転 — おかわり [セット 4]**
+User: すみません！おかわり ください。
+AI: なにを おかわりしますか？
+User: みそしる おかわり ください。 / これ おかわり ください。
+AI: はい、しょうしょう おまちください！
+
+**Outro:**
+> The food is amazing! 🥢
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle the payment process, and offer polite closing greetings after the meal.
+
+**📍 場所:** 食堂 カウンター
+
+**転 — おかいけい [セット 5]**
+User: おかいけい おねがいします！
+AI: 1000円です。カードですか？
+User: はい、カードで。 / げんきんです。
+AI: レシート いりますか？
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**結 — あいさつ [セット 6]**
+User: はい、ください。 / いいえ、だいじょうぶです。
+AI: ありがとうございました。またどうぞ！
+User: ごちそうさまでした！
+AI: またのご来店を おまちしております！
+
+**Outro:**
+> Meal complete! 🍱
+> You're officially a Japanese restaurant regular. Next up: Time to navigate the city!
+>
+
+---
+
+# TR-3: えきは どこですか？
+
+- 大分類: Traveling
+- 中分類: Directions
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Finding the Station
+
+**Goal:** To ask for directions to the station and understand basic directional responses.
+
+**📍 場所:** 街 (浅草)
+
+**intro_text:**
+You're lost in Asakusa.
+Time to ask a local for help!
+
+**起 — みちをきく [セット 1]**
+User: すみません！えきは どこですか？
+AI: えきですか？まっすぐ いってください。
+User: まっすぐ ですか？
+AI: はい、そこを みぎに まがってください。
+
+**Outro:**
+> Directions received! 🗺️
+> But wait... which exit do you need?
+>
+
+**承 — でぐち [セット 2]**
+User: ありがとうございます！なんばん でぐちですか？
+AI: A1 でぐちです。
+User: A1 でぐちですね。ありがとうございます！
+AI: どういたしまして。
+
+**Outro:**
+> Exit confirmed! 🚉
+> Now, can you actually get there on time?
+>
+
+---
+
+### sim2: At the Ticket Machine
+
+**Goal:** To buy a train ticket and ask about the fare.
+
+**📍 場所:** えき (浅草えき)
+
+**承 — きっぷ [セット 3]**
+User: すみません！渋谷まで いくらですか？
+AI: 200円です。
+User: ありがとうございます！
+AI: どういたしまして。
+
+**Outro:**
+> Fare found! 🎫
+> Now, figure out which platform to go to.
+>
+
+**転 — ホーム [セット 4]**
+User: すみません！渋谷ゆきは なんばん ホームですか？
+AI: 3ばん ホームです。
+User: 3ばん ホームですね。ありがとうございます！
+AI: どうぞ。
+
+**Outro:**
+> Platform found! 🚃
+> Almost there — just one more thing to check.
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm your stop and ask a fellow passenger for help.
+
+**📍 場所:** でんしゃ の なか
+
+**転 — でんしゃ [セット 5]**
+User: すみません！つぎは 渋谷ですか？
+AI: はい、つぎです。
+User: ありがとうございます！
+AI: どうぞ。
+
+**Outro:**
+> Almost at your stop! 🚉
+> Just one more step — get off at the right place.
+>
+
+**結 — とうちゃく [セット 6]**
+User: すみません！ここで おりますか？
+AI: はい、ここです！
+User: ありがとうございます！
+AI: お気をつけて！
+
+**Outro:**
+> Arrived safely! 🎉
+> Next up: Checking into your hotel.
+>
+
+---
+
+# TR-4: チェックインを おねがいします
+
+- 大分類: Traveling
+- 中分類: Hotel
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in at the hotel, confirm your reservation, and get your room key.
+
+**📍 場所:** ホテル フロント
+
+**intro_text:**
+Long day of travel. Finally, the hotel.
+Let's get that room key!
+
+**起 — チェックイン [セット 1]**
+AI: いらっしゃいませ！ご予約は？
+User: はい、___です。よやくしました。
+AI: ___さまですね。パスポートを みせてください。
+User: はい、どうぞ。
+
+**Outro:**
+> Check-in started! 🏨
+> But wait... what floor is your room on?
+>
+
+**承 — へや [セット 2]**
+AI: 305ごうしつです。3かいです。
+User: ありがとうございます！エレベーターは どこですか？
+AI: あちらです。
+User: ありがとうございます！
+
+**Outro:**
+> Room confirmed! 🗝️
+> Now, find out what's included in your stay.
+>
+
+---
+
+### sim2: Room Amenities
+
+**Goal:** To ask about breakfast, Wi-Fi, and other hotel services.
+
+**📍 場所:** ホテル フロント (同じ)
+
+**承 — ちょうしょく [セット 3]**
+User: ちょうしょくは つきますか？
+AI: はい、つきます。7じから 10じまでです。
+User: ありがとうございます！どこですか？
+AI: 1かいの レストランです。
+
+**Outro:**
+> Breakfast info secured! 🍳
+> Now, get connected.
+>
+
+**転 — Wi-Fi [セット 4]**
+User: Wi-Fi ありますか？
+AI: はい、あります。パスワードは これです。
+User: ありがとうございます！
+AI: ごゆっくり どうぞ。
+
+**Outro:**
+> Connected! 📶
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and confirm the bill.
+
+**📍 場所:** ホテル フロント
+
+**転 — チェックアウト [セット 5]**
+User: チェックアウトを おねがいします。
+AI: ___さまですね。しょうしょう おまちください。
+User: はい。
+AI: おまたせしました。ごせいきゅうは 15000円です。
+
+**Outro:**
+> Bill ready! 💳
+> Just one last thing before you head out.
+>
+
+**結 — おわり [セット 6]**
+User: カードで おねがいします。
+AI: はい、ありがとうございました。またのご利用を おまちしております！
+User: ありがとうございました！
+AI: いってらっしゃいませ！
+
+**Outro:**
+> Check-out complete! 🧳
+> Next up: Time to explore the anime world!
+>
+
+---
+
+# 🎌 ANIME & DRAMA (タメ口) >> Otaku Culture

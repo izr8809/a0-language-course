@@ -1,0 +1,414 @@
+# 💖 INTERÉS PERSONAL (tú) >> Vida Latinoamericana
+
+# PI-5: ¡Vamos a comer juntos!
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Eligiendo un lugar
+
+**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** Calle en Colonia Roma
+
+**intro_text:**
+Lunchtime in Mexico City. So many options. What are we eating?
+
+**기 — ¿Qué comemos? [세트 1]**
+User: ¡Tengo hambre! ¿Qué comemos?
+AI: ¡Yo también! ¿Qué se te antoja?
+User: ¡Quiero tacos! / ¿Qué tal unos tacos?
+AI: ¡Sí! Conozco un lugar buenísimo. ¡Vamos!
+
+**Outro:**
+> Tacos it is! 🌮 But wait, how far is this place?
+> Your stomach is already rumbling — let's move!
+>
+
+**승 — ¿Cómo llegamos? [세트 2]**
+AI: Está a cinco minutos caminando. ¿Vamos a pie?
+User: ¡Sí, vamos! / ¿Está lejos?
+AI: ¡No, está cerquita! ¡Ándale!
+User: ¡Órale, vamos!
+
+**Outro:**
+> Five minutes on foot — perfect! 🚶 The smell of tacos is already calling.
+> Almost there... don't let your hunger slow you down.
+>
+
+---
+
+### sim2: En la taquería
+
+**Goal:** To order food together and bond over tacos like a true local.
+
+**📍 장소:** Taquería en Colonia Roma
+
+**intro_text:**
+You made it. This place looks amazing.
+
+**승 — En la taquería [세트 3]**
+AI: ¡Aquí es! ¿Qué te parece?
+User: ¡Qué chido! / ¡Hay mucha gente!
+AI: ¿Qué vas a pedir? ¡Mira el menú!
+User: ¡Tres tacos de pastor! / ¡Unos tacos de canasta!
+
+**Outro:**
+> Order placed! 🌮 Now comes the most important question...
+> Salsa verde or roja? The real power move starts now.
+>
+
+**전 — Comiendo [세트 4]**
+AI: ¿Le pongo salsa?
+User: ¡Sí, verde por favor! / ¡Roja, bien picante!
+AI: ¡Están buenísimos!
+User: ¡Sí, están increíbles! / ¡Qué rico está esto!
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
+> Brace yourself — who's paying?
+>
+
+---
+
+### sim3: Después de comer
+
+**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+
+**📍 장소:** Taquería → calle afuera
+
+**전 — La cuenta [세트 5]**
+User: ¡Yo invito!
+AI: ¡No, no! ¡Pagamos a medias!
+User: ¡No, hoy yo pago!
+AI: ¿En serio? ¡Gracias! ¡La próxima yo!
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — ¿Qué sigue? [세트 6]**
+AI: ¡Estoy lleno/a! ¿Qué hacemos ahora?
+User: ¿Vamos a un café? / ¿Caminamos un rato?
+AI: ¡Buena idea, vamos!
+User: ¡Vamos!
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---
+
+# PI-6: Estudio español por ti
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Poniéndonos personales
+
+**Goal:** To open up about why you're learning Spanish and feel supported by your friend's encouragement.
+
+**📍 장소:** Cafetería en Condesa
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Conversación profunda [세트 1]**
+AI: ¿Por qué estás aprendiendo español?
+User: ¡Quiero hacer amigos aquí! / ¡Quiero entender las canciones!
+AI: ¡Qué padre! ¡Ya lo hablas muy bien!
+User: ¡Todavía me falta mucho! / ¿De verdad? ¡Gracias!
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in CDMX, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — La vida aquí [세트 2]**
+AI: ¿Hay algo difícil de vivir aquí?
+User: A veces me siento solo/a. / Cuando no entiendo bien.
+AI: ¡Si te pasa algo, dímelo!
+User: Gracias. / Sí, lo haré.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Palabras de aliento
+
+**Goal:** To reflect on how far you've come with Spanish and feel genuinely motivated to keep going.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**승 — Motivación [세트 3]**
+AI: ¿Cómo fue cuando empezaste a aprender español?
+User: ¡Fue muy difícil! / ¡No entendía nada!
+AI: ¡Pero mira cómo hablas ahora!
+User: ¿Sí? ¡Gracias! / ¡Todavía me falta!
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — Inspiración [세트 4]**
+User: Por ti quiero aprender más español.
+AI: ¿En serio? ¡Me da mucho gusto!
+User: ¡Es verdad!
+AI: ¡Yo también quiero aprender tu idioma!
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Amigos de verdad
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**전 — Amigos de verdad [세트 5]**
+AI: ¿Cuánto tiempo llevamos de conocernos?
+User: ¿Un mes? / ¡Ya van dos meses!
+AI: ¡El tiempo vuela!
+User: ¡Sí, es verdad!
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — Haciendo planes [세트 6]**
+AI: ¡Tenemos que vernos más seguido!
+User: ¡Claro que sí!
+AI: ¡La próxima semana hagamos algo!
+User: ¡Sí! ¡Escríbeme por WhatsApp!
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life in CDMX just got a whole lot better.
+>
+
+---
+
+# PI-7: ¿Tienes algo en mente?
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Algo está mal
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** Cafetería
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — El problema [세트 1]**
+AI: Últimamente te noto raro/a. ¿Estás bien?
+User: Estoy un poco mal. / Tengo algo en mente.
+AI: ¿Qué tienes? Cuéntame.
+User: La vida aquí es difícil. / Tengo mucho trabajo.
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — Escuchando [세트 2]**
+AI: ¿Qué es lo más difícil?
+User: Paso mucho tiempo solo/a. / El español es difícil.
+AI: Debe ser difícil.
+User: Sí, un poco.
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Consejos
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** Cafetería → Bosque de Chapultepec
+
+**승 — El consejo [세트 3]**
+AI: No te quedes con todo eso. ¡Dímelo!
+User: Gracias. / Sí, lo haré.
+AI: ¿No necesitas despejarte? ¡Salgamos!
+User: ¿A dónde? / ¡Buena idea!
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Chapultepec has a way of making everything feel better.
+>
+
+**전 — Afuera [세트 4]**
+AI: ¡Vamos a Chapultepec! ¡El aire te va a hacer bien!
+User: ¡Sí, vamos!
+AI: ¿Compramos algo de comer en el camino?
+User: ¡Sí! / ¡Pasamos al OXXO!
+
+**Outro:**
+> OXXO snacks + Chapultepec = perfect combo! 🍜 Let's go.
+> The best conversations happen under the trees.
+>
+
+---
+
+### sim3: Sintiéndose mejor
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** Bosque de Chapultepec
+
+**전 — Mejor ánimo [세트 5]**
+AI: ¿Ya te sientes mejor?
+User: ¡Sí, mucho mejor! / ¡Gracias a ti!
+AI: ¡Qué bueno!
+User: De verdad, gracias.
+
+**Outro:**
+> From stressed to refreshed! 🌊 Chapultepec delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — Siempre aquí [세트 6]**
+AI: ¡Cuando estés mal, escríbeme!
+User: ¡Sí, lo haré!
+AI: ¡Lo prometo!
+User: ¡Prometido!
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Life in CDMX is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: ¿Nos vamos de viaje?
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: ¿A dónde vamos?
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** Cafetería
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — La propuesta [세트 1]**
+User: ¿Qué haces el próximo puente?
+AI: ¡Nada todavía! ¿Por qué?
+User: ¿Nos vamos de viaje?
+AI: ¡Qué buena idea! ¿A dónde?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Oaxaca or the beach? The debate begins.
+>
+
+**승 — Decidiendo [세트 2]**
+User: ¿Qué tal Oaxaca? / ¡Quiero ir a la playa!
+AI: ¡Sí! ¡Yo también quería ir!
+AI: ¿Cuántos días vamos?
+User: ¿Dos noches? / ¿Tres días?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: Planeando
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**승 — El transporte [세트 3]**
+AI: ¿Cómo vamos? ¿En camión o en avión?
+User: ¡En camión! / ¿Cuánto cuesta el avión?
+AI: ¡El camión es más barato! ¡Y hay directo!
+User: ¡Perfecto!
+
+**Outro:**
+> Bus it is! 🚌 Fast, cheap, and very Mexican.
+> Next up: where are we sleeping?
+>
+
+**전 — El hospedaje [세트 4]**
+AI: ¿Dónde nos quedamos? ¿Hotel o Airbnb?
+User: ¡Airbnb! ¡Es más barato! / ¿El hotel no es más cómodo?
+AI: ¡Yo busco el Airbnb!
+User: ¡Sí, gracias!
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: La emoción
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** Cafetería (mismo lugar)
+
+**전 — ¿Qué hacemos? [세트 5]**
+User: ¿Qué quieres hacer en Oaxaca?
+AI: ¡Quiero ir al mercado! ¿Y tú?
+User: ¡Yo quiero comer tlayudas! / ¡Quiero ver las ruinas!
+AI: ¡Sí! ¡Hacemos todo!
+
+**Outro:**
+> The itinerary is basically writing itself! 🌊 Market, tlayudas, ruins — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — ¡Qué emoción! [세트 6]**
+AI: ¡Tengo muchas ganas!
+User: ¡Yo también! ¡Ya quiero ir!
+AI: ¡Entonces nos vemos allá! ¡Empieza a empacar!
+User: ¡Sí!
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> Oaxaca is waiting — and so is the best tlayuda of your life.
+>
+
+---
+
+# ✈️ VIAJES (usted — formal) >> Turismo en LATAM

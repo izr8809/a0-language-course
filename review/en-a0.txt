@@ -1,3 +1,245 @@
+[ CL-1: Hey, I Think We're Roommates! ]
+
+AI: Hey! I think we're roommates! I'm Chris!
+User: Hey! I'm ___! Nice to meet you!
+
+AI: Cool! Where are you from?
+User: I'm from ___! What about you?
+AI: Do you have a preference for the bed?
+User: I'll take the one by the window! / I don't mind, you pick!
+
+AI: Works for me! I'll take this side.
+User: Sounds good! Thanks!
+User: What's your major?
+
+AI: Computer science! What about you?
+User: I'm studying ___! / I'm still deciding!
+
+AI: Nice! Have you been to any of your classes yet?
+AI: Have you been to the dining hall yet?
+User: Not yet! Is it good? / Yeah, I went this morning!
+
+AI: It's decent! The meal plan is pretty convenient though.
+User: Good to know! Thanks!
+User: Hey, wanna grab dinner together?
+
+AI: Yeah! The dining hall or somewhere off campus?
+User: Let's try the dining hall! / Off campus sounds fun!
+
+AI: Let's go! I'll grab my student ID!
+AI: Did you go to orientation today?
+User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
+
+AI: Same! So much info. But it's exciting, right?
+User: Totally! I can't wait to start!
+
+[ CL-2: Professor, Do You Have a Minute? ]
+
+AI: Hey, is this seat taken?
+User: No, go ahead! / Sure, sit down!
+
+AI: Thanks! Is this your first time in this class?
+User: Yeah, first day! What about you?
+AI: Do you know what this class is like?
+User: I heard it's tough! / I think it's supposed to be interesting!
+
+AI: Yeah, me too. I hope the professor is cool!
+User: Same! Let's hope for the best!
+User: Excuse me, Professor? Do you have a quick minute?
+
+AI: Of course! What can I help you with?
+User: I wasn't sure about the assignment. Could you explain it again?
+
+AI: Sure! It's due Friday — just one page about today's topic.
+AI: Feel free to come to office hours if you have more questions.
+User: When are your office hours? / That's really helpful, thank you!
+
+AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
+User: Thank you so much, Professor!
+User: Okay, so we have a project due next week. Where do we start?
+
+AI: Good question! What should we each do?
+User: I can do the research! / I'll work on the slides!
+
+AI: Perfect! I'll write up the introduction then.
+AI: When should we meet again to put it all together?
+User: How about Thursday? / Is Sunday okay?
+
+AI: Thursday works for me! Let's meet here again.
+User: Great! See you then!
+
+[ CL-3: What's the Dining Hall Like? ]
+
+AI: Hey! Do you mind if I sit here?
+User: Not at all, go ahead! / Sure, sit down!
+
+AI: Thanks! Is the food here always this good?
+User: It's pretty solid! / It's hit or miss, honestly!
+AI: Are you on the meal plan?
+User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
+
+AI: Me too! It's way more convenient than cooking every day.
+User: For sure! Saves so much time!
+User: Excuse me, is anyone sitting here?
+
+AI: No, it's free! Go ahead.
+User: Thanks! Are you studying for the midterm? / Thanks so much!
+
+AI: Yeah, I've been here for two hours already. It's a lot!
+AI: Are you feeling ready for the test?
+User: Not really! I need to review more. / Getting there, I think!
+
+AI: Same! Do you wanna study together sometime?
+User: That sounds great! / Sure, let's do it!
+User: Hey, what club is this?
+
+AI: It's the photography club! We meet every Friday evening.
+User: That sounds awesome! How do I sign up? / I love photography!
+
+AI: Just put your name here! We'd love to have you!
+User: When's the first meeting?
+
+AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
+User: I'll be there for sure! / Sounds great!
+
+AI: Awesome! See you Friday!
+
+[ CL-4: Can I Come to Office Hours? ]
+
+AI: Come in! Oh hi, have a seat!
+User: Thank you, Professor. I had a question about the last assignment.
+
+AI: Of course! Which part are you wondering about?
+User: I wasn't sure if my answer was right!
+AI: Walk me through what you wrote — let's look at it together.
+User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
+
+AI: Good start! Revisions are welcome by Friday — just email it to me.
+User: Thank you so much, Professor! That really helps.
+User: Hey, are you keeping all your classes this semester?
+
+AI: Honestly, I'm thinking about dropping one. It's way too much work!
+User: I get it! Which one? / I'm keeping all of mine!
+
+AI: Econ 101. What about you?
+AI: What are you thinking about taking instead?
+User: Maybe intro to psychology! / I'm looking at art history!
+
+AI: Oh, I heard that class is great! And pretty easy too.
+User: That's exactly why I want it! Ha!
+User: Hey, are you the RA for this floor?
+
+AI: Yeah, that's me! What's going on?
+User: My roommate plays loud music late at night. / There's a noise problem on my floor.
+
+AI: I hear you! I'll take care of it. Thanks for letting me know.
+AI: Do you have any questions about the dorm policies?
+User: Yeah — what are quiet hours? / When does the front door lock at night?
+
+AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
+User: Got it! Thanks so much!
+
+[ CR-1: Nice to Meet You, I'm ___ ]
+
+AI: Hi! I'm Alex. Nice to meet you!
+User: Nice to meet you! I'm ___.
+
+AI: Welcome to the team! Where are you from?
+User: I'm from ___.
+AI: Here's my card. Feel free to reach out!
+User: Thank you! Here's mine as well.
+
+AI: Great! Which department are you in?
+User: I'm in sales. / I'm in marketing.
+AI: Where do you usually eat lunch?
+User: I go to the deli nearby. / I bring my lunch.
+
+AI: I see. Would you like to join me today?
+User: I would love that, thank you.
+AI: What time does your day start?
+User: I start at 9am. / I start at 8:30.
+
+AI: And when do you finish?
+User: I finish at 6. / It depends on the day.
+AI: Great work today! How was your first day?
+User: It was great, thank you! / It was a lot to take in!
+
+AI: If you have any questions, just ask me.
+User: Thank you. I really appreciate that.
+AI: I'm heading out. Have a good evening!
+User: You too! See you tomorrow!
+
+AI: See you tomorrow! Welcome again!
+User: Thank you! Good night!
+
+[ CR-2: Let's Get Started ]
+
+AI: Are you ready for the meeting?
+User: Yes, I'm ready. / Almost, one more minute.
+
+AI: Do you have the slides?
+User: Yes, right here. / I'm printing them now.
+AI: Okay, let's get started. Thank you all for coming.
+User: Thank you for having me.
+
+AI: Today's agenda is the Q3 report.
+User: Understood.
+AI: Could you share your thoughts on this?
+User: Yes. I think we should focus on social media.
+
+AI: Interesting. Can you tell us more?
+User: Of course. It would help us reach more people.
+AI: I have a question, if that's okay.
+User: Of course, go ahead.
+
+AI: When would this plan start?
+User: We could start next month. / That's still being decided.
+AI: Okay, let me summarize. The next step is the report.
+User: Understood.
+
+AI: Does anyone have any questions?
+User: No, I'm good. / Yes, I have one.
+AI: Alright, that's all for today. Thank you everyone.
+User: Thank you. It was a productive meeting.
+
+AI: Next meeting is next week. See you then!
+User: See you then. Thank you!
+
+[ CR-3: Please See the Attached ]
+
+AI: Have you sent the report yet?
+User: Not yet. I'm writing the email now.
+
+AI: Okay. Don't forget to attach the file.
+User: Got it. I will.
+AI: How do you usually start an email?
+User: I write "Hi" and their name. / I write "Dear" and their name.
+
+AI: Both work! "Hi" is more casual, "Dear" is more formal.
+User: I see. Thank you!
+User: How do I ask for something politely?
+
+AI: You can say "Could you please..." or "I would appreciate it if..."
+User: That's helpful! Thank you.
+
+AI: No problem! Keep it short and clear.
+AI: How do you end your emails?
+User: I write "Best regards" and my name. / I write "Thanks" and my name.
+
+AI: Good! "Best regards" is more formal. "Thanks" is more casual.
+User: Got it. I'll use "Best regards."
+User: I sent the email!
+
+AI: Great! Did you attach the file?
+User: Yes, I did. / Oh no, I forgot!
+
+AI: Always double-check the attachment!
+AI: Did you hear back from them?
+User: Not yet. Should I follow up?
+
+AI: Yes. Wait one or two days, then send a short follow-up.
+User: Okay. Thank you for the advice!
+
 [ PI-1: Hey, I'm ___! ]
 
 AI: Hey! I'm Alex! What's your name?
@@ -285,245 +527,3 @@ AI: Perfect! Thank you for staying with us!
 User: Thank you! I had a great time!
 
 AI: Come back soon! Safe travels!
-
-[ CL-1: Hey, I Think We're Roommates! ]
-
-AI: Hey! I think we're roommates! I'm Chris!
-User: Hey! I'm ___! Nice to meet you!
-
-AI: Cool! Where are you from?
-User: I'm from ___! What about you?
-AI: Do you have a preference for the bed?
-User: I'll take the one by the window! / I don't mind, you pick!
-
-AI: Works for me! I'll take this side.
-User: Sounds good! Thanks!
-User: What's your major?
-
-AI: Computer science! What about you?
-User: I'm studying ___! / I'm still deciding!
-
-AI: Nice! Have you been to any of your classes yet?
-AI: Have you been to the dining hall yet?
-User: Not yet! Is it good? / Yeah, I went this morning!
-
-AI: It's decent! The meal plan is pretty convenient though.
-User: Good to know! Thanks!
-User: Hey, wanna grab dinner together?
-
-AI: Yeah! The dining hall or somewhere off campus?
-User: Let's try the dining hall! / Off campus sounds fun!
-
-AI: Let's go! I'll grab my student ID!
-AI: Did you go to orientation today?
-User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
-
-AI: Same! So much info. But it's exciting, right?
-User: Totally! I can't wait to start!
-
-[ CL-2: Professor, Do You Have a Minute? ]
-
-AI: Hey, is this seat taken?
-User: No, go ahead! / Sure, sit down!
-
-AI: Thanks! Is this your first time in this class?
-User: Yeah, first day! What about you?
-AI: Do you know what this class is like?
-User: I heard it's tough! / I think it's supposed to be interesting!
-
-AI: Yeah, me too. I hope the professor is cool!
-User: Same! Let's hope for the best!
-User: Excuse me, Professor? Do you have a quick minute?
-
-AI: Of course! What can I help you with?
-User: I wasn't sure about the assignment. Could you explain it again?
-
-AI: Sure! It's due Friday — just one page about today's topic.
-AI: Feel free to come to office hours if you have more questions.
-User: When are your office hours? / That's really helpful, thank you!
-
-AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
-User: Thank you so much, Professor!
-User: Okay, so we have a project due next week. Where do we start?
-
-AI: Good question! What should we each do?
-User: I can do the research! / I'll work on the slides!
-
-AI: Perfect! I'll write up the introduction then.
-AI: When should we meet again to put it all together?
-User: How about Thursday? / Is Sunday okay?
-
-AI: Thursday works for me! Let's meet here again.
-User: Great! See you then!
-
-[ CL-3: What's the Dining Hall Like? ]
-
-AI: Hey! Do you mind if I sit here?
-User: Not at all, go ahead! / Sure, sit down!
-
-AI: Thanks! Is the food here always this good?
-User: It's pretty solid! / It's hit or miss, honestly!
-AI: Are you on the meal plan?
-User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
-
-AI: Me too! It's way more convenient than cooking every day.
-User: For sure! Saves so much time!
-User: Excuse me, is anyone sitting here?
-
-AI: No, it's free! Go ahead.
-User: Thanks! Are you studying for the midterm? / Thanks so much!
-
-AI: Yeah, I've been here for two hours already. It's a lot!
-AI: Are you feeling ready for the test?
-User: Not really! I need to review more. / Getting there, I think!
-
-AI: Same! Do you wanna study together sometime?
-User: That sounds great! / Sure, let's do it!
-User: Hey, what club is this?
-
-AI: It's the photography club! We meet every Friday evening.
-User: That sounds awesome! How do I sign up? / I love photography!
-
-AI: Just put your name here! We'd love to have you!
-User: When's the first meeting?
-
-AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
-User: I'll be there for sure! / Sounds great!
-
-AI: Awesome! See you Friday!
-
-[ CL-4: Can I Come to Office Hours? ]
-
-AI: Come in! Oh hi, have a seat!
-User: Thank you, Professor. I had a question about the last assignment.
-
-AI: Of course! Which part are you wondering about?
-User: I wasn't sure if my answer was right!
-AI: Walk me through what you wrote — let's look at it together.
-User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
-
-AI: Good start! Revisions are welcome by Friday — just email it to me.
-User: Thank you so much, Professor! That really helps.
-User: Hey, are you keeping all your classes this semester?
-
-AI: Honestly, I'm thinking about dropping one. It's way too much work!
-User: I get it! Which one? / I'm keeping all of mine!
-
-AI: Econ 101. What about you?
-AI: What are you thinking about taking instead?
-User: Maybe intro to psychology! / I'm looking at art history!
-
-AI: Oh, I heard that class is great! And pretty easy too.
-User: That's exactly why I want it! Ha!
-User: Hey, are you the RA for this floor?
-
-AI: Yeah, that's me! What's going on?
-User: My roommate plays loud music late at night. / There's a noise problem on my floor.
-
-AI: I hear you! I'll take care of it. Thanks for letting me know.
-AI: Do you have any questions about the dorm policies?
-User: Yeah — what are quiet hours? / When does the front door lock at night?
-
-AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
-User: Got it! Thanks so much!
-
-[ CR-1: Nice to Meet You, I'm ___ ]
-
-AI: Hi! I'm Alex. Nice to meet you!
-User: Nice to meet you! I'm ___.
-
-AI: Welcome to the team! Where are you from?
-User: I'm from ___.
-AI: Here's my card. Feel free to reach out!
-User: Thank you! Here's mine as well.
-
-AI: Great! Which department are you in?
-User: I'm in sales. / I'm in marketing.
-AI: Where do you usually eat lunch?
-User: I go to the deli nearby. / I bring my lunch.
-
-AI: I see. Would you like to join me today?
-User: I would love that, thank you.
-AI: What time does your day start?
-User: I start at 9am. / I start at 8:30.
-
-AI: And when do you finish?
-User: I finish at 6. / It depends on the day.
-AI: Great work today! How was your first day?
-User: It was great, thank you! / It was a lot to take in!
-
-AI: If you have any questions, just ask me.
-User: Thank you. I really appreciate that.
-AI: I'm heading out. Have a good evening!
-User: You too! See you tomorrow!
-
-AI: See you tomorrow! Welcome again!
-User: Thank you! Good night!
-
-[ CR-2: Let's Get Started ]
-
-AI: Are you ready for the meeting?
-User: Yes, I'm ready. / Almost, one more minute.
-
-AI: Do you have the slides?
-User: Yes, right here. / I'm printing them now.
-AI: Okay, let's get started. Thank you all for coming.
-User: Thank you for having me.
-
-AI: Today's agenda is the Q3 report.
-User: Understood.
-AI: Could you share your thoughts on this?
-User: Yes. I think we should focus on social media.
-
-AI: Interesting. Can you tell us more?
-User: Of course. It would help us reach more people.
-AI: I have a question, if that's okay.
-User: Of course, go ahead.
-
-AI: When would this plan start?
-User: We could start next month. / That's still being decided.
-AI: Okay, let me summarize. The next step is the report.
-User: Understood.
-
-AI: Does anyone have any questions?
-User: No, I'm good. / Yes, I have one.
-AI: Alright, that's all for today. Thank you everyone.
-User: Thank you. It was a productive meeting.
-
-AI: Next meeting is next week. See you then!
-User: See you then. Thank you!
-
-[ CR-3: Please See the Attached ]
-
-AI: Have you sent the report yet?
-User: Not yet. I'm writing the email now.
-
-AI: Okay. Don't forget to attach the file.
-User: Got it. I will.
-AI: How do you usually start an email?
-User: I write "Hi" and their name. / I write "Dear" and their name.
-
-AI: Both work! "Hi" is more casual, "Dear" is more formal.
-User: I see. Thank you!
-User: How do I ask for something politely?
-
-AI: You can say "Could you please..." or "I would appreciate it if..."
-User: That's helpful! Thank you.
-
-AI: No problem! Keep it short and clear.
-AI: How do you end your emails?
-User: I write "Best regards" and my name. / I write "Thanks" and my name.
-
-AI: Good! "Best regards" is more formal. "Thanks" is more casual.
-User: Got it. I'll use "Best regards."
-User: I sent the email!
-
-AI: Great! Did you attach the file?
-User: Yes, I did. / Oh no, I forgot!
-
-AI: Always double-check the attachment!
-AI: Did you hear back from them?
-User: Not yet. Should I follow up?
-
-AI: Yes. Wait one or two days, then send a short follow-up.
-User: Okay. Thank you for the advice!

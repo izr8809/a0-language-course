@@ -1,0 +1,308 @@
+# 👔 TRAVAIL (vous formel) >> Le monde professionnel français
+
+# CR-4: Vous êtes prêt(e) pour la réunion ?
+
+- 대분류: Travail
+- 중분류: Meetings
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Avant la réunion
+
+**Goal:** To confirm meeting preparations with your colleague and secure the conference room booking.
+
+**📍 장소:** Bureau (open space)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — La préparation [세트 1]**
+AI: Vous êtes prête pour la réunion de cet après-midi ?
+User: Oui, je suis prête. / Presque, j'ai presque fini.
+AI: Vous avez imprimé les documents ?
+User: Oui, c'est fait. / Je le fais maintenant.
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — La salle [세트 2]**
+AI: Vous avez réservé la salle de réunion ?
+User: Oui, j'ai réservé pour 15h.
+AI: Parfait ! On se retrouve là-bas !
+User: Oui, entendu.
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: Pendant la réunion
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** Salle de réunion
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — Votre avis [세트 3]**
+AI: Vous avez un avis sur ce point ?
+User: Oui, je pense que c'est mieux. / Je suis d'accord !
+AI: Très bonne remarque !
+User: Je vous remercie.
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — Une question [세트 4]**
+User: J'ai une question, s'il vous plaît.
+AI: Oui, je vous en prie !
+User: Quelle est la date limite pour cette partie ?
+AI: C'est pour vendredi prochain !
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate France!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: Après la réunion
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** Salle de réunion → bureau
+
+**전 — On conclut [세트 5]**
+AI: Merci à tous pour cette réunion !
+User: Merci à vous !
+User: Je peux envoyer le compte-rendu !
+AI: C'est parfait, merci !
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — À la prochaine [세트 6]**
+AI: On se retrouve à la prochaine réunion alors !
+User: Oui, entendu.
+AI: Bon courage !
+User: Merci, vous aussi !
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your colleagues.
+> Corporate France: 0, You: 1.
+>
+
+---
+
+# CR-5: Vous avez déjeuné ?
+
+- 대분류: Travail
+- 중분류: Workplace Socializing
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: La pause déjeuner
+
+**Goal:** To accept a lunch invitation from a colleague and pick a restaurant together.
+
+**📍 장소:** Bureau
+
+**intro_text:**
+12h30. Your stomach is growling. A colleague appears.
+
+**기 — Le déjeuner [세트 1]**
+AI: Vous avez déjeuné ?
+User: Pas encore. / Oui, j'ai déjà mangé.
+AI: On mange ensemble ?
+User: Oui, avec plaisir ! / Merci, c'est gentil !
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your colleague has a recommendation — and it sounds amazing.
+>
+
+**승 — Le menu [세트 2]**
+AI: Qu'est-ce qu'on mange ? Il y a un bon endroit près d'ici !
+User: Tout me va ! / Qu'est-ce qui est bon ?
+AI: Le bœuf bourguignon là-bas est excellent !
+User: Parfait ! Allons-y !
+
+**Outro:**
+> Bœuf bourguignon it is! 🍷 The ultimate French office lunch.
+> Time to bond over a bowl of something warm and delicious.
+>
+
+---
+
+### sim2: Au restaurant
+
+**Goal:** To navigate the menu, handle the wine question, and have a real conversation with your colleague.
+
+**📍 장소:** Restaurant près du bureau
+
+**승 — À table [세트 3]**
+AI: La cuisine française vous convient ? Vous aimez ça ?
+User: Oui, j'adore ! / Certains plats sont un peu riches pour moi.
+AI: Alors le poulet rôti, c'est plus léger ! Vous voulez essayer ?
+User: Oui, bonne idée !
+
+**Outro:**
+> Poulet rôti: the safe and delicious choice! 🍗 Your colleague is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — La conversation [세트 4]**
+AI: Vous vous adaptez bien à la France ?
+User: Oui, de mieux en mieux. / C'est parfois un peu difficile.
+AI: Si vous avez besoin de quoi que ce soit, dites-le moi !
+User: Merci beaucoup.
+
+**Outro:**
+> A colleague who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: On rentre
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** Restaurant
+
+**전 — L'addition [세트 5]**
+User: Je paye !
+AI: Non, non, c'est moi ! Je vous invite !
+User: Merci beaucoup !
+AI: C'était bon ?
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — On remonte [세트 6]**
+User: Oui, c'était excellent ! Merci pour le repas.
+AI: Avec plaisir !
+AI: On remonte ?
+User: Oui, allons-y !
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---
+
+# CR-6: Est-ce que je pourrais prendre congé demain ?
+
+- 대분류: Travail
+- 중분류: Requesting Leave
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: La demande
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 장소:** Bureau (devant le bureau du/de la responsable)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — La requête [세트 1]**
+User: Excusez-moi, je peux vous parler ?
+AI: Oui, bien sûr. Je vous écoute.
+User: Est-ce que je peux prendre congé demain ?
+AI: Demain ? C'est urgent ?
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — L'explication [세트 2]**
+User: Oui, j'ai un rendez-vous médical. / J'ai une obligation personnelle.
+AI: Je comprends.
+AI: Vous pouvez confier vos dossiers à quelqu'un ?
+User: Oui, je vais tout préparer avant de partir.
+
+**Outro:**
+> Proactive handover offer! 📋 That's exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: La confirmation
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 장소:** Bureau (même endroit)
+
+**승 — C'est accordé [세트 3]**
+AI: Très bien, vous pouvez prendre congé demain.
+User: Je vous remercie.
+AI: Reposez-vous bien !
+User: Oui, merci beaucoup.
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — La préparation [세트 4]**
+User: Je vais vous envoyer un récapitulatif par email ce soir.
+AI: Très bien, merci !
+User: Vous avez besoin d'autre chose ?
+AI: Non, c'est parfait ! Bon courage !
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you're free.
+>
+
+---
+
+### sim3: Le retour
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 장소:** Bureau
+
+**전 — De retour [세트 5]**
+User: Bonjour, merci de m'avoir accordé ce congé.
+AI: Pas de problème ! Vous allez mieux ?
+User: Oui, beaucoup mieux. / Oui, merci, ça va.
+AI: Tant mieux !
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that's a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — On reprend [세트 6]**
+AI: Prenez le temps de vous réinstaller !
+User: Oui, merci.
+AI: Bon courage !
+User: Merci, vous aussi !
+
+**Outro:**
+> "Bon courage !" 🏢 The most French way to end a workday.
+> You navigated French office culture like a true professional.
+>

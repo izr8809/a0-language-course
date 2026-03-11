@@ -1,0 +1,309 @@
+# 🎵 POP MUSIC (Mixed) >> American Fan Life
+
+# KP-4: Happy birthday!
+
+- 대분류: Pop Music
+- 중분류: Birthday
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Birthday Message
+
+**Goal:** To send your favorite artist a heartfelt birthday message and tease them about a surprise gift you sent.
+
+**📍 Location:** Online (artist Discord / fan club)
+
+**intro_text:**
+Midnight EST. It's officially her birthday. My heart is racing...
+
+**기 — Birthday [Set 1]**
+User: Happy birthday!!!
+AI: Thank you so much! You're so sweet!
+User: What did you do today?
+AI: I had cake with my team!
+
+**Outro:**
+> First birthday message delivered! 🎂 Did she get your special gift yet?
+> The suspense is killing you — and her.
+>
+
+**승 — The gift [Set 2]**
+User: I sent you a gift! Did you get it?
+AI: Not yet! What is it?
+User: It's a secret! / It's a letter and a little something!
+AI: I can't wait! Thank you so much!
+
+**Outro:**
+> Gift successfully sent! 🎁 Alert: She just started a surprise live stream!
+> Drop everything — the birthday live is starting.
+>
+
+---
+
+### sim2: Fan Event
+
+**Goal:** To cheer for your favorite artist during her birthday live and react to her heartfelt birthday wish.
+
+**📍 Location:** Online (live stream)
+
+**승 — Birthday live [Set 3]**
+AI: Thank you all so much for the birthday love!
+User: Happy birthday! / We love you!
+AI: You guys make me so happy!
+User: We're happy too! Have the best day!
+
+**Outro:**
+> She is literally an angel! 👼 Shh... she's about to make her birthday wish.
+> This is the moment every fan lives for.
+>
+
+**전 — The wish [Set 4]**
+AI: I made a wish! Do you want to know what it was?
+User: Yes! Tell us! / Please!
+AI: I wished to keep making music with all of you for a long, long time!
+User: That made me cry! / Same! Me too!
+
+**Outro:**
+> We are all crying right now. 😭 Time to wrap up this perfect day.
+> One last exchange before the live ends.
+>
+
+---
+
+### sim3: Ending
+
+**Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your favorite artist.
+
+**📍 Location:** Online (live stream, same)
+
+**전 — Wrapping up [Set 5]**
+AI: Today was honestly the best day!
+User: For us too!
+AI: Let's do this again next year!
+User: Obviously! We'll be here!
+
+**Outro:**
+> A promise to stay together forever! 💖 Say goodnight before she turns off the camera.
+> This is the sweetest moment of the whole birthday.
+>
+
+**결 — Goodnight [Set 6]**
+AI: Okay, I'm going to sleep now! Goodnight!
+User: Goodnight!
+AI: I love you all!
+User: We love you too!
+
+**Outro:**
+> Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind her lyrics.
+> Sweet dreams — you're going to be replaying this all night.
+>
+
+---
+
+# KP-5: What does this lyric mean?
+
+- 대분류: Pop Music
+- 중분류: Understanding Lyrics
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking About Lyrics
+
+**Goal:** To ask your friend about lyrics you don't understand and learn some key phrases.
+
+**📍 Location:** Friend's place (listening to music together)
+
+**intro_text:**
+Her new song is on repeat. But what does it actually mean?
+
+**기 — The lyrics [Set 1]**
+User: What is she saying in this part?
+AI: Which part?
+User: "I'm the problem, it's me" — this part!
+AI: It means she's saying she's the one causing the issues!
+
+**Outro:**
+> "It's me, hi, I'm the problem" — now you'll never forget it! 💭 What else don't you know?
+> The vocabulary lesson is just getting started.
+>
+
+**승 — Learning more [Set 2]**
+User: I know "I love you"! What about "I miss you"?
+AI: That's "I miss you" — pretty much the same in English!
+User: Oh, that's easy! / Wait, really?
+AI: Yeah! English lyrics are fun, right?
+
+**Outro:**
+> Love vs. miss — the eternal pop song distinction! 🎵 Now you know the difference.
+> Time to put that knowledge to use and actually sing along.
+>
+
+---
+
+### sim2: Singing Along
+
+**Goal:** To try singing along to a song and get encouragement from your friend.
+
+**📍 Location:** Friend's place (same)
+
+**승 — Singing together [Set 3]**
+AI: Want to try singing along?
+User: Sure! / Do I have to know all the words?
+AI: Nope! Just follow along!
+User: Okay, let's try!
+
+**Outro:**
+> Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
+> Your friend is about to give you the best compliment.
+>
+
+**전 — You're good [Set 4]**
+AI: Hey, you're actually really good!
+User: Really? / Is my accent weird?
+AI: No way, you sound great! You've got the feel for it!
+User: Thank you!
+
+**Outro:**
+> "You've got the feel for it!" 🌟 That's the highest compliment.
+> Now let's talk about the new song everyone's obsessing over.
+>
+
+---
+
+### sim3: New Song
+
+**Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
+
+**📍 Location:** Friend's place (same)
+
+**전 — New release [Set 5]**
+User: Did you hear her new song? Have you listened yet?
+AI: Yes! I love it! What about you?
+User: I listened! The lyrics are so sad though.
+AI: Right? The part about "waiting" is so emotional.
+
+**Outro:**
+> "Waiting" — why is pop music always so emotional? 😢
+> End the session the only way possible: listening together.
+>
+
+**결 — Listen together [Set 6]**
+User: Listen with me and explain the lyrics!
+AI: Yes! Let's go!
+User: This song is so good.
+AI: Right?!
+
+**Outro:**
+> Music + friendship + lyrics = perfect afternoon! 🎶 You're basically fluent now.
+> Next up: a fan story that will make you want to go to a meet-and-greet immediately.
+>
+
+---
+
+# KP-6: I just went to a meet-and-greet!
+
+- 대분류: Pop Music
+- 중분류: Fan Story
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Telling the Story
+
+**Goal:** To tell your friend all about the meet-and-greet and relive the most exciting moments.
+
+**📍 Location:** Coffee shop (telling a friend)
+
+**intro_text:**
+You just got back from the meet-and-greet. Your hands are still shaking.
+
+**기 — Just got back [Set 1]**
+User: I went to the meet-and-greet yesterday!
+AI: No way! How was it?
+User: I was shaking the whole time! / It was the best thing ever!
+AI: I'm so jealous! What happened?
+
+**Outro:**
+> The story begins! 😱 Your friend is already jealous.
+> And it gets better — you actually talked to her.
+>
+
+**승 — The story [Set 2]**
+User: I got to shake her hand and talk to her!
+AI: What?! What did you say?
+User: I said "I love your music"! / I asked her what her favorite song to perform is!
+AI: Oh my god! What did she say?
+
+**Outro:**
+> You said WHAT?! 🤯 The audacity. The courage. The legend.
+> And her reaction? You need to hear this.
+>
+
+---
+
+### sim2: The Details
+
+**Goal:** To share her reaction, talk about the gift exchange, and make plans to go together next time.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — Her reaction [Set 3]**
+User: She smiled and said "thank you so much"!
+AI: I'm literally dying! I want to go too!
+User: Let's go together next time!
+AI: Yes! I'm in!
+
+**Outro:**
+> Next meet-and-greet: booked (mentally)! 🎫 Your friend is already planning the outfit.
+> But first — did you give her a gift?
+>
+
+**전 — The gift [Set 4]**
+AI: Did you bring her anything?
+User: Yes, I wrote her a letter! / I made her a little gift!
+AI: Did she read it?
+User: She said she would read every single one!
+
+**Outro:**
+> She promised to read your letter! 💌 That's basically a love confession.
+> The excitement still hasn't worn off — and it won't for a while.
+>
+
+---
+
+### sim3: After
+
+**Goal:** To still be buzzing from the experience, show off photos, and make a firm promise to go together.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — Still buzzing [Set 5]**
+AI: Are you still shaking?
+User: Yes, my hands are still trembling! / I still can't believe it happened!
+AI: I'm so jealous! Show me photos!
+User: Here! Look!
+
+**Outro:**
+> Photo evidence! 📸 This is going straight to the fan Discord.
+> One last promise to seal the deal.
+>
+
+**결 — The promise [Set 6]**
+AI: That looks so amazing!
+User: We have to go together next time!
+AI: Yes! Promise!
+User: Promise!
+
+**Outro:**
+> Pinky promise: meet-and-greet together! 💖 The countdown starts now.
+> Fan life is the best life — and you're living proof.
+>
+
+---
+
+# 💼 CAREER (Formal) >> American Professional Life

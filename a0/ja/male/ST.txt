@@ -1,0 +1,312 @@
+# 🎓 STUDY ABROAD (です・ます + 敬語) >> Campus Life in Japan
+
+# ST-1: 大学の 初日
+
+- 大分類: Study Abroad
+- 中分類: First Day at University
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Meeting the Professor
+
+**Goal:** To introduce yourself to your professor and ask basic questions about the class.
+
+**📍 場所:** 教室
+
+**intro_text:**
+First day of class. Your professor is waiting.
+Time to make a great first impression!
+
+**起 — さいしょの じゅぎょう [セット 1]**
+AI: はじめまして。やまだ と もうします。おなまえは？
+User: はじめまして。___ と もうします。よろしく おねがいします。
+AI: ___さん、どちらから いらっしゃいましたか？
+User: かんこくから まいりました。 / アメリカから まいりました。
+
+**Outro:**
+> First impression: Perfect! 🎓
+> Now... what about the class itself?
+>
+
+**承 — じゅぎょうについて [セット 2]**
+AI: この じゅぎょうは にほんごで すすめます。わかりますか？
+User: はい、だいじょうぶです。 / すこし わかります。
+AI: わからない ことが あったら、きいて ください。
+User: ありがとう ございます。よろしく おねがいします。
+
+**Outro:**
+> Professor impression: Warm! 🌟
+> Next up: Time for your first real challenge — asking questions!
+>
+
+---
+
+### sim2: Questions in Class
+
+**Goal:** To ask your professor about homework and find a study partner.
+
+**📍 場所:** 教室 (同じ)
+
+**承 — しゅくだい [セット 3]**
+User: すみません、しゅくだいは いつまで ですか？
+AI: らいしゅうの もくようびまで です。
+User: わかりました。ありがとう ございます。
+AI: なにか ほかに しつもんは ありますか？
+
+**Outro:**
+> Homework info: Got it! 📝
+> But wait... you'll need a study partner!
+>
+
+**転 — べんきょう パートナー [セット 4]**
+AI: いっしょに べんきょうする ひとを さがして ください。
+User: あの、いっしょに べんきょう しませんか？ / はい、わかりました。
+AI: はい！もちろんです！よろしく！
+User: よろしく おねがいします！
+
+**Outro:**
+> Study partner: Found! 🤝
+> Now, let's explore this campus together!
+>
+
+---
+
+### sim3: Exploring Campus
+
+**Goal:** To ask for directions around campus and find the school cafeteria.
+
+**📍 場所:** 大学 キャンパス
+
+**転 — みちを きく [セット 5]**
+User: すみません、がくしょくは どこ ですか？
+AI: あの たてものの なかです！
+User: ありがとう ございます！いっしょに いきますか？
+AI: もちろん！いっしょに いきましょう！
+
+**Outro:**
+> Direction: Found! 🗺️
+> Almost there — the cafeteria awaits!
+>
+
+**結 — がくしょく [セット 6]**
+AI: ここが がくしょく ですよ！
+User: わあ、ひろいですね！ / おおきいですね！
+AI: おいしいですよ！ぜひ たべて みて ください！
+User: ありがとう ございます！たのしみです！
+
+**Outro:**
+> Day one: Conquered! 🎉
+> Next up: Time to meet your roommate!
+>
+
+---
+
+# ST-2: 寮での せいかつ
+
+- 大分類: Study Abroad
+- 中分類: Dormitory Life
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Meeting Your Roommate
+
+**Goal:** To introduce yourself to your new roommate and learn about their background.
+
+**📍 場所:** 寮 (りょう)
+
+**intro_text:**
+You open the door to your dorm room.
+Someone is already there. Roommate time!
+
+**起 — はじめての ルームメイト [セット 1]**
+AI: あ、こんにちは！わたしは はるか です！よろしく！
+User: こんにちは！わたしは ___ です！よろしく おねがいします！
+AI: どこから きたんですか？
+User: かんこくから きました！ / アメリカから きました！
+
+**Outro:**
+> First words: Spoken! 🏠
+> But wait... is this their first time in Japan too?
+>
+
+**承 — もっと しろう [セット 2]**
+AI: にほんには はじめて ですか？
+User: はい、はじめてです！ / いいえ、にかいめです！
+AI: だいがく、たのしみですよね！
+User: はい、たのしみです！よろしく おねがいします！
+
+**Outro:**
+> Roommate bond: Started! 💫
+> Next up: First lunch together at the cafeteria!
+>
+
+---
+
+### sim2: Lunch at the Cafeteria
+
+**Goal:** To order lunch at the school cafeteria and sit together with your roommate.
+
+**📍 場所:** 学食 (がくしょく)
+
+**承 — ちゅうもん [セット 3]**
+User: すみません、おすすめは なんですか？
+AI: さんしょく ていしょくが おすすめです！
+User: では、さんしょく ていしょく ください。 / カレーライス ください。
+AI: はい、500えんです。ありがとう ございます。
+
+**Outro:**
+> Order placed! 🍱
+> Now, find a seat with your roommate!
+>
+
+**転 — せきを さがす [セット 4]**
+AI: あそこに せきが あるよ！いっしょに すわろう！
+User: いいね！いこう！ / ありがとう！あそこに しよう！
+AI: いただきます！
+User: いただきます！おいしそう！
+
+**Outro:**
+> Lunch together! 🍜
+> Almost there — wrap up the evening back at the dorm!
+>
+
+---
+
+### sim3: Evening in the Dorm
+
+**Goal:** To talk about daily routines and make plans with your roommate for the next day.
+
+**📍 場所:** 寮 (夜)
+
+**転 — まいにちの せいかつ [セット 5]**
+User: まいにち なんじに おきますか？
+AI: わたしは はちじに おきます！きみは？
+User: わたしも はちじに おきます！ / わたしは しちじに おきます！
+AI: じゃあ、いっしょに あさごはん たべよう！
+
+**Outro:**
+> Morning plan: Set! ⏰
+> Almost there — plan your day together!
+>
+
+**結 — あしたの よてい [セット 6]**
+AI: あしたの じゅぎょうは なんじから？
+User: くじから です！ / じゅうじから です！
+AI: じゃあ、いっしょに いこう！
+User: やった！よろしく おねがいします！
+
+**Outro:**
+> Dorm life: Unlocked! 🌙
+> Next up: Time to tackle the university paperwork!
+>
+
+---
+
+# ST-3: 大学の てつづき
+
+- 大分類: Study Abroad
+- 中分類: University Administration
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Course Registration
+
+**Goal:** To ask about course registration and get help from the student affairs office.
+
+**📍 場所:** 事務局 (じむきょく)
+
+**intro_text:**
+The student affairs office is open.
+Time to sort out your classes!
+
+**起 — りしゅうとうろく [セット 1]**
+AI: いらっしゃいませ。どのような ご用件 でしょうか？
+User: りしゅうとうろくの ことで うかがいたいのですが。
+AI: かしこまりました。がくせいしょうを みせて いただけますか？
+User: はい、どうぞ。よろしく おねがいします。
+
+**Outro:**
+> First step: Done! 📋
+> But wait... which classes do you want?
+>
+
+**承 — じゅぎょうを えらぶ [セット 2]**
+AI: どの じゅぎょうを ご希望 ですか？
+User: にほんごの じゅぎょうを とりたいです。 / えいごの じゅぎょうを とりたいです。
+AI: かしこまりました。こちらに にゅうりょく して ください。
+User: ありがとう ございます。よろしく おねがいします。
+
+**Outro:**
+> Registration: Complete! ✅
+> Next up: Time to visit the library!
+>
+
+---
+
+### sim2: At the Library
+
+**Goal:** To find study materials and borrow books from the university library.
+
+**📍 場所:** 図書館 (としょかん)
+
+**承 — きょうざいを さがす [セット 3]**
+User: すみません、にほんごの きょうざいは どこに ありますか？
+AI: にかいの にほんご セクションに ございます。
+User: ありがとう ございます。カードを つくりたいのですが。
+AI: はい、こちらに おいで ください。
+
+**Outro:**
+> Materials: Found! 📚
+> Now, get your library card sorted!
+>
+
+**転 — ほんを かりる [セット 4]**
+AI: がくせいしょうを みせて いただけますか？
+User: はい、どうぞ。この ほんを かりたいです。
+AI: かしだしは にしゅうかんです。ご了承 ください。
+User: わかりました。ありがとう ございます。
+
+**Outro:**
+> Books: Borrowed! 📖
+> Almost there — one last stop at the office!
+>
+
+---
+
+### sim3: Student ID Card
+
+**Goal:** To ask about your student ID card and wrap up your admin tasks at the office.
+
+**📍 場所:** 事務局 (同じ)
+
+**転 — がくせいしょう [セット 5]**
+User: すみません、がくせいしょうが まだ できていないのですが。
+AI: あ、そうですか。おなまえを おしえて いただけますか？
+User: ___ と もうします。いつ できますか？
+AI: らいしゅうの もくようびに できあがります。
+
+**Outro:**
+> ID status: Confirmed! 🪪
+> Almost done — just one final check!
+>
+
+**結 — おわり [セット 6]**
+AI: ほかに なにか ご用件は ございますか？
+User: いいえ、だいじょうぶです。ありがとう ございました。
+AI: それでは、どうぞ よろしく おねがいします。
+User: はい！がんばります！ありがとう ございました！
+
+**Outro:**
+> University life: Conquered! 🎌
+> Next up: Time to put your Japanese skills to work in the real world!
+>
+
+---
+
+# 💼 CAREER (敬語) >> Japanese Workplace

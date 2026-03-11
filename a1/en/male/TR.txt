@@ -1,0 +1,411 @@
+# ✈️ TRAVELING (Polite) >> US Travel
+
+# TR-5: I'd like to check in
+
+- 대분류: Traveling
+- 중분류: Hotel
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Check In
+
+**Goal:** To check into your hotel, confirm your booking details, and get your room key.
+
+**📍 Location:** Hotel front desk (NYC)
+
+**intro_text:**
+Finally at the hotel. Time to check in.
+
+**기 — Arrival [Set 1]**
+User: Hi, I'd like to check in, please.
+AI: Welcome! Do you have a reservation?
+User: Yes, under the name ___.
+AI: Got it! Could I see your ID, please?
+
+**Outro:**
+> ID checked! 🛂 Let's see if they got your booking right.
+> One more step before you get that room key.
+>
+
+**승 — Room details [Set 2]**
+AI: Is that two nights?
+User: Yes, that's right. / Actually, it's three nights.
+AI: Your room is on the fifth floor. Here's your key card!
+User: Thank you so much!
+
+**Outro:**
+> Room key secured! 🔑 Now, onto the most important question: the Wi-Fi.
+> A hotel room without Wi-Fi is just a very expensive nap.
+>
+
+---
+
+### sim2: Asking Questions
+
+**Goal:** To ask the front desk about Wi-Fi, breakfast hours, and request extra towels for your room.
+
+**📍 Location:** Hotel front desk (same)
+
+**승 — Questions [Set 3]**
+User: What's the Wi-Fi password?
+AI: It's right here on this card!
+User: Thank you! What time is breakfast?
+AI: Breakfast is from 7 to 9am in the restaurant on the first floor!
+
+**Outro:**
+> Breakfast schedule locked in! 🍳 But wait, do you need anything extra for the room?
+> Never leave the front desk without asking for towels.
+>
+
+**전 — Extra request [Set 4]**
+User: Could I get some extra towels?
+AI: Of course! I'll send them right up!
+User: Thank you so much!
+AI: Is there anything else you need?
+
+**Outro:**
+> Extra towels on the way! 🛁 Time to hunt for some late-night snacks.
+> A corner store run is basically a travel ritual.
+>
+
+---
+
+### sim3: Getting Settled
+
+**Goal:** To find out where the nearest convenience store is and wrap up your check-in smoothly.
+
+**📍 Location:** Hotel lobby
+
+**전 — Settling in [Set 5]**
+User: Is there a convenience store nearby?
+AI: Yes! Just turn right when you exit — it's right there!
+User: Perfect, thank you!
+AI: Take your time and get some rest!
+
+**Outro:**
+> Corner store located! 🏪 You're officially ready to settle in.
+> Snacks, rest, and a good night's sleep — the perfect combo.
+>
+
+**결 — Wrapping up [Set 6]**
+AI: If you need anything, just give us a call!
+User: Will do, thank you!
+AI: Enjoy your stay!
+User: Thank you!
+
+**Outro:**
+> Check-in complete! Rest up. 🛏️ Next up: Surviving the NYC subway maze.
+> Tomorrow's adventure starts with a MetroCard.
+>
+
+---
+
+# TR-6: How do I take the subway?
+
+- 대분류: Traveling
+- 중분류: Subway/Transit
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: At the Station
+
+**Goal:** To buy a MetroCard, charge it, and find the right subway line to your destination.
+
+**📍 Location:** Subway station (Times Square)
+
+**intro_text:**
+NYC subway. Dozens of lines. Hundreds of stations. You've got this.
+
+**기 — At the station [Set 1]**
+User: Excuse me! Where can I buy a MetroCard?
+AI: Right over there at the machine!
+User: Thank you! Can I add money there too?
+AI: Yes, you can!
+
+**Outro:**
+> MetroCard acquired! 💳 Now, which line do you need?
+> NYC's subway map looks scary — but it's actually pretty logical.
+>
+
+**승 — Which line [Set 2]**
+User: I want to get to SoHo. Which train do I take?
+AI: Take the C or E train! It's right over there.
+User: Do I need to transfer?
+AI: Nope, it's a straight shot!
+
+**Outro:**
+> No transfers! 🚇 That's the best news you've heard all day.
+> Now hop on and try not to miss your stop.
+>
+
+---
+
+### sim2: On the Train
+
+**Goal:** To ask a fellow passenger for help and figure out how to transfer to the right line.
+
+**📍 Location:** On the subway
+
+**승 — On the train [Set 3]**
+AI: Where are you headed?
+User: SoHo!
+AI: You've got three more stops!
+User: Three stops? Thank you so much!
+
+**Outro:**
+> Three more stops! 🎯 A kind stranger just saved your day.
+> But what if you need to transfer somewhere else?
+>
+
+**전 — Transferring [Set 4]**
+User: Excuse me! How do I transfer at 14th Street?
+AI: Just follow the signs when you get off! Look for the A or C line!
+User: Thank you!
+AI: Easy! Don't worry!
+
+**Outro:**
+> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
+> Almost at your destination — just a few more stops.
+>
+
+---
+
+### sim3: Arriving
+
+**Goal:** To confirm you've arrived at the right station and find the correct exit.
+
+**📍 Location:** Subway station (arrival platform)
+
+**전 — Arrived [Set 5]**
+User: Is this Spring Street station?
+AI: Yes, it is!
+User: Which exit should I take?
+AI: Take exit 1 — it puts you right on Spring Street!
+
+**Outro:**
+> Exit 1! 🚪 You made it through the NYC subway like a pro.
+> One last thank-you and you're free.
+>
+
+**결 — Heading out [Set 6]**
+User: Thank you so much!
+AI: No problem at all!
+User: You were really helpful!
+AI: Have a great day!
+
+**Outro:**
+> NYC subway: conquered! 🏆 You're officially a local now.
+> Next challenge: shopping in SoHo without spending your whole budget.
+>
+
+---
+
+# TR-7: Can I try this on?
+
+- 대분류: Traveling
+- 중분류: Shopping
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Looking Around
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 Location:** Clothing store (SoHo)
+
+**intro_text:**
+SoHo shopping street. So many cute clothes. Where do you even start?
+
+**기 — Browsing [Set 1]**
+AI: Hi there! Can I help you find anything?
+User: Just browsing, thanks! / I'm looking for a T-shirt.
+AI: We just got some new stuff in! Want to take a look?
+User: Sure, I'd love to!
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — Picking something [Set 2]**
+User: Oh, this is cute! Can I try this on?
+AI: Of course! The fitting room is right over there!
+User: Thank you!
+AI: Does the size look right?
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: Trying On
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 Location:** Clothing store fitting room area
+
+**승 — Trying it on [Set 3]**
+AI: How does it fit?
+User: It's a little small. Do you have a bigger size? / It fits great!
+AI: Let me grab you the next size up!
+User: Thank you so much!
+
+**Outro:**
+> One size up on the way! 📦 Sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — Deciding [Set 4]**
+User: How much is this?
+AI: That one is $45!
+User: Could you do a little better on the price? / I'll take it!
+AI: I can do $38 for you!
+
+**Outro:**
+> Discount secured! 💰 You're a natural at this.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: Buying
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 Location:** Clothing store register
+
+**전 — Paying [Set 5]**
+User: Okay, I'll take it!
+AI: Cash or card?
+User: Card, please.
+AI: Here's your receipt!
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — Wrapping up [Set 6]**
+AI: Can I help you with anything else?
+User: No, I'm good! Thank you!
+AI: Come back and see us!
+User: I will!
+
+**Outro:**
+> Shopping mission accomplished! 🎉 SoHo: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---
+
+# TR-8: What's this neighborhood known for?
+
+- 대분류: Traveling
+- 중분류: Exploring
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking Locals
+
+**Goal:** To ask a local for food recommendations and find out about a famous spot nearby.
+
+**📍 Location:** Street in Greenwich Village
+
+**intro_text:**
+You're in a new neighborhood. No plan, no map. Just vibes and curiosity.
+
+**기 — Recommendations [Set 1]**
+User: Excuse me! Is there anywhere good to eat around here?
+AI: Yes! There's a great pizza place just down the block!
+User: Oh, I'd love to try it! Is it far?
+AI: No, it's like a five-minute walk!
+
+**Outro:**
+> Local tip unlocked! 🍕 Five minutes away — that's basically next door.
+> But wait, there's more to this neighborhood than just food.
+>
+
+**승 — More to explore [Set 2]**
+User: What else is this neighborhood known for?
+AI: There are so many cool little cafés here! Have you been to the bookshop café?
+User: No, not yet!
+AI: You have to go! It's perfect for photos!
+
+**Outro:**
+> Bookshop café added to the list! 📸 This neighborhood just got a lot more interesting.
+> Time to step inside and see what the hype is about.
+>
+
+---
+
+### sim2: Visiting
+
+**Goal:** To visit the bookshop café, admire the space, and order something famous from the menu.
+
+**📍 Location:** Bookshop café
+
+**승 — Visiting [Set 3]**
+User: Is this the bookshop café?
+AI: Yes! Come on in!
+User: Wow, this place is gorgeous!
+AI: Thank you! What can I get for you?
+
+**Outro:**
+> Books and coffee — the perfect combination! 📚 Stunning.
+> Now, what's the must-order item here?
+>
+
+**전 — Ordering [Set 4]**
+User: What do you recommend?
+AI: Our lavender latte is really popular!
+User: I'll have a lavender latte, please!
+AI: Coming right up! Just a moment!
+
+**Outro:**
+> Lavender latte incoming! ☕ The most Instagram-worthy drink in the neighborhood.
+> This is going to be worth every dollar.
+>
+
+---
+
+### sim3: Enjoying
+
+**Goal:** To enjoy your drink, compliment the café, and promise to come back.
+
+**📍 Location:** Bookshop café (same)
+
+**전 — Enjoying [Set 5]**
+AI: Here's your lavender latte!
+User: Thank you! Oh wow, this is amazing!
+AI: Are you enjoying it?
+User: Yes, it's so good!
+
+**Outro:**
+> Lavender latte approved! 😍 This place is going straight into your travel diary.
+> Time to wrap up and say your goodbyes.
+>
+
+**결 — Wrapping up [Set 6]**
+User: I love this place! I'll definitely be back!
+AI: Thank you so much! Come back anytime!
+User: I will!
+AI: Enjoy the rest of your day!
+
+**Outro:**
+> A perfect afternoon in a perfect café! ✨ This city keeps delivering.
+> Next up: a rom-com moment you definitely didn't plan for.
+>
+
+---
+
+# 🎬 TV & DRAMA (Casual) >> American Drama Life

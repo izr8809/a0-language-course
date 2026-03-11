@@ -1,0 +1,531 @@
+# ✈️ TRAVELING (존댓말)
+
+# TR-1: 아이스 아메리카노 주세요
+
+- 대분류: Traveling
+- 중분류: Cafe
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+**Outro:**
+> Caffeine secured! ☕
+> Now, prepare your taste buds for the real challenge: Korean food.
+>
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like cake.
+
+**📍 장소:** 카페 카운터
+
+**intro_text:** First Korean café order. You got this... just say it!
+
+**기 — 주문 [세트 1]**
+AI: 안녕하세요! 뭐 드릴까요?
+User: 아이스 아메리카노 주세요. / 아이스 라떼 주세요.
+AI: 사이즈는요?
+User: 기본이요. / 큰 거요.
+
+**Outro:**
+> Drink ordered! ☕
+> But wait... that cake in the display is calling your name.
+>
+
+**승 — 추가 [세트 2]**
+AI: 더 필요하신 거 있으세요?
+User: 케이크 있어요? / 괜찮아요.
+AI: 치즈 케이크랑 초코 케이크 있어요!
+User: 치즈 케이크 주세요. / 초코 케이크 주세요.
+
+**Outro:**
+> Order complete! 🍰
+> Now, time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and provide your name for the order pickup.
+
+**📍 장소:** 카페 카운터 (동일)
+
+**승 — 결제 [세트 3]**
+AI: 오천 원이에요!
+User: 카드 돼요? / 여기요.
+AI: 네, 돼요!
+User: 네!
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before you wait...
+>
+
+**전 — 기다리기 [세트 4]**
+AI: 잠깐만 기다려 주세요! 이름이 어떻게 되세요?
+User: ___이요.
+AI: 나오면 불러 드릴게요!
+User: 네!
+
+**Outro:**
+> Name given! 📝
+> Now, the hardest part: waiting for coffee.
+>
+
+---
+
+### sim3: Getting the Drink
+
+**Goal:** To pick up your order, request any extras, and find a seat in the café.
+
+**📍 장소:** 카페 픽업대 → 카페 좌석
+
+**전 — 받기 [세트 5]**
+AI: 아이스 아메리카노 나왔어요!
+User: 감사합니다!
+AI: 빨대 필요하세요?
+User: 네, 주세요. / 괜찮아요.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now, find the perfect spot to enjoy it.
+>
+
+**결 — 자리 [세트 6]**
+User: 자리 있어요?
+AI: 안쪽에 있어요!
+User: 감사합니다!
+AI: 맛있게 드세요!
+
+**Outro:**
+> Mission accomplished! ☕🍰
+> You're officially a Korean café regular. Next up: Time to explore the streets!
+>
+
+---
+
+# TR-2: 이거 안 맵게 해주세요
+
+- 대분류: Traveling
+- 중분류: Restaurant
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 장소:** 식당
+
+**intro_text:**
+First Korean restaurant experience.
+Get ready for some serious spice!
+
+**기 — 자리 잡기 [세트 1]**
+AI: 어서 오세요! 몇 분이세요?
+User: 한 명이요. / 두 명이요.
+AI: 이쪽으로 앉으세요.
+User: 네, 감사합니다.
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**승 — 주문하기 [세트 2]**
+AI: 주문하시겠어요?
+User: 저기요! 비빔밥 하나 주세요.
+AI: 네, 비빔밥 하나요.
+User: 아, 그리고 물 좀 주세요.
+
+**Outro:**
+> Order placed! 🍲
+> But wait... is Korean food too spicy for you?
+>
+
+---
+
+### sim2: The Spice Check
+
+**Goal:** To adjust the spice level of your meal and politely request side dish refills.
+
+**📍 장소:** 식당 (동일)
+
+**승 — 맵기 조절 [세트 3]**
+AI: 비빔밥 좀 매워요. 괜찮으세요?
+User: 많이 매워요? / 네, 괜찮아요!
+AI: 네, 조금 매워요.
+User: 그럼 덜 맵게 해주세요. / 안 맵게 해주세요!
+
+**Outro:**
+> Crisis averted! 🥵
+> Time to discover the magic of Korean side dishes.
+>
+
+**전 — 반찬 리필 [세트 4]**
+User: 저기요! 반찬 더 주세요.
+AI: 어떤 거 더 드릴까요?
+User: 김치 더 주세요. / 이거 더 주세요.
+AI: 네, 잠시만요!
+
+**Outro:**
+> The food is amazing! 🥢
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle the payment process, and offer polite closing greetings after the meal.
+
+**📍 장소:** 식당 카운터
+
+**전 — 결제하기 [세트 5]**
+User: 계산해 주세요!
+AI: 만 원입니다. 카드세요?
+User: 네, 카드요. / 현금이요.
+AI: 영수증 드릴까요?
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**결 — 인사 [세트 6]**
+User: 네, 주세요. / 아니요, 괜찮아요.
+AI: 감사합니다. 안녕히 가세요!
+User: 잘 먹었습니다!
+AI: 또 오세요!
+
+**Outro:**
+> Mission accomplished! You're officially a foodie. 🏆
+> Next up: Time to hit the stores and spend some money
+>
+
+---
+
+# TR-3: 여기서 세워주세요
+
+- 대분류: Traveling
+- 중분류: Taxi
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+## sim1: Getting In
+
+**Goal:** To give your destination to a taxi driver and handle basic questions during the ride.
+
+📍 장소: 택시 안
+
+**intro_text:**
+You flagged down a taxi. The driver is waiting.
+Just say where you're going!
+
+### 기 — 타기 [세트 1]
+
+AI: 어디 가세요?
+User: 명동역이요. / 강남역이요.
+
+AI: 네, 타세요!
+User: 네!
+
+**Outro:**
+> Destination set! 🚕
+> Now settle in — it might take a while.
+>
+
+### 승 — 가는 중 [세트 2]
+
+AI: 좀 막히는데 괜찮으세요?
+User: 괜찮아요. / 오래 걸려요?
+
+AI: 한 15분이면 돼요.
+User: 네!
+
+**Outro:**
+> Traffic? No problem! 🛣️
+> The driver wants to chat — can you keep up?
+>
+
+## sim2: During the Ride
+
+**Goal:** To make polite small talk with a taxi driver.
+
+📍 장소: 택시 안 (동일)
+
+### 승 — 대화 [세트 3]
+
+AI: 여행 오셨어요?
+User: 네! / 네, 처음이에요.
+
+AI: 한국 어떠세요?
+User: 좋아요! / 최고예요!
+
+**Outro:**
+> Friendly driver unlocked! 😊
+> Almost there — time to figure out exactly where to stop.
+>
+
+### 전 — 도착 [세트 4]
+
+AI: 거의 다 왔어요. 어디쯤에서 세워 드릴까요?
+User: 여기서 세워주세요. / 저기 앞에서요.
+
+AI: 네, 알겠어요!
+User: 네!
+
+**Outro:**
+> Almost out! 🏁
+> Now handle the payment and make a smooth exit.
+>
+
+## sim3: Arriving
+
+**Goal:** To pay and exit the taxi politely.
+
+📍 장소: 택시 안 → 도착지 앞
+
+### 전 — 계산 [세트 5]
+
+AI: 만 오천 원이에요.
+User: 카드 돼요? / 여기요.
+
+AI: 네, 돼요!
+User: 네!
+
+**Outro:**
+> Payment sorted! 💳
+> One last exchange before you step out.
+>
+
+### 결 — 내리기 [세트 6]
+
+User: 감사합니다!
+AI: 조심해서 내리세요!
+
+User: 네!
+AI: 즐거운 여행 하세요!
+
+**Outro:**
+> Arrived safely! 🎌
+> Next up: What happens when you can't find what you're looking for?
+>
+
+---
+
+# TR-4: 화장실 어디예요?
+
+- 대분류: Traveling
+- 중분류: Emergency
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: Bathroom
+
+**Goal:** To ask for directions to the bathroom.
+
+📍 장소: 쇼핑몰/건물 내부
+
+**intro_text:**
+You're in a shopping mall. Nature is calling.
+Find that bathroom — fast!
+
+### 기 — 화장실 [세트 1]
+
+User: 저기요, 화장실 어디예요?
+AI: 저쪽이요! 오른쪽으로 가세요.
+
+User: 감사합니다!
+AI: 네!
+
+**Outro:**
+> Directions received! 🚻
+> But wait... you still can't find it.
+>
+
+### 승 — 못 찾았어요 [세트 2]
+
+User: 저기요, 못 찾겠어요.
+AI: 아, 제가 알려 드릴게요! 따라오세요!
+
+User: 감사합니다!
+AI: 여기예요!
+
+**Outro:**
+> Crisis solved! 😅
+> Next up: What if someone speaks too fast to understand?
+>
+
+## sim2: I Don't Understand
+
+**Goal:** To ask someone to slow down or speak in English.
+
+📍 장소: 길거리
+
+### 승 — 천천히 [세트 3]
+
+AI: 저기 편의점 옆에 있어요.
+User: 천천히 말해주세요. / 다시 말해주세요.
+
+AI: 아, 네. 저기 편의점 옆에 있어요.
+User: 아, 알겠어요!
+
+**Outro:**
+> Slow mode activated! 🐢
+> Still struggling? Try the English card.
+>
+
+### 전 — 다시 말해주세요? [세트 4]
+
+AI: 거기서 오 분 걸려요.
+User: 다시 말해주세요. / 네? 
+AI: 오 분 걸려요.
+User: 오분! 감사합니다
+
+**Outro:**
+> Language barrier cleared! 🌐
+> One more challenge — you're completely lost.
+>
+
+## sim3: Getting Help
+
+**Goal:** To ask for and understand directions on the street.
+
+📍 장소: 길거리 (동일)
+
+### 전 — 도와주세요 [세트 5]
+
+User: 저기요, 길을 모르겠어요.
+AI: 어디 가세요?
+
+User: 호텔이요. / 역이요.
+AI: 저쪽으로 가시면 돼요!
+
+**Outro:**
+> Direction received! 🗺️
+> Almost there — just confirm and go.
+>
+
+### 결 — 해결 [세트 6]
+
+User: 감사합니다!
+AI: 천천히 가세요!
+
+User: 네!
+AI: 즐거운 여행 하세요!
+
+**Outro:**
+> You found your way! 🏨
+> Next up: Time to feel all the feelings in Korean.
+>
+
+---
+
+# 🎬 KDRAMA / MOVIE (반말) >> Kdrama
+
+---
+
+### KD-1: 대박! 진짜?
+
+**대분류:** Kdrama/Movie
+**중분류:** Reactions
+**난이도:** A0 (Absolute Beginner)
+**구성:** 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Surprise!
+
+**Goal:** To react with excitement and envy to a friend's amazing concert experience and ask to see photos
+
+**📍 장소:** 학교/교실 (쉬는 시간)
+
+**intro_text:**
+Break time gossip. Wait... she went WHERE?!
+
+**기 — 놀람 [세트 1]**
+AI: 나 어제 BTS 콘서트 갔어!
+User: 대박! / 진짜?
+AI: 응, 진짜! 진짜 좋았어!
+User: 헐! / 미쳤어!
+
+**Outro:**
+> She actually went to a BTS concert?! 😱
+> But that's not even the best part...
+>
+
+**승 — 부러움 [세트 2]**
+AI: 사진 볼래?
+User: 당연하지! / 보여줘!
+AI: 여기! 이거!
+User: 와! 대박! / 미쳤다!
+
+**Outro:**
+> Those photos though... 📸
+> And wait — she's got even bigger news to share!
+>
+
+### sim2: Reacting to News
+
+**Goal:** To react with excitement and disbelief to a friend's surprising relationship news and express genuine curiosity about the details.
+
+**📍 장소:** 학교/교실 (동일)
+
+**승 — 소식 [세트 3]**
+AI: 나 남자친구 생겼어!
+User: 진짜? / 헐, 대박!
+AI: 응, 어제 고백 받았어!
+User: 축하해! / 미쳤어!
+
+**Outro:**
+> A confession?! Who? When? HOW?! 💘
+> The story gets even wilder...
+>
+
+**전 — 더 놀람 [세트 4]**
+AI: 사실 3년 동안 나 좋아했대.
+User: 헐! / 진짜?
+AI: 응, 나도 몰랐어!
+User: 대박이다! / 미쳤다!
+
+**Outro:**
+> Three years of secret feelings — finally out! 🤯
+> But not everything today is good news...
+>
+
+### sim3: Bad News
+
+**Goal:** To respond with shock and comfort to a friend who lost their phone and offer reassuring words.
+
+**📍 장소:** 학교/교실 (동일)
+
+**전 — 안 좋은 소식 [세트 5]**
+AI: 나 핸드폰 잃어버렸어.
+User: 헐! / 진짜?
+AI: 응, 택시에 놓고 내렸어.
+User: 어떡해! / 미쳤어!
+
+**Outro:**
+> A lost phone in a taxi? 😬
+> Can you say the right thing to help?
+>
+
+**결 — 위로 [세트 6]**
+AI: 어떡하지...
+User: 괜찮아! 찾을 수 있어!
+AI: 고마워.
+User: 응!
+
+**Outro:**
+> A concert, a confession, and a lost phone — all in one day! 😅
+> You handled every twist like a true Korean drama bestie. 👏
+>
+
+---

@@ -1,0 +1,414 @@
+# 💖 PERSONAL INTEREST (반말) >> Korean Life
+
+# PI-5: 우리 밥 먹으러 가자
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Choosing a Place
+
+**Goal:** To suggest a food idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** 길거리
+
+**intro_text:**
+Lunch time in Korea. So many options... what should we eat?
+
+**기 — 뭐 먹을까 [세트 1]**
+User: 배고파! 뭐 먹을까?
+AI: 나도 배고파! 뭐 먹고 싶어?
+User: 삼겹살 먹고 싶어! / 삼겹살 어때?
+AI: 좋아! 맛있는 데 알아! 가자!
+
+**Outro:**
+> Samgyeopsal it is! 🥓 But wait, how do we get there?
+> Prepare your stomach — a massive feast awaits.
+>
+
+**승 — 가는 길 [세트 2]**
+AI: 여기서 가까워! 걸어갈까?
+User: 응, 걸어가자! / 얼마나 걸리는데?
+AI: 5분이면 돼! 가자!
+User: 알겠어!
+
+**Outro:**
+> Just a short walk! 🚶‍♂️ Prepare your stomach for a massive feast.
+> Almost there... the smell of grilling meat is calling.
+>
+
+---
+
+### sim2: At the Restaurant
+
+**Goal:** To order food together and bond over grilling meat like a true Korean local.
+
+**📍 장소:** 삼겹살 식당 안
+
+**intro_text:**
+We're here. This place looks amazing.
+
+**승 — 식당 [세트 3]**
+AI: 여기야! 어때?
+User: 와, 좋다! / 사람 많다!
+AI: 뭐 시킬까? 여기 메뉴판!
+User: 삼겹살 2인분 / 된장찌개!
+
+**Outro:**
+> Order placed! 🥩 Now comes the most important question in Korea...
+> Who grills the meat? The real power move starts now.
+>
+
+**전 — 먹기 [세트 4]**
+AI: 고기 구워줄까?
+User: 응, 구워줘! / 내가 구울게!
+AI: 맛있다!
+User: 진짜 맛있다! / 여기 잘 찾았다!
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
+> Brace yourself — the Korean bill fight is legendary.
+>
+
+---
+
+### sim3: After Eating
+
+**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+
+**📍 장소:** 삼겹살 식당 안 → 식당 밖 길거리
+
+**전 — 식사 후 [세트 5]**
+User: 내가 낼게!
+AI: 아니야, 같이 내자!
+User: 아니야, 오늘 내가 쏠게!
+AI: 진짜? 고마워! 다음엔 내가 살게!
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — 다음에 [세트 6]**
+AI: 배불러! 이제 뭐 할까?
+User: 카페 갈까? / 좀 걸을까?
+AI: 좋아, 가자!
+User: 가자!
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---
+
+# PI-6: 너 때문에 한국어 배워
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Getting Personal
+
+**Goal:** To open up about why you're learning Korean and feel supported by your friend's encouragement.
+
+**📍 장소:** 카페
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — 깊은 대화 [세트 1]**
+AI: 한국어 왜 배워?
+User: 한국 친구 사귀고 싶어서! / 드라마 알아듣고 싶어서!
+AI: 오, 진짜? 지금 잘하고 있어!
+User: 아직 멀었어. / 진짜? 고마워!
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in Korea, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — 한국 생활 [세트 2]**
+AI: 한국에서 힘든 거 없어?
+User: 가끔 외로워. / 말이 잘 안 통할 때.
+AI: 힘들면 나한테 얘기해!
+User: 고마워. / 응, 그럴게.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Encouragement
+
+**Goal:** To reflect on how far you've come with Korean and feel genuinely motivated to keep going.
+
+**📍 장소:** 카페 (동일)
+
+**승 — 응원 [세트 3]**
+AI: 한국어 처음 배울 때 어땠어?
+User: 진짜 어려웠어! / 하나도 몰랐어.
+AI: 근데 지금 이렇게 잘하잖아!
+User: 그래? 고마워! / 아직 많이 부족해.
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — 감동 [세트 4]**
+User: 너 때문에 한국어 더 열심히 하고 싶어.
+AI: 진짜? 감동이다!
+User: 진짜야!
+AI: 나도 너 때문에 영어 배우고 싶어!
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Real Friends
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** 카페 (동일)
+
+**전 — 진짜 친구 [세트 5]**
+AI: 우리 알게 된 지 얼마나 됐지?
+User: 한 달? / 벌써 두 달!
+AI: 시간 진짜 빠르다!
+User: 맞아!
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — 약속 [세트 6]**
+AI: 앞으로도 자주 보자!
+User: 당연하지!
+AI: 다음 주에 뭐 하자!
+User: 좋아! 연락해!
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Korean life just got a whole lot better.
+>
+
+---
+
+# PI-7: 고민 있어?
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Something's Wrong
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** 카페
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — 고민 [세트 1]**
+AI: 요즘 기분 안 좋아 보여. 무슨 일 있어?
+User: 좀 힘들어. / 고민이 있어.
+AI: 무슨 고민인데? 얘기해 봐.
+User: 한국 생활이 좀 힘들어. / 일이 너무 많아.
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — 들어주기 [세트 2]**
+AI: 어떤 게 제일 힘들어?
+User: 혼자 있는 시간이 많아서. / 한국어가 아직 어려워서.
+AI: 힘들었겠다.
+User: 응, 좀.
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Advice
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** 카페 → 한강
+
+**승 — 조언 [세트 3]**
+AI: 혼자 너무 고민하지 마. 나한테 말해!
+User: 고마워. / 그럴게.
+AI: 기분 전환 필요하지 않아? 나가자!
+User: 어디? / 좋아!
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> The Han River has a way of making everything feel better.
+>
+
+**전 — 밖에서 [세트 4]**
+AI: 한강 가자! 바람 쐬면 기분 나아져!
+User: 그래, 가자!
+AI: 맛있는 것도 사 갈까?
+User: 좋아! / 편의점 가자!
+
+**Outro:**
+> Convenience store snacks + Han River = perfect combo! 🍜 Let's go.
+> The best conversations happen by the water.
+>
+
+---
+
+### sim3: Feeling Better
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** 한강
+
+**전 — 기분 전환 [세트 5]**
+AI: 기분 좀 나아졌어?
+User: 응, 많이 나아졌어! / 덕분에!
+AI: 다행이다!
+User: 진짜 고마워.
+
+**Outro:**
+> From stressed to refreshed! 🌊 The Han River delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — 언제든 [세트 6]**
+AI: 힘들면 언제든 연락해!
+User: 응, 그럴게!
+AI: 약속이야!
+User: 약속!
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Korean life is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: 같이 여행 갈까?
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Where to Go
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** 카페
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — 여행 제안 [세트 1]**
+User: 다음 주 연휴에 뭐 해?
+AI: 아직 없어! 왜?
+User: 같이 여행 갈까?
+AI: 대박! 좋아! 어디?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Busan or Jeju? The debate begins.
+>
+
+**승 — 정하기 [세트 2]**
+User: 부산 어때? / 제주도 가고 싶어!
+AI: 좋아! 나도 가고 싶었어!
+AI: 며칠 갈까?
+User: 1박 2일? / 2박 3일?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: Planning
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** 카페 (동일)
+
+**승 — 계획 [세트 3]**
+AI: 뭐 타고 갈까? KTX? 비행기?
+User: KTX 타자! / 비행기 비싸?
+AI: KTX가 싸! 2시간이면 돼!
+User: 좋아!
+
+**Outro:**
+> KTX it is! 🚄 Fast, cheap, and very Korean.
+> Next up: where are we sleeping?
+>
+
+**전 — 숙소 [세트 4]**
+AI: 숙소 어디로 할까? 호텔? 게스트하우스?
+User: 게스트하우스! 싸니까! / 호텔이 편하지 않아?
+AI: 게스트하우스 예약할게!
+User: 응, 고마워!
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: Getting Excited
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** 카페 (동일)
+
+**전 — 설레임 [세트 5]**
+User: 부산에서 뭐 하고 싶어?
+AI: 해운대 가고 싶어! 너는?
+User: 나는 회 먹고 싶어! / 시장 가고 싶어!
+AI: 좋아! 다 하자!
+
+**Outro:**
+> The itinerary is basically writing itself! 🌊 Beach, raw fish, market — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — 기대 [세트 6]**
+AI: 기대된다!
+User: 나도! 빨리 가고 싶어!
+AI: 그럼 그때 봐! 짐 싸 놔!
+User: 알겠어!
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> Korea is waiting — and so is the best raw fish of your life.
+>
+
+---
+
+# ✈️ TRAVELING (존댓말) >> Korean Travel

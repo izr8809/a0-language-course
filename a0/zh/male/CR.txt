@@ -1,0 +1,308 @@
+# 💼 CAREER (您/formal) >> Chinese Workplace
+
+# CR-1: 您好，初次见面
+
+- 大分类: Career
+- 中分类: First Day at Work
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Arriving at the Office
+
+**Goal:** To introduce yourself on the first day of work and greet colleagues formally.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+First day at a Chinese company. Everyone is watching.
+Time to make a great first impression!
+
+**기 — 自我介绍 [세트 1]**
+AI: 您好！您是新来的同事吗？
+User: 是的！我叫___！初次见面，请多关照！
+AI: 您好！我叫李经理！欢迎！
+User: 谢谢您！请多指教！
+
+**Outro:**
+> First impression: Nailed it! 👔
+> Now find your desk and meet the team!
+>
+
+**승 — 认识同事 [세트 2]**
+AI: 这是您的工位！有什么不懂的请问我！
+User: 谢谢您！请问洗手间在哪儿？ / 谢谢您！请问会议室在哪儿？
+AI: 在走廊右边！
+User: 谢谢您！
+
+**Outro:**
+> Office orientation: Done! 🏢
+> Now it's time for the team lunch!
+>
+
+---
+
+### sim2: Team Lunch
+
+**Goal:** To join the team for lunch and make polite small talk with colleagues.
+
+**📍 장소:** 公司餐厅
+
+**승 — 午餐 [세트 3]**
+User: 请问可以坐这里吗？
+AI: 当然！请坐！您吃过了吗？
+User: 还没有！ / 刚来！
+AI: 来！一起吃！
+
+**Outro:**
+> Team lunch joined! 🍱
+> Now make some small talk!
+>
+
+**전 — 聊天 [세트 4]**
+AI: 您是哪里人？
+User: 我是___人！ / 我从___来！
+AI: 哦！第一次来中国工作吗？
+User: 是的！第一次！ / 不是，来过几次！
+
+**Outro:**
+> Small talk: Successful! 💬
+> You're fitting in already. One more hurdle — the afternoon meeting!
+>
+
+---
+
+### sim3: Afternoon Meeting
+
+**Goal:** To participate in a brief team meeting and confirm your understanding of tasks.
+
+**📍 장소:** 公司 (会议室)
+
+**전 — 会议 [세트 5]**
+AI: 下午有个简短的会议，您方便吗？
+User: 方便！几点开始？ / 方便！在哪个会议室？
+AI: 三点！在二楼会议室！
+User: 好的！我准时到！
+
+**Outro:**
+> Meeting confirmed! 📋
+> Now show up prepared and ready to listen!
+>
+
+**결 — 会议结束 [세트 6]**
+AI: 今天的会议就到这里！有问题吗？
+User: 没有问题，谢谢！ / 请问这个任务什么时候交？
+AI: 明天下班前！谢谢大家！
+User: 好的！谢谢您！
+
+**Outro:**
+> First day: Complete! 🎉
+> You survived the first day. Tomorrow, you'll be even better!
+>
+
+---
+
+# CR-2: 这个报告怎么写？
+
+- 大分类: Career
+- 中分类: Work Task
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Getting the Assignment
+
+**Goal:** To receive a work assignment and confirm the requirements clearly.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+Your manager just handed you your first real assignment.
+Time to ask the right questions!
+
+**기 — 接受任务 [세트 1]**
+AI: ___，这是您的第一个任务！
+User: 谢谢！请问是什么任务？
+AI: 请写一份市场报告！
+User: 好的！请问格式是什么？
+
+**Outro:**
+> Assignment received! 📝
+> Now clarify the deadline!
+>
+
+**승 — 截止日期 [세트 2]**
+AI: 请问您明白了吗？
+User: 明白了！请问什么时候交？ / 明白了！截止日期是什么时候？
+AI: 后天下班前！
+User: 好的！我会准时完成！
+
+**Outro:**
+> Deadline confirmed! ⏰
+> Now get to work — the clock is ticking!
+>
+
+---
+
+### sim2: Asking for Help
+
+**Goal:** To ask a colleague for help with the report and clarify requirements.
+
+**📍 장소:** 公司 (办公室, 同一)
+
+**승 — 请教同事 [세트 3]**
+User: 不好意思，请问您有时间吗？
+AI: 有！什么事？
+User: 这个报告怎么写？ / 请问有模板吗？
+AI: 有！我发给您！
+
+**Outro:**
+> Help secured! 🤝
+> Now review the template and get started!
+>
+
+**전 — 确认内容 [세트 4]**
+AI: 报告需要包括数据！
+User: 好的！数据在哪儿找？ / 好的！需要多少数据？
+AI: 在公司系统里！
+User: 好的！谢谢您！
+
+**Outro:**
+> Content confirmed! 📊
+> You have everything you need. Time to write!
+>
+
+---
+
+### sim3: Submitting the Report
+
+**Goal:** To submit the completed report and receive feedback from the manager.
+
+**📍 장소:** 公司 (办公室)
+
+**전 — 提交报告 [세트 5]**
+AI: ___，报告写好了吗？
+User: 写好了！请您看一下！ / 写好了！发给您了！
+AI: 好的！我看一下！
+User: 谢谢您！
+
+**Outro:**
+> Report submitted! 📤
+> Now wait for the feedback — fingers crossed!
+>
+
+**결 — 反馈 [세트 6]**
+AI: 报告写得不错！有几个小问题！
+User: 谢谢您！请问哪里需要改？ / 谢谢！我马上改！
+AI: 这里和这里！改好了再发给我！
+User: 好的！马上改！谢谢您！
+
+**Outro:**
+> Feedback received! ✅
+> You wrote, submitted, and got feedback. That's how it's done!
+>
+
+---
+
+# CR-3: 我能请假吗？
+
+- 大分类: Career
+- 中分类: Requesting Leave
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Preparing the Request
+
+**Goal:** To prepare to request leave and understand the company's leave policy.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+You need a day off. Your manager looks busy.
+Time to ask — politely and professionally!
+
+**기 — 了解请假流程 [세트 1]**
+AI: 您好！有什么事吗？
+User: 您好！请问请假怎么申请？
+AI: 需要填请假单！
+User: 好的！请假单在哪儿？
+
+**Outro:**
+> Process understood! 📋
+> Now fill out the form and make your request!
+>
+
+**승 — 填表 [세트 2]**
+AI: 请假单在系统里！您要请几天假？
+User: 我要请一天假！ / 我要请两天假！
+AI: 好的！原因是什么？
+User: 身体不舒服！ / 家里有事！
+
+**Outro:**
+> Form filled! 📝
+> Now submit it and wait for approval!
+>
+
+---
+
+### sim2: Making the Request
+
+**Goal:** To formally request leave from the manager and provide a reason.
+
+**📍 장소:** 公司 (经理办公室)
+
+**승 — 正式请假 [세트 3]**
+User: 经理，不好意思，打扰一下！
+AI: 没关系！什么事？
+User: 我想请明天一天假！ / 我想请后天假！
+AI: 原因是什么？
+
+**Outro:**
+> Request made! 🙏
+> Now give a clear and professional reason!
+>
+
+**전 — 说明原因 [세트 4]**
+AI: 请说明一下原因！
+User: 我身体不太好！ / 家里有急事！
+AI: 好的！注意身体！假批了！
+User: 谢谢您！非常感谢！
+
+**Outro:**
+> Leave approved! ✅
+> That went better than expected. Now make sure work is covered!
+>
+
+---
+
+### sim3: Handing Over Work
+
+**Goal:** To hand over work responsibilities before taking leave.
+
+**📍 장소:** 公司 (办公室)
+
+**전 — 交接工作 [세트 5]**
+AI: 请假期间，工作怎么安排？
+User: 我会提前完成！ / 我请同事帮忙！
+AI: 好的！有什么需要帮忙的吗？
+User: 没有！谢谢您！ / 有！请问___怎么处理？
+
+**Outro:**
+> Handover planned! 🤝
+> Almost done — just confirm everything is in order!
+>
+
+**결 — 确认 [세트 6]**
+AI: 好！那您好好休息！
+User: 谢谢您！我会的！
+AI: 有事随时联系！
+User: 好的！谢谢您！再见！
+
+**Outro:**
+> Leave secured! 🎉
+> You asked professionally, got approved, and handed over work. Office pro!
+>
