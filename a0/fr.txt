@@ -26,7 +26,7 @@ Respire un coup... et dis bonjour !
 Première rencontre à Paris.
 Respire un coup... et dis bonjour !
 
-**Ouverture — Premier Saludo [Série 1]**
+**Ouverture — Premier Bonjour [Série 1]**
 AI: Salut ! Moi c'est Léa. Tu t'appelles comment ?
 User: Salut ! Moi c'est ___. / Je m'appelle ___.
 AI: Sympa ! Tu viens d'où ?
@@ -900,786 +900,460 @@ User: Merci, au revoir !
 
 ---
 
-# 🎬 CULTURE POP / CINÉMA (tu) >> Séries et Cinéma Français
+# 🥐 ART DE VIVRE (tu/vous mixte) >> French Culture & Lifestyle
 
-# KD-1 : T'as vu cette série ?
+# AV-1 : Au Marché — Pain et Fromage
 
-- Catégorie : Culture Pop / Cinéma
-- Sous-catégorie : Série Netflix
+- Catégorie : Art de Vivre
+- Sous-catégorie : Marché / Boulangerie
 - Niveau : A0 (Débutant Absolu)
 - 12 tours (6 sets, 3 sims)
 
-T'as commencé une nouvelle série.
-Et tu veux en parler à tout le monde !
+Vous explorez un marché parisien.
+Pain frais, fromages affinés... c'est l'art de vivre !
 
 ---
 
-### sim1 : La Série du Moment
+### sim1 : À la Boulangerie
 
-**Goal:** To recommend a series and ask if someone has watched it.
+**Goal:** To buy bread and pastries at a French bakery using polite vous.
 
-**📍 Lieu :** Café (Paris)
+**📍 Lieu :** Boulangerie (Paris, Montmartre)
 
 **intro_text:**
-T'as commencé une nouvelle série.
-Et tu veux en parler à tout le monde !
+Vous êtes devant une boulangerie.
+L'odeur du pain frais vous attire irrésistiblement !
 
-**Série — T'as vu ? [Série 1]**
-AI: T'as vu Lupin sur Netflix ?
-User: Oui, j'adore ! / Non, c'est bien ?
-AI: C'est trop bien ! Omar Sy est génial !
-User: Je vais regarder ! / Oui, il est super !
+**Pain — Une baguette, s'il vous plaît ! [Série 1]**
+AI: Bonjour ! Vous désirez ?
+User: Bonjour ! Une baguette tradition, s'il vous plaît.
+AI: Tradition ou ordinaire ?
+User: Tradition, s'il vous plaît. Bien cuite !
 
 **Outro:**
-> Recommandation faite ! 📺
-> Mais c'est quoi ton genre préféré ?
+> Baguette en main ! 🥖
+> La vraie tradition française dans chaque bouchée.
 >
 
-**Genre — Tu aimes quoi ? [Série 2]**
-User: Tu aimes quel genre de série ?
-AI: J'adore les thrillers ! Et toi ?
-User: Moi aussi ! / J'aime les comédies !
-AI: Oh, t'as vu Dix pour cent ?
+**Viennoiserie — Et avec ça ? [Série 2]**
+User: Vous avez des croissants frais ce matin ?
+AI: Oui, sortis du four à l'instant ! Combien ?
+User: Deux, s'il vous plaît.
+AI: Voilà ! Ça fait 3 euros 20. Bonne journée !
 
 **Outro:**
-> Goûts révélés ! 🎭
-> La suite : Votre prochaine série ensemble.
+> Petit-déjeuner parfait ! 🥐
+> Demain, même heure, même boulangerie. C'est promis !
 >
 
 ---
 
-### sim2 : On en parle
+### sim2 : Chez le Fromager
 
-**Goal:** To discuss a series episode and share opinions.
+**Goal:** To choose and buy artisan cheese at a market stall using polite vous.
 
-**📍 Lieu :** Café (même endroit)
+**📍 Lieu :** Marché (Paris, Bastille)
 
 **intro_text:**
-Vous avez regardé le même épisode.
-C'est l'heure d'en parler !
+Le marché sent bon le fromage.
+Comment choisir parmi 300 variétés françaises ?
 
-**Épisode — T'as vu la fin ? [Série 3]**
-User: T'as vu le dernier épisode ?
-AI: Oui ! C'était incroyable ! La fin...
-User: Je sais ! C'était fou ! / Attends, j'ai pas fini !
-AI: Oh pardon ! Je dis rien !
+**Fromage — C'est quoi ce fromage ? [Série 3]**
+User: Excusez-moi, c'est quoi ce fromage, là ?
+AI: C'est un comté ! Affiné 18 mois. Un pur délice !
+User: Il est fort ? / C'est bon avec du pain ?
+AI: Parfait avec une baguette fraîche du matin !
 
 **Outro:**
-> Spoiler évité ! 🤫
-> Mais l'opinion générale, c'est quoi ?
+> Fromage identifié ! 🧀
+> Il y a toute une science derrière le fromage français.
 >
 
-**Opinion — C'est bien ? [Série 4]**
-AI: Tu aimes la série en général ?
-User: Oui, c'est excellent ! / C'est bien mais un peu lent.
-AI: Moi j'adore ! Je regarde tout le week-end !
-User: Moi aussi ! / Ah oui, c'est addictif !
+**Dégustation — Goûtez, c'est gratuit ! [Série 4]**
+AI: Vous voulez goûter ? Je vous donne un morceau !
+User: Oui, avec plaisir ! / Oh oui, merci beaucoup !
+AI: Et celui-ci, c'est un brie de Meaux. Goûtez !
+User: Délicieux ! Je prends les deux ! / C'est excellent !
 
 **Outro:**
-> Avis partagé ! ⭐
-> La suite : Un film cette fois ?
+> Amateur(rice) de fromage confirmé(e) ! 🥛
+> La suite : Retour à la maison avec vos trésors du marché.
 >
 
 ---
 
-### sim3 : On va au ciné ?
+### sim3 : Retour du Marché
 
-**Goal:** To suggest going to the cinema and choose a film.
+**Goal:** To talk about your market purchases with a French friend using informal tu.
 
-**📍 Lieu :** En ligne (WhatsApp)
+**📍 Lieu :** Appartement (Paris, 11e)
 
 **intro_text:**
-Les séries c'est bien. Le cinéma c'est mieux.
-Propose une sortie !
+Tu reviens du marché avec plein de bonnes choses.
+Montre à ton ami(e) ce que t'as trouvé !
 
-**Ciné — On y va ? [Série 5]**
-User: On va au ciné ce soir ?
-AI: Bonne idée ! Il y a quoi ?
-User: Un film français ! / Un thriller américain !
-AI: Le film français, j'adore ça !
+**Marché — T'as acheté quoi ? [Série 5]**
+User: Regarde ! J'ai trouvé ça au marché ce matin !
+AI: Oh là là ! Du fromage, du pain... t'as super bien fait !
+User: Et du miel local ! / Et du saucisson artisanal aussi !
+AI: C'est parfait pour ce soir. Un vrai festin !
 
 **Outro:**
-> Sortie ciné décidée ! 🎬
-> Maintenant, choisissez le film.
+> Marché réussi ! 🛍️
+> Ce soir, un vrai festin à la française !
 >
 
-**Film — Lequel ? [Série 6]**
-AI: T'as vu la bande-annonce du nouveau film d'Audiard ?
-User: Oui, ça a l'air bien ! / Non, c'est quoi ?
-AI: C'est un film de gangsters. Très français !
-User: On y va ! / Super, j'adore ce genre !
+**Cuisine — On fait quoi ce soir ? [Série 6]**
+AI: Avec tout ça, on cuisine quoi ce soir ?
+User: Un plateau de fromages ! / Une tarte aux légumes du marché !
+AI: Génial ! J'apporte le vin. Un bordeaux ou un bourgogne ?
+User: Un bordeaux ! / Surprise-moi !
 
 **Outro:**
-> Film choisi ! 🍿
-> La suite : La séance vous attend.
+> Soirée parfaite planifiée ! 🍷
+> La gastronomie française commence chez soi.
 >
 
 ---
 
-# KD-2 : Le Cinéma Français
+# AV-2 : Le Café Parisien — L'Art de l'Apéro
 
-- Catégorie : Culture Pop / Cinéma
-- Sous-catégorie : Cinéma Français
+- Catégorie : Art de Vivre
+- Sous-catégorie : Café Parisien / Apéritif
 - Niveau : A0 (Débutant Absolu)
 - 12 tours (6 sets, 3 sims)
 
+L'apéro, le déjeuner long... l'art de vivre à la française !
+Commandez, savourez, restez longtemps !
+
 ---
 
-### sim1 : Avant la Séance
+### sim1 : L'Apéritif
 
-**Goal:** To buy cinema tickets and find your seats.
+**Goal:** To order an aperitif and enjoy the café atmosphere using polite vous.
 
-**📍 Lieu :** Cinéma (Paris, Grands Boulevards)
+**📍 Lieu :** Café (Paris, Saint-Germain-des-Prés)
 
 **intro_text:**
-Vous êtes devant le cinéma.
-Achetez vos billets et entrez !
+L'apéro, c'est sacré en France.
+Commandez comme un(e) vrai(e) Parisien(ne) !
 
-**Billets — À la caisse [Série 1]**
-AI: Deux places pour le film de 20h ?
-User: Oui, s'il vous plaît ! / Oui, deux adultes.
-AI: Voilà ! Salle 3, rangée C.
-User: Merci !
+**Apéro — Qu'est-ce qu'on prend ? [Série 1]**
+AI: Bonjour ! Vous désirez pour l'apéritif ?
+User: Un kir, s'il vous plaît. / Un Perrier rondelle, s'il vous plaît.
+AI: Très bon choix ! Et des olives avec ça ?
+User: Oui, avec plaisir ! / Oui, et des cacahuètes si vous avez !
 
 **Outro:**
-> Billets en main ! 🎟️
-> Maintenant, trouvez vos places.
+> Apéro commandé ! 🥂
+> L'apéro, c'est le début de toute bonne conversation française.
 >
 
-**Popcorn — Au bar [Série 2]**
-User: Un popcorn, s'il te plaît !
-AI: Sucré ou salé ?
-User: Sucré ! / Salé, s'il te plaît !
-AI: Voilà ! Bonne séance !
+**Terrasse — On s'installe dehors [Série 2]**
+User: Vous avez de la place en terrasse, s'il vous plaît ?
+AI: Oui, par là ! Il reste une belle table au soleil.
+User: Parfait, merci ! On va en terrasse.
+AI: Je vous apporte votre commande tout de suite.
 
 **Outro:**
-> Prêt(e) pour le film ! 🍿
-> La séance commence dans 5 minutes.
+> Terrasse trouvée ! ☀️
+> Paris vu depuis une terrasse de café... c'est la vie !
 >
 
 ---
 
-### sim2 : Après le Film
+### sim2 : Le Déjeuner
 
-**Goal:** To discuss the film you just watched and share opinions.
+**Goal:** To order lunch and enjoy a proper French meal using polite vous.
 
-**📍 Lieu :** Dehors du cinéma (Paris)
+**📍 Lieu :** Café (Paris, même endroit)
 
 **intro_text:**
-Le film est fini. Vous sortez du cinéma.
-C'était bien ? Pas bien ?
+En France, le déjeuner est une pause sacrée d'une heure.
+Prenez votre temps !
 
-**Avis — C'était comment ? [Série 3]**
-User: C'était comment pour toi ?
-AI: J'ai adoré ! La fin était parfaite !
-User: Moi aussi ! / Hmm, j'ai pas trop aimé la fin.
-AI: Ah bon ? Pourquoi ?
+**Plat du jour — Qu'est-ce que c'est ? [Série 3]**
+AI: Le plat du jour, c'est un magret de canard aux cèpes. Vous prenez ?
+User: Oui, je prends ça ! / Qu'est-ce qu'il y a d'autre ?
+AI: On a aussi une quiche lorraine. Très populaire !
+User: Parfait, je prends la quiche ! / D'accord, le magret alors.
 
 **Outro:**
-> Débat lancé ! 🎭
-> Les meilleures conversations commencent après le film.
+> Plat du jour choisi ! 🍽️
+> Le vrai déjeuner français dure au moins une heure. Profitez !
 >
 
-**Acteur — Tu aimes qui ? [Série 4]**
-AI: T'as un acteur français préféré ?
-User: J'adore Omar Sy ! / J'aime bien Vincent Cassel !
-AI: Omar Sy est trop bien ! T'as vu Intouchables ?
-User: Oui, c'est magnifique ! / Non, pas encore !
+**Fin du repas — L'addition [Série 4]**
+User: C'était délicieux ! L'addition, s'il vous plaît.
+AI: Bien sûr ! Ce sera 18 euros 50. Vous avez passé un bon moment ?
+User: Excellent, merci ! Je reviendrai demain. / Vraiment très bon !
+AI: Merci à vous ! À bientôt !
 
 **Outro:**
-> Cinéphile confirmé(e) ! 🎬
-> La suite : Un autre film la semaine prochaine ?
->
-
----
-
-### sim3 : On recommande
-
-**Goal:** To recommend a French film to a friend.
-
-**📍 Lieu :** En ligne (WhatsApp)
-
-**intro_text:**
-Ton ami(e) cherche un bon film français.
-Tu as la réponse parfaite !
-
-**Recommandation — T'as vu ? [Série 5]**
-User: T'as une recommandation de film français ?
-AI: Oui ! Regarde Amélie Poulain !
-User: C'est bien ? / J'ai déjà vu !
-AI: C'est magnifique ! Paris est trop beau dans ce film !
-
-**Outro:**
-> Recommandation envoyée ! 📽️
-> Ton ami(e) va adorer.
->
-
-**Réaction — T'as aimé ? [Série 6]**
-AI: T'as regardé Amélie ?
-User: Oui ! C'était trop bien ! / Oui, j'ai adoré !
-AI: Je savais que tu allais aimer !
-User: Merci pour la reco ! / C'est mon film préféré maintenant !
-
-**Outro:**
-> Mission accomplie ! 🌟
-> La suite : Le sport vous attend.
+> Déjeuner réussi ! 🎉
+> La cuisine française mérite toute votre attention.
 >
 
 ---
 
-# KD-3 : T'es foot ou pas ?
+### sim3 : L'Art du Café Long
 
-- Catégorie : Culture Pop / Cinéma
-- Sous-catégorie : Sport
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Le Foot
-
-**Goal:** To talk about football and your favourite team.
-
-**📍 Lieu :** Bar (Paris, regarder un match)
-
-**intro_text:**
-Le match commence dans 10 minutes.
-T'es prêt(e) pour le foot ?
-
-**Foot — T'aimes ça ? [Série 1]**
-AI: T'aimes le foot ?
-User: Oui, j'adore ! / Pas vraiment, mais je regarde.
-AI: T'as une équipe préférée ?
-User: Le PSG ! / L'équipe de France !
-
-**Outro:**
-> Équipe choisie ! ⚽
-> Le match commence. Qui va gagner ?
->
-
-**Match — Ça commence ! [Série 2]**
-User: C'est qui contre qui ce soir ?
-AI: PSG contre Marseille ! Le classique !
-User: Oh, c'est chaud ! / Super, j'adore ce match !
-AI: Oui, c'est le meilleur match de l'année !
-
-**Outro:**
-> Ambiance de feu ! 🔥
-> Le premier but arrive... qui va marquer ?
->
-
----
-
-### sim2 : Le Sport en Général
-
-**Goal:** To talk about different sports and physical activities.
-
-**📍 Lieu :** Parc (Paris, bord de Seine)
-
-**intro_text:**
-Vous vous promenez au bord de la Seine.
-Le sport, c'est un grand sujet !
-
-**Sport — Tu pratiques quoi ? [Série 3]**
-User: Tu fais du sport ?
-AI: Oui ! Je fais du vélo ! Et toi ?
-User: Je cours ! / Je fais de la natation !
-AI: Cool ! Tu cours où ?
-
-**Outro:**
-> Sportif(ve) confirmé(e) ! 🚴
-> Paris est parfait pour le sport en plein air.
->
-
-**Lieu — Où tu fais ça ? [Série 4]**
-AI: Tu cours au bord de la Seine ?
-User: Oui, j'adore ça ! / Non, je cours au Bois de Boulogne.
-AI: C'est magnifique là-bas !
-User: Oui, c'est super ! / Oui, j'adore le matin !
-
-**Outro:**
-> Paris sportif ! 🌳
-> La suite : La musique vous attend.
->
-
----
-
-### sim3 : Les Jeux Olympiques
-
-**Goal:** To talk about the Paris Olympics and favourite sports.
-
-**📍 Lieu :** Café (Paris)
-
-**intro_text:**
-Paris a accueilli les Jeux Olympiques.
-C'est un grand moment pour la France !
-
-**JO — T'as regardé ? [Série 5]**
-User: T'as regardé les Jeux Olympiques ?
-AI: Oui ! C'était incroyable à Paris !
-User: Oui, c'était magnifique ! / J'ai regardé un peu.
-AI: La cérémonie sur la Seine était trop belle !
-
-**Outro:**
-> Fierté française ! 🇫🇷
-> Quel sport t'a le plus impressionné(e) ?
->
-
-**Sport préféré — Aux JO [Série 6]**
-AI: T'as un sport préféré aux JO ?
-User: J'adore la natation ! / J'aime l'athlétisme !
-AI: Léon Marchand était incroyable !
-User: Oui, il est trop fort ! / Oui, c'est un champion !
-
-**Outro:**
-> Champion(ne) dans le cœur ! 🥇
-> La suite : La musique vous attend.
->
-
----
-
-# KD-4 : T'écoutes quoi ?
-
-- Catégorie : Culture Pop / Cinéma
-- Sous-catégorie : Musique
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Les Goûts Musicaux
-
-**Goal:** To talk about music preferences and favourite artists.
-
-**📍 Lieu :** Café (Paris)
-
-**intro_text:**
-La musique, c'est universel.
-Qu'est-ce que tu écoutes en ce moment ?
-
-**Musique — T'écoutes quoi ? [Série 1]**
-AI: T'écoutes quoi en ce moment ?
-User: J'écoute Aya Nakamura ! / J'écoute Stromae !
-AI: Aya Nakamura, j'adore ! T'as une chanson préférée ?
-User: Djadja ! C'est trop bien ! / Pookie, j'adore !
-
-**Outro:**
-> Goûts musicaux révélés ! 🎵
-> Mais quel genre tu préfères vraiment ?
->
-
-**Genre — Tu aimes quoi ? [Série 2]**
-User: Tu aimes quel genre de musique ?
-AI: J'adore le R&B et la pop ! Et toi ?
-User: Moi aussi ! / J'aime le rap français !
-AI: Le rap français, c'est trop bien !
-
-**Outro:**
-> Playlist compatible ! 🎧
-> La suite : Un concert ensemble ?
->
-
----
-
-### sim2 : La Playlist
-
-**Goal:** To share and discuss a music playlist.
-
-**📍 Lieu :** En ligne (WhatsApp)
-
-**intro_text:**
-Tu veux partager ta playlist.
-C'est l'heure de montrer tes goûts !
-
-**Playlist — Je t'envoie [Série 3]**
-User: Je t'envoie ma playlist ?
-AI: Oui ! J'adore découvrir de la musique !
-User: Voilà ! Il y a Angèle, Stromae, PNL...
-AI: Oh, j'adore Angèle ! Sa voix est magnifique !
-
-**Outro:**
-> Playlist partagée ! 📱
-> Maintenant, écoute et donne ton avis.
->
-
-**Avis — T'as aimé ? [Série 4]**
-AI: T'as écouté ma playlist ?
-User: Oui ! J'adore PNL ! / Oui, Angèle est trop bien !
-AI: Je savais que tu allais aimer !
-User: Merci ! C'est ma nouvelle playlist ! / On a les mêmes goûts !
-
-**Outro:**
-> Goûts partagés ! 🎶
-> La suite : Un concert en vrai ?
->
-
----
-
-### sim3 : Un Concert ?
-
-**Goal:** To suggest going to a concert and make plans.
-
-**📍 Lieu :** En ligne (WhatsApp)
-
-**intro_text:**
-Stromae est en concert à Paris.
-C'est l'occasion parfaite !
-
-**Concert — T'as vu ? [Série 5]**
-User: Stromae est en concert à Paris !
-AI: Sérieux ? Quand ?
-User: Le mois prochain ! On y va ? / Samedi prochain !
-AI: Oui ! J'adore Stromae !
-
-**Outro:**
-> Concert décidé ! 🎤
-> Maintenant, achetez les billets !
->
-
-**Billets — On achète ! [Série 6]**
-AI: Les billets sont encore disponibles ?
-User: Oui ! Il reste des places ! / Je regarde sur le site.
-AI: Achète vite ! Ça va partir !
-User: OK, j'achète maintenant ! / Voilà, c'est fait !
-
-**Outro:**
-> Billets achetés ! 🎫
-> La suite : Le concert de ta vie t'attend.
->
-
----
-
-# 🎵 MUSIQUE / CHANSON (mixte) >> Scène Musicale Française
-
-# KP-1 : T'aimes quelle musique ?
-
-- Catégorie : Musique / Chanson
-- Sous-catégorie : Goûts Musicaux
-- Niveau : A0 (Débutant Absolu)
-- 12 tours (6 sets, 3 sims)
-
----
-
-### sim1 : Les Préférences
-
-**Goal:** To discuss music tastes and discover shared favourites.
+**Goal:** To enjoy a long coffee with a French friend using informal tu.
 
 **📍 Lieu :** Café (Paris, Le Marais)
 
 **intro_text:**
-La musique, c'est le meilleur sujet.
-Qu'est-ce que vous aimez ?
+En France, "prendre un café" peut durer deux heures.
+C'est une vraie institution !
 
-**Goûts — Tu aimes quoi ? [Série 1]**
-AI: Tu aimes la musique française ?
-User: Oui, j'adore ! / Pas vraiment, je préfère le rap.
-AI: T'as un artiste préféré ?
-User: J'adore Stromae ! / J'aime bien Angèle !
+**Café — On reste encore ? [Série 5]**
+User: On reste encore un peu ? Je suis tellement bien ici !
+AI: Bien sûr ! C'est ça la vie parisienne ! Un autre café ?
+User: Oui ! / Non merci, juste de l'eau gazeuse.
+AI: Garçon, encore un café et une eau gazeuse s'il vous plaît !
 
 **Outro:**
-> Artiste préféré révélé ! 🎵
-> Mais c'est quoi ta chanson du moment ?
+> L'art du café long maîtrisé ! ☕
+> Les meilleures conversations n'ont pas de fin.
 >
 
-**Chanson — La préférée [Série 2]**
-User: T'as une chanson préférée en ce moment ?
-AI: Oui ! Papaoutai de Stromae ! C'est magnifique.
-User: J'adore cette chanson ! / Je connais pas, c'est bien ?
-AI: C'est trop bien ! Écoute ça !
+**Retour — Notre café préféré [Série 6]**
+AI: C'est sympa ici, hein ? T'avais déjà été dans ce café ?
+User: Non, c'est la première fois ! / Si, j'adore cet endroit !
+AI: On revient la semaine prochaine, alors ?
+User: Avec plaisir ! C'est notre nouveau café préféré !
 
 **Outro:**
-> Chanson partagée ! 🎶
-> La suite : Vous avez les mêmes goûts ?
->
-
----
-
-### sim2 : On Découvre
-
-**Goal:** To recommend new music and talk about discovering artists.
-
-**📍 Lieu :** Café (même endroit)
-
-**intro_text:**
-Vous partagez vos découvertes musicales.
-C'est l'heure d'explorer !
-
-**Découverte — T'as entendu ? [Série 3]**
-User: T'as entendu Aya Nakamura ?
-AI: Oui ! Elle est incroyable ! T'aimes ?
-User: J'adore ! Sa voix est unique ! / Oui, Djadja c'est trop bien !
-AI: Elle est la chanteuse française la plus écoutée au monde !
-
-**Outro:**
-> Découverte musicale ! 🌍
-> La scène française est riche.
->
-
-**Artiste — Qui d'autre ? [Série 4]**
-AI: T'écoutes d'autres artistes français ?
-User: Oui, j'aime PNL ! / Oui, j'écoute Eddy de Pretto !
-AI: PNL, c'est trop bien ! La mélancolie française !
-User: Oui, c'est parfait pour le soir ! / Oui, j'adore l'ambiance !
-
-**Outro:**
-> Playlist enrichie ! 🎧
-> La suite : Un concert pour tout ça ?
+> Café favori trouvé ! 📍
+> Paris a un café parfait pour chaque humeur et chaque saison.
 >
 
 ---
 
-### sim3 : La Scène Live
+# AV-3 : La Soirée — Dîner Chez des Amis
 
-**Goal:** To talk about live music experiences in Paris.
-
-**📍 Lieu :** Salle de concert (Paris)
-
-**intro_text:**
-Vous êtes dans une salle de concert à Paris.
-La musique live, c'est une autre dimension !
-
-**Live — C'est comment ? [Série 5]**
-User: T'as déjà vu un concert live ?
-AI: Oui ! J'ai vu Angèle à l'Olympia ! C'était incroyable !
-User: Chanceux(se) ! / J'adore l'Olympia !
-AI: L'ambiance était magique !
-
-**Outro:**
-> Expérience live partagée ! 🎤
-> La musique live, c'est incomparable.
->
-
-**Salle — L'Olympia [Série 6]**
-AI: Vous connaissez l'Olympia ?
-User: Oui, c'est la salle mythique ! / Non, c'est quoi ?
-AI: C'est la plus grande salle de Paris. Édith Piaf y a chanté !
-User: Incroyable ! Je veux y aller ! / Wow, c'est historique !
-
-**Outro:**
-> Histoire musicale ! 🎼
-> La suite : Un concert Stromae vous attend.
->
-
----
-
-# KP-2 : Le Concert de Stromae
-
-- Catégorie : Musique / Chanson
-- Sous-catégorie : Concert (Stromae / Angèle)
+- Catégorie : Art de Vivre
+- Sous-catégorie : Soirée / Dîner entre Amis
 - Niveau : A0 (Débutant Absolu)
 - 12 tours (6 sets, 3 sims)
 
+Tu es invité(e) à dîner chez des amis français.
+Complimenter, partager, rire... bienvenue dans une vraie soirée française !
+
 ---
 
-### sim1 : Avant le Concert
+### sim1 : L'Arrivée
 
-**Goal:** To prepare for a Stromae concert and find your seats.
+**Goal:** To arrive at a French dinner party and greet your host using informal tu.
 
-**📍 Lieu :** Accor Arena, Paris
+**📍 Lieu :** Appartement (Paris, 11e arrondissement)
 
 **intro_text:**
-Ce soir, c'est Stromae à l'Accor Arena.
-Vous êtes prêt(e) ?
+Tu es invité(e) à dîner chez ton ami(e) français(e).
+Tu apportes du vin et du fromage — parfait !
 
-**Arrivée — On est là ! [Série 1]**
-AI: On est là ! T'es excité(e) ?
-User: Oui, trop ! / Oui, j'attends ça depuis longtemps !
-AI: Moi aussi ! C'est mon premier concert de Stromae !
-User: Le mien aussi ! / Moi j'ai déjà vu, c'est incroyable !
+**Arrivée — Coucou ! [Série 1]**
+User: Coucou ! Bonsoir ! J'apporte du vin !
+AI: Super ! Entre, entre ! T'es en avance !
+User: Oh pardon ! Je repasse dans dix minutes ? / Non, c'est bien ?
+AI: Mais non, je blague ! Viens, l'apéro est prêt !
 
 **Outro:**
-> Excitation maximale ! 🎉
-> Trouvez vos places, le concert commence bientôt !
+> Arrivée réussie ! 🎉
+> En France, arriver légèrement en retard est même considéré poli !
 >
 
-**Places — On cherche [Série 2]**
-User: C'est où nos places ?
-AI: Section B, rangée 12 ! Par là !
-User: Super, on y va ! / On a de bonnes places ?
-AI: Oui ! On voit très bien la scène !
+**Compliment — Ça sent tellement bon ! [Série 2]**
+AI: Voilà, viens t'asseoir ! Ça te plaît chez moi ?
+User: C'est super beau ! Et ça sent délicieux ! / Ton appartement est magnifique !
+AI: Merci ! J'ai fait un bœuf bourguignon ce soir !
+User: Mon plat préféré ! / Tu es vraiment un(e) chef !
 
 **Outro:**
-> Places trouvées ! 🎫
-> Le concert commence dans 10 minutes !
+> Compliments échangés ! 💝
+> Un bon hôte français met tout son cœur dans la cuisine.
 >
 
 ---
 
-### sim2 : Pendant le Concert
+### sim2 : Le Dîner
 
-**Goal:** To react to the concert and share emotions in real time.
+**Goal:** To compliment the food and discuss wine at a French dinner using informal tu.
 
-**📍 Lieu :** Accor Arena (pendant le concert)
+**📍 Lieu :** Salle à manger (même appartement)
 
 **intro_text:**
-Stromae est sur scène.
-C'est magique !
+Le dîner est servi. C'est magnifique !
+Complimente ton ami(e) comme un(e) vrai(e) Français(e) !
 
-**Concert — C'est incroyable ! [Série 3]**
-User: C'est trop bien ! T'aimes ?
-AI: Oui ! C'est incroyable ! La scène est magnifique !
-User: J'adore cette chanson ! / Papaoutai ! C'est ma préférée !
-AI: Moi aussi ! Je chante avec lui !
+**Plat — C'est absolument délicieux ! [Série 3]**
+User: Mmm ! C'est absolument délicieux ! Tu as fait ça toi-même ?
+AI: Oui ! C'est la recette de ma grand-mère. Un secret de famille !
+User: C'est incroyable ! / Vraiment, c'est parfait !
+AI: Tu me flattes ! Sers-toi encore, il y en a plein !
 
 **Outro:**
-> Moment magique ! ✨
-> Ces souvenirs durent toute une vie.
+> Chef du soir reconnu ! 👨‍🍳
+> En France, complimenter la cuisine, c'est un signe de respect.
 >
 
-**Émotion — T'as aimé ? [Série 4]**
-AI: T'as les larmes aux yeux ?
-User: Oui, un peu ! C'est trop beau ! / Non, mais c'est magnifique !
-AI: Moi aussi ! Stromae, c'est un génie !
-User: Oui, il est incroyable ! / Complètement d'accord !
+**Vin — Tu m'en sers encore ? [Série 4]**
+AI: Tu veux encore du vin ? C'est un bordeaux de 2019.
+User: Oui, s'il te plaît ! / Juste un tout petit peu, merci.
+AI: Il est bon, non ? Mon oncle me l'a apporté de Bordeaux.
+User: Il est excellent ! / Oui, vraiment très bon. Quelle région ?
 
 **Outro:**
-> Émotion pure ! 💫
-> La suite : Après le concert.
+> Œnologue amateur ! 🍷
+> Le vin, c'est toute une culture et une conversation en France.
 >
 
 ---
 
-### sim3 : Après le Concert
+### sim3 : La Fin de Soirée
 
-**Goal:** To discuss the concert after it ends and make plans to see another one.
+**Goal:** To enjoy dessert and say goodbye at the end of a French dinner using informal tu.
 
-**📍 Lieu :** Dehors de l'Accor Arena
+**📍 Lieu :** Salon (même appartement)
 
 **intro_text:**
-Le concert est fini. Vous sortez.
-Mais l'émotion reste !
+Le dîner est fini, mais la soirée continue.
+Dessert et bonne humeur — c'est incontournable !
 
-**Après — C'était comment ? [Série 5]**
-User: C'était comment pour toi ?
-AI: Incroyable ! Le meilleur concert de ma vie !
-User: Moi aussi ! / Oui, c'était parfait !
-AI: On revient l'année prochaine ?
+**Dessert — C'est quoi ? [Série 5]**
+User: Oh, tu as préparé un dessert aussi ?
+AI: Bien sûr ! Une tarte tatin maison ! Tu aimes ?
+User: J'adore la tarte tatin ! / Oui, c'est mon dessert préféré !
+AI: Parfait ! Avec une boule de glace à la vanille ?
 
 **Outro:**
-> Souvenir inoubliable ! 🌟
-> La musique reste dans le cœur.
+> Dessert parfait ! 🍮
+> Les soirées françaises finissent toujours trop tôt...
 >
 
-**Prochain — On y retourne ? [Série 6]**
-AI: T'as vu qu'Angèle est en concert le mois prochain ?
-User: Oui ! On y va ? / Sérieux ? J'adore Angèle !
-AI: Bien sûr ! J'achète les billets demain !
-User: Super ! J'attends ça ! / Oui, achète vite !
+**Départ — Merci pour tout ! [Série 6]**
+AI: Tu pars déjà ? Il est presque minuit !
+User: Oui, il faut y aller... Merci pour ce dîner incroyable !
+AI: Avec plaisir ! Tu reviens la semaine prochaine ?
+User: Avec joie ! / Oui, la prochaine fois c'est moi qui cuisine !
 
 **Outro:**
-> Prochain concert planifié ! 🎤
-> La scène musicale française n'a pas fini de vous surprendre.
+> Soirée inoubliable ! 🌟
+> La prochaine fois, c'est toi qui cuisines !
 >
 
 ---
 
-# KP-3 : La Culture Fan
+# AV-4 : La Galerie — L'Art à la Française
 
-- Catégorie : Musique / Chanson
-- Sous-catégorie : Culture Fan
+- Catégorie : Art de Vivre
+- Sous-catégorie : Galerie d'Art / Événements Culturels
 - Niveau : A0 (Débutant Absolu)
 - 12 tours (6 sets, 3 sims)
 
----
-
-### sim1 : T'es Fan de Qui ?
-
-**Goal:** To talk about being a fan and share your favourite artist.
-
-**📍 Lieu :** Café (Paris)
-
-**intro_text:**
-Être fan, c'est une passion.
-Parle de ton artiste préféré !
-
-**Fan — T'es fan de qui ? [Série 1]**
-AI: T'es fan de qui ?
-User: Je suis fan d'Aya Nakamura ! / Je suis fan de Stromae !
-AI: Ah, moi aussi ! Depuis quand ?
-User: Depuis 2 ans ! / Depuis longtemps !
-
-**Outro:**
-> Fan confirmé(e) ! 🎵
-> Mais c'est quoi ta chanson préférée ?
->
-
-**Chanson — La meilleure [Série 2]**
-User: C'est quoi ta chanson préférée d'Aya ?
-AI: Djadja ! C'est trop bien ! Et toi ?
-User: Moi aussi Djadja ! / J'aime bien Pookie !
-AI: On a les mêmes goûts !
-
-**Outro:**
-> Goûts identiques ! 🎶
-> La suite : Vous suivez l'artiste en ligne ?
->
+Vous visitez une galerie d'art parisienne.
+L'art français, c'est une autre façon de voir le monde !
 
 ---
 
-### sim2 : Suivre l'Artiste
+### sim1 : À la Galerie
 
-**Goal:** To talk about following an artist on social media.
+**Goal:** To buy tickets and start a gallery visit using polite vous.
 
-**📍 Lieu :** En ligne (Instagram / WhatsApp)
+**📍 Lieu :** Galerie d'art (Paris, Le Marais)
 
 **intro_text:**
-Ton artiste préféré vient de poster quelque chose.
-Tu l'as vu ?
+Vous entrez dans une belle galerie d'art du Marais.
+Des peintures, des sculptures... un autre monde s'ouvre !
 
-**Réseaux — T'as vu ? [Série 3]**
-User: T'as vu le post d'Aya sur Instagram ?
-AI: Oui ! Elle annonce un nouveau single !
-User: J'attends ça ! / Trop bien ! Quand ?
-AI: Le mois prochain ! Je suis trop content(e) !
+**Entrée — Un billet, s'il vous plaît ! [Série 1]**
+User: Bonjour ! C'est combien l'entrée ?
+AI: Bonjour ! C'est 8 euros. Tarif réduit 5 euros avec étudiant.
+User: Un billet plein tarif, s'il vous plaît.
+AI: Voilà ! La visite dure environ une heure. Bonne découverte !
 
 **Outro:**
-> Nouveau single en vue ! 📱
-> La communauté fan s'emballe.
+> Visite commencée ! 🎨
+> Paris a plus de 200 galeries. Vous avez fait le bon choix !
 >
 
-**Communauté — Les fans [Série 4]**
-AI: T'es dans un groupe de fans ?
-User: Oui, sur WhatsApp ! / Non, pas encore.
-AI: Rejoins le groupe ! On partage tout !
-User: Bonne idée ! Envoie-moi le lien ! / OK, je vais rejoindre !
+**Premier tableau — C'est magnifique ! [Série 2]**
+AI: Voici notre pièce maîtresse — un Matisse de 1923.
+User: C'est magnifique ! / Oh là là, c'est absolument incroyable !
+AI: Henri Matisse était fasciné par la lumière et la couleur.
+User: Je comprends pourquoi ! / C'est tellement vivant et lumineux !
 
 **Outro:**
-> Communauté rejointe ! 👥
-> La suite : Un événement fan arrive.
+> Premier chef-d'œuvre admiré ! 🖼️
+> L'art français, c'est une conversation entre le passé et le présent.
 >
 
 ---
 
-### sim3 : L'Événement Fan
+### sim2 : La Visite
 
-**Goal:** To talk about a fan event and make plans to attend.
+**Goal:** To express artistic opinions and discuss art with a guide using vous.
 
-**📍 Lieu :** En ligne (WhatsApp)
+**📍 Lieu :** Galerie (même endroit)
 
 **intro_text:**
-Il y a un événement fan ce week-end.
-C'est l'occasion de rencontrer d'autres fans !
+Le guide explique chaque œuvre avec passion.
+Posez vos questions, exprimez vos goûts !
 
-**Événement — T'as vu ? [Série 5]**
-User: Il y a une rencontre de fans ce week-end !
-AI: Sérieux ? Où ça ?
-User: À Paris, près des Champs-Élysées ! / Au Palais Royal !
-AI: On y va ! C'est trop bien !
+**Style — Vous aimez quel style ? [Série 3]**
+User: Vous aimez quel style d'art vous-même ?
+AI: J'adore l'impressionnisme ! Monet, Renoir... c'est magique !
+User: Moi aussi ! / Moi, je préfère l'art contemporain.
+AI: Les deux sont magnifiques ! Chaque époque a son propre génie.
 
 **Outro:**
-> Événement planifié ! 🎉
-> Rencontrer d'autres fans, c'est magique.
+> Goût artistique révélé ! 🎭
+> L'impressionnisme est né en France. Une fierté nationale !
 >
 
-**Rencontre — On se retrouve [Série 6]**
-AI: On se retrouve où avant l'événement ?
-User: Devant le métro Concorde ? / Au café d'abord ?
-AI: Parfait ! À quelle heure ?
-User: À 14h ! / À 15h, ça te va ?
+**Guide — Expliquez-moi ! [Série 4]**
+AI: Vous avez des questions sur cette œuvre ?
+User: Oui ! Qu'est-ce que ça représente ? / C'est quelle technique ?
+AI: C'est une scène de vie parisienne du XIXe siècle. Regardez les détails !
+User: Fascinant ! / C'est incroyable comme c'est précis et détaillé !
 
 **Outro:**
-> Rendez-vous fixé ! 📍
-> La communauté fan vous attend !
+> Culture enrichie ! 📚
+> La suite : Partagez cette belle expérience avec un(e) ami(e).
+>
+
+---
+
+### sim3 : Après la Galerie
+
+**Goal:** To share your gallery experience with a French friend at a bistrot using tu.
+
+**📍 Lieu :** Bistrot (Paris, juste à côté de la galerie)
+
+**intro_text:**
+La visite est finie. Tu retrouves ton ami(e) au bistrot.
+Parle de ce que t'as vu. Partage l'émotion !
+
+**Galerie — T'as adoré ? [Série 5]**
+User: J'ai adoré ! Les peintures étaient absolument incroyables !
+AI: T'as un tableau préféré ?
+User: Oui ! Le Matisse ! / Oui, une toile impressionniste magnifique !
+AI: Oh, j'adore Matisse ! T'es devenu(e) fan d'art ?
+
+**Outro:**
+> Amateur(rice) d'art confirmé(e) ! 🎨
+> Paris est une ville-musée. Il y a toujours plus à découvrir.
+>
+
+**Prochain événement — On y retourne ? [Série 6]**
+AI: T'as envie d'aller au musée d'Orsay la prochaine fois ?
+User: Oh oui ! J'adore les impressionnistes ! / Oui, j'adorerais !
+AI: Super ! Et il y a aussi une expo Rodin ce mois-ci au musée Rodin.
+User: C'est parfait ! On y va ce week-end ? / Oui, réservons maintenant !
+
+**Outro:**
+> Agenda culturel bien rempli ! 🗓️
+> L'art de vivre à la française, c'est aussi l'art de s'émerveiller.
 >
 
 ---
