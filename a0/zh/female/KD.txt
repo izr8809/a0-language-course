@@ -1,0 +1,415 @@
+# 🎬 DRAMA/MOVIE (你/casual) >> Chinese Entertainment
+
+# KD-1: 你最近在看什么剧？
+
+- 大分类: Drama/Movie
+- 中分类: Watching Dramas
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Drama Talk Begins
+
+**Goal:** To ask what dramas someone is watching and share your own current watch.
+
+**📍 장소:** 宿舍
+
+**intro_text:**
+It's a lazy Sunday. Your friend texts you out of nowhere.
+The drama conversation is about to begin!
+
+**기 — 看什么剧 [세트 1]**
+AI: 喂！你最近在看什么剧？
+User: 我在看《甄嬛传》！ / 我在看《庆余年》！
+AI: 哦！好看吗？
+User: 超好看！ / 还行，一般般。
+
+**Outro:**
+> Drama discovered! 📺
+> Now find out how far they've watched!
+>
+
+**승 — 看到哪儿了 [세트 2]**
+AI: 你看到哪儿了？
+User: 我看到第10集了！ / 我刚开始看！
+AI: 哦！我也在看！
+User: 真的？你看到哪儿了？
+
+**Outro:**
+> Watching buddies found! 👯
+> Now make sure you don't spoil each other!
+>
+
+---
+
+### sim2: Spoiler Alert
+
+**Goal:** To talk about plot points without spoiling and share reactions.
+
+**📍 장소:** 宿舍 (同一)
+
+**승 — 剧情 [세트 3]**
+User: 你觉得好看吗？
+AI: 好看！剧情很精彩！
+User: 对！我也这么觉得！ / 我觉得有点慢。
+AI: 慢？后面越来越好看！
+
+**Outro:**
+> Opinions shared! 💬
+> Now talk about your favorite character!
+>
+
+**전 — 最喜欢的角色 [세트 4]**
+AI: 你最喜欢哪个角色？
+User: 我最喜欢主角！ / 我最喜欢反派！
+AI: 哦！为什么？
+User: 因为她很厉害！
+
+**Outro:**
+> Character loyalty declared! 🏆
+> Time to make plans to watch together!
+>
+
+---
+
+### sim3: Watch Together
+
+**Goal:** To make plans to watch a drama together and decide on a platform.
+
+**📍 장소:** 微信聊天
+
+**전 — 一起看 [세트 5]**
+AI: 我们一起看吧！
+User: 好啊！在哪儿看？ / 好！用什么平台？
+AI: 用爱奇艺吧！
+User: 好！我有会员！
+
+**Outro:**
+> Platform chosen! 📱
+> Now set a time and make it official!
+>
+
+**결 — 约好了 [세트 6]**
+User: 什么时候看？
+AI: 今晚八点怎么样？
+User: 好！说好了！
+AI: 不见不散！
+
+**Outro:**
+> Drama date confirmed! 🎬
+> Tonight's going to be epic. Don't forget the snacks!
+>
+
+---
+
+# KD-2: 我喜欢这个演员
+
+- 大分类: Drama/Movie
+- 中分类: Favorite Actor
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Actor Obsession
+
+**Goal:** To talk about your favorite actor and share why you like them.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+You just finished a drama and you can't stop thinking about the lead actor.
+Time to gush about it with your friend!
+
+**기 — 喜欢的演员 [세트 1]**
+AI: 你最喜欢哪个演员？
+User: 我最喜欢肖战！ / 我最喜欢赵丽颖！
+AI: 哦！为什么喜欢她？
+User: 因为她演技很好！
+
+**Outro:**
+> Stan declared! ⭐
+> Now find out what they've been in!
+>
+
+**승 — 作品 [세트 2]**
+AI: 她演过什么？
+User: 她演过《陈情令》！ / 她演过很多剧！
+AI: 哦！我看过！很好看！
+User: 对！超好看！
+
+**Outro:**
+> Shared taste confirmed! 🎭
+> Now talk about their latest project!
+>
+
+---
+
+### sim2: Latest News
+
+**Goal:** To discuss the actor's latest drama or movie and share excitement.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**승 — 最新作品 [세트 3]**
+User: 她最近有新剧吗？
+AI: 有！新剧下个月播！
+User: 真的？叫什么名字？ / 真的？什么时候？
+AI: 叫《___》！很期待！
+
+**Outro:**
+> New drama incoming! 📅
+> Now check if your friend is going to watch it too!
+>
+
+**전 — 一起追剧 [세트 4]**
+AI: 你会看吗？
+User: 当然！一定看！ / 应该会看！
+AI: 我们一起追吧！
+User: 好啊！说好了！
+
+**Outro:**
+> Drama squad assembled! 📺
+> Now talk about what you love most about this actor!
+>
+
+---
+
+### sim3: Deep Fan Talk
+
+**Goal:** To share deeper feelings about the actor and talk about fan culture.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**전 — 粉丝文化 [세트 5]**
+AI: 你是她的粉丝吗？
+User: 是！超级粉丝！ / 算是吧！
+AI: 你有没有在微博关注她？
+User: 有！天天刷！ / 有！但不常看。
+
+**Outro:**
+> Fan status confirmed! 🌟
+> One last thing — would you go to a fan meet?
+>
+
+**결 — 粉丝见面会 [세트 6]**
+User: 你想去粉丝见面会吗？
+AI: 想！超想去！
+User: 我也想！一起去吧！
+AI: 好！到时候一起！
+
+**Outro:**
+> Fan meet plans made! 🎤
+> You're officially a drama fan. Welcome to the fandom!
+>
+
+---
+
+# KD-3: 我们去看电影吧
+
+- 大分类: Drama/Movie
+- 中分类: Going to Movies
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Picking a Movie
+
+**Goal:** To suggest going to the movies and agree on what to watch.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+It's the weekend and you're bored.
+Time to drag your friend to the cinema!
+
+**기 — 看什么电影 [세트 1]**
+AI: 周末一起去看电影吧！
+User: 好啊！看什么？
+AI: 看动作片怎么样？
+User: 好！我喜欢动作片！ / 好！随便！
+
+**Outro:**
+> Movie genre chosen! 🎬
+> Now figure out which specific movie to watch!
+>
+
+**승 — 选电影 [세트 2]**
+AI: 你想看哪部？
+User: 我想看《流浪地球》！ / 我想看新出的那部！
+AI: 好！我也想看！几点的场？
+User: 晚上七点的！
+
+**Outro:**
+> Movie selected! 🍿
+> Now buy the tickets before they sell out!
+>
+
+---
+
+### sim2: Buying Tickets
+
+**Goal:** To buy movie tickets and choose seats.
+
+**📍 장소:** 电影院
+
+**승 — 买票 [세트 3]**
+User: 两张《流浪地球》的票！
+AI: 好的！要几点的场？
+User: 晚上七点的！ / 七点半的！
+AI: 好！选座位！
+
+**Outro:**
+> Tickets in hand! 🎫
+> Now pick the best seats in the house!
+>
+
+**전 — 选座位 [세트 4]**
+AI: 要中间的还是旁边的？
+User: 中间的！ / 后排的！
+AI: 好！一共80块！
+User: 好！微信支付！
+
+**Outro:**
+> Seats secured! 🪑
+> Popcorn time — the movie is about to start!
+>
+
+---
+
+### sim3: At the Cinema
+
+**Goal:** To buy snacks and enjoy the movie experience.
+
+**📍 장소:** 电影院 (同一)
+
+**전 — 买零食 [세트 5]**
+AI: 要买爆米花吗？
+User: 要！大桶的！ / 要！小桶的！
+AI: 还要饮料吗？
+User: 要可乐！ / 要矿泉水！
+
+**Outro:**
+> Snacks loaded! 🍿
+> The movie is starting — time to enjoy!
+>
+
+**결 — 看完了 [세트 6]**
+User: 电影怎么样？
+AI: 超好看！特效很厉害！
+User: 对！我也觉得！
+AI: 下次还来！
+
+**Outro:**
+> Movie night: Complete! 🎉
+> You watched, snacked, and bonded. Cinema pro status achieved!
+>
+
+---
+
+# KD-4: 你觉得结局怎么样？
+
+- 大分类: Drama/Movie
+- 中分类: Discussing Endings
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: The Ending Debate
+
+**Goal:** To share your opinion on a drama ending and hear your friend's take.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+You just finished the drama. The ending hit different.
+Time to process it with your friend!
+
+**기 — 结局 [세트 1]**
+AI: 你看完了吗？结局怎么样？
+User: 看完了！结局很好！ / 看完了！结局太虐了！
+AI: 对！我也这么觉得！
+User: 你喜欢结局吗？
+
+**Outro:**
+> Opinions flying! 💬
+> Now get into the details — what exactly happened?
+>
+
+**승 — 剧情讨论 [세트 2]**
+AI: 你觉得最后那一幕怎么样？
+User: 太感动了！ / 太难过了！
+AI: 我也哭了！
+User: 真的？我也哭了！
+
+**Outro:**
+> Tears confirmed! 😭
+> Now talk about what you wish had happened differently!
+>
+
+---
+
+### sim2: What If?
+
+**Goal:** To discuss alternative endings and share what you wished had happened.
+
+**📍 장소:** 微信聊天 (同一)
+
+**승 — 如果是你 [세트 3]**
+User: 你希望结局怎么样？
+AI: 我希望他们在一起！
+User: 我也是！ / 我觉得这样更好！
+AI: 编剧太狠了！
+
+**Outro:**
+> Alternate ending imagined! ✨
+> Now rate the whole drama!
+>
+
+**전 — 打分 [세트 4]**
+AI: 你给这部剧打几分？
+User: 我给9分！ / 我给8分！
+AI: 我给10分！太好看了！
+User: 哈哈！你是真爱粉！
+
+**Outro:**
+> Ratings submitted! ⭐
+> Time to decide — would you recommend it?
+>
+
+---
+
+### sim3: Recommend or Not?
+
+**Goal:** To decide whether to recommend the drama and suggest the next one to watch.
+
+**📍 장소:** 微信聊天 (同一)
+
+**전 — 推荐吗 [세트 5]**
+AI: 你会推荐给别人吗？
+User: 会！强烈推荐！ / 会！但要有心理准备！
+AI: 哈哈！对！要准备好纸巾！
+User: 对！哭死了！
+
+**Outro:**
+> Recommendation made! 📢
+> Now what's next on the watch list?
+>
+
+**결 — 下一部 [세트 6]**
+User: 下一部看什么？
+AI: 看《山河令》怎么样？
+User: 好！听说很好看！
+AI: 我们一起追！
+
+**Outro:**
+> Next drama locked in! 📺
+> The binge-watching never ends. You're a true drama fan now!
+>
+
+---
+
+# 💼 CAREER (您/formal) >> Chinese Workplace

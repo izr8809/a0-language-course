@@ -23,7 +23,7 @@ Primera vez que se conocen en la Ciudad de México.
 ¡Respira hondo... y saluda!
 
 **Apertura — Primer Saludo [Set 1]**
-AI: ¡Hola! Soy Sofía. ¿Cómo te llamas?
+AI: ¡Hola! Soy Alex. ¿Cómo te llamas?
 User: ¡Hola! Me llamo ___. / ¡Hola! Soy ___.
 AI: ¡Mucho gusto! ¿De dónde eres?
 User: ¡Soy de ___!
@@ -57,7 +57,7 @@ Siguen hablando. ¡Buena señal!
 Es hora de ver qué tienen en común.
 
 **Pasatiempos — ¿Qué te gusta hacer? [Set 3]**
-User: Sofía, ¿qué te gusta hacer?
+User: Alex, ¿qué te gusta hacer?
 AI: ¿A mí? ¡Me gusta la música! ¿Y a ti?
 User: ¡A mí también! / ¡Me gustan las películas!
 AI: ¿En serio? ¿Música mexicana?

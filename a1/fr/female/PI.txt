@@ -1,0 +1,414 @@
+# 💖 VIE PERSONNELLE (tu) >> La vie française
+
+# PI-5: On va manger ensemble ?
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Choisir un endroit
+
+**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** Rue dans Le Marais
+
+**intro_text:**
+Lunchtime in Paris. Endless choices. What are we eating?
+
+**기 — On mange quoi ? [세트 1]**
+User: J'ai faim ! On mange quoi ?
+AI: Moi aussi ! T'as envie de quoi ?
+User: J'ai envie d'un steak-frites ! / Un steak-frites !
+AI: Oui ! Je connais un super endroit. Allons-y !
+
+**Outro:**
+> Steak-frites it is! 🥩 Now, how far is this bistrot?
+> Your appetite is officially activated.
+>
+
+**승 — On y va comment ? [세트 2]**
+AI: C'est à deux minutes à pied ! On y va ?
+User: Oui, allons-y ! / C'est loin ?
+AI: Non, c'est tout près ! Cinq minutes max.
+User: Super, j'arrive !
+
+**Outro:**
+> Just a short walk! 🚶 The smell of frites is already calling.
+> Almost there — save room for dessert.
+>
+
+---
+
+### sim2: Au bistrot
+
+**Goal:** To order food together and enjoy a proper Parisian lunch like a local.
+
+**📍 장소:** Bistrot dans Le Marais
+
+**intro_text:**
+You're here. The chalkboard menu looks amazing.
+
+**승 — Au comptoir [세트 3]**
+AI: On est là ! C'est sympa, non ?
+User: Ouais, j'adore ! / Il y a du monde !
+AI: Qu'est-ce qu'on prend ? Voilà la carte !
+User: Un steak-frites pour moi ! / Et une entrecôte !
+
+**Outro:**
+> Order placed! 🍽️ Now the real question — who's grilling the steak?
+> The waiter is already impressed by your French.
+>
+
+**전 — On mange [세트 4]**
+AI: C'est trop bon, non ?
+User: Ouais, c'est délicieux ! / J'adore cet endroit !
+AI: Les frites sont incroyables ici !
+User: Vraiment ! / On reviendra !
+
+**Outro:**
+> That hit the spot! 😋 But now comes the awkward part — who pays?
+> Brace yourself for the French bill standoff.
+>
+
+---
+
+### sim3: Après le repas
+
+**Goal:** To handle the bill gracefully and make plans to keep the afternoon going.
+
+**📍 장소:** Bistrot → rue du Marais
+
+**전 — L'addition [세트 5]**
+User: Je paye !
+AI: Non, on partage !
+User: Non, c'est pour moi aujourd'hui !
+AI: Vraiment ? Merci ! La prochaine fois, c'est moi !
+
+**Outro:**
+> You paid! 😎 Smooth move. Now what — coffee?
+> The hangout isn't over yet. Round two incoming.
+>
+
+**결 — La suite [세트 6]**
+AI: On fait quoi maintenant ?
+User: On prend un café ? / On se balade un peu ?
+AI: Bonne idée ! Allons-y !
+User: Allons-y !
+
+**Outro:**
+> Coffee and a stroll through Le Marais — perfect afternoon! ☕
+> A great hangout deserves a great ending.
+>
+
+---
+
+# PI-6: C'est grâce à toi que j'apprends le français
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: On se confie
+
+**Goal:** To open up about why you're learning French and feel genuinely supported by your friend.
+
+**📍 장소:** Café (Le Marais)
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Pourquoi le français ? [세트 1]**
+AI: Tu apprends le français depuis longtemps ?
+User: Pas vraiment ! J'ai commencé il y a six mois. / Depuis quelques mois !
+AI: Ah bon ? Et pourquoi le français ?
+User: Pour me faire des amis ici ! / Pour comprendre les films !
+
+**Outro:**
+> Six months in and already having real conversations! 🌟
+> But how's life in Paris, really? Time to get honest.
+>
+
+**승 — La vie à Paris [세트 2]**
+AI: La vie à Paris, c'est comment pour toi ?
+User: C'est bien, mais parfois c'est dur. / Je me sens seule des fois.
+AI: C'est normal ! Si t'as besoin, tu peux me parler !
+User: Merci. / Oui, je sais.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Les encouragements
+
+**Goal:** To reflect on your progress in French and feel genuinely motivated to keep going.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Tu progresses ! [세트 3]**
+AI: Au début, c'était comment d'apprendre le français ?
+User: C'était vraiment difficile ! / Je ne comprenais rien !
+AI: Mais là, tu parles super bien !
+User: Tu crois ? Merci ! / J'ai encore beaucoup à apprendre.
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now — a confession that changes everything.
+>
+
+**전 — La vraie raison [세트 4]**
+User: C'est grâce à toi que j'apprends mieux le français.
+AI: Vraiment ? Ça me touche !
+User: C'est vrai !
+AI: Moi aussi, j'ai envie d'apprendre ta langue grâce à toi !
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: De vrais amis
+
+**Goal:** To realize how quickly this friendship grew and lock in the next hangout.
+
+**📍 장소:** Café (même endroit)
+
+**전 — Déjà combien de temps ? [세트 5]**
+AI: On se connaît depuis combien de temps déjà ?
+User: Un mois ? / Déjà deux mois !
+AI: Le temps passe vite !
+User: C'est vrai !
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — On se revoit [세트 6]**
+AI: On se voit souvent, hein !
+User: Bien sûr !
+AI: On fait quelque chose la semaine prochaine !
+User: Oui ! Écris-moi !
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Paris life just got a whole lot better.
+>
+
+---
+
+# PI-7: Tu as un problème ?
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Quelque chose ne va pas
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** Café (Canal Saint-Martin)
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — Ça va pas ? [세트 1]**
+AI: T'as l'air pas bien ces derniers temps. Il se passe quoi ?
+User: C'est un peu dur en ce moment. / J'ai un truc qui me pèse.
+AI: C'est quoi ? Tu peux me dire.
+User: La vie à Paris, c'est parfois compliqué. / J'ai trop de boulot.
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — T'écoute [세트 2]**
+AI: C'est quoi le truc le plus dur ?
+User: Je me retrouve souvent seule. / Le français, c'est encore difficile.
+AI: C'est dur, ça.
+User: Ouais, un peu.
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Un peu d'air frais
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** Café → Quais de Seine
+
+**승 — Un conseil [세트 3]**
+AI: Arrête de tout garder pour toi. Parle-moi !
+User: Merci. / D'accord.
+AI: T'as besoin de te changer les idées. On sort !
+User: Où ça ? / Bonne idée !
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> The Seine has a way of making everything feel better.
+>
+
+**전 — Dehors [세트 4]**
+AI: On va se balader au bord de la Seine ! Ça fait du bien !
+User: Ouais, allons-y !
+AI: On s'achète un truc à manger en chemin ?
+User: Bonne idée ! / On passe à la boulangerie !
+
+**Outro:**
+> Boulangerie snacks + Seine riverside = perfect combo! 🥐 Let's go.
+> The best conversations happen by the water.
+>
+
+---
+
+### sim3: Ça va mieux
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** Quais de Seine
+
+**전 — Ça va mieux ? [세트 5]**
+AI: Tu te sens mieux ?
+User: Oui, beaucoup mieux ! / Grâce à toi !
+AI: Tant mieux !
+User: Vraiment merci.
+
+**Outro:**
+> From stressed to refreshed! 🌊 The Seine delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — Toujours là [세트 6]**
+AI: Si ça va pas, tu m'appelles, d'accord !
+User: Oui, promis !
+AI: C'est une promesse !
+User: Promis !
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Paris life is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: On part en voyage ?
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Où on va ?
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** Café (Paris)
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — Un voyage ! [세트 1]**
+User: T'as des plans pour le week-end prochain ?
+AI: Pas encore ! Pourquoi ?
+User: On part en voyage ensemble ?
+AI: Trop bien ! Où ça ?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Lyon, Nice, or Bretagne? The debate begins.
+>
+
+**승 — On choisit [세트 2]**
+User: Lyon, ça te dit ? / J'ai envie d'aller à Nice !
+AI: Bonne idée ! J'ai toujours voulu y aller !
+AI: On part combien de jours ?
+User: Un week-end ? / Deux nuits ?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: On organise
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** Café (même endroit)
+
+**승 — Comment on y va ? [세트 3]**
+AI: On prend quoi ? Le TGV ? La voiture ?
+User: Le TGV ! / C'est cher le TGV ?
+AI: C'est rapide et pas trop cher ! Deux heures pour Lyon !
+User: Parfait !
+
+**Outro:**
+> TGV it is! 🚄 Fast, comfortable, and very French.
+> Next up: where are we sleeping?
+>
+
+**전 — L'hébergement [세트 4]**
+AI: On dort où ? Hôtel ou Airbnb ?
+User: Airbnb ! C'est moins cher ! / L'hôtel, c'est plus confortable non ?
+AI: Je réserve un Airbnb !
+User: Super, merci !
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: L'excitation monte
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** Café (même endroit)
+
+**전 — Qu'est-ce qu'on fait ? [세트 5]**
+User: Qu'est-ce que tu veux faire là-bas ?
+AI: Je veux visiter le Vieux-Lyon ! Et toi ?
+User: Moi, je veux manger des quenelles ! / Je veux me balader !
+AI: Parfait ! On fait tout ça !
+
+**Outro:**
+> The itinerary is basically writing itself! 🌆 Old town, local food, strolling — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — Vivement le départ ! [세트 6]**
+AI: J'ai trop hâte !
+User: Moi aussi ! On part vite !
+AI: Prépare ta valise ! On se retrouve là-bas !
+User: D'accord !
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> Lyon is waiting — and so is the best quenelle of your life.
+>
+
+---
+
+# ✈️ VOYAGES (vous — poli) >> La France en voyage

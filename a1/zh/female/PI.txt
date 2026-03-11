@@ -1,0 +1,412 @@
+# PI-5: 咱们去吃饭吧！
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 选地方
+
+**Goal:** To suggest a meal idea, agree on a spot, and figure out how to get there with your friend.
+
+**📍 장소:** 三里屯街头
+
+**intro_text:**
+Lunchtime in Beijing. Endless options. What are we eating?
+
+**기 — 吃什么 [세트 1]**
+User: 我饿了！吃什么好？
+AI: 我也饿了！你想吃什么？
+User: 想吃烤肉！/ 吃烤肉怎么样？
+AI: 好啊！我知道一家超好吃的！走吧！
+
+**Outro:**
+> Kǎoròu it is! 🥩 Now, how far is this place?
+> Your stomach is already counting down.
+>
+
+**승 — 怎么去 [세트 2]**
+AI: 就在附近！走路去吧！
+User: 好！要走多久？/ 走路去啊？
+AI: 五分钟就到了！走吧！
+User: 好的！
+
+**Outro:**
+> Five minutes away! 🚶 The smell of grilling meat is basically pulling you there.
+> Almost there — let's go!
+>
+
+---
+
+### sim2: 在餐厅
+
+**Goal:** To order food together and enjoy the meal like a true Beijing local.
+
+**📍 장소:** 烤肉店里
+
+**intro_text:**
+You're here. The place looks packed. That's always a good sign.
+
+**승 — 点菜 [세트 3]**
+AI: 到了！怎么样？
+User: 哇，不错！/ 人好多！
+AI: 点什么？这是菜单！
+User: 烤肉两人份！/ 再来个凉菜！
+
+**Outro:**
+> Order placed! 🥩 Now comes the most important question in China...
+> Who's in charge of the grill? The real power move starts now.
+>
+
+**전 — 吃饭 [세트 4]**
+AI: 我来烤吧！
+User: 好，你来！/ 我来烤！
+AI: 超好吃！
+User: 真的超好吃！/ 这家找对了！
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
+> Brace yourself — the Chinese bill fight is legendary.
+>
+
+---
+
+### sim3: 吃完了
+
+**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+
+**📍 장소:** 烤肉店里 → 店外街头
+
+**전 — 结账 [세트 5]**
+User: 我来付！
+AI: 不行，一起付！
+User: 不用，今天我请！
+AI: 真的？谢谢！下次我请！
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — 下一站 [세트 6]**
+AI: 吃饱了！现在去哪儿？
+User: 去喝奶茶？/ 走走消化一下？
+AI: 好，走吧！
+User: 走！
+
+**Outro:**
+> Food coma incoming! 🧋 Time to grab some milk tea and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---
+
+# PI-6: 我学中文是因为你
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 说真心话
+
+**Goal:** To open up about why you're learning Chinese and feel supported by your friend's encouragement.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — 深聊 [세트 1]**
+AI: 你为什么学中文？
+User: 想交中国朋友！/ 想看中国剧！
+AI: 哦，真的？你现在学得挺好的！
+User: 还不行呢。/ 真的？谢谢！
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life in China, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — 在中国的生活 [세트 2]**
+AI: 在中国生活有没有觉得难的地方？
+User: 有时候很难受。/ 中文还不好。
+AI: 难受的时候跟我说！
+User: 谢谢。/ 好，我会的。
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: 互相鼓励
+
+**Goal:** To reflect on how far you've come with Chinese and feel genuinely motivated to keep going.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**승 — 加油 [세트 3]**
+AI: 你刚开始学中文的时候怎么样？
+User: 真的好难！/ 什么都不懂。
+AI: 但是你现在这么厉害了！
+User: 是吗？谢谢！/ 还差很多呢。
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — 感动 [세트 4]**
+User: 因为你，我更想学中文！
+AI: 真的？好感动！
+User: 是真的！
+AI: 我也想因为你学英文！
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: 真朋友
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**전 — 认识多久了 [세트 5]**
+AI: 咱们认识多久了？
+User: 一个月了？/ 都两个月了！
+AI: 时间过得真快！
+User: 对啊！
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — 约好了 [세트 6]**
+AI: 以后要常见面！
+User: 当然！
+AI: 下周一起做点什么！
+User: 好！到时候联系！
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life in China just got a whole lot better.
+>
+
+---
+
+# PI-7: 你最近有烦恼？
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 有点不对劲
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — 烦恼 [세트 1]**
+AI: 你最近看起来不太开心。怎么了？
+User: 有点难受。/ 有点烦恼。
+AI: 什么烦恼？说说看。
+User: 在中国生活有点难。/ 事情太多了。
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — 倾听 [세트 2]**
+AI: 哪方面最难？
+User: 一个人的时间太多了。/ 中文还是很难。
+AI: 你一定很辛苦。
+User: 嗯，有点。
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: 给建议
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 장소:** 咖啡馆 → 后海
+
+**승 — 建议 [세트 3]**
+AI: 别一个人想太多。跟我说！
+User: 谢谢。/ 好的。
+AI: 要不要出去散散心？走吧！
+User: 去哪儿？/ 好啊！
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Houhai has a way of making everything feel better.
+>
+
+**전 — 出去走走 [세트 4]**
+AI: 去后海吧！吹吹风心情会好一点！
+User: 好，走吧！
+AI: 要不要买点吃的带着？
+User: 好啊！/ 去便利店吧！
+
+**Outro:**
+> Convenience store snacks + Houhai = perfect combo! 🍜 Let's go.
+> The best conversations happen by the water.
+>
+
+---
+
+### sim3: 好多了
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 장소:** 后海边
+
+**전 — 心情好多了 [세트 5]**
+AI: 心情好一点了吗？
+User: 嗯，好多了！/ 谢谢你！
+AI: 太好了！
+User: 真的谢谢你。
+
+**Outro:**
+> From stressed to refreshed! 🌊 Houhai delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — 随时找我 [세트 6]**
+AI: 难受的时候随时找我！
+User: 嗯，好的！
+AI: 说好了！
+User: 说好了！
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Life in China is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: 咱们一起去旅行吧？
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 去哪儿
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — 旅行提议 [세트 1]**
+User: 下周小长假你有什么计划？
+AI: 还没有！怎么了？
+User: 一起去旅行吧？
+AI: 太好了！去哪儿？
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Xiamen or Chengdu? The debate begins.
+>
+
+**승 — 定目的地 [세트 2]**
+User: 去厦门怎么样？/ 想去成都！
+AI: 好啊！我也一直想去！
+AI: 去几天？
+User: 两天一夜？/ 三天两夜？
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: 计划行程
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**승 — 怎么去 [세트 3]**
+AI: 怎么去？坐高铁还是飞机？
+User: 坐高铁吧！/ 飞机贵吗？
+AI: 高铁便宜！两个小时就到了！
+User: 好！
+
+**Outro:**
+> High-speed rail it is! 🚄 Fast, cheap, and very Chinese.
+> Next up: where are we sleeping?
+>
+
+**전 — 住哪儿 [세트 4]**
+AI: 住哪儿？酒店还是民宿？
+User: 住民宿吧！便宜！/ 酒店比较方便？
+AI: 我来订民宿！
+User: 好，谢谢！
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: 好期待
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 장소:** 咖啡馆（同一地点）
+
+**전 — 期待 [세트 5]**
+User: 到了厦门想做什么？
+AI: 想去鼓浪屿！你呢？
+User: 我想吃海鲜！/ 想逛老街！
+AI: 好！都去！
+
+**Outro:**
+> The itinerary is basically writing itself! 🌊 Island, seafood, old streets — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — 出发 [세트 6]**
+AI: 好期待！
+User: 我也是！快点出发！
+AI: 到时候见！把行李收拾好！
+User: 好的！
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> China is waiting — and so is the best seafood of your life.
+>
+
+---
+
+# ✈️ 旅行（您/礼貌用语）>> 中国旅行

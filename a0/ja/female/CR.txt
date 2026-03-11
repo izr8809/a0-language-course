@@ -1,0 +1,308 @@
+# 💼 CAREER (敬語) >> Japanese Workplace
+
+# CR-1: はじめまして、___と もうします
+
+- 大分類: Career
+- 中分類: Self-Introduction / Business Card
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: First Day Introduction
+
+**Goal:** To introduce yourself formally on your first day at a Japanese company.
+
+**📍 場所:** かいしゃ (会議室)
+
+**intro_text:**
+First day at a Japanese company.
+Time to make a great first impression!
+
+**起 — じこしょうかい [セット 1]**
+AI: はじめまして！___と もうします。よろしく おねがいします。
+User: はじめまして！わたしは ___と もうします。よろしく おねがいします。
+AI: ___さんは どちらから いらっしゃいましたか？
+User: ___から まいりました。
+
+**Outro:**
+> Introduction: Nailed it! 🤝
+> But wait... time to exchange business cards!
+>
+
+**承 — めいし [セット 2]**
+AI: こちら、わたしの めいしです。どうぞ。
+User: ありがとうございます。わたしの めいしも どうぞ。
+AI: ありがとうございます。___さんは どの ぶしょですか？
+User: えいぎょうぶです。 / かいはつぶです。
+
+**Outro:**
+> Business cards exchanged! 💼
+> Now, find out more about your new colleague.
+>
+
+---
+
+### sim2: Getting to Know the Office
+
+**Goal:** To ask about the office layout and daily routines.
+
+**📍 場所:** かいしゃ (オフィス)
+
+**承 — オフィス [セット 3]**
+AI: ランチは どこで たべますか？
+User: ちかくの しょくどうで たべます。 / べんとうを もってきます。
+AI: そうですか。いっしょに いきませんか？
+User: ぜひ！よろしく おねがいします。
+
+**Outro:**
+> Lunch buddy: Found! 🍱
+> Now, ask about the daily schedule.
+>
+
+**転 — スケジュール [セット 4]**
+AI: なんじに しごとが はじまりますか？
+User: 9じに はじまります。 / 8じはんに はじまります。
+AI: そうですか。なんじに おわりますか？
+User: 6じに おわります。 / ときどき おそくなります。
+
+**Outro:**
+> Schedule confirmed! 📅
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: End of First Day
+
+**Goal:** To wrap up the first day and say goodbye to colleagues.
+
+**📍 場所:** かいしゃ (オフィス)
+
+**転 — おわり [セット 5]**
+AI: きょうは おつかれさまでした！
+User: おつかれさまでした！ありがとうございました。
+AI: わからない ことが あったら きいてください。
+User: はい、ありがとうございます。よろしく おねがいします。
+
+**Outro:**
+> First day: Survived! 💪
+> Now, say goodbye properly!
+>
+
+**結 — さようなら [セット 6]**
+AI: おさきに しつれいします。
+User: おつかれさまでした！
+AI: また あした！
+User: はい、また あした！よろしく おねがいします。
+
+**Outro:**
+> First day: Complete! 🎉
+> Next up: Time to report to your boss!
+>
+
+---
+
+# CR-2: ほうこく いたします
+
+- 大分類: Career
+- 中分類: Reporting to Boss
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Morning Report
+
+**Goal:** To give a morning status report to your supervisor.
+
+**📍 場所:** かいしゃ (上司の デスク)
+
+**intro_text:**
+Monday morning. Your boss is at their desk.
+Time to give your weekly report!
+
+**起 — ほうこく [セット 1]**
+AI: おはようございます！___さん、すこし よろしいですか？
+User: はい、どうぞ。
+AI: せんしゅうの しごとに ついて ほうこく いたします。
+User: はい、どうぞ。
+
+**Outro:**
+> Report started! 📊
+> But wait... what's the actual update?
+>
+
+**承 — しごとの じょうきょう [セット 2]**
+AI: プロジェクトは じゅんちょうです。
+User: そうですか。もんだいは ありますか？
+AI: いいえ、もんだいは ありません。 / はい、すこし もんだいが あります。
+User: わかりました。つづけてください。
+
+**Outro:**
+> Status: Reported! ✅
+> Now, ask about the next steps.
+>
+
+---
+
+### sim2: Asking for Instructions
+
+**Goal:** To ask your supervisor for instructions on the next task.
+
+**📍 場所:** かいしゃ (上司の デスク, 同じ)
+
+**承 — しじ [セット 3]**
+User: すみません。つぎは なにを すれば よいですか？
+AI: この しりょうを まとめてください。
+User: はい、わかりました。いつまでに ですか？
+AI: もくようびまでに おねがいします。
+
+**Outro:**
+> Instructions received! 📋
+> Now, confirm you understand.
+>
+
+**転 — かくにん [セット 4]**
+User: もくようびまでに しりょうを まとめます。よろしいですか？
+AI: はい、よろしく おねがいします。
+User: ありがとうございます。がんばります。
+AI: よろしく おねがいします。
+
+**Outro:**
+> Task confirmed! 💼
+> Almost done — just one more thing.
+>
+
+---
+
+### sim3: End of Day Report
+
+**Goal:** To give an end-of-day report and ask if there's anything else needed.
+
+**📍 場所:** かいしゃ (上司の デスク)
+
+**転 — おわりの ほうこく [セット 5]**
+User: ___さん、きょうの しごとが おわりました。
+AI: おつかれさまでした。どうでしたか？
+User: じゅんちょうでした。しりょうも できました。
+AI: そうですか。ありがとうございます。
+
+**Outro:**
+> Day's work: Reported! 📊
+> Now, wrap up and head home!
+>
+
+**結 — おわり [セット 6]**
+User: ほかに なにか ありますか？
+AI: いいえ、だいじょうぶです。おつかれさまでした。
+User: おつかれさまでした。おさきに しつれいします。
+AI: おつかれさまでした！
+
+**Outro:**
+> Work day: Complete! 🎉
+> Next up: Time for the big meeting!
+>
+
+---
+
+# CR-3: かいぎを はじめます
+
+- 大分類: Career
+- 中分類: Meeting
+- 難易度: A0 (Absolute Beginner)
+- 12ターン (6セット, 3sim)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 場所:** かいしゃ (会議室)
+
+**intro_text:**
+The meeting room is filling up.
+Time to show them you're prepared!
+
+**起 — かいぎの じゅんび [セット 1]**
+AI: ___さん、かいぎの じゅんびは できていますか？
+User: はい、できています。 / もうすこし まってください。
+AI: しりょうは ありますか？
+User: はい、こちらです。 / いま プリントしています。
+
+**Outro:**
+> Preparation: Confirmed! 📋
+> But wait... is everyone here?
+>
+
+**承 — かいぎ かいし [セット 2]**
+AI: では、かいぎを はじめます。よろしく おねがいします。
+User: よろしく おねがいします。
+AI: きょうの ぎだいは ___です。
+User: はい、わかりました。
+
+**Outro:**
+> Meeting started! 🤝
+> Now, time to present your ideas!
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To present an idea and respond to questions in a meeting.
+
+**📍 場所:** かいしゃ (会議室, 同じ)
+
+**承 — はっぴょう [セット 3]**
+AI: ___さん、いけんを きかせてください。
+User: はい。わたしは ___が いいと おもいます。
+AI: そうですか。りゆうは なんですか？
+User: ___だからです。
+
+**Outro:**
+> Opinion shared! 💡
+> Now, respond to a question.
+>
+
+**転 — しつもん [セット 4]**
+AI: ___さん、しつもんが あります。
+User: はい、どうぞ。
+AI: この けいかくは いつ はじまりますか？
+User: らいげつから はじまります。 / まだ きまっていません。
+
+**Outro:**
+> Question answered! ✅
+> Almost done — just wrap up the meeting!
+>
+
+---
+
+### sim3: End of Meeting
+
+**Goal:** To wrap up a meeting and confirm next steps.
+
+**📍 場所:** かいしゃ (会議室)
+
+**転 — まとめ [セット 5]**
+AI: では、まとめます。つぎの ステップは ___です。
+User: はい、わかりました。
+AI: なにか しつもんは ありますか？
+User: いいえ、だいじょうぶです。 / はい、ひとつ あります。
+
+**Outro:**
+> Summary: Done! 📋
+> Now, close the meeting properly!
+>
+
+**結 — かいぎ しゅうりょう [セット 6]**
+AI: では、かいぎを おわります。おつかれさまでした。
+User: おつかれさまでした。ありがとうございました。
+AI: つぎの かいぎは らいしゅうです。よろしく おねがいします。
+User: はい、よろしく おねがいします。
+
+**Outro:**
+> Meeting complete! 🎉
+> You've mastered the Japanese workplace. Next up: The world is yours!
+>

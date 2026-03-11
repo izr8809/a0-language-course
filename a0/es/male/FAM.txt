@@ -1,0 +1,447 @@
+# 👨‍👩‍👧 FAMILIA Y COMUNIDAD (tú) >> Vida Social en LATAM
+
+# FAM-1: Mi Familia
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Presentación de Familia
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Foto de Familia
+
+**Goal:** To introduce your family using a photo.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+¡Tienes una foto de tu familia!
+¿Cuántos son en tu familia?
+
+**¡Fotos! [Set 1]**
+AI: ¡Hola! ¿Esa es tu familia?
+User: ¡Sí, es mi familia! / ¡No, es una foto vieja!
+AI: ¡Qué chida! ¿Son muchos?
+User: Sí, somos cinco. / No, somos tres.
+
+**Outro:**
+> ¡Foto compartida! 📸
+> Hay más personas que presentar.
+>
+
+**¿Quiénes son? [Set 2]**
+AI: ¿Quién es ella?
+User: Es mi mamá. / Es mi hermana.
+AI: ¡Qué bonita familia!
+User: ¡Gracias!
+
+**Outro:**
+> ¡Familia presentada! 👨‍👩‍👧‍👦
+> Ahora habla de tus hermanos.
+>
+
+---
+
+### sim2: Los Hermanos
+
+**Goal:** To talk about your siblings.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+Cuéntale sobre tus hermanos.
+¡Es fácil!
+
+**¿Tienes hermanos? [Set 3]**
+AI: ¿Tienes hermanos?
+User: Sí, tengo un hermano. / No, soy hijo único.
+AI: ¿Cuántos años tiene?
+User: Tiene doce años. / Tiene veinte años.
+
+**Outro:**
+> ¡Hermano presentado! 👦
+> ¿Es mayor o menor que tú?
+>
+
+**¿Mayor o menor? [Set 4]**
+AI: ¿Es mayor que tú?
+User: Sí, es mayor. / No, es menor.
+AI: ¡Órale! ¿Y se llevan bien?
+User: Sí, muy bien. / Más o menos.
+
+**Outro:**
+> ¡Hermanos descritos! 👫
+> Ahora habla de los abuelos.
+>
+
+---
+
+### sim3: Los Abuelos
+
+**Goal:** To talk about your grandparents.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+Los abuelos son muy importantes.
+¡Cuéntame sobre los tuyos!
+
+**Los abuelos [Set 5]**
+AI: ¿Viven tus abuelos contigo?
+User: Sí, viven aquí. / No, viven en Guadalajara.
+AI: ¡Qué padre! ¿Los ves mucho?
+User: Sí, los veo los domingos. / No mucho.
+
+**Outro:**
+> ¡Abuelos presentados! 👴👵
+> ¡Ya casi terminas!
+>
+
+**¡Cuánta familia! [Set 6]**
+AI: ¿Te gustan las reuniones de familia?
+User: Sí, me encantan. / Más o menos.
+AI: ¡Órale! Las familias mexicanas son muy unidas.
+User: ¡Sí, es verdad!
+
+**Outro:**
+> ¡Familia completa! 🎉
+> Lo siguiente: El mercado con mamá.
+>
+
+---
+
+# FAM-2: El Mercado con Mamá
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Mercado / Compras
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Lista del Mercado
+
+**Goal:** To make a shopping list with mom.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+¡Hoy vas al mercado con mamá!
+¿Qué necesitan comprar?
+
+**¿Qué necesitamos? [Set 1]**
+AI: ¡Mijo, necesitamos ir al mercado! ¿Qué compramos?
+User: Necesitamos tomates. / Necesitamos leche.
+AI: ¡Sí! ¿Algo más?
+User: Y huevos también. / Y frijoles también.
+
+**Outro:**
+> ¡Primeros artículos en la lista! 🛒
+> ¡La lista crece!
+>
+
+**La lista [Set 2]**
+AI: ¿Necesitamos fruta?
+User: Sí, manzanas y plátanos. / Solo manzanas.
+AI: ¡Perfecto! ¿Y verduras?
+User: Sí, chiles y cilantro. / Sí, solo chiles.
+
+**Outro:**
+> ¡Lista completa! 📝
+> Ahora, ¡al mercado!
+>
+
+---
+
+### sim2: En el Mercado
+
+**Goal:** To shop at the market and ask about prices.
+
+**📍 Lugar:** Mercado (CDMX)
+
+**intro_text:**
+¡Llegaron al mercado!
+Hay muchos colores y olores.
+
+**¿Cuánto cuesta? [Set 3]**
+AI: ¡Buen día! ¿Qué quieres?
+User: ¿Cuánto cuestan los tomates? / ¿Cuánto cuesta la leche?
+AI: Diez pesos el kilo. ¿Cuánto quieres?
+User: Un kilo, por favor. / Medio kilo, por favor.
+
+**Outro:**
+> ¡Tomates comprados! 🍅
+> Aún falta más en la lista.
+>
+
+**¿Algo más? [Set 4]**
+AI: ¿Algo más?
+User: Sí, los huevos, por favor. / No, eso es todo.
+AI: ¡Aquí están! Son veinte pesos.
+User: ¡Muchas gracias!
+
+**Outro:**
+> ¡Compras del mercado listas! 🛍️
+> ¡A casa!
+>
+
+---
+
+### sim3: De Vuelta a Casa
+
+**Goal:** To talk about the shopping and plan the meal.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+¡Ya están en casa!
+Las bolsas están llenas.
+
+**¿Todo listo? [Set 5]**
+AI: ¡Qué buenas compras! ¿Todo está?
+User: Sí, todo está aquí. / Casi, no hay chiles.
+AI: ¡Está bien! ¿Qué cocinamos hoy?
+User: Sopa de tomate. / Arroz con frijoles.
+
+**Outro:**
+> ¡Plan de comida listo! 🍲
+> ¡A cocinar!
+>
+
+**¡A cocinar! [Set 6]**
+AI: ¡Órale, a cocinar! ¿Tú me ayudas?
+User: ¡Sí, yo corto las verduras! / ¡Sí, yo lavo los tomates!
+AI: ¡Qué rico va a quedar! ¡Gracias, mijo!
+User: ¡De nada, mamá!
+
+**Outro:**
+> ¡Cocina en acción! 🍳
+> Lo siguiente: Una reunión familiar especial.
+>
+
+---
+
+# FAM-3: La Reunión Familiar
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Fiesta / Reunión
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Invitación
+
+**Goal:** To invite someone to a family gathering.
+
+**📍 Lugar:** Casa (CDMX)
+
+**intro_text:**
+¡Hay una reunión familiar el domingo!
+¿Vas a venir?
+
+**¡Hay fiesta! [Set 1]**
+AI: ¡Oye! El domingo es el cumpleaños de mi abuela.
+User: ¡Qué chido! ¿Dónde es?
+AI: En casa de mis tíos. ¿Puedes venir?
+User: ¡Sí, claro! / No puedo, lo siento.
+
+**Outro:**
+> ¡Invitación enviada! 🎉
+> ¡A prepararse!
+>
+
+**¿Vas a venir? [Set 2]**
+AI: ¿A qué hora llegas?
+User: A las tres. / A las cuatro.
+AI: ¡Perfecto! Te esperamos.
+User: ¡Hasta el domingo!
+
+**Outro:**
+> ¡Hora confirmada! ⏰
+> ¡El domingo llega pronto!
+>
+
+---
+
+### sim2: En la Reunión
+
+**Goal:** To greet family members and meet new people.
+
+**📍 Lugar:** Casa de los tíos (CDMX)
+
+**intro_text:**
+¡Llegaste a la reunión!
+Hay mucha gente.
+
+**¡Llegaron! [Set 3]**
+AI: ¡Llegaste! ¡Bienvenido! ¿Cómo estás?
+User: ¡Muy bien, gracias! ¿Y tú?
+AI: ¡Súper bien! ¡Qué gusto verte!
+User: ¡Igualmente!
+
+**Outro:**
+> ¡Bien llegado! 🎊
+> Hay muchas personas por conocer.
+>
+
+**¡Conoce a todos! [Set 4]**
+AI: ¡Mira, él es mi tío Roberto!
+User: ¡Mucho gusto, tío Roberto! / ¡Hola, señor!
+AI: ¡El gusto es mío! ¿Eres amigo de...?
+User: Sí, soy su amigo. / Sí, soy su compañero.
+
+**Outro:**
+> ¡Nuevos conocidos! 🤝
+> ¡La fiesta está buena!
+>
+
+---
+
+### sim3: La Comida
+
+**Goal:** To talk about the food at the party.
+
+**📍 Lugar:** Comedor (CDMX)
+
+**intro_text:**
+¡Es hora de comer!
+Hay mucha comida deliciosa.
+
+**¡Qué rico! [Set 5]**
+AI: ¡Sírvete! ¿Qué quieres?
+User: Quiero tamales. / Quiero pozole.
+AI: ¡Están muy ricos! ¿Y de tomar?
+User: Agua de jamaica, por favor. / Agua de horchata.
+
+**Outro:**
+> ¡Plato servido! 🫔
+> ¡A comer!
+>
+
+**¡Gracias! [Set 6]**
+AI: ¿Te gustó la comida?
+User: ¡Sí, muy rica! / ¡Sí, qué rico!
+AI: ¡Me alegra! ¡Gracias por venir!
+User: ¡Gracias por invitarme!
+
+**Outro:**
+> ¡Reunión exitosa! 🎂
+> Lo siguiente: El barrio y los vecinos.
+>
+
+---
+
+# FAM-4: El Barrio
+
+- Categoría: Familia y Comunidad
+- Subcategoría: Barrio / Vecinos
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Los Vecinos
+
+**Goal:** To greet your neighbors.
+
+**📍 Lugar:** Barrio (CDMX)
+
+**intro_text:**
+¡Buenos días en el barrio!
+¿Conoces a tus vecinos?
+
+**Buenos días [Set 1]**
+AI: ¡Buenos días, vecino!
+User: ¡Buenos días! ¿Cómo estás?
+AI: ¡Muy bien! ¿Y tú?
+User: ¡Bien, gracias!
+
+**Outro:**
+> ¡Saludo del vecino! 👋
+> ¡Qué barrio tan amigable!
+>
+
+**¿Eres nuevo? [Set 2]**
+AI: ¿Eres nuevo en el barrio?
+User: Sí, llegué hace un mes. / No, vivo aquí dos años.
+AI: ¡Bienvenido! El barrio es muy tranquilo.
+User: ¡Qué bueno, gracias!
+
+**Outro:**
+> ¡Vecino conocido! 🏡
+> Ahora, ¡a la tiendita!
+>
+
+---
+
+### sim2: La Tiendita
+
+**Goal:** To buy something at the corner store.
+
+**📍 Lugar:** Tiendita del barrio (CDMX)
+
+**intro_text:**
+¡La tiendita de la esquina!
+¿Qué necesitas hoy?
+
+**¿Qué necesitas? [Set 3]**
+AI: ¡Buenas! ¿Qué se te ofrece?
+User: ¿Tienes Coca-Cola? / ¿Tienes agua?
+AI: ¡Sí! ¿De qué tamaño?
+User: Grande, por favor. / Chica, por favor.
+
+**Outro:**
+> ¡Bebida lista! 🥤
+> Solo falta pagar.
+>
+
+**¿Cuánto es? [Set 4]**
+AI: Son diez pesos.
+User: ¡Aquí tienes! / ¿Tienes cambio de cincuenta?
+AI: ¡Sí, aquí está tu cambio!
+User: ¡Gracias, hasta luego!
+
+**Outro:**
+> ¡Compra en la tiendita lista! 🏪
+> Ahora, ¡al parque!
+>
+
+---
+
+### sim3: El Parque
+
+**Goal:** To chat at the neighborhood park.
+
+**📍 Lugar:** Parque del barrio (CDMX)
+
+**intro_text:**
+¡El parque del barrio!
+Hay niños jugando y abuelitos sentados.
+
+**¡Al parque! [Set 5]**
+AI: ¡Hola! ¿Vienes mucho al parque?
+User: Sí, vengo todos los días. / No mucho.
+AI: ¡Qué chido! ¿Te gusta correr?
+User: Sí, me encanta. / No, prefiero caminar.
+
+**Outro:**
+> ¡En el parque! 🌳
+> ¡Ya casi terminas el track!
+>
+
+**¡Hasta luego! [Set 6]**
+AI: ¡Oye, ya me voy! ¡Fue un gusto!
+User: ¡Igualmente! ¡Hasta luego!
+AI: ¡Ándale! ¡Cuídate mucho!
+User: ¡Tú también!
+
+**Outro:**
+> ¡Ya conoces el barrio! 🏘️
+> Lo siguiente: El mundo profesional en español.
+>
+
+---
+
+# 💼 TRABAJO (usted formal) >> Entorno Profesional LATAM

@@ -1,0 +1,446 @@
+# ✈️ VIAJES Y LUGARES (usted) >> Turismo en LATAM
+
+# TR-1: ¿Me puede traer un café?
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Café / Tortería
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Ordenando
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
+
+**📍 Lugar:** Mostrador de cafetería (Café de Olla, CDMX)
+
+**intro_text:**
+Primer pedido en una cafetería mexicana. ¡Usted puede... solo dígalo!
+
+**Apertura — Ordenar [Set 1]**
+AI: ¡Buenos días! ¿Qué le pongo?
+User: ¿Me puede traer un café americano, por favor? / ¿Me puede traer un café con leche, por favor?
+AI: ¿De qué tamaño?
+User: Mediano, por favor. / Grande, por favor.
+
+**Outro:**
+> ¡Bebida ordenada! ☕
+> Pero espera... ese pan dulce en el mostrador lo está llamando.
+>
+
+**Extra [Set 2]**
+AI: ¿Algo más?
+User: ¿Tienen pan dulce? / Eso es todo, gracias.
+AI: ¡Sí! Tenemos conchas y cuernitos.
+User: Una concha, por favor. / Un cuernito, por favor.
+
+**Outro:**
+> ¡Pedido completo! 🥐
+> Ahora, es hora de pagar como un experto.
+>
+
+---
+
+### sim2: Pagando
+
+**Goal:** To ask about payment methods and give your name for the order.
+
+**📍 Lugar:** Mostrador de cafetería (mismo)
+
+**intro_text:**
+Pedido hecho. Ahora viene el momento de la verdad.
+¡Es hora de pagar y dar su nombre!
+
+**Pago [Set 3]**
+AI: Son 85 pesos, por favor.
+User: ¿Puedo pagar con tarjeta? / Voy a pagar en efectivo.
+AI: ¡Claro que sí, adelante!
+User: Muchas gracias.
+
+**Outro:**
+> ¡Pago listo! 💳
+> Solo una cosa más antes de esperar...
+>
+
+**Nombre [Set 4]**
+AI: ¿A nombre de quién?
+User: A nombre de ___.
+AI: ¡Perfecto! Le avisamos cuando esté listo.
+User: ¡Gracias!
+
+**Outro:**
+> ¡Nombre dado! 📝
+> Ahora, la parte más difícil: esperar el café.
+>
+
+---
+
+### sim3: Recogiendo el Pedido
+
+**Goal:** To pick up your order, ask for extras, and find a seat.
+
+**📍 Lugar:** Cafetería → área de mesas
+
+**intro_text:**
+Ya van a llamar su nombre.
+¡Prepárese para recoger su pedido!
+
+**Recoger [Set 5]**
+AI: ¡___, su café americano está listo!
+User: ¡Muchas gracias!
+AI: ¿Necesita azúcar o crema?
+User: Azúcar, por favor. / No, gracias, así está bien.
+
+**Outro:**
+> ¡Café en mano! ☕
+> Ahora busque un lugar para sentarse.
+>
+
+**Asiento [Set 6]**
+User: Disculpe, ¿está ocupado este lugar?
+AI: No, está libre. ¡Pase!
+User: ¡Gracias!
+AI: ¡Que lo disfrute!
+
+**Outro:**
+> ¡Asiento encontrado! 🪑
+> Lo siguiente: Ordenar comida en un restaurante de verdad.
+>
+
+---
+
+# TR-2: Una Mesa para Dos
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Restaurante
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Reservación
+
+**Goal:** To ask for a table and get seated at a restaurant.
+
+**📍 Lugar:** Restaurante (Taquería El Califa, CDMX)
+
+**intro_text:**
+Primer restaurante en México. ¡Usted puede!
+Solo diga cuántos son y espere.
+
+**Apertura — Mesa [Set 1]**
+AI: ¡Buenas tardes! ¿Tiene reservación?
+User: No, no tengo reservación. / Sí, tengo reservación.
+AI: ¿Para cuántas personas?
+User: Para dos, por favor. / Para una persona, por favor.
+
+**Outro:**
+> ¡Mesa conseguida! 🍽️
+> Ahora viene la parte emocionante... el menú.
+>
+
+**El Menú [Set 2]**
+AI: Aquí tiene el menú. ¿Qué desea ordenar?
+User: ¿Qué recomienda? / Un momento, por favor.
+AI: ¡Los tacos al pastor están muy buenos!
+User: ¡Perfecto, esos quiero! / ¡Gracias, voy a pensar!
+
+**Outro:**
+> ¡Recomendación recibida! 👨‍🍳
+> Es hora de ordenar y esperar la comida.
+>
+
+---
+
+### sim2: Ordenando la Comida
+
+**Goal:** To order food and drinks at the table.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+Ya tiene el menú. Ahora es hora de ordenar.
+¡No tenga miedo de preguntar!
+
+**Ordenar [Set 3]**
+AI: ¿Listo para ordenar?
+User: Sí. ¿Me puede traer tres tacos al pastor? / Sí. ¿Me puede traer enchiladas, por favor?
+AI: ¡Con mucho gusto! ¿Y para tomar?
+User: Un agua de jamaica, por favor. / Una limonada, por favor.
+
+**Outro:**
+> ¡Pedido hecho! 🌮
+> Ahora espere... y disfrute el ambiente.
+>
+
+**Extras [Set 4]**
+AI: ¿Le traigo salsa?
+User: Sí, por favor. / No, gracias.
+AI: ¿Picante o suave?
+User: Picante, por favor. / Suave, por favor.
+
+**Outro:**
+> ¡Salsa lista! 🌶️
+> La comida ya viene... ¡prepárese!
+>
+
+---
+
+### sim3: La Cuenta
+
+**Goal:** To ask for the bill and pay at a restaurant.
+
+**📍 Lugar:** Restaurante (mismo)
+
+**intro_text:**
+La comida estuvo deliciosa.
+Ahora es hora de pedir la cuenta.
+
+**La Cuenta [Set 5]**
+User: Disculpe, ¿me puede traer la cuenta?
+AI: ¡Claro! ¿Todo estuvo bien?
+User: ¡Sí, estuvo muy rico! / ¡Sí, estuvo excelente!
+AI: ¡Qué bueno! Ahorita le traigo la cuenta.
+
+**Outro:**
+> ¡Cuenta pedida! 🧾
+> Solo falta pagar y listo.
+>
+
+**Pagar [Set 6]**
+AI: Son 280 pesos.
+User: ¿Puedo pagar con tarjeta? / Aquí tiene, en efectivo.
+AI: ¡Por supuesto! ¿Necesita factura?
+User: No, gracias. / Sí, por favor.
+
+**Outro:**
+> ¡Cuenta pagada! ✅
+> Lo siguiente: Navegar la ciudad como un local.
+>
+
+---
+
+# TR-3: ¿Cómo Llego?
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Cómo Llegar
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: En la Calle
+
+**Goal:** To ask for and understand basic directions on the street.
+
+**📍 Lugar:** Calle (Colonia Roma, CDMX)
+
+**intro_text:**
+Está perdido/a en la Roma.
+¡Pida ayuda a alguien amable!
+
+**Apertura — Perdido/a [Set 1]**
+AI: ¡Buenos días! ¿En qué le puedo ayudar?
+User: Disculpe, ¿sabe dónde está el metro Insurgentes? / Disculpe, ¿cómo llego al Parque México?
+AI: ¡Claro! Siga derecho dos cuadras.
+User: ¿Dos cuadras? ¡Gracias! / ¿Y luego?
+
+**Outro:**
+> ¡Dirección recibida! 🗺️
+> Pero espera... ¿a la derecha o a la izquierda?
+>
+
+**Más Detalles [Set 2]**
+AI: Luego doble a la derecha.
+User: ¿A la derecha? ¡Entendido! / ¿Está lejos?
+AI: No, está muy cerca. Como cinco minutos.
+User: ¡Perfecto, muchas gracias!
+
+**Outro:**
+> ¡Ruta clara! 🧭
+> Ahora camine con confianza.
+>
+
+---
+
+### sim2: En el Metro
+
+**Goal:** To buy a metro ticket and ask which line to take.
+
+**📍 Lugar:** Metro (Estación Insurgentes, CDMX)
+
+**intro_text:**
+Llegó al metro. Ahora necesita un boleto.
+¡No se preocupe, es fácil!
+
+**Boleto [Set 3]**
+AI: ¡Buenos días! ¿Cuántos boletos?
+User: Un boleto, por favor. / Dos boletos, por favor.
+AI: Son 5 pesos.
+User: Aquí tiene. ¡Gracias!
+
+**Outro:**
+> ¡Boleto comprado! 🎫
+> Ahora, ¿qué línea toma?
+>
+
+**La Línea [Set 4]**
+User: Disculpe, ¿qué línea va al Zócalo?
+AI: La línea 2, la azul.
+User: ¿La azul? ¡Gracias! / ¿Y cuántas paradas son?
+AI: Son seis paradas. ¡Buen viaje!
+
+**Outro:**
+> ¡Línea correcta! 🚇
+> Ya casi llega a su destino.
+>
+
+---
+
+### sim3: En el Autobús
+
+**Goal:** To ask about bus routes and confirm your stop.
+
+**📍 Lugar:** Parada de autobús (CDMX)
+
+**intro_text:**
+Ahora quiere tomar el autobús.
+¡Pregunte al chofer!
+
+**El Autobús [Set 5]**
+AI: ¡Buenas tardes! ¿A dónde va?
+User: ¿Este autobús va a Coyoacán? / ¿Este camión va al Centro?
+AI: ¡Sí, suba! Son 8 pesos.
+User: ¡Gracias!
+
+**Outro:**
+> ¡En el autobús! 🚌
+> Ahora confirme su parada.
+>
+
+**La Parada [Set 6]**
+User: Disculpe, ¿me avisa cuando lleguemos a Coyoacán?
+AI: ¡Claro que sí! Le aviso.
+User: ¡Muchas gracias!
+AI: ¡Con gusto! Ya casi llegamos.
+
+**Outro:**
+> ¡Parada confirmada! 📍
+> Lo siguiente: Llegar al hotel y descansar.
+>
+
+---
+
+# TR-4: Una Habitación, Por Favor
+
+- Categoría: Viajes y Lugares
+- Subcategoría: Hotel
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in to a hotel and confirm your reservation.
+
+**📍 Lugar:** Recepción de hotel (Hotel Centro Histórico, CDMX)
+
+**intro_text:**
+Llegó al hotel. ¡Por fin!
+Es hora de hacer el check-in.
+
+**Apertura — Reservación [Set 1]**
+AI: ¡Buenas tardes! ¿Tiene reservación?
+User: Sí, tengo una reservación. / Sí, reservé en línea.
+AI: ¿A nombre de quién?
+User: A nombre de ___.
+
+**Outro:**
+> ¡Reservación confirmada! 🏨
+> Ahora, ¿qué tipo de habitación tiene?
+>
+
+**La Habitación [Set 2]**
+AI: Tiene una habitación doble. ¿Está bien?
+User: ¡Sí, perfecto! / ¿Tiene habitación sencilla?
+AI: ¡Claro! ¿Prefiere piso alto o bajo?
+User: Piso alto, por favor. / Piso bajo, por favor.
+
+**Outro:**
+> ¡Habitación asignada! 🛏️
+> Ahora, ¿qué incluye el hotel?
+>
+
+---
+
+### sim2: Los Servicios
+
+**Goal:** To ask about hotel amenities and breakfast.
+
+**📍 Lugar:** Recepción de hotel (mismo)
+
+**intro_text:**
+Ya tiene su habitación. Ahora pregunte qué incluye.
+¡No tenga pena!
+
+**Desayuno [Set 3]**
+AI: ¿Tiene alguna pregunta?
+User: ¿El desayuno está incluido? / ¿A qué hora es el desayuno?
+AI: ¡Sí! El desayuno es de 7 a 10 de la mañana.
+User: ¡Perfecto, gracias!
+
+**Outro:**
+> ¡Desayuno confirmado! 🍳
+> Ahora pregunte por el WiFi.
+>
+
+**WiFi [Set 4]**
+User: ¿Cuál es la contraseña del WiFi?
+AI: La contraseña es "hotel2024".
+User: ¡Gracias! / ¿Tiene buena señal?
+AI: ¡Sí, muy buena! ¿Necesita algo más?
+
+**Outro:**
+> ¡WiFi conectado! 📶
+> Ya puede descansar... o explorar la ciudad.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and ask for a receipt.
+
+**📍 Lugar:** Recepción de hotel (mismo)
+
+**intro_text:**
+Es hora de salir. ¡Qué rápido pasó!
+Haga el check-out y pida su recibo.
+
+**Check-Out [Set 5]**
+AI: ¡Buenos días! ¿Va a hacer el check-out?
+User: Sí, voy a hacer el check-out. / Sí, me voy hoy.
+AI: ¿Cómo estuvo su estancia?
+User: ¡Muy bien, gracias! / ¡Excelente, me gustó mucho!
+
+**Outro:**
+> ¡Estancia terminada! 🧳
+> Solo falta pagar y pedir el recibo.
+>
+
+**El Recibo [Set 6]**
+AI: Son 1,200 pesos en total.
+User: ¿Me puede dar un recibo? / ¿Puedo pagar con tarjeta?
+AI: ¡Claro que sí! Aquí tiene su recibo.
+User: ¡Muchas gracias! ¡Hasta pronto!
+
+**Outro:**
+> ¡Check-out completo! ✅
+> Lo siguiente: La vida con familia y comunidad en español.
+>
+
+---
+
+# 👨‍👩‍👧 FAMILIA Y COMUNIDAD (tú) >> Vida Social en LATAM

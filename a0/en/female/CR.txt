@@ -1,0 +1,332 @@
+# 💼 WORKPLACE (formal) >> American Professional Life
+
+# CR-1: Nice to Meet You, I'm ___
+
+- Category: Workplace
+- Subcategory: Introductions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Day Introduction
+
+**Goal:** To introduce yourself formally on your first day at an American company.
+
+**📍 Location:** Office (conference room, NYC)
+
+**intro_text:**
+First day at an American company.
+Time to make a great first impression!
+
+**Opening — Introduction [Set 1]**
+AI: Hi! I'm Jamie. Nice to meet you!
+User: Nice to meet you! I'm ___.
+AI: Welcome to the team! Where are you from?
+User: I'm from ___.
+
+**Outro:**
+> Introduction: Nailed it! 🤝
+> But wait... time to exchange contact info!
+>
+
+**Contact Info [Set 2]**
+AI: Here's my card. Feel free to reach out!
+User: Thank you! Here's mine as well.
+AI: Great! Which department are you in?
+User: I'm in sales. / I'm in marketing.
+
+**Outro:**
+> Cards exchanged! 💼
+> Now, find out more about your new colleague.
+>
+
+---
+
+### sim2: Getting to Know the Office
+
+**Goal:** To ask about the office layout and daily routines.
+
+**📍 Location:** Office (open floor plan)
+
+**intro_text:**
+You have your badge. You have your desk.
+Now, figure out how things work around here!
+
+**Lunch [Set 3]**
+AI: Where do you usually eat lunch?
+User: I go to the deli nearby. / I bring my lunch.
+AI: I see. Would you like to join me today?
+User: I would love that, thank you.
+
+**Outro:**
+> Lunch buddy: Found! 🥪
+> Now, ask about the daily schedule.
+>
+
+**Schedule [Set 4]**
+AI: What time does your day start?
+User: I start at 9am. / I start at 8:30.
+AI: And when do you finish?
+User: I finish at 6. / It depends on the day.
+
+**Outro:**
+> Schedule confirmed! 📅
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: End of First Day
+
+**Goal:** To wrap up the first day and say goodbye to colleagues.
+
+**📍 Location:** Office
+
+**intro_text:**
+It's 6pm. First day is almost done.
+Time to say goodbye properly!
+
+**End of Day [Set 5]**
+AI: Great work today! How was your first day?
+User: It was great, thank you! / It was a lot to take in!
+AI: If you have any questions, just ask me.
+User: Thank you. I really appreciate that.
+
+**Outro:**
+> First day: Survived! 💪
+> Now, say goodbye properly!
+>
+
+**Goodbye [Set 6]**
+AI: I'm heading out. Have a good evening!
+User: You too! See you tomorrow!
+AI: See you tomorrow! Welcome again!
+User: Thank you! Good night!
+
+**Outro:**
+> First day: Complete! 🎉
+> Next up: Time to run a meeting!
+>
+
+---
+
+# CR-2: Let's Get Started
+
+- Category: Workplace
+- Subcategory: Meetings
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting room is filling up.
+Time to show them you're prepared!
+
+**Opening — Preparation [Set 1]**
+AI: Are you ready for the meeting?
+User: Yes, I'm ready. / Almost, one more minute.
+AI: Do you have the slides?
+User: Yes, right here. / I'm printing them now.
+
+**Outro:**
+> Preparation: Confirmed! 📋
+> But wait... is everyone here?
+>
+
+**Start Meeting [Set 2]**
+AI: Okay, let's get started. Thank you all for coming.
+User: Thank you for having me.
+AI: Today's agenda is the Q3 report.
+User: Understood.
+
+**Outro:**
+> Meeting started! 🤝
+> Now, time to present your ideas!
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To present an idea and respond to questions in a meeting.
+
+**📍 Location:** Office (conference room, same)
+
+**intro_text:**
+The meeting is underway.
+Time to speak up!
+
+**Present [Set 3]**
+AI: Could you share your thoughts on this?
+User: Yes. I think we should focus on social media.
+AI: Interesting. Can you tell us more?
+User: Of course. It would help us reach more people.
+
+**Outro:**
+> Opinion shared! 💡
+> Now, respond to a question.
+>
+
+**Question [Set 4]**
+AI: I have a question, if that's okay.
+User: Of course, go ahead.
+AI: When would this plan start?
+User: We could start next month. / That's still being decided.
+
+**Outro:**
+> Question answered! ✅
+> Almost done — just wrap up the meeting!
+>
+
+---
+
+### sim3: End of Meeting
+
+**Goal:** To wrap up a meeting and confirm next steps.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting is wrapping up.
+Time to confirm next steps and close it out!
+
+**Wrap Up [Set 5]**
+AI: Okay, let me summarize. The next step is the report.
+User: Understood.
+AI: Does anyone have any questions?
+User: No, I'm good. / Yes, I have one.
+
+**Outro:**
+> Summary: Done! 📋
+> Now, close the meeting properly!
+>
+
+**Close Meeting [Set 6]**
+AI: Alright, that's all for today. Thank you everyone.
+User: Thank you. It was a productive meeting.
+AI: Next meeting is next week. See you then!
+User: See you then. Thank you!
+
+**Outro:**
+> Meeting complete! 🎉
+> Next up: Time to write a professional email!
+>
+
+---
+
+# CR-3: Please See the Attached
+
+- Category: Workplace
+- Subcategory: Professional Emails
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Writing an Email
+
+**Goal:** To write a simple professional email to a colleague.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+Monday morning. Your inbox is full.
+Time to write your first professional email!
+
+**Opening — Email [Set 1]**
+AI: Have you sent the report yet?
+User: Not yet. I'm writing the email now.
+AI: Okay. Don't forget to attach the file.
+User: Got it. I will.
+
+**Outro:**
+> Email started! 📧
+> But wait... what's the right way to open it?
+>
+
+**Opening Line [Set 2]**
+AI: How do you usually start an email?
+User: I write "Hi" and their name. / I write "Dear" and their name.
+AI: Both work! "Hi" is more casual, "Dear" is more formal.
+User: I see. Thank you!
+
+**Outro:**
+> Email etiquette: Learned! ✉️
+> Now, write the body of the email.
+>
+
+---
+
+### sim2: The Email Body
+
+**Goal:** To write the main content of a professional email.
+
+**📍 Location:** Office (at your desk, same)
+
+**intro_text:**
+The opening is done. Now the hard part.
+What do you actually say?
+
+**Body [Set 3]**
+User: How do I ask for something politely?
+AI: You can say "Could you please..." or "I would appreciate it if..."
+User: That's helpful! Thank you.
+AI: No problem! Keep it short and clear.
+
+**Outro:**
+> Email body: Written! 📝
+> Now, how do you close the email?
+>
+
+**Closing [Set 4]**
+AI: How do you end your emails?
+User: I write "Best regards" and my name. / I write "Thanks" and my name.
+AI: Good! "Best regards" is more formal. "Thanks" is more casual.
+User: Got it. I'll use "Best regards."
+
+**Outro:**
+> Email closing: Confirmed! ✅
+> Almost done — just send it!
+>
+
+---
+
+### sim3: Sending and Following Up
+
+**Goal:** To send an email and follow up professionally.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+The email is ready. Deep breath.
+Time to hit send!
+
+**Send [Set 5]**
+User: I sent the email!
+AI: Great! Did you attach the file?
+User: Yes, I did. / Oh no, I forgot!
+AI: Always double-check the attachment!
+
+**Outro:**
+> Email sent! 📤
+> Now, what if they don't reply?
+>
+
+**Follow Up [Set 6]**
+AI: Did you hear back from them?
+User: Not yet. Should I follow up?
+AI: Yes. Wait one or two days, then send a short follow-up.
+User: Okay. Thank you for the advice!
+
+**Outro:**
+> Professional skills: Unlocked! 🎉
+> You've mastered the American workplace. The world is yours!
+>

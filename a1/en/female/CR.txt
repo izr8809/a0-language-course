@@ -1,0 +1,308 @@
+# 💼 CAREER (Formal) >> American Professional Life
+
+# CR-4: Are you ready for the meeting?
+
+- 대분류: Career
+- 중분류: Meetings
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — Preparation [Set 1]**
+AI: Are you ready for the meeting today?
+User: Yes, I'm ready. / Almost, just finishing up.
+AI: Did you print the documents?
+User: Yes, I did. / I'll do that now.
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — The room [Set 2]**
+AI: Did you book the conference room?
+User: Yes, I booked it for 3 o'clock.
+AI: Perfect! See you then!
+User: Yes, see you there.
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 Location:** Conference room
+
+**intro_text:**
+Meeting in progress. Time to share your thoughts.
+
+**승 — In the meeting [Set 3]**
+AI: Does anyone have thoughts on this section?
+User: Yes, I think this approach would work well. / I agree with that direction.
+AI: That is a great point!
+User: Thank you.
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you will have nailed this meeting.
+>
+
+**전 — The question [Set 4]**
+User: I have a question.
+AI: Of course, go ahead!
+User: When is the deadline for this section?
+AI: It is due by next Friday!
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate America!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: After the Meeting
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 Location:** Conference room → office
+
+**전 — After the meeting [Set 5]**
+AI: Great work today, everyone!
+User: Thank you!
+User: I'd be happy to send out the meeting notes.
+AI: That would be wonderful, thank you!
+
+**Outro:**
+> Volunteering for the meeting notes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you are done.
+>
+
+**결 — Wrapping up [Set 6]**
+AI: See you at the next meeting!
+User: Yes, I'll be there.
+AI: Have a good rest of your day!
+User: Thank you! You as well!
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate America: 0, You: 1.
+>
+
+---
+
+# CR-5: Have you had lunch yet?
+
+- 대분류: Career
+- 중분류: Workplace Socializing
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Lunch Break
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 Location:** Office
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — Lunch invite [Set 1]**
+AI: Have you had lunch yet?
+User: Not yet. / Yes, I already ate.
+AI: Would you like to join me?
+User: Yes, I'd love that! / Thank you, that sounds great!
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — Where to eat [Set 2]**
+AI: What are you in the mood for? There is a great place nearby!
+User: Anything is fine! / What do you recommend?
+AI: The deli on the corner is really good!
+User: That sounds great! Let's go!
+
+**Outro:**
+> Deli it is! 🥪 The ultimate American office lunch.
+> Time to bond over a good sandwich.
+>
+
+---
+
+### sim2: At Lunch
+
+**Goal:** To navigate the menu, handle the food question, and have a real conversation with your coworker.
+
+**📍 Location:** Deli near the office
+
+**승 — Ordering [Set 3]**
+AI: Do you have any dietary restrictions? Anything you do not eat?
+User: No, I eat everything! / I don't eat meat.
+AI: They have great veggie options too!
+User: That's good to know!
+
+**Outro:**
+> Dietary needs handled! 🥗 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — Conversation [Set 4]**
+AI: How are you finding it here so far? Are you settling in?
+User: Yes, I'm getting used to it. / It's a bit tough!
+AI: If you ever need anything, please let me know!
+User: Thank you, I appreciate that.
+
+**Outro:**
+> A coworker who actually cares! ☕ That is rare and precious.
+> Now comes the slightly awkward part: who pays?
+>
+
+---
+
+### sim3: Going Back
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 Location:** Deli
+
+**전 — The check [Set 5]**
+User: Please let me get this.
+AI: No, no — I invited you, so it is on me!
+User: Thank you so much!
+AI: Did you enjoy it?
+
+**Outro:**
+> They paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — Heading back [Set 6]**
+User: Yes, it was delicious! Thank you!
+AI: I am glad!
+AI: Shall we head back up?
+User: Yes, let's go!
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You have got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---
+
+# CR-6: Can I take tomorrow off?
+
+- 대분류: Career
+- 중분류: Requesting Leave
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking for Leave
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 Location:** Office (at your manager's desk)
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — The request [Set 1]**
+User: Excuse me, do you have a moment?
+AI: Of course, what is it?
+User: Can I take tomorrow off? I have a personal matter.
+AI: Tomorrow? Is everything okay?
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — The explanation [Set 2]**
+User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
+AI: I see.
+AI: Can you make sure your tasks are covered before you leave today?
+User: Yes, I'll take care of everything before I go.
+
+**Outro:**
+> Proactive handover offer! 📋 That is exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: Confirmation
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 Location:** Office (at your manager's desk, same)
+
+**승 — Approval [Set 3]**
+AI: Alright, you can take tomorrow off.
+User: Thank you so much.
+AI: Please take care of yourself!
+User: Thank you, I appreciate it.
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — Preparing [Set 4]**
+User: I'll send a summary email of my tasks before I leave today.
+AI: That would be great, thank you!
+User: Is there anything else you need from me?
+AI: No, that is all! Take care!
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you are free.
+>
+
+---
+
+### sim3: The Day After
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 Location:** Office (at your desk)
+
+**전 — Back at work [Set 5]**
+User: Good morning. Thank you for yesterday.
+AI: Of course! How are you feeling?
+User: Much better, thank you. / I'm fine now, thank you.
+AI: I am glad to hear that!
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that is a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — Back to it [Set 6]**
+AI: Take it easy today! Do not push yourself too hard!
+User: Thank you, I appreciate that.
+AI: Have a good day!
+User: You too! Thank you!
+
+**Outro:**
+> "Have a good day!" 🏢 The most American way to end a work exchange.
+> You navigated American office culture like a true professional.
+>

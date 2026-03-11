@@ -1,0 +1,306 @@
+# CR-4: 会议准备好了吗？
+
+- 대분류: Career
+- 중분류: Meetings
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 会议前
+
+**Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
+
+**📍 장소:** 办公室（自己的位置）
+
+**intro_text:**
+Meeting in 2 hours. Almost ready... I think.
+
+**기 — 准备 [세트 1]**
+AI: 今天的会议准备好了吗？
+User: 好了，准备好了。/ 差不多了。
+AI: 资料打印了吗？
+User: 打印了。/ 现在去打印。
+
+**Outro:**
+> Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
+> A meeting without a room is just a hallway conversation.
+>
+
+**승 — 会议室 [세트 2]**
+AI: 会议室预订了吗？
+User: 预订了，三点的。
+AI: 好！到时候见！
+User: 好的，没问题。
+
+**Outro:**
+> Room booked and ready to go! 📅 Deep breath... it's showtime.
+> Time to walk into that meeting like you own the place.
+>
+
+---
+
+### sim2: 会议中
+
+**Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
+
+**📍 장소:** 会议室
+
+**intro_text:**
+Meeting in progress. Time to share my thoughts.
+
+**승 — 会议中 [세트 3]**
+AI: 这个部分有什么意见吗？
+User: 有，我觉得这样好。/ 我也这样想。
+AI: 很好的意见！
+User: 谢谢。
+
+**Outro:**
+> The boss loved your idea! 💡 Don't stop now, keep the momentum going.
+> One more question and you'll have nailed this meeting.
+>
+
+**전 — 提问 [세트 4]**
+User: 我有一个问题。
+AI: 请说！
+User: 这个部分要什么时候完成？
+AI: 下周五之前！
+
+**Outro:**
+> Deadline secured: Next Friday. ⏳ You are officially surviving corporate China!
+> Now wrap it up and get back to your desk.
+>
+
+---
+
+### sim3: 会议后
+
+**Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
+
+**📍 장소:** 会议室 → 办公室（回来）
+
+**전 — 会议后 [세트 5]**
+AI: 今天的会议辛苦了！
+User: 您辛苦了！
+User: 我来发会议记录。
+AI: 谢谢您！
+
+**Outro:**
+> Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
+> One last professional exchange and you're done.
+>
+
+**결 — 结束 [세트 6]**
+AI: 那下次会议见！
+User: 好的，没问题。
+AI: 辛苦了！
+User: 谢谢您！
+
+**Outro:**
+> Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
+> Corporate China: 0, You: 1.
+>
+
+---
+
+# CR-5: 您吃午饭了吗？
+
+- 대분류: Career
+- 중분류: Workplace Socializing
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 午饭时间
+
+**Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
+
+**📍 장소:** 办公室
+
+**intro_text:**
+12:30 PM. Your stomach is growling. A coworker appears.
+
+**기 — 午饭 [세트 1]**
+AI: 您吃午饭了吗？
+User: 还没有。/ 是的，吃了。
+AI: 一起去吃吧？
+User: 好的，谢谢！/ 好，太好了！
+
+**Outro:**
+> Lunch invitation accepted! 🍱 Now the important question: where are we going?
+> Your coworker has a recommendation — and it sounds amazing.
+>
+
+**승 — 菜单 [세트 2]**
+AI: 吃什么好？附近有好吃的！
+User: 什么都可以！/ 有什么好吃的？
+AI: 这里的麻辣烫很有名！
+User: 好！走吧！
+
+**Outro:**
+> Malatang it is! 🌶️ The ultimate Chinese office lunch.
+> Time to bond over a bowl of something spicy.
+>
+
+---
+
+### sim2: 吃饭中
+
+**Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
+
+**📍 장소:** 公司附近餐厅
+
+**승 — 吃饭中 [세트 3]**
+AI: 中国菜吃得惯吗？能吃辣吗？
+User: 可以！没问题！/ 有点辣的有点难。
+AI: 那点个不辣的？清汤锅底怎么样？
+User: 好的！
+
+**Outro:**
+> Clear broth: the safe and delicious choice! 🥣 Your coworker is looking out for you.
+> Now the real workplace bonding begins.
+>
+
+**전 — 聊天 [세트 4]**
+AI: 在中国生活怎么样？适应了吗？
+User: 慢慢适应了。/ 有时候有点难。
+AI: 有什么难的就说！我帮你！
+User: 谢谢您。
+
+**Outro:**
+> A coworker who actually cares! ☕ That's rare and precious.
+> Now comes the awkward part: who pays?
+>
+
+---
+
+### sim3: 回去了
+
+**Goal:** To handle the bill gracefully and head back to the office on good terms.
+
+**📍 장소:** 餐厅
+
+**전 — 结账 [세트 5]**
+User: 我来付吧。
+AI: 不用，前辈请客！
+User: 谢谢您！
+AI: 好吃吗？
+
+**Outro:**
+> Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
+> Almost back to the office — one last exchange.
+>
+
+**결 — 回去 [세트 6]**
+User: 好吃！谢谢您！
+AI: 太好了！
+AI: 那上去吧？
+User: 好，走吧！
+
+**Outro:**
+> Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
+> Back to the desk — and maybe a coffee to power through the afternoon.
+>
+
+---
+
+# CR-6: 我明天可以请假吗？
+
+- 대분류: Career
+- 중분류: Requesting Leave
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 申请请假
+
+**Goal:** To politely request a day off from your manager and explain the reason clearly.
+
+**📍 장소:** 办公室（经理位置前）
+
+**intro_text:**
+You need tomorrow off. Your manager is right there. Deep breath.
+
+**기 — 申请 [세트 1]**
+User: 经理，我有事。
+AI: 好的，请说。
+User: 明天我可以请假吗？
+AI: 明天？有急事吗？
+
+**Outro:**
+> The ask is out there! 😬 Now explain yourself calmly and professionally.
+> This is the moment that separates the rookies from the pros.
+>
+
+**승 — 解释 [세트 2]**
+User: 是的，需要去医院。/ 有点私事。
+AI: 好的，明白了。
+AI: 明天的工作可以交给别人吗？
+User: 可以，我来整理。
+
+**Outro:**
+> Proactive handover offer! 📋 That's exactly what a good employee does.
+> Now wait for the official answer.
+>
+
+---
+
+### sim2: 确认
+
+**Goal:** To receive approval for your leave and confirm the handover plan with your manager.
+
+**📍 장소:** 办公室（经理位置前，同一）
+
+**승 — 确认 [세트 3]**
+AI: 那明天休息吧。
+User: 谢谢您。
+AI: 注意身体！
+User: 好的，谢谢您。
+
+**Outro:**
+> Leave approved! 🎉 Your manager is actually human — who knew?
+> Now make sure everything is in order before you go.
+>
+
+**전 — 准备 [세트 4]**
+User: 明天的工作，我发邮件给您。
+AI: 好的，谢谢！
+User: 还有什么需要的吗？
+AI: 没有了！辛苦了！
+
+**Outro:**
+> Handover email promised, manager satisfied! ✉️ You handled that perfectly.
+> One more day — then you're free.
+>
+
+---
+
+### sim3: 回来了
+
+**Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
+
+**📍 장소:** 办公室（自己的位置）
+
+**전 — 回来 [세트 5]**
+User: 经理，您好！昨天谢谢您！
+AI: 没关系！身体怎么样了？
+User: 好多了。/ 没事了，谢谢您。
+AI: 太好了！
+
+**Outro:**
+> Back and better! 💪 Your manager genuinely cares — that's a good sign.
+> Now ease back in and show them it was worth the day off.
+>
+
+**결 — 回到工作 [세트 6]**
+AI: 慢慢来！别太勉强！
+User: 好的，谢谢您。
+AI: 辛苦了！
+User: 您辛苦了！
+
+**Outro:**
+> "您辛苦了！" 🏢 The most Chinese way to end a workday.
+> You navigated Chinese office culture like a true professional.
+>

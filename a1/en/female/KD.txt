@@ -1,0 +1,411 @@
+# 🎬 TV & DRAMA (Casual) >> American Drama Life
+
+# KD-5: I have a crush on someone
+
+- 대분류: TV & Drama
+- 중분류: Crush
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Confession to a Friend
+
+**Goal:** To confess to your best friend that you have a crush and share details about who they are.
+
+**📍 Location:** Coffee shop
+
+**intro_text:**
+Two coffees. One secret. Here we go...
+
+**기 — The secret [Set 1]**
+User: I have to tell you something.
+AI: What? Tell me!
+User: I kind of have a crush on someone.
+AI: No way! Really? Who?!
+
+**Outro:**
+> The secret is out! 🤫 Now, who is this lucky person?
+> Your friend is already losing their mind.
+>
+
+**승 — Who is it [Set 2]**
+AI: Wait, do I know them?
+User: Yeah. / No, you don't.
+AI: What are they like?
+User: They're really sweet. / They have the best smile.
+
+**Outro:**
+> A perfect smile? Sounds like a main character. ✨ Now, how did this romance begin?
+> The origin story is always the best part.
+>
+
+---
+
+### sim2: Details
+
+**Goal:** To share how you met your crush and open up about being too nervous to say anything.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — How you met [Set 3]**
+AI: Where did you meet them?
+User: At a coffee shop! / In class!
+AI: That's so cute! So what happened?
+User: I didn't say anything. / I got their number though!
+
+**Outro:**
+> You got their number?! That's huge! 📱 So... is it time to make a move?
+> Your friend is about to give you the push you need.
+>
+
+**전 — Advice [Set 4]**
+AI: Are you gonna say something?
+User: I want to but I'm scared. / It's still too early.
+AI: You're amazing! Just go for it!
+User: You really think so? Thanks.
+
+**Outro:**
+> Confidence is key! 🔑 Listen to your bestie and hype yourself up.
+> The confession is getting closer — can you feel it?
+>
+
+---
+
+### sim3: Encouragement
+
+**Goal:** To receive your friend's encouragement, promise to go for it, and end the coffee date on a hopeful note.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — Cheering you on [Set 5]**
+AI: Tell me when you do it! I'm rooting for you!
+User: Okay! / I'm nervous but I'll try.
+AI: You've got this!
+User: Thank you!
+
+**Outro:**
+> Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
+> The universe is rooting for you.
+>
+
+**결 — Hopeful ending [Set 6]**
+AI: It's gonna work out!
+User: I really hope so.
+AI: Of course it will! Keep me posted!
+User: I will!
+
+**Outro:**
+> Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
+> Stay tuned — the story is just getting started.
+>
+
+---
+
+# KD-6: You've got it all wrong
+
+- 대분류: TV & Drama
+- 중분류: Misunderstanding
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Misunderstanding
+
+**Goal:** To face a jealous accusation, stay calm, and explain the situation clearly.
+
+**📍 Location:** Park bench
+
+**intro_text:**
+A park bench. A tense silence. Someone saw something they didn't understand.
+
+**기 — The accusation [Set 1]**
+AI: Why were you with someone else yesterday?
+User: What? What are you talking about? / You've got it all wrong!
+AI: I saw you. At the coffee shop.
+User: That's just a friend! / Oh, that?
+
+**Outro:**
+> Caught! 😬 But it's not what it looks like — time to explain.
+> The truth is simple, but jealousy makes everything complicated.
+>
+
+**승 — Explaining [Set 2]**
+AI: Just a friend, really?
+User: Yes, really. We're in the same class. / Don't be suspicious.
+AI: I'm sorry. I think I got a little jealous.
+User: It's okay. / I get it.
+
+**Outro:**
+> Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
+> The real conversation is just beginning.
+>
+
+---
+
+### sim2: Talking It Out
+
+**Goal:** To address the misunderstanding directly and agree to communicate better next time.
+
+**📍 Location:** Park bench (same)
+
+**승 — Talking it out [Set 3]**
+User: Why didn't you just ask me?
+AI: I didn't know how to bring it up.
+User: Next time, just ask. Don't assume.
+AI: You're right. I'm sorry.
+
+**Outro:**
+> Communication rules established! 📋 This is how healthy relationships work.
+> Now it's time to actually forgive and move on.
+>
+
+**전 — Making up [Set 4]**
+AI: I'm really sorry.
+User: It's okay. Just trust me.
+AI: I do. I won't do that again.
+User: Good.
+
+**Outro:**
+> Trust restored! 🤝 That's what matters most.
+> Now let's get out of this park and do something fun.
+>
+
+---
+
+### sim3: Making Up
+
+**Goal:** To fully make up, agree to grab food together, and end on a sweet note.
+
+**📍 Location:** Park → street (walking)
+
+**전 — All good [Set 5]**
+AI: Are we good?
+User: We're good. / Almost.
+AI: Let's go get food. My treat.
+User: Okay!
+
+**Outro:**
+> Food fixes everything! 🍽️ The classic makeup move.
+> One last sweet moment before the credits roll.
+>
+
+**결 — Back to normal [Set 6]**
+AI: Next time I'll just ask!
+User: Good!
+AI: I like you.
+User: I like you too.
+
+**Outro:**
+> "I like you too." Two words. Maximum impact. 💕 Rom-com ending unlocked.
+> This couple just got stronger — misunderstanding and all.
+>
+
+---
+
+# KD-7: Do you wanna be official?
+
+- 대분류: TV & Drama
+- 중분류: Getting Together
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: The Moment
+
+**Goal:** To finally confess your feelings and hear the answer you've been hoping for.
+
+**📍 Location:** Central Park (evening)
+
+**intro_text:**
+Central Park at sunset. You said you had something to say. This is it.
+
+**기 — The confession [Set 1]**
+AI: You said you had something to tell me. What is it?
+User: I'm a little nervous. / Come sit closer.
+AI: Why are you nervous? Just say it!
+User: I... I like you.
+
+**Outro:**
+> You said it! 💘 Three words that change everything.
+> Now hold your breath and wait for the answer.
+>
+
+**승 — The answer [Set 2]**
+AI: Really? I like you too.
+User: Really? / Since when?
+AI: Since the first time we met.
+User: Me too.
+
+**Outro:**
+> Mutual feelings confirmed! 🌅 Central Park just witnessed a rom-com moment.
+> So... does this mean what we think it means?
+>
+
+---
+
+### sim2: Officially Together
+
+**Goal:** To officially become a couple and start planning your first date together.
+
+**📍 Location:** Central Park (same)
+
+**승 — Making it official [Set 3]**
+AI: So are we... together now?
+User: Yeah. / I think so, right?
+AI: I'm happy.
+User: Me too.
+
+**Outro:**
+> Official! 💑 You are now a couple. Congratulations.
+> First order of business: plan the perfect first date.
+>
+
+**전 — First date [Set 4]**
+AI: So what should our first date be?
+User: I want to go to the beach! / Let's go somewhere with good food!
+AI: Yes! Let's go this weekend!
+User: I can't wait!
+
+**Outro:**
+> First date planned! 🗓️ The excitement is real.
+> But first — the sweetest part of any new relationship.
+>
+
+---
+
+### sim3: Sweet
+
+**Goal:** To exchange sweet messages after the big night and end with a tender goodnight.
+
+**📍 Location:** Each at home (iMessage)
+
+**전 — Late night texts [Set 5]**
+AI: Did you get home okay?
+User: Yeah, just got back!
+AI: Tonight was really special.
+User: Me too. / I keep thinking about it.
+
+**Outro:**
+> Late night texts after a perfect evening! 📱 This feeling is everything.
+> One last message before you both fall asleep smiling.
+>
+
+**결 — Goodnight [Set 6]**
+AI: I want to see you again tomorrow.
+User: I want to see you too.
+AI: Goodnight. Sweet dreams.
+User: Goodnight.
+
+**Outro:**
+> "Sweet dreams." 😴 The most romantic goodnight there is.
+> Sweet dreams — you're going to need the energy for what comes next.
+>
+
+---
+
+# KD-8: Why have you been so distant?
+
+- 대분류: TV & Drama
+- 중분류: Relationship Trouble
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Something Changed
+
+**Goal:** To bring up the distance you've been feeling and give your partner a chance to explain.
+
+**📍 Location:** Each at home (iMessage)
+
+**intro_text:**
+Three days. No call. Something is definitely off.
+
+**기 — Something's off [Set 1]**
+User: Why didn't you text me?
+AI: Sorry, I've just been really busy.
+User: I get that, but that's too long!
+AI: I know. I'm sorry.
+
+**Outro:**
+> "I'm sorry." Is that enough? 😔 You need more than an apology.
+> Time to say what's really on your mind.
+>
+
+**승 — Being honest [Set 2]**
+User: I feel like you don't care anymore. It hurts.
+AI: That's not it at all.
+AI: I've just had a lot going on. I'm really sorry.
+User: Okay. But please just text me.
+
+**Outro:**
+> Feelings expressed, explanation given. 💬 Now you need to actually meet.
+> Some conversations only work face to face.
+>
+
+---
+
+### sim2: Honest Talk
+
+**Goal:** To meet in person, hear each other out honestly, and start to understand each other better.
+
+**📍 Location:** Coffee shop (meeting up)
+
+**승 — Opening up [Set 3]**
+AI: I've been going through a lot. I wasn't handling it well.
+User: Why didn't you tell me? / If you're struggling, talk to me.
+AI: I didn't want to worry you.
+User: Don't be silly. You can always talk to me.
+
+**Outro:**
+> Walls coming down! 🧱 This is what real intimacy looks like.
+> Now it's your turn to be honest too.
+>
+
+**전 — Understanding [Set 4]**
+AI: Thank you. I'll do better.
+User: I'm sorry too. I was a little harsh.
+AI: No, you were right.
+User: Let's just be honest with each other from now on.
+
+**Outro:**
+> Both sides heard, both sides understood. 🤍 This is growth.
+> The hard part is over — now comes the good part.
+>
+
+---
+
+### sim3: Better
+
+**Goal:** To feel the warmth return between you and end the day closer than before.
+
+**📍 Location:** Coffee shop → street outside
+
+**전 — Warmth returns [Set 5]**
+AI: Starting today, I'll be better.
+User: Me too!
+AI: I missed you.
+User: I missed you too.
+
+**Outro:**
+> "I missed you." Said out loud. 💗 That's the real turning point.
+> End the day the right way — together.
+>
+
+**결 — Back together [Set 6]**
+AI: Let's go get food. What do you want?
+User: Anything! I just want to be with you.
+AI: Let's go!
+User: Let's go!
+
+**Outro:**
+> "I just want to be with you." 🥺 The most rom-com line of the whole course.
+> Relationship trouble? More like relationship upgrade.
+>
+
+---
+
+# 🎵 POP MUSIC (Mixed) >> American Fan Life

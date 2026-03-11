@@ -1,0 +1,414 @@
+# 💖 PERSONAL INTEREST (Casual) >> American Life
+
+# PI-5: Let's grab food together
+
+- 대분류: Personal Interest
+- 중분류: Hanging Out
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Picking a Spot
+
+**Goal:** To suggest a meal idea, agree on a place, and figure out how to get there with your friend.
+
+**📍 Location:** Street in SoHo
+
+**intro_text:**
+Lunchtime in the city. So many options. What are we eating?
+
+**기 — What to eat [Set 1]**
+User: I'm starving! What should we eat?
+AI: Me too! What are you feeling?
+User: I could go for some BBQ! / How about BBQ?
+AI: Yes! I know a great spot. Let's go!
+
+**Outro:**
+> BBQ it is! 🔥 Now, how far is this place?
+> Your stomach is already counting down.
+>
+
+**승 — Getting there [Set 2]**
+AI: It's close! Wanna walk?
+User: Yeah, let's walk! / How long does it take?
+AI: Like five minutes! Come on!
+User: Okay, let's go!
+
+**Outro:**
+> Just a short walk! 🚶 The smell of grilling meat is calling.
+> Almost there — get ready for something good.
+>
+
+---
+
+### sim2: At the Restaurant
+
+**Goal:** To order food together and enjoy the meal like a true city local.
+
+**📍 Location:** BBQ restaurant
+
+**intro_text:**
+We're here. This place looks amazing.
+
+**승 — At the table [Set 3]**
+AI: Here we are! What do you think?
+User: Wow, I love it! / It's packed in here!
+AI: What should we order? Here's the menu!
+User: BBQ ribs for sure! / Let's get the brisket!
+
+**Outro:**
+> Order placed! 🥩 Now comes the most important question...
+> Who's getting the first bite? The real power move starts now.
+>
+
+**전 — Eating [Set 4]**
+AI: Want me to grab some extra sauce?
+User: Yes, please! / I'll get it!
+AI: This is so good!
+User: It really is! / Best BBQ I've had!
+
+**Outro:**
+> That really hit the spot! 😋 But the real battle is about to begin: the check.
+> Brace yourself — who's paying?
+>
+
+---
+
+### sim3: After Eating
+
+**Goal:** To handle the check gracefully and make plans to keep the hangout going.
+
+**📍 Location:** BBQ restaurant → street outside
+
+**전 — After the meal [Set 5]**
+User: I got this one!
+AI: No way, let's split it!
+User: No, I'm treating you today!
+AI: Really? Thanks! I'll get it next time!
+
+**Outro:**
+> You smooth talker, you bought lunch! 😎 Where to next with a full stomach?
+> The hangout isn't over yet — round two incoming.
+>
+
+**결 — What's next [Set 6]**
+AI: I'm so full! What do we do now?
+User: Wanna get coffee? / Should we walk it off?
+AI: Yes! Let's go!
+User: Let's do it!
+
+**Outro:**
+> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> A perfect hangout deserves a perfect ending.
+>
+
+---
+
+# PI-6: I'm studying English because of you
+
+- 대분류: Personal Interest
+- 중분류: Deeper Friendship
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Getting Personal
+
+**Goal:** To open up about why you're learning English and feel supported by your friend's encouragement.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+A quiet café. A real conversation. This one goes deeper.
+
+**기 — Deep talk [Set 1]**
+AI: So why are you learning English?
+User: I want to make American friends! / I want to understand movies without subtitles!
+AI: Oh really? You're already doing great!
+User: I still have a long way to go. / Really? Thanks so much!
+
+**Outro:**
+> You're doing better than you think! 🌟 But how's life here, really?
+> Time to get honest about the hard parts.
+>
+
+**승 — Life here [Set 2]**
+AI: Is anything hard about living here?
+User: I get lonely sometimes. / When I can't express myself.
+AI: If it ever gets tough, just talk to me!
+User: Thank you. / Yeah, I will.
+
+**Outro:**
+> You've got a real friend right here. 🤝 That means everything.
+> And this friendship is only getting stronger.
+>
+
+---
+
+### sim2: Encouragement
+
+**Goal:** To reflect on how far you've come with English and feel genuinely motivated to keep going.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — Progress [Set 3]**
+AI: What was it like when you first started learning English?
+User: It was so hard! / I didn't know anything.
+AI: But look at you now — you're killing it!
+User: You think so? Thanks! / I still have a lot to learn.
+
+**Outro:**
+> Look how far you've come! 📈 Your friend sees it even when you don't.
+> And now... a confession that changes everything.
+>
+
+**전 — The moment [Set 4]**
+User: Honestly, you're the reason I want to keep going.
+AI: Really? That means so much to me!
+User: I mean it!
+AI: You make me want to learn more too!
+
+**Outro:**
+> Mutual inspiration! 💫 This friendship just leveled up.
+> Real friends make each other better — and you two are proof.
+>
+
+---
+
+### sim3: Real Friends
+
+**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — How long [Set 5]**
+AI: How long have we known each other now?
+User: Like a month? / Already two months!
+AI: Time flies when you're having fun!
+User: It really does!
+
+**Outro:**
+> Time flies when you're with the right person! ⏰ Don't let this moment end.
+> Make it official — lock in the next hangout.
+>
+
+**결 — Making plans [Set 6]**
+AI: Let's hang out more often!
+User: Obviously!
+AI: Let's do something next week!
+User: Yes! Text me!
+
+**Outro:**
+> Plans made, friendship sealed! 📅 This is just the beginning.
+> Life here just got a whole lot better.
+>
+
+---
+
+# PI-7: Are you going through something?
+
+- 대분류: Personal Interest
+- 중분류: Deep Talk
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Something's Wrong
+
+**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+
+**📍 Location:** Coffee shop
+
+**intro_text:**
+Something's been off lately. Your friend noticed. Time to talk.
+
+**기 — What's up [Set 1]**
+AI: You seem a little off lately. Is everything okay?
+User: I'm struggling a bit. / I have a lot on my mind.
+AI: What's going on? Talk to me.
+User: Life here is tough. / I'm just really busy.
+
+**Outro:**
+> It's out there now. 💬 The first step is always the hardest.
+> Your friend is listening — keep going.
+>
+
+**승 — Listening [Set 2]**
+AI: What's been the hardest part?
+User: I spend a lot of time alone. / English is still really hard for me.
+AI: That sounds really tough.
+User: Yeah, a little.
+
+**Outro:**
+> Heard and understood. 🫂 That's what real friends do.
+> Now it's time to do something about it.
+>
+
+---
+
+### sim2: Advice
+
+**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+
+**📍 Location:** Coffee shop → Central Park
+
+**승 — Getting out [Set 3]**
+AI: Don't keep it all inside. Talk to me whenever!
+User: Thank you. / I will, I promise.
+AI: You need some fresh air. Let's get out of here!
+User: Where to? / Yeah, let's go!
+
+**Outro:**
+> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
+> Central Park has a way of making everything feel better.
+>
+
+**전 — Outside [Set 4]**
+AI: Let's go to Central Park! The walk will do you good!
+User: Yeah, let's do it!
+AI: Should we grab some snacks on the way?
+User: Good idea! / Let's stop at a corner store!
+
+**Outro:**
+> Corner store snacks + Central Park = perfect combo! 🍜 Let's go.
+> The best conversations happen outside.
+>
+
+---
+
+### sim3: Feeling Better
+
+**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+
+**📍 Location:** Central Park
+
+**전 — Better now [Set 5]**
+AI: Feeling better?
+User: Yeah, a lot better! / Thanks to you!
+AI: I'm so glad!
+User: Seriously, thank you.
+
+**Outro:**
+> From stressed to refreshed! 🌊 Central Park delivered.
+> Now make it official — promise to reach out next time.
+>
+
+**결 — Promise [Set 6]**
+AI: Reach out anytime you're struggling!
+User: I will, I promise!
+AI: That's a deal!
+User: Deal!
+
+**Outro:**
+> Pinky promise made! 🤙 You're not alone in this.
+> Life here is tough, but with friends like this, you've got this.
+>
+
+---
+
+# PI-8: Road trip?
+
+- 대분류: Personal Interest
+- 중분류: Trip Planning
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Where to Go
+
+**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+
+**📍 Location:** Coffee shop
+
+**intro_text:**
+A long weekend is coming. Your friend has no plans. This is your moment.
+
+**기 — The idea [Set 1]**
+User: What are you doing next weekend?
+AI: Nothing yet! Why?
+User: Wanna go on a road trip?
+AI: Oh my gosh, yes! Where?
+
+**Outro:**
+> Road trip confirmed! 🗺️ Now the real question: where are we going?
+> Beach or mountains? The debate begins.
+>
+
+**승 — Picking a spot [Set 2]**
+User: How about the beach? / I really want to go to the mountains!
+AI: Yes! I've been wanting to go!
+AI: How many nights?
+User: One night? / Maybe two nights?
+
+**Outro:**
+> Destination locked! 📍 Now let's figure out how to get there.
+> Transport choices incoming — budget vs. comfort.
+>
+
+---
+
+### sim2: Planning
+
+**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+
+**📍 Location:** Coffee shop (same)
+
+**승 — Getting there [Set 3]**
+AI: How should we get there? Drive or take the bus?
+User: Let's drive! / Is the bus cheaper?
+AI: Driving is more fun! Road trip vibes!
+User: Okay, let's drive!
+
+**Outro:**
+> Road trip it is! 🚗 Fast, fun, and very American.
+> Next up: where are we sleeping?
+>
+
+**전 — Where to stay [Set 4]**
+AI: Where should we stay? Hotel or Airbnb?
+User: Airbnb! It's cheaper! / A hotel is more comfortable, right?
+AI: I'll book an Airbnb!
+User: Perfect, thanks!
+
+**Outro:**
+> Accommodation sorted! 🏠 Budget travel wins again.
+> Now the fun part — what are we actually doing there?
+>
+
+---
+
+### sim3: Getting Excited
+
+**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+
+**📍 Location:** Coffee shop (same)
+
+**전 — What to do [Set 5]**
+User: What do you want to do when we get there?
+AI: I want to go to the beach! What about you?
+User: I want to eat good seafood! / I want to explore the town!
+AI: Yes! Let's do everything!
+
+**Outro:**
+> The itinerary is basically writing itself! 🌊 Beach, seafood, exploring — perfect.
+> The countdown to departure starts now.
+>
+
+**결 — So excited [Set 6]**
+AI: I'm so excited!
+User: Me too! I can't wait!
+AI: Okay, see you then! Start packing!
+User: Already on it!
+
+**Outro:**
+> Bags packed (mentally)! 🧳 This trip is going to be legendary.
+> The open road is waiting — and so is the best weekend of your life.
+>
+
+---
+
+# ✈️ TRAVELING (Polite) >> US Travel

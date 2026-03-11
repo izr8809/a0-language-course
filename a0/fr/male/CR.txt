@@ -1,0 +1,332 @@
+# 💼 TRAVAIL (vous formel) >> Le Monde Professionnel Français
+
+# CR-1 : Je me présente
+
+- Catégorie : Travail
+- Sous-catégorie : Présentation Professionnelle
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : La Présentation
+
+**Goal:** To introduce yourself professionally in a French workplace.
+
+**📍 Lieu :** Bureau (Paris, La Défense)
+
+**intro_text:**
+Premier jour au bureau.
+C'est l'heure de vous présenter !
+
+**Présentation — Bonjour [Série 1]**
+AI: Bonjour ! Vous êtes le/la nouveau/nouvelle ?
+User: Oui, bonjour ! Je m'appelle ___. / Oui, je suis ___.
+AI: Enchanté ! Je suis ___, responsable du projet.
+User: Enchantée, ___. Je suis ravie d'être ici.
+
+**Outro:**
+> Première impression : Excellente ! 🤝
+> Maintenant, parlez de votre poste.
+>
+
+**Poste — Votre rôle [Série 2]**
+User: Je suis chargée de communication. Et vous ?
+AI: Je suis chef de projet. Bienvenue dans l'équipe !
+User: Merci beaucoup. / Je suis très contente de rejoindre l'équipe.
+AI: Nous sommes ravis de vous avoir !
+
+**Outro:**
+> Rôles clarifiés ! 📋
+> La suite : La réunion vous attend.
+>
+
+---
+
+### sim2 : Le Bureau
+
+**Goal:** To ask about the office and find your way around.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous découvrez le bureau.
+Où est tout ?
+
+**Bureau — Où est... ? [Série 3]**
+User: Excusez-moi, où est la salle de réunion ?
+AI: C'est au 3e étage, à gauche de l'ascenseur.
+User: Merci beaucoup. / Et la cafétéria ?
+AI: La cafétéria est au rez-de-chaussée.
+
+**Outro:**
+> Bureau exploré ! 🏢
+> Vous commencez à vous repérer.
+>
+
+**Collègues — L'équipe [Série 4]**
+AI: Vous avez rencontré toute l'équipe ?
+User: Pas encore. Il y a combien de personnes ? / Oui, tout le monde est très sympa.
+AI: Nous sommes 12 dans l'équipe. Je vous présente tout le monde.
+User: Avec plaisir, merci !
+
+**Outro:**
+> Équipe découverte ! 👥
+> La suite : La première réunion arrive.
+>
+
+---
+
+### sim3 : La Première Journée
+
+**Goal:** To wrap up your first day and confirm plans for tomorrow.
+
+**📍 Lieu :** Bureau (fin de journée)
+
+**intro_text:**
+La première journée se termine.
+Comment ça s'est passé ?
+
+**Bilan — C'était bien ? [Série 5]**
+User: C'était une bonne première journée.
+AI: Vous vous êtes bien intégrée ?
+User: Oui, tout le monde est très accueillant. / Oui, c'était très bien.
+AI: Parfait ! Demain, nous avons une réunion à 9h.
+
+**Outro:**
+> Première journée réussie ! ✅
+> Demain, la vraie aventure commence.
+>
+
+**Demain — À demain [Série 6]**
+AI: Vous avez des questions pour demain ?
+User: Non, je crois que c'est bon. Merci ! / Oui, à quelle heure commence la réunion ?
+AI: La réunion est à 9h précises. Bonne soirée !
+User: Merci, bonne soirée à vous aussi !
+
+**Outro:**
+> Prêt(e) pour demain ! 🌅
+> La suite : La réunion vous attend.
+>
+
+---
+
+# CR-2 : La Réunion
+
+- Catégorie : Travail
+- Sous-catégorie : Réunion Professionnelle
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Avant la Réunion
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Lieu :** Salle de réunion (Paris, La Défense)
+
+**intro_text:**
+La réunion commence dans 5 minutes.
+Vous êtes prête ?
+
+**Préparation — Avant [Série 1]**
+AI: Bonjour ! Vous avez reçu l'ordre du jour ?
+User: Oui, je l'ai reçu ce matin. / Oui, par email.
+AI: Parfait. Nous commençons dans 5 minutes.
+User: Je suis prête. Merci.
+
+**Outro:**
+> Réunion imminente ! 📊
+> Concentrez-vous — ça commence.
+>
+
+**Agenda — Les points [Série 2]**
+User: Combien de points à l'ordre du jour ?
+AI: Trois points principaux. Ça ne devrait pas être long.
+User: Très bien. / Et la durée prévue ?
+AI: Une heure environ.
+
+**Outro:**
+> Agenda clair ! 📋
+> La réunion commence.
+>
+
+---
+
+### sim2 : Pendant la Réunion
+
+**Goal:** To participate in a meeting and ask a question.
+
+**📍 Lieu :** Salle de réunion (même endroit)
+
+**intro_text:**
+La réunion est en cours.
+C'est l'heure de participer !
+
+**Question — Je peux ? [Série 3]**
+User: Permettez-moi de poser une question.
+AI: Bien sûr, je vous en prie.
+User: Quel est le délai pour ce projet ? / Qui est responsable de cette partie ?
+AI: Le délai est fin du mois. Merci pour la question.
+
+**Outro:**
+> Question posée ! 🙋
+> Vous participez activement.
+>
+
+**Avis — Votre opinion [Série 4]**
+AI: Vous avez un avis sur cette proposition ?
+User: Oui, je pense que c'est une bonne idée. / Je voudrais réfléchir encore.
+AI: Merci pour votre contribution.
+User: Je vous remercie.
+
+**Outro:**
+> Contribution notée ! ✅
+> La réunion se termine bien.
+>
+
+---
+
+### sim3 : Après la Réunion
+
+**Goal:** To follow up after a meeting and confirm next steps.
+
+**📍 Lieu :** Bureau (après la réunion)
+
+**intro_text:**
+La réunion est terminée.
+Quelles sont les prochaines étapes ?
+
+**Suivi — Les actions [Série 5]**
+User: Quelles sont les prochaines étapes ?
+AI: Vous préparez le rapport d'ici vendredi.
+User: Très bien, je m'en occupe. / D'accord, pas de problème.
+AI: Merci. N'hésitez pas si vous avez des questions.
+
+**Outro:**
+> Actions claires ! 📝
+> Le travail commence maintenant.
+>
+
+**Rapport — Vendredi [Série 6]**
+AI: Vous avez besoin d'aide pour le rapport ?
+User: Non merci, je pense que c'est bon. / Oui, pourriez-vous m'envoyer les données ?
+AI: Bien sûr, je vous envoie ça par email.
+User: Je vous remercie beaucoup.
+
+**Outro:**
+> Collaboration en marche ! 🤝
+> La suite : L'email professionnel vous attend.
+>
+
+---
+
+# CR-3 : Un Email Professionnel
+
+- Catégorie : Travail
+- Sous-catégorie : Email Professionnel
+- Niveau : A0 (Débutant Absolu)
+- 12 tours (6 sets, 3 sims)
+
+---
+
+### sim1 : Écrire un Email
+
+**Goal:** To write and send a professional email in French.
+
+**📍 Lieu :** Bureau (Paris)
+
+**intro_text:**
+Vous devez envoyer un email professionnel.
+Comment commencer ?
+
+**Email — La structure [Série 1]**
+AI: Vous savez comment commencer un email formel ?
+User: Je commence par "Madame, Monsieur" ? / Je commence par "Bonjour" ?
+AI: "Madame, Monsieur" pour un email formel. C'est parfait.
+User: Merci pour le conseil.
+
+**Outro:**
+> Structure apprise ! 📧
+> Maintenant, rédigez le corps de l'email.
+>
+
+**Corps — Le message [Série 2]**
+User: Comment je formule ma demande ?
+AI: "Je me permets de vous contacter au sujet de..."
+User: Merci, c'est clair. / Et pour finir l'email ?
+AI: "Je vous remercie de votre attention. Cordialement."
+
+**Outro:**
+> Email structuré ! ✉️
+> La suite : Envoyez et attendez la réponse.
+>
+
+---
+
+### sim2 : Répondre à un Email
+
+**Goal:** To respond to a professional email appropriately.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous avez reçu un email de votre collègue.
+Comment répondre ?
+
+**Réponse — Je réponds [Série 3]**
+User: J'ai reçu un email de Marie. Comment je réponds ?
+AI: Commencez par "Chère Marie" ou "Bonjour Marie".
+User: Et si c'est formel ? / Et pour un client ?
+AI: Pour un client, utilisez "Madame" ou "Monsieur".
+
+**Outro:**
+> Formule choisie ! 📝
+> Rédigez votre réponse.
+>
+
+**Formule — La politesse [Série 4]**
+AI: Vous avez une formule de politesse pour finir ?
+User: "Cordialement" ? / "Bien à vous" ?
+AI: Les deux sont parfaits. "Cordialement" est très courant.
+User: Merci, je vais utiliser ça.
+
+**Outro:**
+> Email professionnel maîtrisé ! ✅
+> Vous communiquez comme un(e) pro.
+>
+
+---
+
+### sim3 : Une Demande
+
+**Goal:** To make a professional request by email and follow up.
+
+**📍 Lieu :** Bureau (même endroit)
+
+**intro_text:**
+Vous devez faire une demande à votre responsable.
+Comment formuler ça par email ?
+
+**Demande — La requête [Série 5]**
+User: Je voudrais demander un jour de congé. Comment je formule ?
+AI: "Je me permets de solliciter un jour de congé le..."
+User: Merci, c'est parfait. / Et si c'est urgent ?
+AI: Ajoutez "dans les meilleurs délais" pour l'urgence.
+
+**Outro:**
+> Demande formulée ! 📋
+> Envoyez et attendez la réponse.
+>
+
+**Réponse — C'est accordé ? [Série 6]**
+AI: Votre responsable a répondu. C'est accordé !
+User: Excellent ! Je vous remercie. / Parfait, merci beaucoup !
+AI: De rien. Bon repos !
+User: Merci, bonne journée à vous !
+
+**Outro:**
+> Congé accordé ! 🎉
+> Vous maîtrisez le français professionnel. Bravo !
+>

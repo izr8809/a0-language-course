@@ -1,0 +1,332 @@
+# 💼 TRABAJO (usted formal) >> Entorno Profesional LATAM
+
+# CR-1: Mi Presentación
+
+- Categoría: Trabajo
+- Subcategoría: Presentación Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: La Presentación
+
+**Goal:** To introduce yourself professionally and state your role.
+
+**📍 Lugar:** Oficina (Ciudad de México)
+
+**intro_text:**
+Primer día en la oficina nueva.
+Es hora de presentarse con los colegas.
+
+**Apertura — Presentación [Set 1]**
+AI: ¡Buenos días! ¿Usted es el/la nuevo/a?
+User: Sí, buenos días. Me llamo ___. / Sí, mucho gusto. Soy ___.
+AI: ¡Mucho gusto! ¿En qué área trabaja?
+User: Trabajo en marketing. / Trabajo en ventas.
+
+**Outro:**
+> ¡Primera presentación: Aprobada! 👔
+> Ahora cuéntele más sobre su experiencia.
+>
+
+**La Experiencia [Set 2]**
+AI: ¿Tiene experiencia en esta área?
+User: Sí, tengo dos años de experiencia. / Soy nuevo/a en esto.
+AI: ¡Qué bien! ¿De dónde viene?
+User: Vengo de otra empresa. / Soy recién graduado/a.
+
+**Outro:**
+> ¡Experiencia compartida! 📋
+> Ya causó buena impresión.
+>
+
+---
+
+### sim2: La Reunión
+
+**Goal:** To participate in a basic work meeting and understand instructions.
+
+**📍 Lugar:** Sala de reuniones (mismo)
+
+**intro_text:**
+Hay una reunión en diez minutos.
+¡Prepárese para participar!
+
+**La Reunión [Set 3]**
+AI: ¡Buenos días a todos! Vamos a empezar la reunión.
+User: Buenos días. / Con mucho gusto.
+AI: ¿Tiene alguna pregunta sobre el proyecto?
+User: Sí, ¿cuál es la fecha límite? / No, todo está claro.
+
+**Outro:**
+> ¡Participación en reunión: Exitosa! 📊
+> Ahora tome nota de los puntos importantes.
+>
+
+**Los Puntos [Set 4]**
+AI: El proyecto termina el viernes.
+User: Entendido. ¿Necesita algo de mi parte? / Entendido. ¿Puedo ayudar?
+AI: Sí, por favor envíe el reporte mañana.
+User: Con mucho gusto. / Claro, lo envío mañana.
+
+**Outro:**
+> ¡Tarea asignada! ✅
+> Ahora prepare el reporte.
+>
+
+---
+
+### sim3: El Correo Profesional
+
+**Goal:** To write and send a basic professional email in Spanish.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+Necesita enviar un correo profesional.
+¡Usted puede!
+
+**El Correo [Set 5]**
+AI: ¿Ya envió el reporte?
+User: Todavía no. ¿A quién se lo envío? / Sí, ya lo envié.
+AI: Al señor García. Su correo es garcia@empresa.com.
+User: Entendido. Lo envío ahora. / Gracias, ya lo tengo.
+
+**Outro:**
+> ¡Correo en camino! 📧
+> Ahora confirme que llegó.
+>
+
+**Confirmación [Set 6]**
+User: Disculpe, ¿recibió mi correo?
+AI: Sí, lo recibí. Muchas gracias.
+User: Con mucho gusto. / ¡Perfecto!
+AI: Le agradezco su puntualidad.
+
+**Outro:**
+> ¡Correo confirmado! ✉️
+> Lo siguiente: Participar en una reunión más grande.
+>
+
+---
+
+# CR-2: La Reunión de Equipo
+
+- Categoría: Trabajo
+- Subcategoría: Reunión Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Antes de la Reunión
+
+**Goal:** To prepare for a team meeting and confirm attendance.
+
+**📍 Lugar:** Oficina (CDMX)
+
+**intro_text:**
+Hay una reunión de equipo mañana.
+¡Confirme su asistencia!
+
+**Apertura — Confirmación [Set 1]**
+AI: ¿Puede asistir a la reunión mañana?
+User: Sí, con mucho gusto. ¿A qué hora es? / Sí, ahí estaré.
+AI: A las 10 de la mañana, en la sala B.
+User: Entendido. Ahí estaré. / Perfecto, gracias.
+
+**Outro:**
+> ¡Asistencia confirmada! 📅
+> Ahora prepárese para la reunión.
+>
+
+**Preparación [Set 2]**
+AI: ¿Necesita algo para la reunión?
+User: ¿Hay agenda? / No, gracias, estoy listo/a.
+AI: Sí, le envío la agenda por correo.
+User: Muchas gracias. / Le agradezco.
+
+**Outro:**
+> ¡Preparación lista! 📋
+> La reunión empieza mañana.
+>
+
+---
+
+### sim2: Durante la Reunión
+
+**Goal:** To follow along in a meeting and ask for clarification.
+
+**📍 Lugar:** Sala de reuniones (mismo)
+
+**intro_text:**
+La reunión empezó. ¡Preste atención!
+
+**La Reunión [Set 3]**
+AI: Hoy vamos a hablar del nuevo proyecto.
+User: Disculpe, ¿puede repetir eso? / Entendido.
+AI: Claro. El proyecto empieza el lunes.
+User: Gracias. ¿Cuál es mi rol? / Entendido, gracias.
+
+**Outro:**
+> ¡Pregunta hecha con confianza! 💪
+> Ahora tome nota de su rol.
+>
+
+**El Rol [Set 4]**
+AI: Usted va a coordinar el equipo.
+User: Entendido. ¿Con quién trabajo? / Con mucho gusto.
+AI: Con la señora López y el señor Martínez.
+User: Perfecto. Gracias. / Entendido, gracias.
+
+**Outro:**
+> ¡Rol asignado! 🎯
+> Ya sabe qué hacer.
+>
+
+---
+
+### sim3: Después de la Reunión
+
+**Goal:** To follow up after a meeting and confirm next steps.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+La reunión terminó. ¡Buen trabajo!
+Ahora confirme los próximos pasos.
+
+**Próximos Pasos [Set 5]**
+AI: ¿Tiene alguna pregunta sobre lo que discutimos?
+User: Sí, ¿cuándo es la próxima reunión? / No, todo está claro.
+AI: La próxima reunión es el jueves.
+User: Entendido. Gracias. / Perfecto.
+
+**Outro:**
+> ¡Próximos pasos claros! 📆
+> Ahora envíe un correo de seguimiento.
+>
+
+**Seguimiento [Set 6]**
+User: ¿Le puedo enviar un resumen de la reunión?
+AI: Sí, por favor. Le agradezco mucho.
+User: Con mucho gusto. Lo envío hoy. / Claro, lo envío esta tarde.
+AI: Muchas gracias. Hasta luego.
+
+**Outro:**
+> ¡Profesional del año! 🏆
+> Lo siguiente: El correo profesional perfecto.
+>
+
+---
+
+# CR-3: El Correo Perfecto
+
+- Categoría: Trabajo
+- Subcategoría: Email Profesional
+- Nivel: A0 (Principiante Absoluto)
+- 12 turnos (6 sets, 3 sims)
+
+---
+
+### sim1: Escribir el Correo
+
+**Goal:** To write a basic professional email requesting information.
+
+**📍 Lugar:** Oficina (CDMX)
+
+**intro_text:**
+Necesita información de un cliente.
+¡Es hora de escribir un correo profesional!
+
+**Apertura — El Correo [Set 1]**
+AI: ¿Necesita ayuda con el correo?
+User: Sí, por favor. ¿Cómo empiezo? / Sí, gracias. ¿Qué escribo primero?
+AI: Empiece con "Estimado/a señor/a".
+User: Entendido. ¿Y después? / Gracias, ¿qué sigue?
+
+**Outro:**
+> ¡Correo iniciado! ✍️
+> Ahora escriba el cuerpo del correo.
+>
+
+**El Cuerpo [Set 2]**
+AI: Escriba: "Le escribo para solicitar información sobre..."
+User: Entendido. ¿Y el cierre? / Gracias. ¿Cómo termino?
+AI: Termine con "Quedo a sus órdenes. Atentamente, ___".
+User: Perfecto. Muchas gracias. / Entendido, gracias.
+
+**Outro:**
+> ¡Correo escrito! 📝
+> Ahora revíselo antes de enviarlo.
+>
+
+---
+
+### sim2: Revisar y Enviar
+
+**Goal:** To review and send a professional email.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+El correo está escrito. ¡Revíselo!
+Un buen correo no tiene errores.
+
+**Revisión [Set 3]**
+AI: ¿Ya revisó el correo?
+User: Sí, ya lo revisé. / Todavía no.
+AI: ¿Está todo correcto?
+User: Sí, todo está bien. / Creo que sí.
+
+**Outro:**
+> ¡Correo revisado! 🔍
+> Ahora envíelo.
+>
+
+**Enviar [Set 4]**
+AI: ¿Listo para enviar?
+User: Sí, lo envío ahora. / Sí, ya está listo.
+AI: ¡Perfecto! ¿A quién va dirigido?
+User: Al señor Rodríguez. / A la señora Flores.
+
+**Outro:**
+> ¡Correo enviado! 📤
+> Ahora espere la respuesta.
+>
+
+---
+
+### sim3: La Respuesta
+
+**Goal:** To read and respond to a professional email reply.
+
+**📍 Lugar:** Oficina (mismo)
+
+**intro_text:**
+Llegó la respuesta del cliente.
+¡Léala con atención!
+
+**La Respuesta [Set 5]**
+AI: ¡Llegó la respuesta del señor Rodríguez!
+User: ¿Qué dice? / ¡Qué bien! ¿Qué responde?
+AI: Dice que puede reunirse el martes.
+User: Perfecto. Le respondo ahora. / Entendido. ¿A qué hora?
+
+**Outro:**
+> ¡Respuesta recibida! 📬
+> Ahora confirme la reunión.
+>
+
+**Confirmar la Reunión [Set 6]**
+User: ¿Le confirmo el martes a las 11?
+AI: Sí, por favor. Eso sería perfecto.
+User: Con mucho gusto. Le escribo ahora. / Entendido. Lo confirmo.
+AI: Le agradezco su eficiencia. Hasta el martes.
+
+**Outro:**
+> ¡Reunión confirmada! 🤝
+> ¡Felicidades! Completaste el curso de español A0.
+> ¡Ahora eres un/a profesional del español latinoamericano! 🌎
+>
