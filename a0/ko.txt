@@ -827,13 +827,12 @@ User: 아, 알겠어요!
 > Still struggling? Try the English card.
 >
 
-### 전 — 영어 돼요? [세트 4]
+### 전 — 다시 말해주세요? [세트 4]
 
 AI: 거기서 오 분 걸려요.
-User: 영어 가능하세요? / 한국어 잘 못해요.
-
-AI: 아, 조금이요! Five minutes.
-User: 감사합니다!
+User: 다시 말해주세요. / 네? 
+AI: 오 분 걸려요.
+User: 오분! 감사합니다
 
 **Outro:**
 > Language barrier cleared! 🌐
