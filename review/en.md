@@ -1,10 +1,1687 @@
-# English A1 — Native Speaker Review
+# English Script — A0 + A1
 
-> **Instructions for reviewers:** Please leave feedback after each dialogue line.
-> Focus on: naturalness, vocabulary level, cultural accuracy, and any awkward phrasing.
-> Mark lines that feel unnatural with ❌, good lines with ✅.
+============================================================
+
+# ── A0 ──────────────────────────────────────────────
+
+# A0 Goal-Based Course — All 5 Tracks, 18 Stories (Location Labels)
 
 ---
+
+# 💖 PERSONAL INTEREST (casual) >> American Daily Life
+
+# PI-1: Hey, I'm ___!
+
+- Category: Personal Interest
+- Subcategory: First Meeting
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+First meeting in New York.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, say where you're from, and share one reason you like the US.
+
+**📍 Location:** Outside (SoHo, NYC)
+
+**intro_text:**
+First meeting in New York.
+Deep breath... say hi!
+
+**Opening — First Hello [Set 1]**
+AI: Hey! I'm Alex (Jamie)! What's your name?
+User: I'm ___! / My name is ___!
+AI: Nice to meet you! Where are you from?
+User: I'm from ___!
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in New York?
+>
+
+**Getting Closer — Likes [Set 2]**
+AI: Do you like it here?
+User: Yeah, I love it! / It's so cool!
+AI: What do you like about it?
+User: The food! / The people!
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with American food.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+You're still talking. Good sign!
+Time to find out what you have in common.
+
+**Hobbies — What Do You Like? [Set 3]**
+User: Alex (Jamie), what do you like?
+AI: Me? I love music! What about you?
+User: Me too! / I like movies!
+AI: Oh really? American music?
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate American obsession... Food.
+>
+
+**Food — Have You Tried It? [Set 4]**
+AI: Have you tried BBQ here?
+User: Yeah! / Not yet!
+AI: You have to try it! It's so good!
+User: I want to! / Yeah, it was amazing!
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them to hang out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange numbers to stay in touch.
+
+**📍 Location:** Outside (same)
+
+**intro_text:**
+The vibe is good. Really good.
+Time to make this official!
+
+**Plans — This Weekend [Set 5]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Wanna hang out?
+User: Yeah! What should we do?
+AI: Let's grab some food!
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their number!
+>
+
+**Contact — Let's Stay in Touch [Set 6]**
+User: Can I get your number?
+AI: Yeah, for sure! Here you go!
+User: Got it!
+AI: Text me! See you soon!
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: What's Your Sign?
+
+- Category: Personal Interest
+- Subcategory: Small Talk
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 Location:** Coffee shop (SoHo)
+
+**intro_text:**
+You made it to the coffee shop. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+**Opening — Age [Set 1]**
+AI: How old are you?
+User: I'm ___! / I'm ___ years old!
+AI: Oh, same as me! I'm 25!
+User: Really? / No way!
+
+**Outro:**
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
+**Where Do You Live? [Set 2]**
+User: Where do you live?
+AI: Me? I live in Brooklyn! What about you?
+User: I live in Manhattan! / I live near here!
+AI: Oh, that's close!
+
+**Outro:**
+> Neighbors? Maybe! 📍
+> Get ready — the astrology question is coming.
+>
+
+---
+
+### sim2: Astrology Talk
+
+**Goal:** To discuss star signs and talk about personality.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+The coffee is good. The conversation is better.
+Time for the question everyone in NYC asks.
+
+**Star Sign [Set 3]**
+User: What's your sign?
+AI: I'm a Scorpio! What about you?
+User: I'm a Leo! / I don't know!
+AI: A Leo? That makes sense!
+
+**Outro:**
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
+**Personality [Set 4]**
+AI: Are you more of a homebody or do you go out a lot?
+User: I go out a lot! / I stay home mostly!
+AI: Me too, I love going out!
+User: Same! / Oh really?
+
+**Outro:**
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
+---
+
+### sim3: More About You
+
+**Goal:** To talk about what you've been doing lately.
+
+**📍 Location:** Coffee shop (same)
+
+**intro_text:**
+You're on your second coffee. This is going well.
+Time to get a little more personal.
+
+**Lately [Set 5]**
+AI: What have you been up to lately?
+User: Learning English! / Watching Netflix!
+AI: Nice! How's that going?
+User: It's fun! / It's a little hard.
+
+**Outro:**
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
+**Wrap Up [Set 6]**
+AI: We should hang out again!
+User: Yeah, for sure!
+AI: Text me, okay?
+User: I will!
+
+**Outro:**
+> New friend unlocked! 🔓
+> Next up: Turn that chat into actual plans.
+>
+
+---
+
+# PI-3: What Are You Doing This Weekend?
+
+- Category: Personal Interest
+- Subcategory: Making Plans
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: This Weekend
+
+**Goal:** To suggest and agree on weekend plans.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+The message bubble is blinking.
+Time to shoot your shot — ask them to hang out!
+
+**Opening — Weekend [Set 1]**
+User: What are you doing this weekend?
+AI: Me? Nothing yet! Why?
+User: Let's hang out!
+AI: Yeah! What do you wanna do?
+
+**Outro:**
+> They said yes! 🙌
+> Now figure out what you're actually doing.
+>
+
+**Where? [Set 2]**
+User: Wanna get coffee? Or grab food?
+AI: Food! I'm hungry. Where?
+User: How about SoHo?
+AI: Let's do it!
+
+**Outro:**
+> Destination: SoHo! 🗺️
+> Now nail down the details — when and where exactly?
+>
+
+---
+
+### sim2: When and Where
+
+**Goal:** To confirm the meeting time and place.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+Plans are set. Now lock in the details.
+Don't be that person who shows up at the wrong time.
+
+**Time [Set 3]**
+AI: What time should we meet?
+User: 2pm? / In the evening!
+AI: 2pm works! Spring Street station?
+User: Perfect!
+
+**Outro:**
+> Time locked in! ⏰
+> One more confirmation and you're all set.
+>
+
+**Confirm [Set 4]**
+AI: So Saturday at 2, Spring Street!
+User: Yes!
+AI: Don't be late!
+User: I won't! / I'll be there!
+
+**Outro:**
+> Plans confirmed! 📅
+> Saturday is coming... are you ready for the real thing?
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To coordinate arrival and find each other in real time.
+
+**📍 Location:** Spring Street Station, SoHo
+
+**intro_text:**
+It's Saturday. You're almost there.
+One last text to find each other!
+
+**Day Of [Set 5]**
+AI: Are you on your way?
+User: Yeah, almost there! / I'm here!
+AI: I'm here already! Hurry!
+User: Coming now!
+
+**Outro:**
+> Almost there! 🏃
+> Just one more step — actually find each other.
+>
+
+**Found You [Set 6]**
+User: Where are you?
+AI: I'm right here! Over here!
+User: Oh, I see you!
+AI: Let's go!
+
+**Outro:**
+> You found each other! 🎉
+> Next up: Staying in touch between hangouts.
+>
+
+---
+
+# PI-4: Text Me!
+
+- Category: Personal Interest
+- Subcategory: Staying in Touch
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Text
+
+**Goal:** To start a casual conversation over text.
+
+**📍 Location:** Online (iMessage)
+
+**intro_text:**
+You have their number.
+Now what? Just... text them!
+
+**Opening — First Text [Set 1]**
+User: What are you up to?
+AI: Just at home! What about you?
+User: Same, I'm bored.
+AI: Me too! Wanna go out?
+
+**Outro:**
+> Conversation started! 💬
+> Now keep it going — ask about their day.
+>
+
+**Chat — How Was Your Day? [Set 2]**
+AI: What did you do today?
+User: Studied English. / Watched Netflix.
+AI: Oh nice, what did you watch?
+User: Something new! / It's a secret!
+
+**Outro:**
+> Chatting like pros! 😎
+> Time to take it up a notch — share something fun.
+>
+
+---
+
+### sim2: Chatting More
+
+**Goal:** To share photos and links and react to them.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+The conversation is flowing.
+Time to send something fun!
+
+**Photo [Set 3]**
+AI: Look where I am! (photo)
+User: Where is that? / Wow, that's beautiful!
+AI: Central Park! We should go together sometime!
+User: Let's do it! / Yeah, I'd love that!
+
+**Outro:**
+> Central Park plans made! 🌿
+> Now send them something funny.
+>
+
+**Fun Stuff [Set 4]**
+User: Did you see this? (link)
+AI: What is it? I haven't seen it!
+User: It's so funny! Watch it!
+AI: Okay, I'll check it out!
+
+**Outro:**
+> Link sent! 😂
+> The night is winding down... time to say goodnight.
+>
+
+---
+
+### sim3: Good Night
+
+**Goal:** To end a conversation naturally and say goodnight.
+
+**📍 Location:** Online (iMessage, same)
+
+**intro_text:**
+It's getting late.
+Time to wrap up the night.
+
+**Evening [Set 5]**
+AI: Did you eat dinner?
+User: Yeah, I did. / Not yet!
+AI: Me too! I had pizza!
+User: Nice! / Really?
+
+**Outro:**
+> Dinner check done! 🍕
+> Almost time to wrap up for the night.
+>
+
+**Goodnight [Set 6]**
+AI: I'm gonna sleep now! Goodnight!
+User: Goodnight! Talk soon!
+AI: Yeah, talk soon! Text me tomorrow!
+User: I will!
+
+**Outro:**
+> Goodnight said! 🌙
+> Next up: Taking your English out into the real world.
+>
+
+---
+
+# ✈️ TRAVEL & PLACES (polite) >> US Travel
+
+# TR-1: Can I Get a Coffee?
+
+- Category: Travel & Places
+- Subcategory: Coffee Shop
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Ordering
+
+**Goal:** To order your drink, choose a size, and ask about additional menu items like pastries.
+
+**📍 Location:** Coffee shop counter (Starbucks, NYC)
+
+**intro_text:**
+First American coffee order. You got this... just say it!
+
+**Opening — Order [Set 1]**
+AI: Hi there! What can I get for you?
+User: Can I get an iced coffee, please? / Can I get an iced latte, please?
+AI: What size?
+User: Medium, please. / Large, please.
+
+**Outro:**
+> Drink ordered! ☕
+> But wait... that muffin in the display is calling your name.
+>
+
+**Add-On [Set 2]**
+AI: Anything else for you?
+User: Do you have muffins? / That's all, thank you.
+AI: We have blueberry and chocolate chip!
+User: I'll take a blueberry one, please. / I'll take the chocolate chip, please.
+
+**Outro:**
+> Order complete! 🧁
+> Now, time to pay like a pro.
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about payment methods and give your name for the order.
+
+**📍 Location:** Coffee shop counter (same)
+
+**intro_text:**
+Order placed. Now comes the moment of truth.
+Time to pay and give your name!
+
+**Payment [Set 3]**
+AI: That'll be $7.50!
+User: Can I pay by card? / I'll pay with cash.
+AI: Of course, go ahead.
+User: Thank you so much.
+
+**Outro:**
+> Payment done! 💳
+> Just one more thing before you wait...
+>
+
+**Name [Set 4]**
+AI: Can I get a name for the order?
+User: It's ___.
+AI: Got it! We'll call your name when it's ready!
+User: Thank you!
+
+**Outro:**
+> Name given! 📝
+> Now, the hardest part: waiting for coffee.
+>
+
+---
+
+### sim3: Getting Your Order
+
+**Goal:** To pick up your order, ask for extras, and find a seat.
+
+**📍 Location:** Coffee shop pickup → seating area
+
+**intro_text:**
+Your name is about to be called.
+Get ready to grab your order!
+
+**Pickup [Set 5]**
+AI: ___, your iced coffee is ready!
+User: Thank you so much!
+AI: Do you need a straw?
+User: Yes, please. / No, I'm good, thanks.
+
+**Outro:**
+> Coffee in hand! ☕
+> Now, find the perfect spot to enjoy it.
+>
+
+**Seat [Set 6]**
+User: Is this seat taken?
+AI: No, go ahead!
+User: Thank you!
+AI: Enjoy!
+
+**Outro:**
+> Mission accomplished! ☕🧁
+> You're officially a US coffee shop regular. Next up: Time to eat!
+>
+
+---
+
+# TR-2: Table for Two, Please
+
+- Category: Travel & Places
+- Subcategory: Restaurant
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Welcome to the Restaurant
+
+**Goal:** To state the size of your party, get seated, and place a basic food and drink order.
+
+**📍 Location:** Restaurant (NYC)
+
+**intro_text:**
+First American restaurant experience.
+Get ready for some serious flavor!
+
+**Opening — Getting Seated [Set 1]**
+AI: Hi! How many?
+User: Just me. / Two, please.
+AI: Right this way!
+User: Thank you.
+
+**Outro:**
+> Survived the seating! 🪑
+> Now, the real challenge begins: the menu.
+>
+
+**Order [Set 2]**
+AI: What can I get for you?
+User: Can I get a burger, please?
+AI: Sure! And to drink?
+User: Water, please. / A Coke, please.
+
+**Outro:**
+> Order placed! 🍔
+> But wait... is the burger too big for you?
+>
+
+---
+
+### sim2: The Flavor Check
+
+**Goal:** To adjust your order and politely request extra items.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+The food is on its way.
+Time to make sure everything is right!
+
+**Spice Check [Set 3]**
+AI: Just so you know, the sauce is a little spicy!
+User: Is it spicy? / That's okay, I like spicy!
+AI: Yeah, just a little bit.
+User: Can I get it on the side, please? / Spicy is fine!
+
+**Outro:**
+> Crisis averted! 🌶️
+> Time to discover the magic of American sides.
+>
+
+**Extras [Set 4]**
+User: Excuse me! Can I get a refill?
+AI: Of course! What would you like?
+User: More water, please. / More Coke, please.
+AI: Coming right up!
+
+**Outro:**
+> The food is amazing! 🍟
+> Now, how do you politely finish the meal?
+>
+
+---
+
+### sim3: Check, Please!
+
+**Goal:** To ask for the bill, handle payment, and offer polite closing greetings.
+
+**📍 Location:** Restaurant (same)
+
+**intro_text:**
+You're full. It was delicious.
+Time to pay and head out!
+
+**Bill [Set 5]**
+User: Excuse me! Can I get the check, please?
+AI: Of course! Here you go. It's $18.
+User: Can I pay by card? / I'll pay cash.
+AI: Do you need change?
+
+**Outro:**
+> Bill sorted! 💳
+> Just one last thing to say before you walk out.
+>
+
+**Goodbye [Set 6]**
+User: Yes, please. / No, keep the change!
+AI: Thank you so much! Have a great day!
+User: Thank you! The food was great!
+AI: Come back soon!
+
+**Outro:**
+> Meal complete! 🍔
+> You're officially a US restaurant regular. Next up: Time to navigate the city!
+>
+
+---
+
+# TR-3: Excuse Me, Where Is...?
+
+- Category: Travel & Places
+- Subcategory: Asking Directions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Finding the Subway
+
+**Goal:** To ask for directions to the subway and understand basic directional responses.
+
+**📍 Location:** Street (Times Square, NYC)
+
+**intro_text:**
+You're lost in Times Square.
+Time to ask a local for help!
+
+**Opening — Directions [Set 1]**
+User: Excuse me! Where is the subway?
+AI: The subway? Go straight down this street.
+User: Straight down?
+AI: Yes, then turn left at the corner.
+
+**Outro:**
+> Directions received! 🗺️
+> But wait... which line do you need?
+>
+
+**Which Line? [Set 2]**
+User: Thank you! Which line goes to Brooklyn?
+AI: Take the A or C train.
+User: The A or C train. Got it, thank you!
+AI: No problem! Have a good one!
+
+**Outro:**
+> Line confirmed! 🚇
+> Now, can you actually get there on time?
+>
+
+---
+
+### sim2: At the Ticket Machine
+
+**Goal:** To buy a MetroCard and ask about the fare.
+
+**📍 Location:** Subway station (Times Square)
+
+**intro_text:**
+You found the station. Now you need a MetroCard.
+Let's figure this out!
+
+**Ticket [Set 3]**
+User: Excuse me! How much is the subway?
+AI: It's $2.90 per ride.
+User: Thank you!
+AI: No problem!
+
+**Outro:**
+> Fare found! 🎫
+> Now, figure out which platform to go to.
+>
+
+**Platform [Set 4]**
+User: Excuse me! Which platform for the A train?
+AI: It's on the lower level.
+User: Lower level. Got it, thank you!
+AI: Sure thing!
+
+**Outro:**
+> Platform found! 🚃
+> Almost there — just one more thing to check.
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm your stop and ask a fellow passenger for help.
+
+**📍 Location:** On the subway
+
+**intro_text:**
+You're on the train. Almost there.
+Just make sure you get off at the right stop!
+
+**On the Train [Set 5]**
+User: Excuse me! Is the next stop Brooklyn?
+AI: Yes, next stop!
+User: Thank you!
+AI: Sure!
+
+**Outro:**
+> Almost at your stop! 🚉
+> Just one more step — get off at the right place.
+>
+
+**Arrived [Set 6]**
+User: Excuse me! Is this my stop?
+AI: Yes, this is it!
+User: Thank you so much!
+AI: Have a good one!
+
+**Outro:**
+> Arrived safely! 🎉
+> Next up: Checking into your hotel.
+>
+
+---
+
+# TR-4: I Have a Reservation
+
+- Category: Travel & Places
+- Subcategory: Hotel / Airbnb
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Check-In
+
+**Goal:** To check in at the hotel, confirm your reservation, and get your room key.
+
+**📍 Location:** Hotel front desk (NYC)
+
+**intro_text:**
+Long day of travel. Finally, the hotel.
+Let's get that room key!
+
+**Opening — Check-In [Set 1]**
+AI: Welcome! Do you have a reservation?
+User: Yes, under the name ___.
+AI: Let me pull that up. Can I see your ID?
+User: Sure, here you go.
+
+**Outro:**
+> Check-in started! 🏨
+> But wait... what floor is your room on?
+>
+
+**Room Info [Set 2]**
+AI: You're in room 305, on the third floor.
+User: Thank you! Where's the elevator?
+AI: Right over there!
+User: Thank you so much!
+
+**Outro:**
+> Room confirmed! 🗝️
+> Now, find out what's included in your stay.
+>
+
+---
+
+### sim2: Room Amenities
+
+**Goal:** To ask about breakfast, Wi-Fi, and other hotel services.
+
+**📍 Location:** Hotel front desk (same)
+
+**intro_text:**
+Room key in hand. But first — a few questions.
+Let's find out what's included!
+
+**Breakfast [Set 3]**
+User: Is breakfast included?
+AI: Yes! It's from 7 to 10am.
+User: Great! Where is it?
+AI: In the restaurant on the first floor.
+
+**Outro:**
+> Breakfast info secured! 🍳
+> Now, get connected.
+>
+
+**Wi-Fi [Set 4]**
+User: Is there Wi-Fi?
+AI: Yes! Here's the password.
+User: Thank you!
+AI: Enjoy your stay!
+
+**Outro:**
+> Connected! 📶
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: Check-Out
+
+**Goal:** To check out of the hotel and confirm the bill.
+
+**📍 Location:** Hotel front desk
+
+**intro_text:**
+Time to check out. It was a great stay.
+Let's wrap it up!
+
+**Check-Out [Set 5]**
+User: I'd like to check out, please.
+AI: Of course! Let me get your bill. One moment.
+User: Sure.
+AI: Your total is $150. How would you like to pay?
+
+**Outro:**
+> Bill ready! 💳
+> Just one last thing before you head out.
+>
+
+**Goodbye [Set 6]**
+User: By card, please.
+AI: Perfect! Thank you for staying with us!
+User: Thank you! I had a great time!
+AI: Come back soon! Safe travels!
+
+**Outro:**
+> Check-out complete! 🧳
+> Next up: Time to explore pop culture!
+>
+
+---
+
+# 🎓 CAMPUS LIFE (casual + semi-formal) >> Studying in the US
+
+# CL-1: Hey, I Think We're Roommates!
+
+- Category: Campus Life
+- Subcategory: Dorm Life
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Moving In
+
+**Goal:** To introduce yourself to your new roommate and get settled in your dorm room.
+
+**📍 Location:** Dorm room (first day on campus)
+
+**intro_text:**
+Move-in day. Your stuff is everywhere.
+Someone just walked in — it's your roommate!
+
+**Opening — First Hello [Set 1]**
+AI: Hey! I think we're roommates! I'm Chris!
+User: Hey! I'm ___! Nice to meet you!
+AI: Cool! Where are you from?
+User: I'm from ___! What about you?
+
+**Outro:**
+> Roommate unlocked! 🛏️
+> But wait... which bed do they want?
+>
+
+**Beds [Set 2]**
+AI: Do you have a preference for the bed?
+User: I'll take the one by the window! / I don't mind, you pick!
+AI: Works for me! I'll take this side.
+User: Sounds good! Thanks!
+
+**Outro:**
+> Beds sorted! 😌
+> Now, find out a little more about each other.
+>
+
+---
+
+### sim2: Getting to Know You
+
+**Goal:** To discover shared interests and ask about your roommate's major.
+
+**📍 Location:** Dorm room (same)
+
+**intro_text:**
+You're both unpacking.
+Good time to break the ice!
+
+**Major [Set 3]**
+User: What's your major?
+AI: Computer science! What about you?
+User: I'm studying ___! / I'm still deciding!
+AI: Nice! Have you been to any of your classes yet?
+
+**Outro:**
+> Majors shared! 📚
+> Now, find out about life on campus!
+>
+
+**Campus Life [Set 4]**
+AI: Have you been to the dining hall yet?
+User: Not yet! Is it good? / Yeah, I went this morning!
+AI: It's decent! The meal plan is pretty convenient though.
+User: Good to know! Thanks!
+
+**Outro:**
+> Campus tip received! 🍽️
+> Now, make your first plans as roommates.
+>
+
+---
+
+### sim3: First Night
+
+**Goal:** To make plans for dinner on your first night and talk about orientation.
+
+**📍 Location:** Dorm hallway → dining hall
+
+**intro_text:**
+It's almost dinnertime.
+What's the plan for tonight?
+
+**Dinner Plans [Set 5]**
+User: Hey, wanna grab dinner together?
+AI: Yeah! The dining hall or somewhere off campus?
+User: Let's try the dining hall! / Off campus sounds fun!
+AI: Let's go! I'll grab my student ID!
+
+**Outro:**
+> Dinner plans: Made! 🍴
+> Now, talk about orientation!
+>
+
+**Orientation [Set 6]**
+AI: Did you go to orientation today?
+User: Yeah! It was a lot to take in! / Mine's tomorrow — a little nervous!
+AI: Same! So much info. But it's exciting, right?
+User: Totally! I can't wait to start!
+
+**Outro:**
+> Roommate bond: Started! 🤝
+> Next up: Time to hit the classroom!
+>
+
+---
+
+# CL-2: Professor, Do You Have a Minute?
+
+- Category: Campus Life
+- Subcategory: Classes & Professors
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Day of Class
+
+**Goal:** To find a seat and chat with a classmate before class starts.
+
+**📍 Location:** Lecture hall (campus)
+
+**intro_text:**
+First day of class. You have no idea where to sit.
+Good thing someone nearby looks friendly!
+
+**Finding a Seat [Set 1]**
+AI: Hey, is this seat taken?
+User: No, go ahead! / Sure, sit down!
+AI: Thanks! Is this your first time in this class?
+User: Yeah, first day! What about you?
+
+**Outro:**
+> Classmate found! 🙋
+> But wait... do they know what the class is about?
+>
+
+**Class Info [Set 2]**
+AI: Do you know what this class is like?
+User: I heard it's tough! / I think it's supposed to be interesting!
+AI: Yeah, me too. I hope the professor is cool!
+User: Same! Let's hope for the best!
+
+**Outro:**
+> Class buddy: Found! 📖
+> Now, time to meet the professor!
+>
+
+---
+
+### sim2: After Class
+
+**Goal:** To ask the professor a question after class using polite English.
+
+**📍 Location:** Lecture hall (after class)
+
+**intro_text:**
+Class just ended. You have a question.
+Time to talk to the professor!
+
+**Asking a Question [Set 3]**
+User: Excuse me, Professor? Do you have a quick minute?
+AI: Of course! What can I help you with?
+User: I wasn't sure about the assignment. Could you explain it again?
+AI: Sure! It's due Friday — just one page about today's topic.
+
+**Outro:**
+> Question answered! 🙋
+> Now, ask about office hours!
+>
+
+**Office Hours [Set 4]**
+AI: Feel free to come to office hours if you have more questions.
+User: When are your office hours? / That's really helpful, thank you!
+AI: Tuesdays and Thursdays, 2 to 4 PM, in my office.
+User: Thank you so much, Professor!
+
+**Outro:**
+> Office hours noted! 📅
+> Now, go work on that group project!
+>
+
+---
+
+### sim3: Group Project
+
+**Goal:** To meet with classmates and plan a group project together.
+
+**📍 Location:** Campus café
+
+**intro_text:**
+You and your group are meeting for the first time.
+Time to figure out who does what!
+
+**Meeting Up [Set 5]**
+User: Okay, so we have a project due next week. Where do we start?
+AI: Good question! What should we each do?
+User: I can do the research! / I'll work on the slides!
+AI: Perfect! I'll write up the introduction then.
+
+**Outro:**
+> Work divided! ✅
+> Almost there — set a time to meet again!
+>
+
+**Next Meeting [Set 6]**
+AI: When should we meet again to put it all together?
+User: How about Thursday? / Is Sunday okay?
+AI: Thursday works for me! Let's meet here again.
+User: Great! See you then!
+
+**Outro:**
+> Group project: In progress! 📝
+> Next up: Time to explore campus life!
+>
+
+---
+
+# CL-3: What's the Dining Hall Like?
+
+- Category: Campus Life
+- Subcategory: Campus Daily Life
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Dining Hall Talk
+
+**Goal:** To navigate the dining hall, chat with a new person, and talk about the meal plan.
+
+**📍 Location:** Dining hall (campus)
+
+**intro_text:**
+Lunchtime. The dining hall is packed.
+Find a table and make a friend!
+
+**Opening — Dining Hall [Set 1]**
+AI: Hey! Do you mind if I sit here?
+User: Not at all, go ahead! / Sure, sit down!
+AI: Thanks! Is the food here always this good?
+User: It's pretty solid! / It's hit or miss, honestly!
+
+**Outro:**
+> New lunch buddy! 🍽️
+> Now, talk about the meal plan!
+>
+
+**Meal Plan [Set 2]**
+AI: Are you on the meal plan?
+User: Yeah! 19 meals a week! / No, I cook in my room sometimes!
+AI: Me too! It's way more convenient than cooking every day.
+User: For sure! Saves so much time!
+
+**Outro:**
+> Meal plan discussed! 🥗
+> Now, talk about the best spots on campus!
+>
+
+---
+
+### sim2: Library Life
+
+**Goal:** To find a study spot in the library and make a study plan.
+
+**📍 Location:** Campus library
+
+**intro_text:**
+Midterms are coming up fast.
+Time to hit the library and get serious!
+
+**Study Spot [Set 3]**
+User: Excuse me, is anyone sitting here?
+AI: No, it's free! Go ahead.
+User: Thanks! Are you studying for the midterm? / Thanks so much!
+AI: Yeah, I've been here for two hours already. It's a lot!
+
+**Outro:**
+> Study spot secured! 📚
+> Now, talk about the exam!
+>
+
+**Exam Talk [Set 4]**
+AI: Are you feeling ready for the test?
+User: Not really! I need to review more. / Getting there, I think!
+AI: Same! Do you wanna study together sometime?
+User: That sounds great! / Sure, let's do it!
+
+**Outro:**
+> Study partner found! 💪
+> Almost done — one more part of campus life!
+>
+
+---
+
+### sim3: Campus Clubs
+
+**Goal:** To ask about campus clubs and sign up at the student union.
+
+**📍 Location:** Student union (club fair)
+
+**intro_text:**
+It's club fair day at the student union.
+So many options — which one looks good?
+
+**Club Fair [Set 5]**
+User: Hey, what club is this?
+AI: It's the photography club! We meet every Friday evening.
+User: That sounds awesome! How do I sign up? / I love photography!
+AI: Just put your name here! We'd love to have you!
+
+**Outro:**
+> Club found! 🎉
+> Almost there — make plans with your new club friend!
+>
+
+**Signing Up [Set 6]**
+User: When's the first meeting?
+AI: This Friday at 6 PM in the student union! Come hungry — we always bring snacks.
+User: I'll be there for sure! / Sounds great!
+AI: Awesome! See you Friday!
+
+**Outro:**
+> Campus club: Joined! 🌟
+> Next up: Time to handle some campus admin!
+>
+
+---
+
+# CL-4: Can I Come to Office Hours?
+
+- Category: Campus Life
+- Subcategory: Campus Admin
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Office Hours
+
+**Goal:** To visit a professor's office hours and ask about your grade or an assignment.
+
+**📍 Location:** Professor's office
+
+**intro_text:**
+You're standing outside the professor's door.
+Deep breath — it's just office hours!
+
+**Knocking [Set 1]**
+AI: Come in! Oh hi, have a seat!
+User: Thank you, Professor. I had a question about the last assignment.
+AI: Of course! Which part are you wondering about?
+User: I wasn't sure if my answer was right!
+
+**Outro:**
+> Office hours: Started! 📋
+> Now, ask your real question!
+>
+
+**The Question [Set 2]**
+AI: Walk me through what you wrote — let's look at it together.
+User: I wrote that the answer is ___. Is that right? / Can I revise my essay?
+AI: Good start! Revisions are welcome by Friday — just email it to me.
+User: Thank you so much, Professor! That really helps.
+
+**Outro:**
+> Feedback received! 😊
+> Now, talk about changing your schedule!
+>
+
+---
+
+### sim2: Changing Your Schedule
+
+**Goal:** To talk to a classmate about the add/drop period and changing your class schedule.
+
+**📍 Location:** Campus café
+
+**intro_text:**
+The add/drop deadline is coming up fast.
+Are you keeping all your classes?
+
+**Drop or Stay [Set 3]**
+User: Hey, are you keeping all your classes this semester?
+AI: Honestly, I'm thinking about dropping one. It's way too much work!
+User: I get it! Which one? / I'm keeping all of mine!
+AI: Econ 101. What about you?
+
+**Outro:**
+> Class decision: In progress! 🤔
+> Now, talk about what to take instead!
+>
+
+**Switching [Set 4]**
+AI: What are you thinking about taking instead?
+User: Maybe intro to psychology! / I'm looking at art history!
+AI: Oh, I heard that class is great! And pretty easy too.
+User: That's exactly why I want it! Ha!
+
+**Outro:**
+> New class in sight! 📋
+> Almost done — now talk to your RA!
+>
+
+---
+
+### sim3: Talking to Your RA
+
+**Goal:** To talk to your RA (resident advisor) about a dorm issue and learn the rules.
+
+**📍 Location:** Dorm hallway
+
+**intro_text:**
+There's an issue in the dorm. You need help.
+Time to find your RA!
+
+**Talking to the RA [Set 5]**
+User: Hey, are you the RA for this floor?
+AI: Yeah, that's me! What's going on?
+User: My roommate plays loud music late at night. / There's a noise problem on my floor.
+AI: I hear you! I'll take care of it. Thanks for letting me know.
+
+**Outro:**
+> Problem reported! 🙌
+> Almost there — ask about dorm rules!
+>
+
+**Dorm Rules [Set 6]**
+AI: Do you have any questions about the dorm policies?
+User: Yeah — what are quiet hours? / When does the front door lock at night?
+AI: Quiet hours are 10 PM to 8 AM. Front door locks at midnight.
+User: Got it! Thanks so much!
+
+**Outro:**
+> Dorm life: Figured out! 🏠
+> You're officially a campus pro. Next up: Workplace English!
+>
+
+---
+
+# 💼 WORKPLACE (formal) >> American Professional Life
+
+# CR-1: Nice to Meet You, I'm ___
+
+- Category: Workplace
+- Subcategory: Introductions
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: First Day Introduction
+
+**Goal:** To introduce yourself formally on your first day at an American company.
+
+**📍 Location:** Office (conference room, NYC)
+
+**intro_text:**
+First day at an American company.
+Time to make a great first impression!
+
+**Opening — Introduction [Set 1]**
+AI: Hi! I'm Sarah (David). Nice to meet you!
+User: Nice to meet you! I'm ___.
+AI: Welcome to the team! Where are you from?
+User: I'm from ___.
+
+**Outro:**
+> Introduction: Nailed it! 🤝
+> But wait... time to exchange contact info!
+>
+
+**Contact Info [Set 2]**
+AI: Here's my card. Feel free to reach out!
+User: Thank you! Here's mine as well.
+AI: Great! Which department are you in?
+User: I'm in sales. / I'm in marketing.
+
+**Outro:**
+> Cards exchanged! 💼
+> Now, find out more about your new colleague.
+>
+
+---
+
+### sim2: Getting to Know the Office
+
+**Goal:** To ask about the office layout and daily routines.
+
+**📍 Location:** Office (open floor plan)
+
+**intro_text:**
+You have your badge. You have your desk.
+Now, figure out how things work around here!
+
+**Lunch [Set 3]**
+AI: Where do you usually eat lunch?
+User: I go to the deli nearby. / I bring my lunch.
+AI: I see. Would you like to join me today?
+User: I would love that, thank you.
+
+**Outro:**
+> Lunch buddy: Found! 🥪
+> Now, ask about the daily schedule.
+>
+
+**Schedule [Set 4]**
+AI: What time does your day start?
+User: I start at 9am. / I start at 8:30.
+AI: And when do you finish?
+User: I finish at 6. / It depends on the day.
+
+**Outro:**
+> Schedule confirmed! 📅
+> Almost settled in — just one more thing.
+>
+
+---
+
+### sim3: End of First Day
+
+**Goal:** To wrap up the first day and say goodbye to colleagues.
+
+**📍 Location:** Office
+
+**intro_text:**
+It's 6pm. First day is almost done.
+Time to say goodbye properly!
+
+**End of Day [Set 5]**
+AI: Great work today! How was your first day?
+User: It was great, thank you! / It was a lot to take in!
+AI: If you have any questions, just ask me.
+User: Thank you. I really appreciate that.
+
+**Outro:**
+> First day: Survived! 💪
+> Now, say goodbye properly!
+>
+
+**Goodbye [Set 6]**
+AI: I'm heading out. Have a good evening!
+User: You too! See you tomorrow!
+AI: See you tomorrow! Welcome again!
+User: Thank you! Good night!
+
+**Outro:**
+> First day: Complete! 🎉
+> Next up: Time to run a meeting!
+>
+
+---
+
+# CR-2: Let's Get Started
+
+- Category: Workplace
+- Subcategory: Meetings
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Before the Meeting
+
+**Goal:** To prepare for a meeting and confirm the agenda.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting room is filling up.
+Time to show them you're prepared!
+
+**Opening — Preparation [Set 1]**
+AI: Are you ready for the meeting?
+User: Yes, I'm ready. / Almost, one more minute.
+AI: Do you have the slides?
+User: Yes, right here. / I'm printing them now.
+
+**Outro:**
+> Preparation: Confirmed! 📋
+> But wait... is everyone here?
+>
+
+**Start Meeting [Set 2]**
+AI: Okay, let's get started. Thank you all for coming.
+User: Thank you for having me.
+AI: Today's agenda is the Q3 report.
+User: Understood.
+
+**Outro:**
+> Meeting started! 🤝
+> Now, time to present your ideas!
+>
+
+---
+
+### sim2: During the Meeting
+
+**Goal:** To present an idea and respond to questions in a meeting.
+
+**📍 Location:** Office (conference room, same)
+
+**intro_text:**
+The meeting is underway.
+Time to speak up!
+
+**Present [Set 3]**
+AI: Could you share your thoughts on this?
+User: Yes. I think we should focus on social media.
+AI: Interesting. Can you tell us more?
+User: Of course. It would help us reach more people.
+
+**Outro:**
+> Opinion shared! 💡
+> Now, respond to a question.
+>
+
+**Question [Set 4]**
+AI: I have a question, if that's okay.
+User: Of course, go ahead.
+AI: When would this plan start?
+User: We could start next month. / That's still being decided.
+
+**Outro:**
+> Question answered! ✅
+> Almost done — just wrap up the meeting!
+>
+
+---
+
+### sim3: End of Meeting
+
+**Goal:** To wrap up a meeting and confirm next steps.
+
+**📍 Location:** Office (conference room)
+
+**intro_text:**
+The meeting is wrapping up.
+Time to confirm next steps and close it out!
+
+**Wrap Up [Set 5]**
+AI: Okay, let me summarize. The next step is the report.
+User: Understood.
+AI: Does anyone have any questions?
+User: No, I'm good. / Yes, I have one.
+
+**Outro:**
+> Summary: Done! 📋
+> Now, close the meeting properly!
+>
+
+**Close Meeting [Set 6]**
+AI: Alright, that's all for today. Thank you everyone.
+User: Thank you. It was a productive meeting.
+AI: Next meeting is next week. See you then!
+User: See you then. Thank you!
+
+**Outro:**
+> Meeting complete! 🎉
+> Next up: Time to write a professional email!
+>
+
+---
+
+# CR-3: Please See the Attached
+
+- Category: Workplace
+- Subcategory: Professional Emails
+- Level: A0 (Absolute Beginner)
+- 12 turns (6 sets, 3 sims)
+
+---
+
+### sim1: Writing an Email
+
+**Goal:** To write a simple professional email to a colleague.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+Monday morning. Your inbox is full.
+Time to write your first professional email!
+
+**Opening — Email [Set 1]**
+AI: Have you sent the report yet?
+User: Not yet. I'm writing the email now.
+AI: Okay. Don't forget to attach the file.
+User: Got it. I will.
+
+**Outro:**
+> Email started! 📧
+> But wait... what's the right way to open it?
+>
+
+**Opening Line [Set 2]**
+AI: How do you usually start an email?
+User: I write "Hi" and their name. / I write "Dear" and their name.
+AI: Both work! "Hi" is more casual, "Dear" is more formal.
+User: I see. Thank you!
+
+**Outro:**
+> Email etiquette: Learned! ✉️
+> Now, write the body of the email.
+>
+
+---
+
+### sim2: The Email Body
+
+**Goal:** To write the main content of a professional email.
+
+**📍 Location:** Office (at your desk, same)
+
+**intro_text:**
+The opening is done. Now the hard part.
+What do you actually say?
+
+**Body [Set 3]**
+User: How do I ask for something politely?
+AI: You can say "Could you please..." or "I would appreciate it if..."
+User: That's helpful! Thank you.
+AI: No problem! Keep it short and clear.
+
+**Outro:**
+> Email body: Written! 📝
+> Now, how do you close the email?
+>
+
+**Closing [Set 4]**
+AI: How do you end your emails?
+User: I write "Best regards" and my name. / I write "Thanks" and my name.
+AI: Good! "Best regards" is more formal. "Thanks" is more casual.
+User: Got it. I'll use "Best regards."
+
+**Outro:**
+> Email closing: Confirmed! ✅
+> Almost done — just send it!
+>
+
+---
+
+### sim3: Sending and Following Up
+
+**Goal:** To send an email and follow up professionally.
+
+**📍 Location:** Office (at your desk)
+
+**intro_text:**
+The email is ready. Deep breath.
+Time to hit send!
+
+**Send [Set 5]**
+User: I sent the email!
+AI: Great! Did you attach the file?
+User: Yes, I did. / Oh no, I forgot!
+AI: Always double-check the attachment!
+
+**Outro:**
+> Email sent! 📤
+> Now, what if they don't reply?
+>
+
+**Follow Up [Set 6]**
+AI: Did you hear back from them?
+User: Not yet. Should I follow up?
+AI: Yes. Wait one or two days, then send a short follow-up.
+User: Okay. Thank you for the advice!
+
+**Outro:**
+> Professional skills: Unlocked! 🎉
+> You've mastered the American workplace. The world is yours!
+>
+
+# ── A1 ──────────────────────────────────────────────
 
 # A1 Course — 5 Tracks, 18 Stories
 
@@ -14,10 +1691,6 @@
 
 # PI-5: Let's grab food together
 
-- 대분류: Personal Interest
-- 중분류: Hanging Out
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -32,21 +1705,9 @@ Lunchtime in the city. So many options. What are we eating?
 
 **기 — What to eat [Set 1]**
 User: I'm starving! What should we eat?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Me too! What are you feeling?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I could go for some BBQ! / How about BBQ?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! I know a great spot. Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > BBQ it is! 🔥 Now, how far is this place?
@@ -55,21 +1716,9 @@ AI: Yes! I know a great spot. Let's go!
 
 **승 — Getting there [Set 2]**
 AI: It's close! Wanna walk?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah, let's walk! / How long does it take?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Like five minutes! Come on!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay, let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Just a short walk! 🚶 The smell of grilling meat is calling.
@@ -89,21 +1738,9 @@ We're here. This place looks amazing.
 
 **승 — At the table [Set 3]**
 AI: Here we are! What do you think?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Wow, I love it! / It's packed in here!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: What should we order? Here's the menu!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: BBQ ribs for sure! / Let's get the brisket!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Order placed! 🥩 Now comes the most important question...
@@ -112,21 +1749,9 @@ User: BBQ ribs for sure! / Let's get the brisket!
 
 **전 — Eating [Set 4]**
 AI: Want me to grab some extra sauce?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, please! / I'll get it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: This is so good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It really is! / Best BBQ I've had!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > That really hit the spot! 😋 But the real battle is about to begin: the check.
@@ -143,21 +1768,9 @@ User: It really is! / Best BBQ I've had!
 
 **전 — After the meal [Set 5]**
 User: I got this one!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No way, let's split it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: No, I'm treating you today!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Really? Thanks! I'll get it next time!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You smooth talker, you bought lunch! 😎 Where to next with a full stomach?
@@ -166,21 +1779,9 @@ AI: Really? Thanks! I'll get it next time!
 
 **결 — What's next [Set 6]**
 AI: I'm so full! What do we do now?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Wanna get coffee? / Should we walk it off?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Let's do it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
@@ -191,10 +1792,6 @@ User: Let's do it!
 
 # PI-6: I'm studying English because of you
 
-- 대분류: Personal Interest
-- 중분류: Deeper Friendship
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -209,21 +1806,9 @@ A quiet café. A real conversation. This one goes deeper.
 
 **기 — Deep talk [Set 1]**
 AI: So why are you learning English?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I want to make American friends! / I want to understand movies without subtitles!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Oh really? You're already doing great!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I still have a long way to go. / Really? Thanks so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You're doing better than you think! 🌟 But how's life here, really?
@@ -232,21 +1817,9 @@ User: I still have a long way to go. / Really? Thanks so much!
 
 **승 — Life here [Set 2]**
 AI: Is anything hard about living here?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I get lonely sometimes. / When I can't express myself.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: If it ever gets tough, just talk to me!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you. / Yeah, I will.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You've got a real friend right here. 🤝 That means everything.
@@ -263,21 +1836,9 @@ User: Thank you. / Yeah, I will.
 
 **승 — Progress [Set 3]**
 AI: What was it like when you first started learning English?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It was so hard! / I didn't know anything.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: But look at you now — you're killing it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: You think so? Thanks! / I still have a lot to learn.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Look how far you've come! 📈 Your friend sees it even when you don't.
@@ -286,21 +1847,9 @@ User: You think so? Thanks! / I still have a lot to learn.
 
 **전 — The moment [Set 4]**
 User: Honestly, you're the reason I want to keep going.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Really? That means so much to me!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I mean it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You make me want to learn more too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Mutual inspiration! 💫 This friendship just leveled up.
@@ -317,21 +1866,9 @@ AI: You make me want to learn more too!
 
 **전 — How long [Set 5]**
 AI: How long have we known each other now?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Like a month? / Already two months!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Time flies when you're having fun!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It really does!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Time flies when you're with the right person! ⏰ Don't let this moment end.
@@ -340,21 +1877,9 @@ User: It really does!
 
 **결 — Making plans [Set 6]**
 AI: Let's hang out more often!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Obviously!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Let's do something next week!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes! Text me!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Plans made, friendship sealed! 📅 This is just the beginning.
@@ -365,10 +1890,6 @@ User: Yes! Text me!
 
 # PI-7: Are you going through something?
 
-- 대분류: Personal Interest
-- 중분류: Deep Talk
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -383,21 +1904,9 @@ Something's been off lately. Your friend noticed. Time to talk.
 
 **기 — What's up [Set 1]**
 AI: You seem a little off lately. Is everything okay?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I'm struggling a bit. / I have a lot on my mind.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: What's going on? Talk to me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Life here is tough. / I'm just really busy.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > It's out there now. 💬 The first step is always the hardest.
@@ -406,21 +1915,9 @@ User: Life here is tough. / I'm just really busy.
 
 **승 — Listening [Set 2]**
 AI: What's been the hardest part?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I spend a lot of time alone. / English is still really hard for me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That sounds really tough.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah, a little.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Heard and understood. 🫂 That's what real friends do.
@@ -437,21 +1934,9 @@ User: Yeah, a little.
 
 **승 — Getting out [Set 3]**
 AI: Don't keep it all inside. Talk to me whenever!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you. / I will, I promise.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You need some fresh air. Let's get out of here!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Where to? / Yeah, let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
@@ -460,21 +1945,9 @@ User: Where to? / Yeah, let's go!
 
 **전 — Outside [Set 4]**
 AI: Let's go to Central Park! The walk will do you good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah, let's do it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Should we grab some snacks on the way?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Good idea! / Let's stop at a corner store!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Corner store snacks + Central Park = perfect combo! 🍜 Let's go.
@@ -491,21 +1964,9 @@ User: Good idea! / Let's stop at a corner store!
 
 **전 — Better now [Set 5]**
 AI: Feeling better?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah, a lot better! / Thanks to you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm so glad!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Seriously, thank you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > From stressed to refreshed! 🌊 Central Park delivered.
@@ -514,21 +1975,9 @@ User: Seriously, thank you.
 
 **결 — Promise [Set 6]**
 AI: Reach out anytime you're struggling!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I will, I promise!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That's a deal!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Deal!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Pinky promise made! 🤙 You're not alone in this.
@@ -539,10 +1988,6 @@ User: Deal!
 
 # PI-8: Road trip?
 
-- 대분류: Personal Interest
-- 중분류: Trip Planning
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -557,21 +2002,9 @@ A long weekend is coming. Your friend has no plans. This is your moment.
 
 **기 — The idea [Set 1]**
 User: What are you doing next weekend?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Nothing yet! Why?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Wanna go on a road trip?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Oh my gosh, yes! Where?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Road trip confirmed! 🗺️ Now the real question: where are we going?
@@ -580,21 +2013,9 @@ AI: Oh my gosh, yes! Where?
 
 **승 — Picking a spot [Set 2]**
 User: How about the beach? / I really want to go to the mountains!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! I've been wanting to go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: How many nights?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: One night? / Maybe two nights?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Destination locked! 📍 Now let's figure out how to get there.
@@ -611,21 +2032,9 @@ User: One night? / Maybe two nights?
 
 **승 — Getting there [Set 3]**
 AI: How should we get there? Drive or take the bus?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Let's drive! / Is the bus cheaper?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Driving is more fun! Road trip vibes!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay, let's drive!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Road trip it is! 🚗 Fast, fun, and very American.
@@ -634,21 +2043,9 @@ User: Okay, let's drive!
 
 **전 — Where to stay [Set 4]**
 AI: Where should we stay? Hotel or Airbnb?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Airbnb! It's cheaper! / A hotel is more comfortable, right?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'll book an Airbnb!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Perfect, thanks!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Accommodation sorted! 🏠 Budget travel wins again.
@@ -665,21 +2062,9 @@ User: Perfect, thanks!
 
 **전 — What to do [Set 5]**
 User: What do you want to do when we get there?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I want to go to the beach! What about you?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I want to eat good seafood! / I want to explore the town!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Let's do everything!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The itinerary is basically writing itself! 🌊 Beach, seafood, exploring — perfect.
@@ -688,21 +2073,9 @@ AI: Yes! Let's do everything!
 
 **결 — So excited [Set 6]**
 AI: I'm so excited!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Me too! I can't wait!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Okay, see you then! Start packing!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Already on it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Bags packed (mentally)! 🧳 This trip is going to be legendary.
@@ -715,10 +2088,6 @@ User: Already on it!
 
 # TR-5: I'd like to check in
 
-- 대분류: Traveling
-- 중분류: Hotel
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -733,21 +2102,9 @@ Finally at the hotel. Time to check in.
 
 **기 — Arrival [Set 1]**
 User: Hi, I'd like to check in, please.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Welcome! Do you have a reservation?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, under the name ___.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Got it! Could I see your ID, please?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > ID checked! 🛂 Let's see if they got your booking right.
@@ -756,21 +2113,9 @@ AI: Got it! Could I see your ID, please?
 
 **승 — Room details [Set 2]**
 AI: Is that two nights?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, that's right. / Actually, it's three nights.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Your room is on the fifth floor. Here's your key card!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Room key secured! 🔑 Now, onto the most important question: the Wi-Fi.
@@ -787,21 +2132,9 @@ User: Thank you so much!
 
 **승 — Questions [Set 3]**
 User: What's the Wi-Fi password?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: It's right here on this card!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you! What time is breakfast?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Breakfast is from 7 to 9am in the restaurant on the first floor!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Breakfast schedule locked in! 🍳 But wait, do you need anything extra for the room?
@@ -810,21 +2143,9 @@ AI: Breakfast is from 7 to 9am in the restaurant on the first floor!
 
 **전 — Extra request [Set 4]**
 User: Could I get some extra towels?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course! I'll send them right up!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Is there anything else you need?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Extra towels on the way! 🛁 Time to hunt for some late-night snacks.
@@ -841,21 +2162,9 @@ AI: Is there anything else you need?
 
 **전 — Settling in [Set 5]**
 User: Is there a convenience store nearby?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Just turn right when you exit — it's right there!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Perfect, thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Take your time and get some rest!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Corner store located! 🏪 You're officially ready to settle in.
@@ -864,21 +2173,9 @@ AI: Take your time and get some rest!
 
 **결 — Wrapping up [Set 6]**
 AI: If you need anything, just give us a call!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Will do, thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Enjoy your stay!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Check-in complete! Rest up. 🛏️ Next up: Surviving the NYC subway maze.
@@ -889,10 +2186,6 @@ User: Thank you!
 
 # TR-6: How do I take the subway?
 
-- 대분류: Traveling
-- 중분류: Subway/Transit
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -907,21 +2200,9 @@ NYC subway. Dozens of lines. Hundreds of stations. You've got this.
 
 **기 — At the station [Set 1]**
 User: Excuse me! Where can I buy a MetroCard?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Right over there at the machine!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you! Can I add money there too?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes, you can!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > MetroCard acquired! 💳 Now, which line do you need?
@@ -930,21 +2211,9 @@ AI: Yes, you can!
 
 **승 — Which line [Set 2]**
 User: I want to get to SoHo. Which train do I take?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Take the C or E train! It's right over there.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Do I need to transfer?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Nope, it's a straight shot!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > No transfers! 🚇 That's the best news you've heard all day.
@@ -961,21 +2230,9 @@ AI: Nope, it's a straight shot!
 
 **승 — On the train [Set 3]**
 AI: (fellow passenger) Where are you headed?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: SoHo!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You've got three more stops!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Three stops? Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Three more stops! 🎯 A kind stranger just saved your day.
@@ -984,21 +2241,9 @@ User: Three stops? Thank you so much!
 
 **전 — Transferring [Set 4]**
 User: Excuse me! How do I transfer at 14th Street?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Just follow the signs when you get off! Look for the A or C line!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Easy! Don't worry!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Transfer decoded! 🗺️ Follow the signs and you'll be fine.
@@ -1015,21 +2260,9 @@ AI: Easy! Don't worry!
 
 **전 — Arrived [Set 5]**
 User: Is this Spring Street station?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes, it is!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Which exit should I take?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Take exit 1 — it puts you right on Spring Street!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Exit 1! 🚪 You made it through the NYC subway like a pro.
@@ -1038,21 +2271,9 @@ AI: Take exit 1 — it puts you right on Spring Street!
 
 **결 — Heading out [Set 6]**
 User: Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No problem at all!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: You were really helpful!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Have a great day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > NYC subway: conquered! 🏆 You're officially a local now.
@@ -1063,10 +2284,6 @@ AI: Have a great day!
 
 # TR-7: Can I try this on?
 
-- 대분류: Traveling
-- 중분류: Shopping
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1081,21 +2298,9 @@ SoHo shopping street. So many cute clothes. Where do you even start?
 
 **기 — Browsing [Set 1]**
 AI: Hi there! Can I help you find anything?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Just browsing, thanks! / I'm looking for a T-shirt.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: We just got some new stuff in! Want to take a look?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Sure, I'd love to!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > New arrivals section — dangerous territory! 👀 Everything looks good.
@@ -1104,21 +2309,9 @@ User: Sure, I'd love to!
 
 **승 — Picking something [Set 2]**
 User: Oh, this is cute! Can I try this on?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course! The fitting room is right over there!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Does the size look right?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Fitting room secured! 🪞 The moment of truth is coming.
@@ -1135,21 +2328,9 @@ AI: Does the size look right?
 
 **승 — Trying it on [Set 3]**
 AI: How does it fit?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It's a little small. Do you have a bigger size? / It fits great!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Let me grab you the next size up!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > One size up on the way! 📦 Sizing can be tricky.
@@ -1158,21 +2339,9 @@ User: Thank you so much!
 
 **전 — Deciding [Set 4]**
 User: How much is this?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That one is $45!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Could you do a little better on the price? / I'll take it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I can do $38 for you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Discount secured! 💰 You're a natural at this.
@@ -1189,21 +2358,9 @@ AI: I can do $38 for you!
 
 **전 — Paying [Set 5]**
 User: Okay, I'll take it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Cash or card?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Card, please.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Here's your receipt!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Purchase complete! 🛍️ New outfit, new confidence.
@@ -1212,21 +2369,9 @@ AI: Here's your receipt!
 
 **결 — Wrapping up [Set 6]**
 AI: Can I help you with anything else?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: No, I'm good! Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Come back and see us!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I will!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Shopping mission accomplished! 🎉 SoHo: 1, Budget: 0.
@@ -1237,10 +2382,6 @@ User: I will!
 
 # TR-8: What's this neighborhood known for?
 
-- 대분류: Traveling
-- 중분류: Exploring
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1255,21 +2396,9 @@ You're in a new neighborhood. No plan, no map. Just vibes and curiosity.
 
 **기 — Recommendations [Set 1]**
 User: Excuse me! Is there anywhere good to eat around here?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! There's a great pizza place just down the block!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Oh, I'd love to try it! Is it far?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No, it's like a five-minute walk!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Local tip unlocked! 🍕 Five minutes away — that's basically next door.
@@ -1278,21 +2407,9 @@ AI: No, it's like a five-minute walk!
 
 **승 — More to explore [Set 2]**
 User: What else is this neighborhood known for?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: There are so many cool little cafés here! Have you been to the bookshop café?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: No, not yet!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You have to go! It's perfect for photos!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Bookshop café added to the list! 📸 This neighborhood just got a lot more interesting.
@@ -1309,21 +2426,9 @@ AI: You have to go! It's perfect for photos!
 
 **승 — Visiting [Set 3]**
 User: Is this the bookshop café?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Come on in!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Wow, this place is gorgeous!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Thank you! What can I get for you?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Books and coffee — the perfect combination! 📚 Stunning.
@@ -1332,21 +2437,9 @@ AI: Thank you! What can I get for you?
 
 **전 — Ordering [Set 4]**
 User: What do you recommend?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Our lavender latte is really popular!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I'll have a lavender latte, please!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Coming right up! Just a moment!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lavender latte incoming! ☕ The most Instagram-worthy drink in the neighborhood.
@@ -1363,21 +2456,9 @@ AI: Coming right up! Just a moment!
 
 **전 — Enjoying [Set 5]**
 AI: Here's your lavender latte!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you! Oh wow, this is amazing!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Are you enjoying it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, it's so good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lavender latte approved! 😍 This place is going straight into your travel diary.
@@ -1386,21 +2467,9 @@ User: Yes, it's so good!
 
 **결 — Wrapping up [Set 6]**
 User: I love this place! I'll definitely be back!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Thank you so much! Come back anytime!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I will!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Enjoy the rest of your day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A perfect afternoon in a perfect café! ✨ This city keeps delivering.
@@ -1413,10 +2482,6 @@ AI: Enjoy the rest of your day!
 
 # KD-5: I have a crush on someone
 
-- 대분류: TV & Drama
-- 중분류: Crush
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1431,21 +2496,9 @@ Two coffees. One secret. Here we go...
 
 **기 — The secret [Set 1]**
 User: I have to tell you something.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: What? Tell me!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I kind of have a crush on someone.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No way! Really? Who?!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The secret is out! 🤫 Now, who is this lucky person?
@@ -1454,21 +2507,9 @@ AI: No way! Really? Who?!
 
 **승 — Who is it [Set 2]**
 AI: Wait, do I know them?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah. / No, you don't.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: What are they like?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: They're really sweet. / They have the best smile.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A perfect smile? Sounds like a main character. ✨ Now, how did this romance begin?
@@ -1485,21 +2526,9 @@ User: They're really sweet. / They have the best smile.
 
 **승 — How you met [Set 3]**
 AI: Where did you meet them?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: At a coffee shop! / In class!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That's so cute! So what happened?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I didn't say anything. / I got their number though!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You got their number?! That's huge! 📱 So... is it time to make a move?
@@ -1508,21 +2537,9 @@ User: I didn't say anything. / I got their number though!
 
 **전 — Advice [Set 4]**
 AI: Are you gonna say something?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I want to but I'm scared. / It's still too early.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You're amazing! Just go for it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: You really think so? Thanks.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Confidence is key! 🔑 Listen to your bestie and hype yourself up.
@@ -1539,21 +2556,9 @@ User: You really think so? Thanks.
 
 **전 — Cheering you on [Set 5]**
 AI: Tell me when you do it! I'm rooting for you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay! / I'm nervous but I'll try.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You've got this!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
@@ -1562,21 +2567,9 @@ User: Thank you!
 
 **결 — Hopeful ending [Set 6]**
 AI: It's gonna work out!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I really hope so.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course it will! Keep me posted!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I will!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Romance is definitely in the air! 🌸 But wait... is there a plot twist coming?
@@ -1587,10 +2580,6 @@ User: I will!
 
 # KD-6: You've got it all wrong
 
-- 대분류: TV & Drama
-- 중분류: Misunderstanding
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1605,21 +2594,9 @@ A park bench. A tense silence. Someone saw something they didn't understand.
 
 **기 — The accusation [Set 1]**
 AI: Why were you with someone else yesterday?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: What? What are you talking about? / You've got it all wrong!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I saw you. At the coffee shop.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: That's just a friend! / Oh, that?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Caught! 😬 But it's not what it looks like — time to explain.
@@ -1628,21 +2605,9 @@ User: That's just a friend! / Oh, that?
 
 **승 — Explaining [Set 2]**
 AI: Just a friend, really?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, really. We're in the same class. / Don't be suspicious.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm sorry. I think I got a little jealous.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It's okay. / I get it.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
@@ -1659,21 +2624,9 @@ User: It's okay. / I get it.
 
 **승 — Talking it out [Set 3]**
 User: Why didn't you just ask me?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I didn't know how to bring it up.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Next time, just ask. Don't assume.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You're right. I'm sorry.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Communication rules established! 📋 This is how healthy relationships work.
@@ -1682,21 +2635,9 @@ AI: You're right. I'm sorry.
 
 **전 — Making up [Set 4]**
 AI: I'm really sorry.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It's okay. Just trust me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I do. I won't do that again.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Good.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Trust restored! 🤝 That's what matters most.
@@ -1713,21 +2654,9 @@ User: Good.
 
 **전 — All good [Set 5]**
 AI: Are we good?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: We're good. / Almost.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Let's go get food. My treat.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Food fixes everything! 🍽️ The classic makeup move.
@@ -1736,21 +2665,9 @@ User: Okay!
 
 **결 — Back to normal [Set 6]**
 AI: Next time I'll just ask!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I like you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I like you too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "I like you too." Two words. Maximum impact. 💕 Rom-com ending unlocked.
@@ -1761,10 +2678,6 @@ User: I like you too.
 
 # KD-7: Do you wanna be official?
 
-- 대분류: TV & Drama
-- 중분류: Getting Together
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1779,21 +2692,9 @@ Central Park at sunset. You said you had something to say. This is it.
 
 **기 — The confession [Set 1]**
 AI: You said you had something to tell me. What is it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I'm a little nervous. / Come sit closer.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Why are you nervous? Just say it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I... I like you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You said it! 💘 Three words that change everything.
@@ -1802,21 +2703,9 @@ User: I... I like you.
 
 **승 — The answer [Set 2]**
 AI: Really? I like you too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Really? / Since when?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Since the first time we met.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Me too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Mutual feelings confirmed! 🌅 Central Park just witnessed a rom-com moment.
@@ -1833,21 +2722,9 @@ User: Me too.
 
 **승 — Making it official [Set 3]**
 AI: So are we... together now?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah. / I think so, right?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm happy.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Me too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Official! 💑 You are now a couple. Congratulations.
@@ -1856,21 +2733,9 @@ User: Me too.
 
 **전 — First date [Set 4]**
 AI: So what should our first date be?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I want to go to the beach! / Let's go somewhere with good food!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Let's go this weekend!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I can't wait!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > First date planned! 🗓️ The excitement is real.
@@ -1887,21 +2752,9 @@ User: I can't wait!
 
 **전 — Late night texts [Set 5]**
 AI: Did you get home okay?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yeah, just got back!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Tonight was really special.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Me too. / I keep thinking about it.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Late night texts after a perfect evening! 📱 This feeling is everything.
@@ -1910,21 +2763,9 @@ User: Me too. / I keep thinking about it.
 
 **결 — Goodnight [Set 6]**
 AI: I want to see you again tomorrow.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I want to see you too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Goodnight. Sweet dreams.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Goodnight.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "Sweet dreams." 😴 The most romantic goodnight there is.
@@ -1935,10 +2776,6 @@ User: Goodnight.
 
 # KD-8: Why have you been so distant?
 
-- 대분류: TV & Drama
-- 중분류: Relationship Trouble
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1953,21 +2790,9 @@ Three days. No call. Something is definitely off.
 
 **기 — Something's off [Set 1]**
 User: Why didn't you text me?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Sorry, I've just been really busy.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I get that, but that's too long!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I know. I'm sorry.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "I'm sorry." Is that enough? 😔 You need more than an apology.
@@ -1976,21 +2801,9 @@ AI: I know. I'm sorry.
 
 **승 — Being honest [Set 2]**
 User: I feel like you don't care anymore. It hurts.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That's not it at all.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I've just had a lot going on. I'm really sorry.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay. But please just text me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Feelings expressed, explanation given. 💬 Now you need to actually meet.
@@ -2007,21 +2820,9 @@ User: Okay. But please just text me.
 
 **승 — Opening up [Set 3]**
 AI: I've been going through a lot. I wasn't handling it well.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Why didn't you tell me? / If you're struggling, talk to me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I didn't want to worry you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Don't be silly. You can always talk to me.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Walls coming down! 🧱 This is what real intimacy looks like.
@@ -2030,21 +2831,9 @@ User: Don't be silly. You can always talk to me.
 
 **전 — Understanding [Set 4]**
 AI: Thank you. I'll do better.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I'm sorry too. I was a little harsh.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No, you were right.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Let's just be honest with each other from now on.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Both sides heard, both sides understood. 🤍 This is growth.
@@ -2061,21 +2850,9 @@ User: Let's just be honest with each other from now on.
 
 **전 — Warmth returns [Set 5]**
 AI: Starting today, I'll be better.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Me too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I missed you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I missed you too.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "I missed you." Said out loud. 💗 That's the real turning point.
@@ -2084,21 +2861,9 @@ User: I missed you too.
 
 **결 — Back together [Set 6]**
 AI: Let's go get food. What do you want?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Anything! I just want to be with you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "I just want to be with you." 🥺 The most rom-com line of the whole course.
@@ -2111,10 +2876,6 @@ User: Let's go!
 
 # KP-4: Happy birthday!
 
-- 대분류: Pop Music
-- 중분류: Birthday
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2129,21 +2890,9 @@ Midnight EST. It's officially her birthday. My heart is racing...
 
 **기 — Birthday [Set 1]**
 User: Happy birthday!!!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Thank you so much! You're so sweet!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: What did you do today?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I had cake with my team!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > First birthday message delivered! 🎂 Did she get your special gift yet?
@@ -2152,21 +2901,9 @@ AI: I had cake with my team!
 
 **승 — The gift [Set 2]**
 User: I sent you a gift! Did you get it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Not yet! What is it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: It's a secret! / It's a letter and a little something!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I can't wait! Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Gift successfully sent! 🎁 Alert: She just started a surprise live stream!
@@ -2183,21 +2920,9 @@ AI: I can't wait! Thank you so much!
 
 **승 — Birthday live [Set 3]**
 AI: Thank you all so much for the birthday love!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Happy birthday! / We love you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: You guys make me so happy!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: We're happy too! Have the best day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > She is literally an angel! 👼 Shh... she's about to make her birthday wish.
@@ -2206,21 +2931,9 @@ User: We're happy too! Have the best day!
 
 **전 — The wish [Set 4]**
 AI: I made a wish! Do you want to know what it was?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes! Tell us! / Please!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I wished to keep making music with all of you for a long, long time!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: That made me cry! / Same! Me too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > We are all crying right now. 😭 Time to wrap up this perfect day.
@@ -2237,21 +2950,9 @@ User: That made me cry! / Same! Me too!
 
 **전 — Wrapping up [Set 5]**
 AI: Today was honestly the best day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: For us too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Let's do this again next year!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Obviously! We'll be here!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A promise to stay together forever! 💖 Say goodnight before she turns off the camera.
@@ -2260,21 +2961,9 @@ User: Obviously! We'll be here!
 
 **결 — Goodnight [Set 6]**
 AI: Okay, I'm going to sleep now! Goodnight!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Goodnight!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I love you all!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: We love you too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind her lyrics.
@@ -2285,10 +2974,6 @@ User: We love you too!
 
 # KP-5: What does this lyric mean?
 
-- 대분류: Pop Music
-- 중분류: Understanding Lyrics
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2303,21 +2988,9 @@ Her new song is on repeat. But what does it actually mean?
 
 **기 — The lyrics [Set 1]**
 User: What is she saying in this part?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: (friend) Which part?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: "I'm the problem, it's me" — this part!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: It means she's saying she's the one causing the issues!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "It's me, hi, I'm the problem" — now you'll never forget it! 💭 What else don't you know?
@@ -2326,21 +2999,9 @@ AI: It means she's saying she's the one causing the issues!
 
 **승 — Learning more [Set 2]**
 User: I know "I love you"! What about "I miss you"?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That's "I miss you" — pretty much the same in English!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Oh, that's easy! / Wait, really?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yeah! English lyrics are fun, right?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Love vs. miss — the eternal pop song distinction! 🎵 Now you know the difference.
@@ -2357,21 +3018,9 @@ AI: Yeah! English lyrics are fun, right?
 
 **승 — Singing together [Set 3]**
 AI: Want to try singing along?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Sure! / Do I have to know all the words?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Nope! Just follow along!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Okay, let's try!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
@@ -2380,21 +3029,9 @@ User: Okay, let's try!
 
 **전 — You're good [Set 4]**
 AI: Hey, you're actually really good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Really? / Is my accent weird?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No way, you sound great! You've got the feel for it!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "You've got the feel for it!" 🌟 That's the highest compliment.
@@ -2411,21 +3048,9 @@ User: Thank you!
 
 **전 — New release [Set 5]**
 User: Did you hear her new song? Have you listened yet?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! I love it! What about you?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I listened! The lyrics are so sad though.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Right? The part about "waiting" is so emotional.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "Waiting" — why is pop music always so emotional? 😢
@@ -2434,21 +3059,9 @@ AI: Right? The part about "waiting" is so emotional.
 
 **결 — Listen together [Set 6]**
 User: Listen with me and explain the lyrics!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: This song is so good.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Right?!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Music + friendship + lyrics = perfect afternoon! 🎶 You're basically fluent now.
@@ -2459,10 +3072,6 @@ AI: Right?!
 
 # KP-6: I just went to a meet-and-greet!
 
-- 대분류: Pop Music
-- 중분류: Fan Story
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2477,21 +3086,9 @@ You just got back from the meet-and-greet. Your hands are still shaking.
 
 **기 — Just got back [Set 1]**
 User: I went to the meet-and-greet yesterday!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: (friend) No way! How was it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I was shaking the whole time! / It was the best thing ever!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm so jealous! What happened?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The story begins! 😱 Your friend is already jealous.
@@ -2500,21 +3097,9 @@ AI: I'm so jealous! What happened?
 
 **승 — The story [Set 2]**
 User: I got to shake her hand and talk to her!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: What?! What did you say?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I said "I love your music"! / I asked her what her favorite song to perform is!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Oh my god! What did she say?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You said WHAT?! 🤯 The audacity. The courage. The legend.
@@ -2531,21 +3116,9 @@ AI: Oh my god! What did she say?
 
 **승 — Her reaction [Set 3]**
 User: She smiled and said "thank you so much"!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm literally dying! I want to go too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Let's go together next time!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! I'm in!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Next meet-and-greet: booked (mentally)! 🎫 Your friend is already planning the outfit.
@@ -2554,21 +3127,9 @@ AI: Yes! I'm in!
 
 **전 — The gift [Set 4]**
 AI: Did you bring her anything?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I wrote her a letter! / I made her a little gift!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Did she read it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: She said she would read every single one!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > She promised to read your letter! 💌 That's basically a love confession.
@@ -2585,21 +3146,9 @@ User: She said she would read every single one!
 
 **전 — Still buzzing [Set 5]**
 AI: Are you still shaking?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, my hands are still trembling! / I still can't believe it happened!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I'm so jealous! Show me photos!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Here! Look!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Photo evidence! 📸 This is going straight to the fan Discord.
@@ -2608,21 +3157,9 @@ User: Here! Look!
 
 **결 — The promise [Set 6]**
 AI: That looks so amazing!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: We have to go together next time!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Yes! Promise!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Promise!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Pinky promise: meet-and-greet together! 💖 The countdown starts now.
@@ -2635,10 +3172,6 @@ User: Promise!
 
 # CR-4: Are you ready for the meeting?
 
-- 대분류: Career
-- 중분류: Meetings
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2653,21 +3186,9 @@ Meeting in 2 hours. Almost ready... I think.
 
 **기 — Preparation [Set 1]**
 AI: Are you ready for the meeting today?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I'm ready. / Almost, just finishing up.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Did you print the documents?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I did. / I'll do that now.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
@@ -2676,21 +3197,9 @@ User: Yes, I did. / I'll do that now.
 
 **승 — The room [Set 2]**
 AI: Did you book the conference room?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I booked it for 3 o'clock.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Perfect! See you then!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, see you there.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Room booked and ready to go! 📅 Deep breath... it's showtime.
@@ -2710,21 +3219,9 @@ Meeting in progress. Time to share your thoughts.
 
 **승 — In the meeting [Set 3]**
 AI: Does anyone have thoughts on this section?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I think this approach would work well. / I agree with that direction.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That is a great point!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The boss loved your idea! 💡 Don't stop now, keep the momentum going.
@@ -2733,21 +3230,9 @@ User: Thank you.
 
 **전 — The question [Set 4]**
 User: I have a question.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course, go ahead!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: When is the deadline for this section?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: It is due by next Friday!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Deadline secured: Next Friday. ⏳ You are officially surviving corporate America!
@@ -2764,21 +3249,9 @@ AI: It is due by next Friday!
 
 **전 — After the meeting [Set 5]**
 AI: Great work today, everyone!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: I'd be happy to send out the meeting notes.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That would be wonderful, thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Volunteering for the meeting notes? Total pro move! 📝 Time to wrap this up and get back to your desk.
@@ -2787,21 +3260,9 @@ AI: That would be wonderful, thank you!
 
 **결 — Wrapping up [Set 6]**
 AI: See you at the next meeting!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I'll be there.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Have a good rest of your day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you! You as well!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
@@ -2812,10 +3273,6 @@ User: Thank you! You as well!
 
 # CR-5: Have you had lunch yet?
 
-- 대분류: Career
-- 중분류: Workplace Socializing
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2830,21 +3287,9 @@ User: Thank you! You as well!
 
 **기 — Lunch invite [Set 1]**
 AI: Have you had lunch yet?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Not yet. / Yes, I already ate.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Would you like to join me?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I'd love that! / Thank you, that sounds great!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lunch invitation accepted! 🍱 Now the important question: where are we going?
@@ -2853,21 +3298,9 @@ User: Yes, I'd love that! / Thank you, that sounds great!
 
 **승 — Where to eat [Set 2]**
 AI: What are you in the mood for? There is a great place nearby!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Anything is fine! / What do you recommend?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: The deli on the corner is really good!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: That sounds great! Let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Deli it is! 🥪 The ultimate American office lunch.
@@ -2884,21 +3317,9 @@ User: That sounds great! Let's go!
 
 **승 — Ordering [Set 3]**
 AI: Do you have any dietary restrictions? Anything you do not eat?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: No, I eat everything! / I don't eat meat.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: They have great veggie options too!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: That's good to know!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Dietary needs handled! 🥗 Your coworker is looking out for you.
@@ -2907,21 +3328,9 @@ User: That's good to know!
 
 **전 — Conversation [Set 4]**
 AI: How are you finding it here so far? Are you settling in?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I'm getting used to it. / It's a bit tough!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: If you ever need anything, please let me know!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you, I appreciate that.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A coworker who actually cares! ☕ That is rare and precious.
@@ -2938,21 +3347,9 @@ User: Thank you, I appreciate that.
 
 **전 — The check [Set 5]**
 User: Please let me get this.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No, no — I invited you, so it is on me!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you so much!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Did you enjoy it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > They paid! 💼 Accept it gracefully and say thank you.
@@ -2961,21 +3358,9 @@ AI: Did you enjoy it?
 
 **결 — Heading back [Set 6]**
 User: Yes, it was delicious! Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I am glad!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Shall we head back up?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, let's go!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lunch: successful. Relationship: upgraded. 📈 You have got a work friend now.
@@ -2986,10 +3371,6 @@ User: Yes, let's go!
 
 # CR-6: Can I take tomorrow off?
 
-- 대분류: Career
-- 중분류: Requesting Leave
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -3004,21 +3385,9 @@ You need tomorrow off. Your manager is right there. Deep breath.
 
 **기 — The request [Set 1]**
 User: Excuse me, do you have a moment?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course, what is it?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Can I take tomorrow off? I have a personal matter.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Tomorrow? Is everything okay?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The ask is out there! 😬 Now explain yourself calmly and professionally.
@@ -3027,21 +3396,9 @@ AI: Tomorrow? Is everything okay?
 
 **승 — The explanation [Set 2]**
 User: Yes, I have a doctor's appointment. / I have a personal matter to take care of.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I see.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Can you make sure your tasks are covered before you leave today?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Yes, I'll take care of everything before I go.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Proactive handover offer! 📋 That is exactly what a good employee does.
@@ -3058,21 +3415,9 @@ User: Yes, I'll take care of everything before I go.
 
 **승 — Approval [Set 3]**
 AI: Alright, you can take tomorrow off.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you so much.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Please take care of yourself!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you, I appreciate it.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Leave approved! 🎉 Your manager is actually human — who knew?
@@ -3081,21 +3426,9 @@ User: Thank you, I appreciate it.
 
 **전 — Preparing [Set 4]**
 User: I'll send a summary email of my tasks before I leave today.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: That would be great, thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Is there anything else you need from me?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: No, that is all! Take care!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Handover email promised, manager satisfied! ✉️ You handled that perfectly.
@@ -3112,21 +3445,9 @@ AI: No, that is all! Take care!
 
 **전 — Back at work [Set 5]**
 User: Good morning. Thank you for yesterday.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Of course! How are you feeling?
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Much better, thank you. / I'm fine now, thank you.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: I am glad to hear that!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Back and better! 💪 Your manager genuinely cares — that is a good sign.
@@ -3135,21 +3456,9 @@ AI: I am glad to hear that!
 
 **결 — Back to it [Set 6]**
 AI: Take it easy today! Do not push yourself too hard!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: Thank you, I appreciate that.
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: Have a good day!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: You too! Thank you!
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "Have a good day!" 🏢 The most American way to end a work exchange.

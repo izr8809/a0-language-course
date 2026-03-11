@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-Convert koko-script format (LINENUM#HASH|content) to clean Markdown for native feedback.
-Adds a feedback comment box after each AI/User line.
+Convert koko-script format (LINENUM#HASH|content) to clean plain text for native review.
+Merges A0 + A1 into a single file per language under review/.
 """
 
 import re
 import os
-import sys
 
 LANG_NAMES = {
     "ja": "Japanese",
@@ -17,80 +16,85 @@ LANG_NAMES = {
     "ko": "Korean",
 }
 
-FEEDBACK_PLACEHOLDER = "\n> 💬 **Feedback:** _(Add your comment here)_\n"
+# Internal metadata lines not useful for native reviewers
+STRIP_PATTERNS = [
+    re.compile(r"^- (대분류|중분류|난이도|분류|카테고리|서브카테고리):"),
+    re.compile(r"^- \d+턴 \(\d+세트"),
+]
 
 
 def strip_line_prefix(line: str) -> str:
     """Remove LINENUM#HASH| prefix if present."""
-    # Matches patterns like: 123#AB| or just plain text
     match = re.match(r"^\d+#[A-Z]{2}\|(.*)$", line)
     if match:
         return match.group(1)
     return line
 
 
-def is_dialogue_line(text: str) -> bool:
-    """Return True if this line is an AI or User dialogue line."""
-    return text.startswith("AI:") or text.startswith("User:")
+def should_strip(text: str) -> bool:
+    for pat in STRIP_PATTERNS:
+        if pat.match(text):
+            return True
+    return False
 
 
-def convert_file(input_path: str, output_path: str, lang: str, level: str):
+def file_to_lines(input_path: str) -> list:
     with open(input_path, "r", encoding="utf-8") as f:
         raw_lines = f.readlines()
-
-    lang_name = LANG_NAMES.get(lang, lang.upper())
-    lines_out = []
-
-    # Header
-    lines_out.append(f"# {lang_name} {level.upper()} — Native Speaker Review\n\n")
-    lines_out.append(
-        f"> **Instructions for reviewers:** Please leave feedback after each dialogue line.\n"
-        f"> Focus on: naturalness, vocabulary level, cultural accuracy, and any awkward phrasing.\n"
-        f"> Mark lines that feel unnatural with ❌, good lines with ✅.\n\n"
-    )
-    lines_out.append("---\n\n")
-
-    prev_was_dialogue = False
-
+    out = []
     for raw in raw_lines:
-        raw = raw.rstrip("\n")
-        text = strip_line_prefix(raw)
+        text = strip_line_prefix(raw.rstrip("\n"))
+        if should_strip(text):
+            continue
+        out.append(text)
+    return out
 
-        if is_dialogue_line(text):
-            # Add blank line before if previous was also dialogue (for readability)
-            lines_out.append(f"{text}\n")
-            lines_out.append(FEEDBACK_PLACEHOLDER)
-            lines_out.append("\n")
-            prev_was_dialogue = True
-        else:
-            lines_out.append(f"{text}\n")
-            prev_was_dialogue = False
 
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+def merge_and_save(lang: str, base: str, output_dir: str):
+    lang_name = LANG_NAMES.get(lang, lang.upper())
+    a0_path = os.path.join(base, "a0", f"{lang}.txt")
+    a1_path = os.path.join(base, "a1", f"{lang}.txt")
+
+    lines = []
+    lines.append(f"# {lang_name} Script — A0 + A1")
+    lines.append("")
+    lines.append("=" * 60)
+    lines.append("")
+
+    if os.path.exists(a0_path):
+        lines.append("# ── A0 ──────────────────────────────────────────────")
+        lines.append("")
+        lines.extend(file_to_lines(a0_path))
+        lines.append("")
+    else:
+        print(f"  ⚠️  A0 not found: {a0_path}")
+
+    if os.path.exists(a1_path):
+        lines.append("# ── A1 ──────────────────────────────────────────────")
+        lines.append("")
+        lines.extend(file_to_lines(a1_path))
+        lines.append("")
+    else:
+        print(f"  ⚠️  A1 not found: {a1_path}")
+
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, f"{lang}.md")
     with open(output_path, "w", encoding="utf-8") as f:
-        f.writelines(lines_out)
+        f.write("\n".join(lines))
 
-    print(f"✅ {input_path} → {output_path}")
+    print(f"  ✅  {lang_name}: {output_path}")
 
 
 def main():
     base = os.path.expanduser("~/koko-script")
-    review_base = os.path.join(base, "review")
+    output_dir = os.path.join(base, "review")
+    langs = ["ja", "en", "es", "fr", "zh"]
 
-    targets = [
-        ("a0", "ja"), ("a0", "en"), ("a0", "es"), ("a0", "fr"), ("a0", "zh"),
-        ("a1", "ja"), ("a1", "en"), ("a1", "es"), ("a1", "fr"), ("a1", "zh"),
-    ]
+    print("Converting scripts to plain text review files...\n")
+    for lang in langs:
+        merge_and_save(lang, base, output_dir)
 
-    for level, lang in targets:
-        input_path = os.path.join(base, level, f"{lang}.txt")
-        output_path = os.path.join(review_base, level, f"{lang}.md")
-        if not os.path.exists(input_path):
-            print(f"⚠️  Skipping (not found): {input_path}")
-            continue
-        convert_file(input_path, output_path, lang, level)
-
-    print(f"\n🎉 Done! Review files saved to: {review_base}/")
+    print(f"\n🎉 Done! Files saved to: {output_dir}/")
 
 
 if __name__ == "__main__":

@@ -1,10 +1,1568 @@
-# Chinese A1 — Native Speaker Review
+# Chinese Script — A0 + A1
 
-> **Instructions for reviewers:** Please leave feedback after each dialogue line.
-> Focus on: naturalness, vocabulary level, cultural accuracy, and any awkward phrasing.
-> Mark lines that feel unnatural with ❌, good lines with ✅.
+============================================================
+
+# ── A0 ──────────────────────────────────────────────
+
+# A0 目的别课程 — 全4轨道 16故事 (场所标注)
 
 ---
+
+# 💖 PERSONAL INTEREST (你/casual) >> Chinese Daily Life
+
+# PI-1: 你好！我叫___
+
+- 大分类: Personal Interest
+- 中分类: First Meeting
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+First meeting in China.
+Deep breath... say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, state where you are from, and briefly share why you like China.
+
+**📍 장소:** 外面 (三里屯)
+
+**intro_text:**
+First meeting in China.
+Deep breath... say hi!
+
+**기 — 初次见面 [세트 1]**
+AI: 嗨！我叫小明（小红）！你叫什么名字？
+User: 我叫___！ / 我是___！
+AI: 哦，你好！你从哪儿来？
+User: 我从___来！
+
+**Outro:**
+> First impression: Passed! 🎯
+> But wait... why are you *really* here in China?
+>
+
+**승 — 了解一下 [세트 2]**
+AI: 你喜欢中国吗？
+User: 喜欢！ / 超喜欢！
+AI: 你为什么喜欢中国？
+User: 美食！ / 文化！
+
+**Outro:**
+> They loved your answer! 👀
+> Red flag or green flag? Let's see if your hobbies match.
+>
+
+---
+
+### sim2: Getting Closer
+
+**Goal:** To discover shared hobbies and talk about your experience with Chinese food.
+
+**📍 장소:** 外面 (同一地点)
+
+**승 — 爱好 [세트 3]**
+User: 小明（小红），你喜欢什么？
+AI: 我？我喜欢音乐！你呢？
+User: 我也喜欢音乐！ / 我喜欢看剧！
+AI: 哦，真的？中国音乐？
+
+**Outro:**
+> Vibe check passed! ✔️
+> Now, prepare for the ultimate Chinese obsession... Food.
+>
+
+**전 — 美食 [세트 4]**
+AI: 你吃过中国菜吗？
+User: 吃过！ / 还没有！
+AI: 你吃过烤肉吗？超好吃的！
+User: 想吃！ / 吃过，很好吃！
+
+**Outro:**
+> Enough talking! 🛑
+> This is your golden chance. Make a move and ask them out!
+>
+
+---
+
+### sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange WeChat IDs to stay in touch.
+
+**📍 장소:** 外面 (同一地点)
+
+**전 — 一起玩 [세트 5]**
+User: 周末你做什么？
+AI: 我？还没有计划！一起玩吗？
+User: 好啊！做什么？
+AI: 去吃饭吧！
+
+**Outro:**
+> It's officially a date! 🥂
+> ...Wait! Don't let them walk away without getting their WeChat!
+>
+
+**결 — 加微信 [세트 6]**
+User: 你有微信吗？
+AI: 有！扫我的码！
+User: 扫好了！
+AI: 好的！到时候联系你！再见！
+
+**Outro:**
+> Contact secured! 🔒
+> Next up: The test that decides if you're *truly* compatible.
+>
+
+---
+
+# PI-2: 你喜欢什么？
+
+- 大分类: Personal Interest
+- 中分类: Hobbies
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: The Basics
+
+**Goal:** To ask and answer questions about age and where you live.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+You made it to the café. Now the real small talk begins.
+Age, location... and then the question everyone asks.
+
+**기 — 年龄 [세트 1]**
+AI: 你多大？
+User: 我___岁！
+AI: 哦，跟我差不多！我25岁！
+User: 真的？ / 哦，这样啊！
+
+**Outro:**
+> Age revealed! 🎂
+> Now find out where they actually live.
+>
+
+**승 — 住哪儿 [세트 2]**
+User: 你住哪儿？
+AI: 我？我住三里屯附近！你呢？
+User: 我住国贸！ / 我住国贸附近！
+AI: 哦，不远！
+
+**Outro:**
+> Neighbors? Maybe! 📍
+> Get ready — the MBTI question is coming.
+>
+
+---
+
+### sim2: MBTI Talk
+
+**Goal:** To discuss MBTI types and talk about personality.
+
+**📍 장소:** 咖啡馆 (同一地点)
+
+**승 — MBTI [세트 3]**
+User: 你的MBTI是什么？
+AI: 我是INFJ！你呢？
+User: 我是ENFP！ / 我不知道！
+AI: ENFP？感觉很对！
+
+**Outro:**
+> Compatibility check: Passed! 💫
+> Now dig a little deeper into who they really are.
+>
+
+**전 — 性格 [세트 4]**
+AI: 你喜欢在家还是出去玩？
+User: 喜欢出去！ / 喜欢在家！
+AI: 我也喜欢出去！
+User: 哦，一样！
+
+**Outro:**
+> Same energy! ✨
+> One more round — what are they up to these days?
+>
+
+---
+
+### sim3: More About You
+
+**Goal:** To talk about what you've been doing lately and your Chinese learning journey.
+
+**📍 장소:** 咖啡馆 (同一地点)
+
+**전 — 最近在做什么 [세트 5]**
+AI: 你最近在做什么？
+User: 学中文！ / 看中国剧！
+AI: 中文怎么样？有意思吗？
+User: 有意思！ / 有点难。
+
+**Outro:**
+> Honest answer! 😄
+> Time to wrap this up and make plans to talk again.
+>
+
+**결 — 下次见 [세트 6]**
+User: 你有什么爱好？
+AI: 我喜欢听歌！你呢？
+User: 我喜欢看电影！ / 我喜欢打游戏！
+AI: 下次一起去看电影吧！
+
+**Outro:**
+> Plans made! 🎬
+> You're officially becoming friends. The adventure continues!
+>
+
+---
+
+# PI-3: 周末去哪儿？
+
+- 大分类: Personal Interest
+- 中分类: Weekend Plans
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: What Are You Doing?
+
+**Goal:** To ask about weekend plans and suggest activities together.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+It's Friday afternoon. Your phone buzzes.
+Time to make some weekend plans!
+
+**기 — 周末计划 [세트 1]**
+AI: 喂，周末有空吗？
+User: 有空！ / 应该有！
+AI: 一起去后海玩吧！
+User: 好啊！几点？
+
+**Outro:**
+> Plans are forming! 📅
+> Now figure out what you're actually going to do there.
+>
+
+**승 — 做什么 [세트 2]**
+AI: 我们去喝东西吧！
+User: 好！喝什么？
+AI: 喝奶茶怎么样？
+User: 好！我喜欢奶茶！ / 好啊，我也想喝！
+
+**Outro:**
+> Bubble tea secured! 🧋
+> Now sort out the logistics — how are you getting there?
+>
+
+---
+
+### sim2: Getting There
+
+**Goal:** To discuss transportation and meeting point for the weekend outing.
+
+**📍 장소:** 微信聊天 (同一)
+
+**승 — 怎么去 [세트 3]**
+User: 我们怎么去？
+AI: 坐地铁吧！方便！
+User: 好！在哪儿见？ / 几号线？
+AI: 在后海站出口见！
+
+**Outro:**
+> Meeting point confirmed! 📍
+> But wait... what time exactly?
+>
+
+**전 — 几点见 [세트 4]**
+AI: 几点见面？
+User: 下午两点？ / 下午三点？
+AI: 好！两点在出口见！
+User: 好的！到时候见！
+
+**Outro:**
+> Time confirmed! ⏰
+> The weekend is almost here. One last thing to sort out...
+>
+
+---
+
+### sim3: Day Of
+
+**Goal:** To check in on the day and navigate to the meeting spot.
+
+**📍 장소:** 后海 (现场)
+
+**전 — 到了吗 [세트 5]**
+AI: 你到了吗？
+User: 快到了！ / 我在出口！
+AI: 我也在出口！你在哪边？
+User: 我在左边！ / 我在右边！
+
+**Outro:**
+> Almost there! 🏃
+> One final push — find each other and kick off the weekend!
+>
+
+**결 — 见到了 [세트 6]**
+User: 我看到你了！
+AI: 哦！在这儿！
+User: 好久不见！
+AI: 走吧！去喝奶茶！
+
+**Outro:**
+> Weekend officially started! 🎉
+> You navigated Beijing like a pro. Next level unlocked!
+>
+
+---
+
+# PI-4: 我来中国是因为你
+
+- 大分类: Personal Interest
+- 中分类: Deeper Friendship
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Getting Real
+
+**Goal:** To share deeper reasons for coming to China and express genuine interest in the culture.
+
+**📍 장소:** 外滩 (上海)
+
+**intro_text:**
+The sun is setting over the Bund.
+Time to get a little more real with your new friend.
+
+**기 — 为什么来中国 [세트 1]**
+AI: 你为什么来中国？
+User: 因为我喜欢中国文化！ / 因为我喜欢中文！
+AI: 哦，真的？喜欢什么？
+User: 喜欢美食！ / 喜欢音乐！
+
+**Outro:**
+> Honesty unlocked! 💬
+> Now let's see how deep this connection really goes.
+>
+
+**승 — 中国文化 [세트 2]**
+AI: 你来中国多久了？
+User: 三个月了！ / 半年了！
+AI: 哇，不短！中文进步了吗？
+User: 进步了一点！ / 还在学！
+
+**Outro:**
+> Progress acknowledged! 📈
+> Time to talk about what you actually love about this place.
+>
+
+---
+
+### sim2: Shared Passions
+
+**Goal:** To talk about favorite Chinese things and bond over shared interests.
+
+**📍 장소:** 外滩 (同一)
+
+**승 — 最喜欢什么 [세트 3]**
+User: 你最喜欢中国什么？
+AI: 我最喜欢美食！你呢？
+User: 我最喜欢音乐！ / 我最喜欢这里的人！
+AI: 哦，太好了！
+
+**Outro:**
+> Bonding moment! 🤝
+> Now share something you miss from home.
+>
+
+**전 — 想家吗 [세트 4]**
+AI: 你想家吗？
+User: 有时候想。 / 不太想。
+AI: 想家的时候做什么？
+User: 打电话给家人！ / 吃家乡菜！
+
+**Outro:**
+> Vulnerability accepted! 🥺
+> Time to make a promise to keep in touch.
+>
+
+---
+
+### sim3: Making It Official
+
+**Goal:** To make plans to meet again and express that this friendship matters.
+
+**📍 장소:** 外滩 (同一)
+
+**전 — 下次见面 [세트 5]**
+AI: 下次你想去哪儿？
+User: 想去新天地！ / 想去南京路！
+AI: 好！我带你去！
+User: 太好了！谢谢你！
+
+**Outro:**
+> Future plans locked in! 🗓️
+> One last thing — make sure they know this friendship is real.
+>
+
+**결 — 真心话 [세트 6]**
+User: 认识你很开心！
+AI: 我也是！你是我的好朋友！
+User: 我们要常联系！
+AI: 当然！微信随时找我！
+
+**Outro:**
+> Friendship certified! 💖
+> You've made a real connection. This is just the beginning!
+>
+
+---
+
+# 🌏 TRAVELING (您/polite) >> China Travel
+
+# TR-1: 来一杯咖啡
+
+- 大分类: Traveling
+- 中分类: Café Order
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Entering the Café
+
+**Goal:** To greet café staff, ask about the menu, and order a drink politely.
+
+**📍 장소:** 咖啡馆 (三里屯)
+
+**intro_text:**
+You've found a cute café in Sanlitun.
+Time to order your first coffee in Chinese!
+
+**기 — 点单 [세트 1]**
+AI: 您好！欢迎光临！请问喝点什么？
+User: 请问有拿铁吗？ / 请问有美式吗？
+AI: 有的！要热的还是冰的？
+User: 要热的，谢谢！
+
+**Outro:**
+> Order placed! ☕
+> But wait... what size do you want?
+>
+
+**승 — 大小 [세트 2]**
+AI: 请问要大杯还是中杯？
+User: 大杯，谢谢！
+AI: 好的！还要别的吗？
+User: 不用了，谢谢！ / 再来一个蛋糕！
+
+**Outro:**
+> Order confirmed! 🎂
+> Now it's time to pay. Do you have the app ready?
+>
+
+---
+
+### sim2: Paying
+
+**Goal:** To ask about the price, pay, and handle the transaction politely.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**승 — 多少钱 [세트 3]**
+User: 请问多少钱？
+AI: 一共38块！
+User: 可以微信支付吗？ / 可以刷卡吗？
+AI: 可以！请扫码！
+
+**Outro:**
+> Payment in progress! 💳
+> Almost done — just confirm the transaction!
+>
+
+**전 — 付款 [세트 4]**
+AI: 好的，付款成功！
+User: 谢谢！
+AI: 请稍等，马上好！
+User: 好的，谢谢！
+
+**Outro:**
+> Transaction complete! ✅
+> Now find a seat and enjoy your coffee!
+>
+
+---
+
+### sim3: Enjoying the Café
+
+**Goal:** To ask for help finding a seat and make small talk with the barista.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**전 — 找座位 [세트 5]**
+AI: 您的拿铁！请慢用！
+User: 谢谢！请问可以坐那里吗？
+AI: 当然可以！请便！
+User: 谢谢您！
+
+**Outro:**
+> Seated and sipping! ☕
+> One last interaction — the barista wants to chat!
+>
+
+**결 — 聊天 [세트 6]**
+AI: 请问您是第一次来吗？
+User: 是的，第一次！ / 不是，来过几次！
+AI: 欢迎！希望您喜欢！
+User: 谢谢！很好喝！
+
+**Outro:**
+> Café conquered! 🏆
+> You ordered, paid, and charmed the barista. Next stop: dinner!
+>
+
+---
+
+# TR-2: 我想点菜
+
+- 大分类: Traveling
+- 中分类: Restaurant
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Getting a Table
+
+**Goal:** To enter a restaurant, request a table, and get seated politely.
+
+**📍 장소:** 餐厅 (国贸)
+
+**intro_text:**
+You're hungry and you've found a great restaurant.
+Time to get a table and order like a local!
+
+**기 — 订位 [세트 1]**
+AI: 您好！请问几位？
+User: 两位，谢谢！ / 一位，谢谢！
+AI: 好的！请跟我来！
+User: 谢谢！
+
+**Outro:**
+> Seated! 🪑
+> Now get that menu and figure out what to order.
+>
+
+**승 — 看菜单 [세트 2]**
+AI: 这是菜单，请慢慢看！
+User: 谢谢！请问有推荐吗？
+AI: 我们的麻辣烫很受欢迎！
+User: 好！我要麻辣烫！ / 好！我要试试！
+
+**Outro:**
+> Order incoming! 🌶️
+> Now make sure you get everything you need!
+>
+
+---
+
+### sim2: Ordering Food
+
+**Goal:** To order food and drinks, and handle special requests politely.
+
+**📍 장소:** 餐厅 (同一)
+
+**승 — 点菜 [세트 3]**
+User: 服务员！
+AI: 来了！请问点什么？
+User: 我要一份麻辣烫！ / 我要一份炒饭！
+AI: 好的！要喝什么？
+
+**Outro:**
+> Food ordered! 🍜
+> Don't forget the drinks!
+>
+
+**전 — 饮料 [세트 4]**
+AI: 要喝什么？
+User: 一杯水，谢谢！ / 一杯茶，谢谢！
+AI: 好的！还要别的吗？
+User: 不用了，谢谢！
+
+**Outro:**
+> Full order placed! 🍵
+> Now wait for the food and enjoy the atmosphere!
+>
+
+---
+
+### sim3: Finishing Up
+
+**Goal:** To ask for the bill and wrap up the restaurant experience politely.
+
+**📍 장소:** 餐厅 (同一)
+
+**전 — 结账 [세트 5]**
+AI: 请问还需要什么吗？
+User: 不用了！麻烦结账！ / 谢谢！买单！
+AI: 好的！一共68块！
+User: 好的！微信支付可以吗？
+
+**Outro:**
+> Bill requested! 💰
+> Almost out the door — just finish the payment!
+>
+
+**결 — 离开 [세트 6]**
+AI: 可以！请扫码！付款成功！
+User: 谢谢！很好吃！
+AI: 谢谢您！欢迎下次再来！
+User: 好的！再见！
+
+**Outro:**
+> Dinner: Success! 🎉
+> You ordered, ate, and paid like a pro. Shanghai is yours!
+>
+
+---
+
+# TR-3: 去哪儿坐地铁？
+
+- 大分类: Traveling
+- 中分类: Subway/Transport
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Finding the Station
+
+**Goal:** To ask for directions to the subway station politely.
+
+**📍 장소:** 街上 (上海)
+
+**intro_text:**
+You're lost in Shanghai. The subway is somewhere nearby.
+Time to ask a local for help!
+
+**기 — 问路 [세트 1]**
+AI: 您好！请问地铁站在哪儿？
+User: 在前面！ / 在左边！
+AI: 哦，谢谢！请问怎么走？
+User: 一直走，然后左转！
+
+**Outro:**
+> Directions received! 🗺️
+> Now find the right line and platform!
+>
+
+**승 — 找站台 [세트 2]**
+AI: 您好！请问几号线去南京路？
+User: 坐2号线！ / 坐1号线！
+AI: 谢谢！在哪儿换乘？
+User: 在人民广场换！
+
+**Outro:**
+> Route confirmed! 🚇
+> Now buy your ticket and get on the train!
+>
+
+---
+
+### sim2: Buying a Ticket
+
+**Goal:** To buy a subway ticket and ask about the fare politely.
+
+**📍 장소:** 地铁站 (同一)
+
+**승 — 买票 [세트 3]**
+User: 请问去南京路多少钱？
+AI: 4块钱！
+User: 可以用手机支付吗？ / 可以用现金吗？
+AI: 可以！这边扫码！
+
+**Outro:**
+> Ticket sorted! 🎫
+> Now find the right platform!
+>
+
+**전 — 找站台 [세트 4]**
+AI: 请问2号线在哪儿？
+User: 在B出口！ / 在地下一层！
+AI: 谢谢！还有几分钟？
+User: 还有3分钟！快去吧！
+
+**Outro:**
+> Running for the train! 🏃
+> Made it? Let's hope so!
+>
+
+---
+
+### sim3: On the Train
+
+**Goal:** To confirm the stop and ask for help on the train.
+
+**📍 장소:** 地铁上
+
+**전 — 在车上 [세트 5]**
+AI: 请问这趟车去南京路吗？
+User: 是的！ / 不是，您坐反了！
+AI: 谢谢！还有几站？
+User: 还有两站！
+
+**Outro:**
+> Almost there! 🚉
+> One more stop — get ready to get off!
+>
+
+**결 — 到站了 [세트 6]**
+AI: 下一站，南京路！
+User: 谢谢！请问从哪个出口出去？
+AI: 从1号出口出去！
+User: 谢谢您！
+
+**Outro:**
+> Arrived! 🎯
+> You navigated Shanghai's subway like a local. Explorer badge earned!
+>
+
+---
+
+# TR-4: 这个多少钱？
+
+- 大分类: Traveling
+- 中分类: Shopping
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Browsing the Shop
+
+**Goal:** To browse a shop, ask about items, and express interest politely.
+
+**📍 장소:** 南京路 (上海)
+
+**intro_text:**
+You're on Nanjing Road and everything looks amazing.
+Time to shop — in Chinese!
+
+**기 — 逛街 [세트 1]**
+AI: 您好！欢迎！请随便看！
+User: 谢谢！这个是什么？
+AI: 这是丝巾！很受欢迎！
+User: 好漂亮！ / 哦，不错！
+
+**Outro:**
+> Interest sparked! 👀
+> Now find out how much it costs!
+>
+
+**승 — 问价格 [세트 2]**
+AI: 您喜欢吗？
+User: 喜欢！这个多少钱？
+AI: 这个198块！
+User: 有点贵！ / 好的，我考虑一下！
+
+**Outro:**
+> Price revealed! 💸
+> Time to negotiate — this is China, after all!
+>
+
+---
+
+### sim2: Negotiating
+
+**Goal:** To negotiate a price and decide whether to buy the item.
+
+**📍 장소:** 南京路 (同一)
+
+**승 — 还价 [세트 3]**
+User: 能便宜一点吗？
+AI: 最低180！
+User: 150可以吗？ / 160可以吗？
+AI: 好吧！就160！
+
+**Outro:**
+> Deal in progress! 🤝
+> Now seal the deal and pay!
+>
+
+**전 — 付款 [세트 4]**
+AI: 好！160块！怎么付？
+User: 微信支付！ / 现金！
+AI: 好的！请扫码！
+User: 好了！谢谢！
+
+**Outro:**
+> Purchase complete! 🛍️
+> You haggled and won. Shopping legend status achieved!
+>
+
+---
+
+### sim3: Wrapping Up
+
+**Goal:** To ask for a bag, get a receipt, and leave the shop politely.
+
+**📍 장소:** 南京路 (同一)
+
+**전 — 装袋 [세트 5]**
+AI: 需要袋子吗？
+User: 需要，谢谢！ / 不用了，谢谢！
+AI: 好的！这是您的东西！
+User: 谢谢！能给我收据吗？
+
+**Outro:**
+> Almost done! 🧾
+> Get that receipt and you're free to go!
+>
+
+**결 — 离开 [세트 6]**
+AI: 好的！这是收据！
+User: 谢谢！东西很好！
+AI: 谢谢您！欢迎下次再来！
+User: 好的！再见！
+
+**Outro:**
+> Shopping complete! 🎉
+> You bargained, bought, and walked away happy. Next adventure awaits!
+>
+
+---
+
+# 🎬 DRAMA/MOVIE (你/casual) >> Chinese Entertainment
+
+# KD-1: 你最近在看什么剧？
+
+- 大分类: Drama/Movie
+- 中分类: Watching Dramas
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Drama Talk Begins
+
+**Goal:** To ask what dramas someone is watching and share your own current watch.
+
+**📍 장소:** 宿舍
+
+**intro_text:**
+It's a lazy Sunday. Your friend texts you out of nowhere.
+The drama conversation is about to begin!
+
+**기 — 看什么剧 [세트 1]**
+AI: 喂！你最近在看什么剧？
+User: 我在看《甄嬛传》！ / 我在看《庆余年》！
+AI: 哦！好看吗？
+User: 超好看！ / 还行，一般般。
+
+**Outro:**
+> Drama discovered! 📺
+> Now find out how far they've watched!
+>
+
+**승 — 看到哪儿了 [세트 2]**
+AI: 你看到哪儿了？
+User: 我看到第10集了！ / 我刚开始看！
+AI: 哦！我也在看！
+User: 真的？你看到哪儿了？
+
+**Outro:**
+> Watching buddies found! 👯
+> Now make sure you don't spoil each other!
+>
+
+---
+
+### sim2: Spoiler Alert
+
+**Goal:** To talk about plot points without spoiling and share reactions.
+
+**📍 장소:** 宿舍 (同一)
+
+**승 — 剧情 [세트 3]**
+User: 你觉得好看吗？
+AI: 好看！剧情很精彩！
+User: 对！我也这么觉得！ / 我觉得有点慢。
+AI: 慢？后面越来越好看！
+
+**Outro:**
+> Opinions shared! 💬
+> Now talk about your favorite character!
+>
+
+**전 — 最喜欢的角色 [세트 4]**
+AI: 你最喜欢哪个角色？
+User: 我最喜欢主角！ / 我最喜欢反派！
+AI: 哦！为什么？
+User: 因为他（她）很厉害！
+
+**Outro:**
+> Character loyalty declared! 🏆
+> Time to make plans to watch together!
+>
+
+---
+
+### sim3: Watch Together
+
+**Goal:** To make plans to watch a drama together and decide on a platform.
+
+**📍 장소:** 微信聊天
+
+**전 — 一起看 [세트 5]**
+AI: 我们一起看吧！
+User: 好啊！在哪儿看？ / 好！用什么平台？
+AI: 用爱奇艺吧！
+User: 好！我有会员！
+
+**Outro:**
+> Platform chosen! 📱
+> Now set a time and make it official!
+>
+
+**결 — 约好了 [세트 6]**
+User: 什么时候看？
+AI: 今晚八点怎么样？
+User: 好！说好了！
+AI: 不见不散！
+
+**Outro:**
+> Drama date confirmed! 🎬
+> Tonight's going to be epic. Don't forget the snacks!
+>
+
+---
+
+# KD-2: 我喜欢这个演员
+
+- 大分类: Drama/Movie
+- 中分类: Favorite Actor
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Actor Obsession
+
+**Goal:** To talk about your favorite actor and share why you like them.
+
+**📍 장소:** 咖啡馆
+
+**intro_text:**
+You just finished a drama and you can't stop thinking about the lead actor.
+Time to gush about it with your friend!
+
+**기 — 喜欢的演员 [세트 1]**
+AI: 你最喜欢哪个演员？
+User: 我最喜欢肖战！ / 我最喜欢赵丽颖！
+AI: 哦！为什么喜欢他（她）？
+User: 因为他（她）演技很好！
+
+**Outro:**
+> Stan declared! ⭐
+> Now find out what they've been in!
+>
+
+**승 — 作品 [세트 2]**
+AI: 他（她）演过什么？
+User: 他（她）演过《陈情令》！ / 他（她）演过很多剧！
+AI: 哦！我看过！很好看！
+User: 对！超好看！
+
+**Outro:**
+> Shared taste confirmed! 🎭
+> Now talk about their latest project!
+>
+
+---
+
+### sim2: Latest News
+
+**Goal:** To discuss the actor's latest drama or movie and share excitement.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**승 — 最新作品 [세트 3]**
+User: 他（她）最近有新剧吗？
+AI: 有！新剧下个月播！
+User: 真的？叫什么名字？ / 真的？什么时候？
+AI: 叫《___》！很期待！
+
+**Outro:**
+> New drama incoming! 📅
+> Now check if your friend is going to watch it too!
+>
+
+**전 — 一起追剧 [세트 4]**
+AI: 你会看吗？
+User: 当然！一定看！ / 应该会看！
+AI: 我们一起追吧！
+User: 好啊！说好了！
+
+**Outro:**
+> Drama squad assembled! 📺
+> Now talk about what you love most about this actor!
+>
+
+---
+
+### sim3: Deep Fan Talk
+
+**Goal:** To share deeper feelings about the actor and talk about fan culture.
+
+**📍 장소:** 咖啡馆 (同一)
+
+**전 — 粉丝文化 [세트 5]**
+AI: 你是他（她）的粉丝吗？
+User: 是！超级粉丝！ / 算是吧！
+AI: 你有没有在微博关注他（她）？
+User: 有！天天刷！ / 有！但不常看。
+
+**Outro:**
+> Fan status confirmed! 🌟
+> One last thing — would you go to a fan meet?
+>
+
+**결 — 粉丝见面会 [세트 6]**
+User: 你想去粉丝见面会吗？
+AI: 想！超想去！
+User: 我也想！一起去吧！
+AI: 好！到时候一起！
+
+**Outro:**
+> Fan meet plans made! 🎤
+> You're officially a drama fan. Welcome to the fandom!
+>
+
+---
+
+# KD-3: 我们去看电影吧
+
+- 大分类: Drama/Movie
+- 中分类: Going to Movies
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Picking a Movie
+
+**Goal:** To suggest going to the movies and agree on what to watch.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+It's the weekend and you're bored.
+Time to drag your friend to the cinema!
+
+**기 — 看什么电影 [세트 1]**
+AI: 周末一起去看电影吧！
+User: 好啊！看什么？
+AI: 看动作片怎么样？
+User: 好！我喜欢动作片！ / 好！随便！
+
+**Outro:**
+> Movie genre chosen! 🎬
+> Now figure out which specific movie to watch!
+>
+
+**승 — 选电影 [세트 2]**
+AI: 你想看哪部？
+User: 我想看《流浪地球》！ / 我想看新出的那部！
+AI: 好！我也想看！几点的场？
+User: 晚上七点的！
+
+**Outro:**
+> Movie selected! 🍿
+> Now buy the tickets before they sell out!
+>
+
+---
+
+### sim2: Buying Tickets
+
+**Goal:** To buy movie tickets and choose seats.
+
+**📍 장소:** 电影院
+
+**승 — 买票 [세트 3]**
+User: 两张《流浪地球》的票！
+AI: 好的！要几点的场？
+User: 晚上七点的！ / 七点半的！
+AI: 好！选座位！
+
+**Outro:**
+> Tickets in hand! 🎫
+> Now pick the best seats in the house!
+>
+
+**전 — 选座位 [세트 4]**
+AI: 要中间的还是旁边的？
+User: 中间的！ / 后排的！
+AI: 好！一共80块！
+User: 好！微信支付！
+
+**Outro:**
+> Seats secured! 🪑
+> Popcorn time — the movie is about to start!
+>
+
+---
+
+### sim3: At the Cinema
+
+**Goal:** To buy snacks and enjoy the movie experience.
+
+**📍 장소:** 电影院 (同一)
+
+**전 — 买零食 [세트 5]**
+AI: 要买爆米花吗？
+User: 要！大桶的！ / 要！小桶的！
+AI: 还要饮料吗？
+User: 要可乐！ / 要矿泉水！
+
+**Outro:**
+> Snacks loaded! 🍿
+> The movie is starting — time to enjoy!
+>
+
+**결 — 看完了 [세트 6]**
+User: 电影怎么样？
+AI: 超好看！特效很厉害！
+User: 对！我也觉得！
+AI: 下次还来！
+
+**Outro:**
+> Movie night: Complete! 🎉
+> You watched, snacked, and bonded. Cinema pro status achieved!
+>
+
+---
+
+# KD-4: 你觉得结局怎么样？
+
+- 大分类: Drama/Movie
+- 中分类: Discussing Endings
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: The Ending Debate
+
+**Goal:** To share your opinion on a drama ending and hear your friend's take.
+
+**📍 장소:** 微信聊天
+
+**intro_text:**
+You just finished the drama. The ending hit different.
+Time to process it with your friend!
+
+**기 — 结局 [세트 1]**
+AI: 你看完了吗？结局怎么样？
+User: 看完了！结局很好！ / 看完了！结局太虐了！
+AI: 对！我也这么觉得！
+User: 你喜欢结局吗？
+
+**Outro:**
+> Opinions flying! 💬
+> Now get into the details — what exactly happened?
+>
+
+**승 — 剧情讨论 [세트 2]**
+AI: 你觉得最后那一幕怎么样？
+User: 太感动了！ / 太难过了！
+AI: 我也哭了！
+User: 真的？我也哭了！
+
+**Outro:**
+> Tears confirmed! 😭
+> Now talk about what you wish had happened differently!
+>
+
+---
+
+### sim2: What If?
+
+**Goal:** To discuss alternative endings and share what you wished had happened.
+
+**📍 장소:** 微信聊天 (同一)
+
+**승 — 如果是你 [세트 3]**
+User: 你希望结局怎么样？
+AI: 我希望他们在一起！
+User: 我也是！ / 我觉得这样更好！
+AI: 编剧太狠了！
+
+**Outro:**
+> Alternate ending imagined! ✨
+> Now rate the whole drama!
+>
+
+**전 — 打分 [세트 4]**
+AI: 你给这部剧打几分？
+User: 我给9分！ / 我给8分！
+AI: 我给10分！太好看了！
+User: 哈哈！你是真爱粉！
+
+**Outro:**
+> Ratings submitted! ⭐
+> Time to decide — would you recommend it?
+>
+
+---
+
+### sim3: Recommend or Not?
+
+**Goal:** To decide whether to recommend the drama and suggest the next one to watch.
+
+**📍 장소:** 微信聊天 (同一)
+
+**전 — 推荐吗 [세트 5]**
+AI: 你会推荐给别人吗？
+User: 会！强烈推荐！ / 会！但要有心理准备！
+AI: 哈哈！对！要准备好纸巾！
+User: 对！哭死了！
+
+**Outro:**
+> Recommendation made! 📢
+> Now what's next on the watch list?
+>
+
+**결 — 下一部 [세트 6]**
+User: 下一部看什么？
+AI: 看《山河令》怎么样？
+User: 好！听说很好看！
+AI: 我们一起追！
+
+**Outro:**
+> Next drama locked in! 📺
+> The binge-watching never ends. You're a true drama fan now!
+>
+
+---
+
+# 💼 CAREER (您/formal) >> Chinese Workplace
+
+# CR-1: 您好，初次见面
+
+- 大分类: Career
+- 中分类: First Day at Work
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Arriving at the Office
+
+**Goal:** To introduce yourself on the first day of work and greet colleagues formally.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+First day at a Chinese company. Everyone is watching.
+Time to make a great first impression!
+
+**기 — 自我介绍 [세트 1]**
+AI: 您好！您是新来的同事吗？
+User: 是的！我叫___！初次见面，请多关照！
+AI: 您好！我叫李经理！欢迎！
+User: 谢谢您！请多指教！
+
+**Outro:**
+> First impression: Nailed it! 👔
+> Now find your desk and meet the team!
+>
+
+**승 — 认识同事 [세트 2]**
+AI: 这是您的工位！有什么不懂的请问我！
+User: 谢谢您！请问洗手间在哪儿？ / 谢谢您！请问会议室在哪儿？
+AI: 在走廊右边！
+User: 谢谢您！
+
+**Outro:**
+> Office orientation: Done! 🏢
+> Now it's time for the team lunch!
+>
+
+---
+
+### sim2: Team Lunch
+
+**Goal:** To join the team for lunch and make polite small talk with colleagues.
+
+**📍 장소:** 公司餐厅
+
+**승 — 午餐 [세트 3]**
+User: 请问可以坐这里吗？
+AI: 当然！请坐！您吃过了吗？
+User: 还没有！ / 刚来！
+AI: 来！一起吃！
+
+**Outro:**
+> Team lunch joined! 🍱
+> Now make some small talk!
+>
+
+**전 — 聊天 [세트 4]**
+AI: 您是哪里人？
+User: 我是___人！ / 我从___来！
+AI: 哦！第一次来中国工作吗？
+User: 是的！第一次！ / 不是，来过几次！
+
+**Outro:**
+> Small talk: Successful! 💬
+> You're fitting in already. One more hurdle — the afternoon meeting!
+>
+
+---
+
+### sim3: Afternoon Meeting
+
+**Goal:** To participate in a brief team meeting and confirm your understanding of tasks.
+
+**📍 장소:** 公司 (会议室)
+
+**전 — 会议 [세트 5]**
+AI: 下午有个简短的会议，您方便吗？
+User: 方便！几点开始？ / 方便！在哪个会议室？
+AI: 三点！在二楼会议室！
+User: 好的！我准时到！
+
+**Outro:**
+> Meeting confirmed! 📋
+> Now show up prepared and ready to listen!
+>
+
+**결 — 会议结束 [세트 6]**
+AI: 今天的会议就到这里！有问题吗？
+User: 没有问题，谢谢！ / 请问这个任务什么时候交？
+AI: 明天下班前！谢谢大家！
+User: 好的！谢谢您！
+
+**Outro:**
+> First day: Complete! 🎉
+> You survived the first day. Tomorrow, you'll be even better!
+>
+
+---
+
+# CR-2: 这个报告怎么写？
+
+- 大分类: Career
+- 中分类: Work Task
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Getting the Assignment
+
+**Goal:** To receive a work assignment and confirm the requirements clearly.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+Your manager just handed you your first real assignment.
+Time to ask the right questions!
+
+**기 — 接受任务 [세트 1]**
+AI: ___，这是您的第一个任务！
+User: 谢谢！请问是什么任务？
+AI: 请写一份市场报告！
+User: 好的！请问格式是什么？
+
+**Outro:**
+> Assignment received! 📝
+> Now clarify the deadline!
+>
+
+**승 — 截止日期 [세트 2]**
+AI: 请问您明白了吗？
+User: 明白了！请问什么时候交？ / 明白了！截止日期是什么时候？
+AI: 后天下班前！
+User: 好的！我会准时完成！
+
+**Outro:**
+> Deadline confirmed! ⏰
+> Now get to work — the clock is ticking!
+>
+
+---
+
+### sim2: Asking for Help
+
+**Goal:** To ask a colleague for help with the report and clarify requirements.
+
+**📍 장소:** 公司 (办公室, 同一)
+
+**승 — 请教同事 [세트 3]**
+User: 不好意思，请问您有时间吗？
+AI: 有！什么事？
+User: 这个报告怎么写？ / 请问有模板吗？
+AI: 有！我发给您！
+
+**Outro:**
+> Help secured! 🤝
+> Now review the template and get started!
+>
+
+**전 — 确认内容 [세트 4]**
+AI: 报告需要包括数据！
+User: 好的！数据在哪儿找？ / 好的！需要多少数据？
+AI: 在公司系统里！
+User: 好的！谢谢您！
+
+**Outro:**
+> Content confirmed! 📊
+> You have everything you need. Time to write!
+>
+
+---
+
+### sim3: Submitting the Report
+
+**Goal:** To submit the completed report and receive feedback from the manager.
+
+**📍 장소:** 公司 (办公室)
+
+**전 — 提交报告 [세트 5]**
+AI: ___，报告写好了吗？
+User: 写好了！请您看一下！ / 写好了！发给您了！
+AI: 好的！我看一下！
+User: 谢谢您！
+
+**Outro:**
+> Report submitted! 📤
+> Now wait for the feedback — fingers crossed!
+>
+
+**결 — 反馈 [세트 6]**
+AI: 报告写得不错！有几个小问题！
+User: 谢谢您！请问哪里需要改？ / 谢谢！我马上改！
+AI: 这里和这里！改好了再发给我！
+User: 好的！马上改！谢谢您！
+
+**Outro:**
+> Feedback received! ✅
+> You wrote, submitted, and got feedback. That's how it's done!
+>
+
+---
+
+# CR-3: 我能请假吗？
+
+- 大分类: Career
+- 中分类: Requesting Leave
+- 难易度: A0 (Absolute Beginner)
+- 12轮 (6组, 3sim)
+
+---
+
+### sim1: Preparing the Request
+
+**Goal:** To prepare to request leave and understand the company's leave policy.
+
+**📍 장소:** 公司 (办公室)
+
+**intro_text:**
+You need a day off. Your manager looks busy.
+Time to ask — politely and professionally!
+
+**기 — 了解请假流程 [세트 1]**
+AI: 您好！有什么事吗？
+User: 您好！请问请假怎么申请？
+AI: 需要填请假单！
+User: 好的！请假单在哪儿？
+
+**Outro:**
+> Process understood! 📋
+> Now fill out the form and make your request!
+>
+
+**승 — 填表 [세트 2]**
+AI: 请假单在系统里！您要请几天假？
+User: 我要请一天假！ / 我要请两天假！
+AI: 好的！原因是什么？
+User: 身体不舒服！ / 家里有事！
+
+**Outro:**
+> Form filled! 📝
+> Now submit it and wait for approval!
+>
+
+---
+
+### sim2: Making the Request
+
+**Goal:** To formally request leave from the manager and provide a reason.
+
+**📍 장소:** 公司 (经理办公室)
+
+**승 — 正式请假 [세트 3]**
+User: 经理，不好意思，打扰一下！
+AI: 没关系！什么事？
+User: 我想请明天一天假！ / 我想请后天假！
+AI: 原因是什么？
+
+**Outro:**
+> Request made! 🙏
+> Now give a clear and professional reason!
+>
+
+**전 — 说明原因 [세트 4]**
+AI: 请说明一下原因！
+User: 我身体不太好！ / 家里有急事！
+AI: 好的！注意身体！假批了！
+User: 谢谢您！非常感谢！
+
+**Outro:**
+> Leave approved! ✅
+> That went better than expected. Now make sure work is covered!
+>
+
+---
+
+### sim3: Handing Over Work
+
+**Goal:** To hand over work responsibilities before taking leave.
+
+**📍 장소:** 公司 (办公室)
+
+**전 — 交接工作 [세트 5]**
+AI: 请假期间，工作怎么安排？
+User: 我会提前完成！ / 我请同事帮忙！
+AI: 好的！有什么需要帮忙的吗？
+User: 没有！谢谢您！ / 有！请问___怎么处理？
+
+**Outro:**
+> Handover planned! 🤝
+> Almost done — just confirm everything is in order!
+>
+
+**결 — 确认 [세트 6]**
+AI: 好！那您好好休息！
+User: 谢谢您！我会的！
+AI: 有事随时联系！
+User: 好的！谢谢您！再见！
+
+**Outro:**
+> Leave secured! 🎉
+> You asked professionally, got approved, and handed over work. Office pro!
+>
+
+# ── A1 ──────────────────────────────────────────────
 
 # A1课程 — 5赛道18故事
 
@@ -14,10 +1572,6 @@
 
 # PI-5: 咱们去吃饭吧！
 
-- 대분류: Personal Interest
-- 중분류: Hanging Out
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -32,21 +1586,9 @@ Lunchtime in Beijing. Endless options. What are we eating?
 
 **기 — 吃什么 [세트 1]**
 User: 我饿了！吃什么好？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我也饿了！你想吃什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 想吃烤肉！/ 吃烤肉怎么样？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好啊！我知道一家超好吃的！走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Kǎoròu it is! 🥩 Now, how far is this place?
@@ -55,21 +1597,9 @@ AI: 好啊！我知道一家超好吃的！走吧！
 
 **승 — 怎么去 [세트 2]**
 AI: 就在附近！走路去吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！要走多久？/ 走路去啊？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 五分钟就到了！走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Five minutes away! 🚶 The smell of grilling meat is basically pulling you there.
@@ -89,21 +1619,9 @@ You're here. The place looks packed. That's always a good sign.
 
 **승 — 点菜 [세트 3]**
 AI: 到了！怎么样？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 哇，不错！/ 人好多！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 点什么？这是菜单！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 烤肉两人份！/ 再来个凉菜！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Order placed! 🥩 Now comes the most important question in China...
@@ -112,21 +1630,9 @@ User: 烤肉两人份！/ 再来个凉菜！
 
 **전 — 吃饭 [세트 4]**
 AI: 我来烤吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好，你来！/ 我来烤！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 超好吃！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的超好吃！/ 这家找对了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
@@ -143,21 +1649,9 @@ User: 真的超好吃！/ 这家找对了！
 
 **전 — 结账 [세트 5]**
 User: 我来付！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不行，一起付！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 不用，今天我请！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 真的？谢谢！下次我请！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
@@ -166,21 +1660,9 @@ AI: 真的？谢谢！下次我请！
 
 **결 — 下一站 [세트 6]**
 AI: 吃饱了！现在去哪儿？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 去喝奶茶？/ 走走消化一下？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好，走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 走！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Food coma incoming! 🧋 Time to grab some milk tea and keep the vibe going.
@@ -191,10 +1673,6 @@ User: 走！
 
 # PI-6: 我学中文是因为你
 
-- 대분류: Personal Interest
-- 중분류: Deeper Friendship
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -209,21 +1687,9 @@ A quiet café. A real conversation. This one goes deeper.
 
 **기 — 深聊 [세트 1]**
 AI: 你为什么学中文？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 想交中国朋友！/ 想看中国剧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 哦，真的？你现在学得挺好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 还不行呢。/ 真的？谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You're doing better than you think! 🌟 But how's life in China, really?
@@ -232,21 +1698,9 @@ User: 还不行呢。/ 真的？谢谢！
 
 **승 — 在中国的生活 [세트 2]**
 AI: 在中国生活有没有觉得难的地方？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 有时候很难受。/ 中文还不好。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 难受的时候跟我说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢。/ 好，我会的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You've got a real friend right here. 🤝 That means everything.
@@ -263,21 +1717,9 @@ User: 谢谢。/ 好，我会的。
 
 **승 — 加油 [세트 3]**
 AI: 你刚开始学中文的时候怎么样？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的好难！/ 什么都不懂。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 但是你现在这么厉害了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是吗？谢谢！/ 还差很多呢。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Look how far you've come! 📈 Your friend sees it even when you don't.
@@ -286,21 +1728,9 @@ User: 是吗？谢谢！/ 还差很多呢。
 
 **전 — 感动 [세트 4]**
 User: 因为你，我更想学中文！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 真的？好感动！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是真的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我也想因为你学英文！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Mutual inspiration! 💫 This friendship just leveled up.
@@ -317,21 +1747,9 @@ AI: 我也想因为你学英文！
 
 **전 — 认识多久了 [세트 5]**
 AI: 咱们认识多久了？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 一个月了？/ 都两个月了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 时间过得真快！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 对啊！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Time flies when you're with the right person! ⏰ Don't let this moment end.
@@ -340,21 +1758,9 @@ User: 对啊！
 
 **결 — 约好了 [세트 6]**
 AI: 以后要常见面！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 当然！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 下周一起做点什么！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！到时候联系！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Plans made, friendship sealed! 📅 This is just the beginning.
@@ -365,10 +1771,6 @@ User: 好！到时候联系！
 
 # PI-7: 你最近有烦恼？
 
-- 대분류: Personal Interest
-- 중분류: Deep Talk
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -383,21 +1785,9 @@ Something's been off lately. Your friend noticed. Time to talk.
 
 **기 — 烦恼 [세트 1]**
 AI: 你最近看起来不太开心。怎么了？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 有点难受。/ 有点烦恼。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 什么烦恼？说说看。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 在中国生活有点难。/ 事情太多了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > It's out there now. 💬 The first step is always the hardest.
@@ -406,21 +1796,9 @@ User: 在中国生活有点难。/ 事情太多了。
 
 **승 — 倾听 [세트 2]**
 AI: 哪方面最难？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 一个人的时间太多了。/ 中文还是很难。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 你一定很辛苦。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，有点。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Heard and understood. 🫂 That's what real friends do.
@@ -437,21 +1815,9 @@ User: 嗯，有点。
 
 **승 — 建议 [세트 3]**
 AI: 别一个人想太多。跟我说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢。/ 好的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 要不要出去散散心？走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 去哪儿？/ 好啊！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
@@ -460,21 +1826,9 @@ User: 去哪儿？/ 好啊！
 
 **전 — 出去走走 [세트 4]**
 AI: 去后海吧！吹吹风心情会好一点！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好，走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 要不要买点吃的带着？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好啊！/ 去便利店吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Convenience store snacks + Houhai = perfect combo! 🍜 Let's go.
@@ -491,21 +1845,9 @@ User: 好啊！/ 去便利店吧！
 
 **전 — 心情好多了 [세트 5]**
 AI: 心情好一点了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，好多了！/ 谢谢你！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的谢谢你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > From stressed to refreshed! 🌊 Houhai delivered.
@@ -514,21 +1856,9 @@ User: 真的谢谢你。
 
 **결 — 随时找我 [세트 6]**
 AI: 难受的时候随时找我！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 说好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 说好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Pinky promise made! 🤙 You're not alone in this.
@@ -539,10 +1869,6 @@ User: 说好了！
 
 # PI-8: 咱们一起去旅行吧？
 
-- 대분류: Personal Interest
-- 중분류: Trip Planning
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -557,21 +1883,9 @@ A long weekend is coming. Your friend has no plans. This is your moment.
 
 **기 — 旅行提议 [세트 1]**
 User: 下周小长假你有什么计划？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 还没有！怎么了？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 一起去旅行吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 太好了！去哪儿？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Road trip confirmed! 🗺️ Now the real question: where are we going?
@@ -580,21 +1894,9 @@ AI: 太好了！去哪儿？
 
 **승 — 定目的地 [세트 2]**
 User: 去厦门怎么样？/ 想去成都！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好啊！我也一直想去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 去几天？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 两天一夜？/ 三天两夜？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Destination locked! 📍 Now let's figure out how to get there.
@@ -611,21 +1913,9 @@ User: 两天一夜？/ 三天两夜？
 
 **승 — 怎么去 [세트 3]**
 AI: 怎么去？坐高铁还是飞机？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 坐高铁吧！/ 飞机贵吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 高铁便宜！两个小时就到了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > High-speed rail it is! 🚄 Fast, cheap, and very Chinese.
@@ -634,21 +1924,9 @@ User: 好！
 
 **전 — 住哪儿 [세트 4]**
 AI: 住哪儿？酒店还是民宿？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 住民宿吧！便宜！/ 酒店比较方便？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我来订民宿！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好，谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Accommodation sorted! 🏠 Budget travel wins again.
@@ -665,21 +1943,9 @@ User: 好，谢谢！
 
 **전 — 期待 [세트 5]**
 User: 到了厦门想做什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 想去鼓浪屿！你呢？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我想吃海鲜！/ 想逛老街！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好！都去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The itinerary is basically writing itself! 🌊 Island, seafood, old streets — perfect.
@@ -688,21 +1954,9 @@ AI: 好！都去！
 
 **결 — 出发 [세트 6]**
 AI: 好期待！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是！快点出发！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 到时候见！把行李收拾好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Bags packed (mentally)! 🧳 This trip is going to be legendary.
@@ -715,10 +1969,6 @@ User: 好的！
 
 # TR-5: 我想办理入住手续
 
-- 대분류: Traveling
-- 중분류: Hotel
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -733,21 +1983,9 @@ Finally at the hotel. Time to check in.
 
 **기 — 到达 [세트 1]**
 User: 您好，我要入住。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 您好！请问您预订了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是的，我叫___。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，查到了！请出示一下您的身份证。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > ID checked! 🛂 Let's see if they got your booking right.
@@ -756,21 +1994,9 @@ AI: 好的，查到了！请出示一下您的身份证。
 
 **승 — 确认房间 [세트 2]**
 AI: 您是住两晚吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是的，没错。/ 不是，住三晚。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 您的房间在8楼，这是您的房卡！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Room key secured! 🔑 Now, onto the most important question: the WiFi.
@@ -787,21 +2013,9 @@ User: 谢谢您！
 
 **승 — 询问 [세트 3]**
 User: 请问WiFi密码是多少？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 写在这张卡上！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！请问早餐几点开始？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 早上7点到9点！在一楼餐厅！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Breakfast schedule locked in! 🍳 But wait, do you need anything extra for the room?
@@ -810,21 +2024,9 @@ AI: 早上7点到9点！在一楼餐厅！
 
 **전 — 额外需求 [세트 4]**
 User: 请问可以多给我几条毛巾吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，我让人送到您房间！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 还有什么需要的吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Extra towels on the way! 🛁 Time to hunt for some late-night snacks.
@@ -841,21 +2043,9 @@ AI: 还有什么需要的吗？
 
 **전 — 安顿 [세트 5]**
 User: 请问附近有便利店吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 出门右转就有一家全家！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 请慢慢休息！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Convenience store located! 🏪 You're officially ready to settle in.
@@ -864,21 +2054,9 @@ AI: 请慢慢休息！
 
 **결 — 结束 [세트 6]**
 AI: 有什么需要请打电话给前台！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 祝您住得愉快！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Check-in complete! Rest up. 🛏️ Next up: Surviving the Beijing subway maze.
@@ -889,10 +2067,6 @@ User: 谢谢！
 
 # TR-6: 请问怎么坐地铁？
 
-- 대분류: Traveling
-- 중분류: Subway/Transport
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -907,21 +2081,9 @@ Beijing subway. 22 lines. Hundreds of stations. You've got this.
 
 **기 — 在站里 [세트 1]**
 User: 请问，交通卡在哪里买？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 在那边的机器上可以买！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！充值也在那里吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 是的，可以的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Transit card acquired! 💳 Now, which line do you need?
@@ -930,21 +2092,9 @@ AI: 是的，可以的！
 
 **승 — 找线路 [세트 2]**
 User: 我想去三里屯，坐几号线？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 坐10号线！在那边！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 需要换乘吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不用，直达！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Line 10, no transfers! 🚇 That's the best news you've heard all day.
@@ -961,21 +2111,9 @@ AI: 不用，直达！
 
 **승 — 在车上 [세트 3]**
 AI: （旁边的人）您好，请问您去哪儿？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 去三里屯！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 那您再坐三站就到了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 三站？谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Three more stops! 🎯 A kind stranger just saved your day.
@@ -984,21 +2122,9 @@ User: 三站？谢谢您！
 
 **전 — 换乘 [세트 4]**
 User: 请问，在国贸站怎么换乘？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 下车之后看指示牌，跟着1号线走就行！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 很简单的！别担心！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Transfer decoded! 🗺️ Follow the signs and you'll be fine.
@@ -1015,21 +2141,9 @@ AI: 很简单的！别担心！
 
 **전 — 到达 [세트 5]**
 User: 这里是三里屯站吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 是的，没错！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 请问从几号出口出去？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 从C出口出去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Exit C! 🚪 You made it through the Beijing subway like a pro.
@@ -1038,21 +2152,9 @@ AI: 从C出口出去！
 
 **결 — 出站 [세트 6]**
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不客气！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 祝您玩得开心！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Beijing subway: conquered! 🏆 You're officially a local now.
@@ -1063,10 +2165,6 @@ AI: 祝您玩得开心！
 
 # TR-7: 这个可以试穿吗？
 
-- 대분류: Traveling
-- 중분류: Shopping
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1081,21 +2179,9 @@ Sanlitun shopping street. So many cute clothes. Where do you even start?
 
 **기 — 逛逛 [세트 1]**
 AI: 您好！请问您找什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我随便看看。/ 我想看看T恤。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 这边有新款！要看看吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好，看看！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > New arrivals section — dangerous territory! 👀 Everything looks good.
@@ -1104,21 +2190,9 @@ User: 好，看看！
 
 **승 — 挑选 [세트 2]**
 User: 这个好看！这个可以试穿吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 可以！试衣间在那边！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 尺码合适吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Fitting room secured! 🪞 The moment of truth is coming.
@@ -1135,21 +2209,9 @@ AI: 尺码合适吗？
 
 **승 — 试穿 [세트 3]**
 AI: 怎么样？合适吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 有点小，有大一号的吗？/ 挺合适的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我去给您拿大一号的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > One size up on the way! 📦 Chinese sizing can be tricky.
@@ -1158,21 +2220,9 @@ User: 谢谢！
 
 **전 — 考虑 [세트 4]**
 User: 这个多少钱？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 这件198块！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 能便宜一点吗？/ 好，我买！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 给您180块吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Discount secured! 💰 Bargaining in Chinese — you're a natural.
@@ -1189,21 +2239,9 @@ AI: 给您180块吧！
 
 **전 — 结账 [세트 5]**
 User: 那我买这件！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 可以微信支付吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 可以，微信支付。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 这是您的小票！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Purchase complete! 🛍️ New outfit, new confidence.
@@ -1212,21 +2250,9 @@ AI: 这是您的小票！
 
 **결 — 结束 [세트 6]**
 AI: 还要看看别的吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 不用了，谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 欢迎下次再来！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Shopping mission accomplished! 🎉 Sanlitun: 1, Budget: 0.
@@ -1237,10 +2263,6 @@ User: 好的！
 
 # TR-8: 这里有什么著名的？
 
-- 대분류: Traveling
-- 중분류: Exploring
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1255,21 +2277,9 @@ You're in a new neighborhood. No plan, no map. Just vibes and curiosity.
 
 **기 — 推荐 [세트 1]**
 User: 请问，这附近有什么好吃的吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 有！那边有一家很有名的麻辣烫！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 哦，想去试试！远吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不远，走路五分钟就到了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Local tip unlocked! 🌶️ Five minutes away — that's basically next door.
@@ -1278,21 +2288,9 @@ AI: 不远，走路五分钟就到了！
 
 **승 — 多问一点 [세트 2]**
 User: 这里有什么著名的？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 这条街的老建筑很有名！有没有去过老街？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 还没有！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 一定要去！拍照很好看！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Old street added to the list! 📸 This neighborhood just got a lot more interesting.
@@ -1309,21 +2307,9 @@ AI: 一定要去！拍照很好看！
 
 **승 — 参观 [세트 3]**
 User: 这里就是那条老街吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 是的！进来看看吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 哇，真的好漂亮！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 谢谢！您想吃点什么吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Traditional architecture meets street food culture! 🏯 Stunning.
@@ -1332,21 +2318,9 @@ AI: 谢谢！您想吃点什么吗？
 
 **전 — 点单 [세트 4]**
 User: 这里什么最好吃？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我们的糖葫芦很有名！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 来一串糖葫芦！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，稍等一下！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Tanghulu incoming! 🍡 The most iconic Chinese street snack.
@@ -1363,21 +2337,9 @@ AI: 好的，稍等一下！
 
 **전 — 享受 [세트 5]**
 AI: 您的糖葫芦！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！哇，太好吃了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好吃吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是的，真的很好吃！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Tanghulu approved! 😍 This place is going straight into your travel diary.
@@ -1386,21 +2348,9 @@ User: 是的，真的很好吃！
 
 **결 — 结束 [세트 6]**
 User: 这里真的很好！下次还来！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 谢谢您！欢迎再来！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 祝您旅途愉快！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A perfect afternoon on a perfect street! ✨ China keeps delivering.
@@ -1413,10 +2363,6 @@ AI: 祝您旅途愉快！
 
 # KD-5: 我最近喜欢上一个人了
 
-- 대분류: Kdrama/Movie
-- 중분류: Crush
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1431,21 +2377,9 @@ Two coffees. One secret. Here we go...
 
 **기 — 秘密 [세트 1]**
 User: 我有个秘密。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 什么？快说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我有喜欢的人！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 啊，真的？是谁？！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The secret is out! 🤫 Now, who is this lucky person?
@@ -1454,21 +2388,9 @@ AI: 啊，真的？是谁？！
 
 **승 — 是谁 [세트 2]**
 AI: 我认识吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 认识。/ 不认识。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 什么样的人？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的很好。/ 笑的时候很好看。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A perfect smile? Sounds like a main lead. ✨ Now, how did this romance begin?
@@ -1485,21 +2407,9 @@ User: 真的很好。/ 笑的时候很好看。
 
 **승 — 怎么认识的 [세트 3]**
 AI: 在哪里认识的？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 在咖啡馆！/ 在课上！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好浪漫！然后呢？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 还没说什么。/ 加了微信！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You got their WeChat?! That's huge! 📱 So... is it time to make a move?
@@ -1508,21 +2418,9 @@ User: 还没说什么。/ 加了微信！
 
 **전 — 建议 [세트 4]**
 AI: 你不打算表白吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 想，但是好紧张。/ 还太早了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 你很好的！自信一点！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的？谢谢。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Confidence is key! 🔑 Listen to your bestie and hype yourself up.
@@ -1539,21 +2437,9 @@ User: 真的？谢谢。
 
 **전 — 鼓励 [세트 5]**
 AI: 表白了告诉我！我支持你！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！/ 好紧张，但我试试。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 加油！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Best friend support activated! 👯 Time to wrap up this coffee date with good vibes.
@@ -1562,21 +2448,9 @@ User: 谢谢！
 
 **결 — 期待 [세트 6]**
 AI: 一定会成功的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 希望吧。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 当然！有消息告诉我！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Romance is definitely in the air! 🌸 But wait... is there a drama plot twist coming?
@@ -1587,10 +2461,6 @@ User: 好！
 
 # KD-6: 你误会我了
 
-- 대분류: Kdrama/Movie
-- 중분류: Misunderstanding
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1605,21 +2475,9 @@ A park bench. A tense silence. Someone saw something they didn't understand.
 
 **기 — 误会 [세트 1]**
 AI: 你昨天为什么跟别人在一起？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 什么？你说什么？/ 你误会我了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我看到了。在咖啡馆。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 那个人只是朋友！/ 啊，那个时候？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Caught! 😬 But it's not what it looks like — time to explain.
@@ -1628,21 +2486,9 @@ User: 那个人只是朋友！/ 啊，那个时候？
 
 **승 — 解释 [세트 2]**
 AI: 真的只是朋友？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是，真的。是同学。/ 相信我！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对不起。我有点吃醋了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 没关系。/ 我懂了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Jealousy admitted! 💔 That took courage. Now let's actually talk about it.
@@ -1659,21 +2505,9 @@ User: 没关系。/ 我懂了。
 
 **승 — 沟通 [세트 3]**
 User: 为什么不问我？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不太好意思问。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 下次直接问我。别误会。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好，对不起。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Communication rules established! 📋 This is how healthy relationships work.
@@ -1682,21 +2516,9 @@ AI: 好，对不起。
 
 **전 — 和好 [세트 4]**
 AI: 我真的很抱歉。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 没事。但是要相信我。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 嗯，相信你。以后不会这样了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Trust restored! 🤝 That's what matters most.
@@ -1713,21 +2535,9 @@ User: 好。
 
 **전 — 和解 [세트 5]**
 AI: 气消了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 消了。/ 差不多了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 去吃点好吃的吧。我请。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好啊！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Food fixes everything! 🍽️ The classic Chinese makeup move.
@@ -1736,21 +2546,9 @@ User: 好啊！
 
 **결 — 重新开始 [세트 6]**
 AI: 下次直接问！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 喜欢你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "我也是。" Two words. Maximum impact. 💕 Drama ending unlocked.
@@ -1761,10 +2559,6 @@ User: 我也是。
 
 # KD-7: 我们在一起吧？
 
-- 대분류: Kdrama/Movie
-- 중분류: Getting Together
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1779,21 +2573,9 @@ The Bund at night. You said you had something to say. This is it.
 
 **기 — 表白 [세트 1]**
 AI: 你说今天有话要说。是什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 有点紧张。/ 你靠近一点。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 为什么紧张？说吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我……喜欢你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You said it! 💘 Three words that change everything.
@@ -1802,21 +2584,9 @@ User: 我……喜欢你。
 
 **승 — 回答 [세트 2]**
 AI: 真的？我也喜欢你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的？/ 从什么时候？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 从第一次见面就开始了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Mutual feelings confirmed! 🌅 The Bund just witnessed a drama moment.
@@ -1833,21 +2603,9 @@ User: 我也是。
 
 **승 — 在一起 [세트 3]**
 AI: 那我们在一起吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好。/ 对吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 太好了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也很开心。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Official! 💑 You are now a couple. Congratulations.
@@ -1856,21 +2614,9 @@ User: 我也很开心。
 
 **전 — 第一次约会 [세트 4]**
 AI: 在一起之后第一次约会！想去哪儿？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 想去看海！/ 去吃好吃的吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好！周末去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好期待！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > First date planned! 🗓️ The excitement is real.
@@ -1887,21 +2633,9 @@ User: 好期待！
 
 **전 — 心动 [세트 5]**
 AI: 到家了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，刚到！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 今天真的很开心。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是。/ 一直在想你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Late night texts after a perfect evening! 📱 This feeling is everything.
@@ -1910,21 +2644,9 @@ User: 我也是。/ 一直在想你。
 
 **결 — 晚安 [세트 6]**
 AI: 明天还想见你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也想见你。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 晚安。做个好梦。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 晚安。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "做个好梦。" 😴 The most romantic goodnight in Chinese.
@@ -1935,10 +2657,6 @@ User: 晚安。
 
 # KD-8: 你最近怎么了？
 
-- 대분류: Kdrama/Movie
-- 중분류: Relationship Trouble
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -1953,21 +2671,9 @@ Three days. No message. Something is definitely off.
 
 **기 — 变了 [세트 1]**
 User: 你最近为什么不联系我？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对不起，最近有点忙。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我知道。但是太少了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对不起。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "对不起。" Is that enough? 😔 You need more than an apology.
@@ -1976,21 +2682,9 @@ AI: 对不起。
 
 **승 — 心里话 [세트 2]**
 User: 你不联系我，我很难受。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不是的，不是那样的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 真的是因为工作。对不起。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好吧。/ 那也要联系我。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Feelings expressed, explanation given. 💬 Now you need to actually meet.
@@ -2007,21 +2701,9 @@ User: 好吧。/ 那也要联系我。
 
 **승 — 坦诚 [세트 3]**
 AI: 最近真的很难。对你不好，对不起。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 为什么不说？/ 难受就说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不想让你担心。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 傻瓜。可以跟我说的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Walls coming down! 🧱 This is what real intimacy looks like.
@@ -2030,21 +2712,9 @@ User: 傻瓜。可以跟我说的。
 
 **전 — 理解 [세트 4]**
 AI: 谢谢你。以后会好好的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也对不起，说话有点重。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 没有，你说得对。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 以后我们说真话。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Both sides heard, both sides understood. 🤍 This is growth.
@@ -2061,21 +2731,9 @@ User: 以后我们说真话。
 
 **전 — 好起来了 [세트 5]**
 AI: 从今天开始好好的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 想你了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也想你了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "想你了。" Said out loud. 💗 That's the real turning point.
@@ -2084,21 +2742,9 @@ User: 我也想你了。
 
 **결 — 重新开始 [세트 6]**
 AI: 去吃点好吃的吧。想吃什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 随便！在一起就好。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 走！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "在一起就好。" 🥺 The most drama line of the whole course.
@@ -2111,10 +2757,6 @@ User: 走！
 
 # KP-4: 生日快乐！
 
-- 대분류: Kpop
-- 중분류: Special Event
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2129,21 +2771,9 @@ Midnight. It's officially his birthday. My heart is racing...
 
 **기 — 生日 [세트 1]**
 User: 生日快乐！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 谢谢！谢谢大家！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 今天做了什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 跟成员们一起吃蛋糕了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > First birthday message delivered! 🎂 Did he get your special gift yet?
@@ -2152,21 +2782,9 @@ AI: 跟成员们一起吃蛋糕了！
 
 **승 — 礼物 [세트 2]**
 User: 我寄了礼物！收到了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 还没收到！是什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 秘密！/ 是信和礼物！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好期待！谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Gift successfully sent! 🎁 Alert: He just started a surprise live stream!
@@ -2183,21 +2801,9 @@ AI: 好期待！谢谢！
 
 **승 — 生日活动 [세트 3]**
 AI: 谢谢大家来给我过生日！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 生日快乐！/ 爱你！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 有大家真的很幸福！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也是。希望你幸福！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > He is literally an angel! 👼 Shh... he's about to make his birthday wish.
@@ -2206,21 +2812,9 @@ User: 我也是。希望你幸福！
 
 **전 — 许愿 [세트 4]**
 AI: 我许愿了！你们猜是什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 是什么？/ 快说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 希望能和粉丝们一直在一起！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好感动！/ 我也是！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > We are all crying right now. 😭 Time to wrap up this perfect day.
@@ -2237,21 +2831,9 @@ User: 好感动！/ 我也是！
 
 **전 — 结束 [세트 5]**
 AI: 今天真的很开心！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也很开心！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 明年生日也一起过！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 当然！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A promise to stay together forever! 💖 Say goodnight before he turns off the camera.
@@ -2260,21 +2842,9 @@ User: 当然！
 
 **결 — 晚安 [세트 6]**
 AI: 要睡了！晚安！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 晚安！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 爱你们！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也爱你！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Best birthday live stream ever! 🌙 Next up: Cracking the secret meanings behind his lyrics.
@@ -2285,10 +2855,6 @@ User: 我也爱你！
 
 # KP-5: 这句歌词是什么意思？
 
-- 대분류: Kpop
-- 중분류: Understanding Lyrics
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2303,21 +2869,9 @@ Jay Chou's new song is on repeat. But what does it actually mean?
 
 **기 — 歌词 [세트 1]**
 User: 这首歌在唱什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: （朋友）哪一句？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: "等你回来"这一句！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 就是"waiting for you to come back"的意思！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "等你回来" — now you'll never forget it! 💭 What else don't you know?
@@ -2326,21 +2880,9 @@ AI: 就是"waiting for you to come back"的意思！
 
 **승 — 多学一点 [세트 2]**
 User: "想你"我知道！那"思念"呢？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 那是"miss you"！比"想你"更文艺！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 哦，不一样！/ 真的？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对！中文歌词很有意思吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Miss vs. miss — the eternal C-pop distinction! 🎵 Now you know the difference.
@@ -2357,21 +2899,9 @@ AI: 对！中文歌词很有意思吧？
 
 **승 — 跟着唱 [세트 3]**
 AI: 要不要一起唱这首歌？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好啊！/ 不知道歌词也没关系吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 没关系！跟着唱就行！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Karaoke mode activated! 🎤 Don't worry about the pronunciation — just feel it.
@@ -2380,21 +2910,9 @@ User: 好！
 
 **전 — 唱歌 [세트 4]**
 AI: 唱得不错啊？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的？/ 发音没问题吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 没问题！有感觉！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "有感觉！" — you've got the feel! 🌟 That's the highest compliment.
@@ -2411,21 +2929,9 @@ User: 谢谢！
 
 **전 — 新歌 [세트 5]**
 User: 最近有新歌吗？听了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 听了！真的很好听！你呢？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我也听了！歌词很难过。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对！"等一等"那句真的很难过。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "等一等" — wait a little longer. 😢 Why is C-pop always so emotional?
@@ -2434,21 +2940,9 @@ AI: 对！"等一等"那句真的很难过。
 
 **결 — 一起听 [세트 6]**
 User: 一起听，你给我讲歌词！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好！听着！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 这首歌真的很好。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 对！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Music + friendship + Chinese lyrics = perfect afternoon! 🎶 You're basically fluent now.
@@ -2459,10 +2953,6 @@ AI: 对！
 
 # KP-6: 我去了粉丝见面会！
 
-- 대분류: Kpop
-- 중분류: Fan Story
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2477,21 +2967,9 @@ You just got back from the fan meeting. Your hands are still shaking.
 
 **기 — 回来了 [세트 1]**
 User: 我昨天去了粉丝见面会！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: （朋友）哇！怎么样？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 真的好紧张！/ 真的太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好羡慕！做了什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The story begins! 😱 Your friend is already jealous.
@@ -2500,21 +2978,9 @@ AI: 好羡慕！做了什么？
 
 **승 — 讲故事 [세트 2]**
 User: 握手了，还说话了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 啊！说了什么？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 说了"爱你"！/ 说了"你吃饭了吗"！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 疯了！太厉害了！他说什么了？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > You said WHAT?! 🤯 The audacity. The courage. The legend.
@@ -2531,21 +2997,9 @@ AI: 疯了！太厉害了！他说什么了？
 
 **승 — 反应 [세트 3]**
 User: 他说"谢谢"！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 我要死了！我也想去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 下次一起去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 真的？好！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Next fan meeting: booked (mentally)! 🎫 Your friend is already planning the outfit.
@@ -2554,21 +3008,9 @@ AI: 真的？好！
 
 **전 — 礼物 [세트 4]**
 AI: 送礼物了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 送了，送了信！/ 换了周边！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 他会看吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，他说一定会看的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > He promised to read your letter! 💌 That's basically a love confession.
@@ -2585,21 +3027,9 @@ User: 嗯，他说一定会看的！
 
 **전 — 还在激动 [세트 5]**
 AI: 还在激动吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 嗯，手还在抖！/ 好像是梦！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好羡慕！给我看照片！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 在这里！看！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Photo evidence! 📸 This is going straight to the fan super topic on Weibo.
@@ -2608,21 +3038,9 @@ User: 在这里！看！
 
 **결 — 期待 [세트 6]**
 AI: 真的太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 下次一定一起去！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好！说好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 说好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Pinky promise: fan meeting together! 💖 The countdown starts now.
@@ -2635,10 +3053,6 @@ User: 说好了！
 
 # CR-4: 会议准备好了吗？
 
-- 대분류: Career
-- 중분류: Meetings
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2653,21 +3067,9 @@ Meeting in 2 hours. Almost ready... I think.
 
 **기 — 准备 [세트 1]**
 AI: 今天的会议准备好了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好了，准备好了。/ 差不多了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 资料打印了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 打印了。/ 现在去打印。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Documents are printed and ready! 🖨️ Now, time to secure the battlefield.
@@ -2676,21 +3078,9 @@ User: 打印了。/ 现在去打印。
 
 **승 — 会议室 [세트 2]**
 AI: 会议室预订了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 预订了，三点的。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好！到时候见！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，没问题。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Room booked and ready to go! 📅 Deep breath... it's showtime.
@@ -2710,21 +3100,9 @@ Meeting in progress. Time to share my thoughts.
 
 **승 — 会议中 [세트 3]**
 AI: 这个部分有什么意见吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 有，我觉得这样好。/ 我也这样想。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 很好的意见！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The boss loved your idea! 💡 Don't stop now, keep the momentum going.
@@ -2733,21 +3111,9 @@ User: 谢谢。
 
 **전 — 提问 [세트 4]**
 User: 我有一个问题。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 请说！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 这个部分要什么时候完成？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 下周五之前！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Deadline secured: Next Friday. ⏳ You are officially surviving corporate China!
@@ -2764,21 +3130,9 @@ AI: 下周五之前！
 
 **전 — 会议后 [세트 5]**
 AI: 今天的会议辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 您辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 我来发会议记录。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Volunteering for the meeting minutes? Total pro move! 📝 Time to wrap this up and get back to your desk.
@@ -2787,21 +3141,9 @@ AI: 谢谢您！
 
 **결 — 结束 [세트 6]**
 AI: 那下次会议见！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，没问题。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Meeting survived! You deserve a raise. 💰 Next up: The real challenge... lunch with your coworkers.
@@ -2812,10 +3154,6 @@ User: 谢谢您！
 
 # CR-5: 您吃午饭了吗？
 
-- 대분류: Career
-- 중분류: Workplace Socializing
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -2830,21 +3168,9 @@ User: 谢谢您！
 
 **기 — 午饭 [세트 1]**
 AI: 您吃午饭了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 还没有。/ 是的，吃了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 一起去吃吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，谢谢！/ 好，太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lunch invitation accepted! 🍱 Now the important question: where are we going?
@@ -2853,21 +3179,9 @@ User: 好的，谢谢！/ 好，太好了！
 
 **승 — 菜单 [세트 2]**
 AI: 吃什么好？附近有好吃的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 什么都可以！/ 有什么好吃的？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 这里的麻辣烫很有名！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好！走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Malatang it is! 🌶️ The ultimate Chinese office lunch.
@@ -2884,21 +3198,9 @@ User: 好！走吧！
 
 **승 — 吃饭中 [세트 3]**
 AI: 中国菜吃得惯吗？能吃辣吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 可以！没问题！/ 有点辣的有点难。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 那点个不辣的？清汤锅底怎么样？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Clear broth: the safe and delicious choice! 🥣 Your coworker is looking out for you.
@@ -2907,21 +3209,9 @@ User: 好的！
 
 **전 — 聊天 [세트 4]**
 AI: 在中国生活怎么样？适应了吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 慢慢适应了。/ 有时候有点难。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 有什么难的就说！我帮你！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > A coworker who actually cares! ☕ That's rare and precious.
@@ -2938,21 +3228,9 @@ User: 谢谢您。
 
 **전 — 结账 [세트 5]**
 User: 我来付吧。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 不用，前辈请客！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好吃吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Senior privilege: they paid! 💼 Accept it gracefully and say thank you.
@@ -2961,21 +3239,9 @@ AI: 好吃吗？
 
 **결 — 回去 [세트 6]**
 User: 好吃！谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 那上去吧？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好，走吧！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Lunch: successful. Relationship: upgraded. 📈 You've got a work friend now.
@@ -2986,10 +3252,6 @@ User: 好，走吧！
 
 # CR-6: 我明天可以请假吗？
 
-- 대분류: Career
-- 중분류: Requesting Leave
-- 난이도: A1 (Beginner)
-- 12턴 (6세트, 3sim)
 
 ---
 
@@ -3004,21 +3266,9 @@ You need tomorrow off. Your manager is right there. Deep breath.
 
 **기 — 申请 [세트 1]**
 User: 经理，我有事。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，请说。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 明天我可以请假吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 明天？有急事吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > The ask is out there! 😬 Now explain yourself calmly and professionally.
@@ -3027,21 +3277,9 @@ AI: 明天？有急事吗？
 
 **승 — 解释 [세트 2]**
 User: 是的，需要去医院。/ 有点私事。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，明白了。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 明天的工作可以交给别人吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 可以，我来整理。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Proactive handover offer! 📋 That's exactly what a good employee does.
@@ -3058,21 +3296,9 @@ User: 可以，我来整理。
 
 **승 — 确认 [세트 3]**
 AI: 那明天休息吧。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 谢谢您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 注意身体！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，谢谢您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Leave approved! 🎉 Your manager is actually human — who knew?
@@ -3081,21 +3307,9 @@ User: 好的，谢谢您。
 
 **전 — 准备 [세트 4]**
 User: 明天的工作，我发邮件给您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 好的，谢谢！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 还有什么需要的吗？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 没有了！辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Handover email promised, manager satisfied! ✉️ You handled that perfectly.
@@ -3112,21 +3326,9 @@ AI: 没有了！辛苦了！
 
 **전 — 回来 [세트 5]**
 User: 经理，您好！昨天谢谢您！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 没关系！身体怎么样了？
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好多了。/ 没事了，谢谢您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 太好了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > Back and better! 💪 Your manager genuinely cares — that's a good sign.
@@ -3135,21 +3337,9 @@ AI: 太好了！
 
 **결 — 回到工作 [세트 6]**
 AI: 慢慢来！别太勉强！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 好的，谢谢您。
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 AI: 辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 User: 您辛苦了！
-
-> 💬 **Feedback:** _(Add your comment here)_
-
 
 **Outro:**
 > "您辛苦了！" 🏢 The most Chinese way to end a workday.
