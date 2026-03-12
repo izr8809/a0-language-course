@@ -1,36 +1,36 @@
 1#ZP|세트1: 첫 인사, 이름 교환
 2#MQ|안녕하세요!
-3#VR|…네. 안녕하세요.
+3#VR|안녕하세요. 반가워요.
 4#WS|저는 ___예요!
-5#NK|…현준이에요.
-6#TX|He barely looked up. But he said his name — and that counts.
+5#NK|현준이에요. 편하게 해요.
+6#TX|He looked up this time. He even said your name back — quietly, like he was filing it away.
 7#JB|세트2: 한국 어때요?
 8#YH|한국 좋아요?
-9#PM|…네. 좋아요.
+9#PM|네, 좋아요. 재밌어요.
 10#QV|어디 좋아요?
-11#RW|…서초 좋아요.
-12#SN|Two words. But he waited for your question first — patient, unhurried.
+11#RW|서초 좋아요. 같이 가요.
+12#SN|He offered to take you somewhere. Just like that — no hesitation.
 13#KT|세트3: 밥 먹었어요?
 14#XJ|밥 먹었어요?
-15#BY|…아니요.
+15#BY|아직이에요. 먹으러 가요.
 16#HZ|저도요!
-17#ZM|…같이 먹어요.
-18#PQ|He didn't smile. He just stood up and held the door open.
+17#ZM|제가 살게요. 가세요.
+18#PQ|He held the door open and walked ahead. The bill was already taken care of.
 19#MV|세트4: 뭐 좋아해요?
 20#QR|뭐 좋아해요?
-21#WV|…커피요.
+21#WV|커피 좋아해요. 자주 마셔요.
 22#SK|저도 커피 좋아해요!
-23#NX|…그래요.
-24#TJ|"그래요." Again. Then a second coffee appeared at your desk.
+23#NX|여기 커피 맛있어요. 드세요.
+24#TJ|A second coffee appeared at your desk. He'd already ordered it before you asked.
 25#XB|세트5: 주말 계획
 26#JY|주말에 뭐 해요?
-27#BH|…집에 있어요.
+27#BH|집에 있어요. 쉬어요.
 28#YZ|저도 집에 있어요!
-29#HP|…네.
-30#ZQ|"네." Was that agreement — or invitation? With him, you never know.
+29#HP|좋아요. 편히 쉬세요.
+30#ZQ|He said "rest well" like it was an order. But his voice was softer than usual.
 31#MR|세트6: 카톡 교환
 32#PV|카톡 있어요?
-33#QW|…네. 있어요.
+33#QW|네, 있어요. 보내세요.
 34#VS|제 카톡 ___예요!
-35#RN|…네. 좋아요.
+35#RN|좋아요. 저장할게요.
 36#WK|No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe.

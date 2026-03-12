@@ -21,19 +21,19 @@ Your team leader Jia is already working at her desk.
 
 **기 — 첫 인사 [세트 1]**
 User: 안녕하세요. 오늘부터 팀원이에요.
-AI: 네. 알고 있어요.
+AI: 지아예요. 반갑습니다.
 User: 잘 부탁드려요.
-AI: 열심히 하세요.
+AI: 열심히 하세요. 도와줄게요.
 
 **Outro:**
-> Jia gives a brief nod and goes back to her screen.
+> Jia gives a firm nod and gestures toward the office.
 >
 
 **승 — 자리 안내 [세트 2]**
 User: 제 자리가 어디예요?
-AI: 저기 왼쪽이에요.
+AI: 저쪽 왼쪽 자리예요.
 User: 감사해요.
-AI: 네.
+AI: 필요하면 말하세요.
 
 ---
 
@@ -49,19 +49,19 @@ She places a folder of documents in front of you.
 
 **기 — 서류 전달 [세트 1]**
 User: 이게 뭐예요?
-AI: 업무 자료예요. 읽어봐요.
+AI: 업무 자료예요. 읽어보세요.
 User: 다 읽으면 돼요?
-AI: 네, 그 다음에 와요.
+AI: 다 읽고 저한테 오세요.
 
 **Outro:**
-> Without another word, she turns and walks back to her desk.
+> She turns back to her desk, already focused on the next task.
 >
 
 **승 — 첫 질문 [세트 2]**
 User: 모르는 게 있어요.
-AI: 물어봐요.
+AI: 말해 보세요. 들을게요.
 User: 이 부분이요.
-AI: 내일 설명할게요.
+AI: 내일 설명할게요. 기다리세요.
 
 ---
 
@@ -77,19 +77,19 @@ Jia is still at her desk, finishing something up.
 
 **기 — 퇴근 [세트 1]**
 User: 먼저 들어가도 돼요?
-AI: 네. 들어가세요.
+AI: 들어가세요. 수고했어요.
 User: 오늘 감사했어요.
-AI: 내일 봐요.
+AI: 내일 봐요. 푹 쉬세요.
 
 **Outro:**
-> She gives a small nod and looks back at her monitor.
+> Jia gives a brief wave and returns to finishing her work.
 >
 
 **승 — 피드백 [세트 2]**
 User: 오늘 잘 했어요?
-AI: 괜찮았어요.
+AI: 괜찮았어요. 잘했어요.
 User: 다행이에요.
-AI: 내일도 힘내요.
+AI: 내일도 힘내세요. 응원해요.
 
 ---
 
@@ -114,19 +114,19 @@ You arrive early and find Jia already setting up.
 
 **기 — 시간 확인 [세트 1]**
 User: 회의 몇 시예요?
-AI: 10시예요.
+AI: 10시에 시작해요.
 User: 준비 됐어요?
-AI: 이미 했어요.
+AI: 제가 다 했어요.
 
 **Outro:**
-> She opens her laptop and reviews notes, not looking up.
+> She opens her laptop and reviews the agenda efficiently.
 >
 
 **승 — 자리 [세트 2]**
 User: 어디 앉아요?
 AI: 여기 앉으세요.
 User: 네, 알겠어요.
-AI: 잘 들어요.
+AI: 잘 들으세요. 중요해요.
 
 ---
 
@@ -142,9 +142,9 @@ Jia is presenting the week's agenda.
 
 **기 — 발표 [세트 1]**
 User: 이 부분은요?
-AI: 잠깐요.
+AI: 잠깐만 기다리세요.
 User: 아, 네.
-AI: 나중에 설명해요.
+AI: 나중에 설명해 드릴게요.
 
 **Outro:**
 > She continues her presentation at a steady, efficient pace.
@@ -152,9 +152,9 @@ AI: 나중에 설명해요.
 
 **승 — 확인 [세트 2]**
 User: 질문해도 돼요?
-AI: 회의 끝나고요.
+AI: 회의 끝나고 하세요.
 User: 알겠어요.
-AI: 잘 들어요.
+AI: 메모해 두세요.
 
 ---
 
@@ -170,19 +170,19 @@ Everyone is leaving, but you stay to ask Jia.
 
 **기 — 업무 확인 [세트 1]**
 User: 제 업무가 뭐예요?
-AI: 이 보고서예요.
+AI: 이 보고서 해주세요.
 User: 혼자 해요?
-AI: 네, 먼저 해봐요.
+AI: 먼저 해보세요. 도와줄게요.
 
 **Outro:**
-> She stands up and collects her things efficiently.
+> She collects her things and stands up, ready to move on.
 >
 
 **승 — 마감일 [세트 2]**
 User: 언제까지예요?
-AI: 금요일까지요.
+AI: 금요일까지 하세요.
 User: 알겠어요.
-AI: 잘 됐네요.
+AI: 잘 할 수 있어요.
 
 ---
 
@@ -207,19 +207,19 @@ You and Jia are still in the office.
 
 **기 — 야근 [세트 1]**
 User: 저도 남을게요.
-AI: 굳이 안 해도 돼요.
+AI: 안 해도 돼요. 괜찮아요.
 User: 끝내고 싶어요.
-AI: 알겠어요.
+AI: 알겠어요. 같이 해요.
 
 **Outro:**
-> She nods briefly and returns to her own work.
+> She nods and turns back to her work, quietly keeping you company.
 >
 
 **승 — 저녁 [세트 2]**
 User: 저녁 먹었어요?
-AI: 아직이요.
+AI: 아직 못 먹었어요.
 User: 시킬까요?
-AI: 편한 거 시켜요.
+AI: 좋아요. 편한 거 시키세요.
 
 ---
 
@@ -235,19 +235,19 @@ You're stuck on a task and Jia is still nearby.
 
 **기 — 도움 요청 [세트 1]**
 User: 이것 좀 봐줘요.
-AI: 어디요?
+AI: 보여 주세요. 볼게요.
 User: 여기요.
-AI: 이렇게 해요.
+AI: 이렇게 하면 돼요.
 
 **Outro:**
-> She points at your screen calmly, fixes the issue, and walks back.
+> She points at the screen, fixes it quickly, and walks back to her seat.
 >
 
 **승 — 마무리 [세트 2]**
 User: 다 됐어요.
-AI: 확인할게요.
+AI: 제가 확인할게요.
 User: 감사해요.
-AI: 다음엔 혼자 해봐요.
+AI: 다음엔 혼자 해보세요.
 
 ---
 
@@ -263,16 +263,16 @@ The work is finally done and you're both ready to leave.
 
 **기 — 마무리 [세트 1]**
 User: 이제 가도 돼요?
-AI: 네, 수고했어요.
+AI: 수고했어요. 가세요.
 User: 팀장님도 수고했어요.
-AI: 들어가요.
+AI: 조심히 들어가세요.
 
 **Outro:**
-> She closes her laptop and switches off her desk lamp.
+> She closes her laptop and switches off the desk lamp.
 >
 
 **승 — 귀가 [세트 2]**
 User: 혼자 가요?
-AI: 네, 괜찮아요.
+AI: 괜찮아요. 걱정 마세요.
 User: 조심해서 가세요.
-AI: 무리하지 마세요.
+AI: 푹 쉬세요. 내일 봐요.

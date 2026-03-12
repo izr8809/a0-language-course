@@ -26,7 +26,7 @@ User: 이 빵이요.
 AI: 네, 잠깐만요.
 
 **Outro:**
-> Order placed! 🥐
+> Order placed!
 > But what about a drink?
 >
 
@@ -34,10 +34,10 @@ AI: 네, 잠깐만요.
 User: 커피 있어요?
 AI: 네, 있어요.
 User: 아메리카노 주세요.
-AI: 알겠어요.
+AI: 알겠습니다. 준비할게요.
 
 **Outro:**
-> Bread and coffee. 🍞☕
+> Bread and coffee.
 > Time to pay.
 >
 
@@ -53,10 +53,10 @@ AI: 알겠어요.
 User: 얼마예요?
 AI: 육천 원이에요.
 User: 카드 돼요?
-AI: 네, 돼요.
+AI: 네, 카드 돼요.
 
 **Outro:**
-> Price checked! 💳
+> Price checked!
 > Almost done.
 >
 
@@ -64,10 +64,10 @@ AI: 네, 돼요.
 User: 여기요.
 AI: 감사합니다.
 User: 봉투 있어요?
-AI: 네, 드릴게요.
+AI: 여기 있어요. 드릴게요.
 
 **Outro:**
-> All paid up! 🛍️
+> All paid up!
 > Now find a spot to enjoy it.
 >
 
@@ -83,10 +83,10 @@ AI: 네, 드릴게요.
 User: 자리 있어요?
 AI: 안쪽에 있어요.
 User: 감사합니다.
-AI: 네!
+AI: 편하게 앉으세요.
 
 **Outro:**
-> Seat found! 🪑
+> Seat found!
 > Taeo would approve of this spot.
 >
 
@@ -94,10 +94,10 @@ AI: 네!
 User: 맛있어요?
 AI: 네, 맛있어요.
 User: 감사합니다!
-AI: 또 오세요.
+AI: 또 오세요. 감사합니다.
 
 **Outro:**
-> Mission complete! 🥐
+> Mission complete!
 > Taeo was right about this place.
 >
 
@@ -129,7 +129,7 @@ User: 멀어요?
 AI: 아니요, 가까워요.
 
 **Outro:**
-> Direction received! 🗺️
+> Direction received!
 > Almost there.
 >
 
@@ -137,10 +137,10 @@ AI: 아니요, 가까워요.
 User: 이 길이요?
 AI: 네, 맞아요.
 User: 감사합니다!
-AI: 네!
+AI: 조금만 더 가세요.
 
 **Outro:**
-> On the right path! 🌿
+> On the right path!
 > The park is waiting.
 >
 
@@ -156,10 +156,10 @@ AI: 네!
 User: 자리 있어요?
 AI: 네, 앉으세요.
 User: 감사합니다.
-AI: 네!
+AI: 여기 좋은 자리예요.
 
 **Outro:**
-> Bench found! 🌳
+> Bench found!
 > Taeo would love this view.
 >
 
@@ -167,10 +167,10 @@ AI: 네!
 User: 산책로 있어요?
 AI: 네, 저쪽이에요.
 User: 감사합니다!
-AI: 천천히 가세요.
+AI: 천천히 걸어 가세요.
 
 **Outro:**
-> Walk begins! 🚶
+> Walk begins!
 > The air is good here.
 >
 
@@ -184,12 +184,12 @@ AI: 천천히 가세요.
 
 **전 — 출구 [세트 5]**
 User: 출구 어디예요?
-AI: 저기예요.
+AI: 저기 보이세요?
 User: 감사합니다.
-AI: 네!
+AI: 조심히 가세요.
 
 **Outro:**
-> Exit found! 🚪
+> Exit found!
 > One more stop today.
 >
 
@@ -200,7 +200,7 @@ User: 감사합니다!
 AI: 즐거운 시간 되세요.
 
 **Outro:**
-> Next destination: the market! 🛍️
+> Next destination: the market!
 > Taeo's neighborhood keeps giving.
 >
 
@@ -232,7 +232,7 @@ User: 비싸요?
 AI: 아니요, 싸요.
 
 **Outro:**
-> Price checked! 🏷️
+> Price checked!
 > Not bad at all.
 >
 
@@ -240,10 +240,10 @@ AI: 아니요, 싸요.
 User: 이거 뭐예요?
 AI: 빈티지 컵이에요.
 User: 예뻐요.
-AI: 감사합니다.
+AI: 감사합니다. 골라 보세요.
 
 **Outro:**
-> Vintage find! ☕
+> Vintage find!
 > Taeo would pick this up.
 >
 
@@ -257,12 +257,12 @@ AI: 감사합니다.
 
 **승 — 흥정 [세트 3]**
 User: 깎아줘요?
-AI: 조금만요.
+AI: 조금만 깎아줄게요.
 User: 사천 원이요?
 AI: 네, 좋아요.
 
 **Outro:**
-> Deal made! 🤝
+> Deal made!
 > Flea market skills unlocked.
 >
 
@@ -270,10 +270,10 @@ AI: 네, 좋아요.
 User: 카드 돼요?
 AI: 현금만 돼요.
 User: 현금 있어요.
-AI: 감사합니다.
+AI: 감사합니다. 잘 쓰세요.
 
 **Outro:**
-> Paid in cash! 💵
+> Paid in cash!
 > The vintage cup is yours.
 >
 
@@ -287,12 +287,12 @@ AI: 감사합니다.
 
 **전 — 포장 [세트 5]**
 User: 봉투 있어요?
-AI: 네, 드릴게요.
+AI: 네, 여기 드릴게요.
 User: 감사합니다.
-AI: 네!
+AI: 잘 담았어요. 조심하세요.
 
 **Outro:**
-> All wrapped up! 🛍️
+> All wrapped up!
 > Time to head home.
 >
 
@@ -300,10 +300,10 @@ AI: 네!
 User: 잘 됐어요?
 AI: 네, 감사해요.
 User: 또 올게요!
-AI: 기다릴게요.
+AI: 기다릴게요. 또 오세요.
 
 **Outro:**
-> See you next weekend! 🌸
+> See you next weekend!
 > This market feels like Taeo's world.
 >
 
@@ -332,10 +332,10 @@ The bus pulls up.
 User: 이 버스 맞아요?
 AI: 어디 가세요?
 User: 홍대요.
-AI: 네, 맞아요.
+AI: 네, 이 버스 맞아요.
 
 **Outro:**
-> Right bus! 🚌
+> Right bus!
 > Get on.
 >
 
@@ -343,10 +343,10 @@ AI: 네, 맞아요.
 User: 얼마예요?
 AI: 천이백 원이에요.
 User: 카드 돼요?
-AI: 네, 돼요.
+AI: 네, 카드 돼요.
 
 **Outro:**
-> Fare paid! 💳
+> Fare paid!
 > Find a seat.
 >
 
@@ -362,10 +362,10 @@ AI: 네, 돼요.
 User: 홍대 멀어요?
 AI: 두 정류장이에요.
 User: 감사합니다.
-AI: 네!
+AI: 곧 도착해요.
 
 **Outro:**
-> Almost there! 🛣️
+> Almost there!
 > Two more stops.
 >
 
@@ -376,7 +376,7 @@ User: 감사합니다!
 AI: 조심히 내리세요.
 
 **Outro:**
-> Off the bus! 🚏
+> Off the bus!
 > One more ride to go.
 >
 
@@ -390,12 +390,12 @@ AI: 조심히 내리세요.
 
 **전 — 목적지 [세트 5]**
 User: 연남동이요.
-AI: 네, 알겠어요.
+AI: 네, 알겠습니다.
 User: 빨리 가주세요.
-AI: 네, 출발할게요.
+AI: 네, 바로 출발할게요.
 
 **Outro:**
-> Destination set! 🚕
+> Destination set!
 > Almost home.
 >
 
@@ -406,7 +406,7 @@ User: 감사합니다!
 AI: 조심히 들어가세요.
 
 **Outro:**
-> Home! 🏠
+> Home!
 > Another Yeonnam-dong day, done.
 >
 

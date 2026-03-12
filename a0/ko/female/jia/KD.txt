@@ -21,19 +21,19 @@ She plays the cold female lead. You play the male lead.
 
 **기 — 등장 [세트 1]**
 User: 여기서 뭐 해요?
-AI: 제 일이에요.
+AI: 제 회사예요. 일해요.
 User: 이 회사가 제 회사예요.
-AI: 알아요.
+AI: 저도 알고 있어요.
 
 **Outro:**
-> Jia delivers the line flatly, barely making eye contact.
+> Jia delivers the line coolly, barely making eye contact.
 >
 
 **승 — 첫 대화 [세트 2]**
 User: 당신 이름이 뭐예요?
 AI: 알 필요 없어요.
 User: 궁금해서요.
-AI: 됐어요.
+AI: 관심 없어요. 가세요.
 
 ---
 
@@ -49,9 +49,9 @@ It's just the two of you, and neither speaks first.
 
 **기 — 침묵 [세트 1]**
 User: 몇 층 가요?
-AI: 20층이에요.
+AI: 20층에 가요.
 User: 저도요.
-AI: 그렇군요.
+AI: 그렇군요. 우연이네요.
 
 **Outro:**
 > She stares at the door, keeping her distance.
@@ -59,9 +59,9 @@ AI: 그렇군요.
 
 **승 — 우연 [세트 2]**
 User: 아까 봤어요.
-AI: 저도요.
+AI: 저도 봤어요.
 User: 또 보네요.
-AI: 우연이에요.
+AI: 우연이에요. 신경 쓰지 마세요.
 
 ---
 
@@ -79,17 +79,17 @@ You decide to say something this time.
 User: 또 만났어요.
 AI: 회사가 좁네요.
 User: 이름 알려줘요.
-AI: 싫어요.
+AI: 지아예요. 이제 됐죠?
 
 **Outro:**
-> She walks past you without slowing down.
+> She walks past you at a brisk pace, not slowing down.
 >
 
 **승 — 질문 [세트 2]**
 User: 왜 이렇게 차가워요?
-AI: 원래 이래요.
+AI: 원래 이래요. 익숙해지세요.
 User: 알겠어요.
-AI: 비켜요.
+AI: 갈 길 가세요.
 
 ---
 
@@ -114,19 +114,19 @@ Now she's giving you the cold shoulder.
 
 **기 — 냉랭함 [세트 1]**
 User: 왜 화났어요?
-AI: 화 안 났어요.
+AI: 화 안 났어요. 괜찮아요.
 User: 그런 것 같아요.
-AI: 착각이에요.
+AI: 착각이에요. 신경 마세요.
 
 **Outro:**
-> She turns away and pretends to check her phone.
+> She turns away and checks her phone, keeping her expression steady.
 >
 
 **승 — 해명 [세트 2]**
 User: 오해예요.
-AI: 됐어요.
+AI: 상관없어요. 괜찮아요.
 User: 들어봐요.
-AI: 바빠요.
+AI: 지금은 바빠요. 나중에요.
 
 ---
 
@@ -142,19 +142,19 @@ She's standing by the railing, looking away.
 
 **기 — 설명 [세트 1]**
 User: 잠깐요.
-AI: 할 말 없어요.
+AI: 할 말 없어요. 가세요.
 User: 오해예요.
-AI: 상관없어요.
+AI: 상관없어요. 걱정 마세요.
 
 **Outro:**
-> The wind blows. She doesn't move.
+> The wind blows. She stays still, looking at the sky.
 >
 
 **승 — 감정 [세트 2]**
 User: 왜 그렇게 생각해요?
-AI: 봤으니까요.
+AI: 직접 봤어요. 그래서요.
 User: 틀렸어요.
-AI: …네.
+AI: 알겠어요. 생각해 볼게요.
 
 ---
 
@@ -170,19 +170,19 @@ The air between you is still tense.
 
 **기 — 화해 시도 [세트 1]**
 User: 오늘은 어때요?
-AI: 보통이에요.
+AI: 보통이에요. 괜찮아요.
 User: 화 풀렸어요?
-AI: 원래부터 없었어요.
+AI: 원래 화 안 났어요.
 
 **Outro:**
-> She walks away, but you catch a glimpse of the faintest expression change.
+> She walks away, but you catch the faintest softening in her expression.
 >
 
 **승 — 마무리 [세트 2]**
 User: 앞으로 잘 지내요.
-AI: …알겠어요.
+AI: 알겠어요. 그렇게 해요.
 User: 감사해요.
-AI: 네.
+AI: 저도 감사해요. 가세요.
 
 ---
 
@@ -207,9 +207,9 @@ You decide to approach.
 
 **기 — 발견 [세트 1]**
 User: 여기 있었어요?
-AI: 일 중이에요.
+AI: 일하고 있어요. 바빠요.
 User: 방해할게요.
-AI: 알아서 해요.
+AI: 잠깐만 앉으세요.
 
 **Outro:**
 > She sighs softly and closes her laptop halfway.
@@ -217,9 +217,9 @@ AI: 알아서 해요.
 
 **승 — 짧은 대화 [세트 2]**
 User: 커피 사줄까요?
-AI: 됐어요.
+AI: 괜찮아요. 있어요.
 User: 그냥이요.
-AI: …알겠어요.
+AI: 알겠어요. 감사해요.
 
 ---
 
@@ -235,9 +235,9 @@ You spot her standing outside without an umbrella.
 
 **기 — 우산 [세트 1]**
 User: 우산 없어요?
-AI: 금방 그쳐요.
+AI: 금방 그칠 거예요.
 User: 쓰세요.
-AI: 괜찮아요.
+AI: 괜찮아요. 걱정 마세요.
 
 **Outro:**
 > You insist. She accepts reluctantly without meeting your eyes.
@@ -245,9 +245,9 @@ AI: 괜찮아요.
 
 **승 — 귀가 [세트 2]**
 User: 같이 가요.
-AI: 방향 달라요.
+AI: 방향이 달라요.
 User: 잠깐이요.
-AI: …됐어요.
+AI: 알겠어요. 같이 가요.
 
 ---
 
@@ -263,16 +263,16 @@ She's walking home alone.
 
 **기 — 저녁 만남 [세트 1]**
 User: 혼자예요?
-AI: 늘 혼자예요.
+AI: 늘 혼자예요. 괜찮아요.
 User: 같이 걸어도 돼요?
-AI: 빨리 가요.
+AI: 좋아요. 빨리 가요.
 
 **Outro:**
-> She doesn't say no. You walk beside her in silence.
+> She doesn't refuse. You walk beside her in comfortable silence.
 >
 
 **승 — 작별 [세트 2]**
 User: 다음에 또 봐요.
-AI: 모르겠어요.
+AI: 약속은 못 해요.
 User: 봤으면 해요.
-AI: …그러네요.
+AI: 저도 좋아요. 또 봐요.

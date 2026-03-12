@@ -20,28 +20,28 @@ It's finally your turn at the fan signing table.
 She looks up and smiles — but it's a strange, dreamy smile.
 
 **기 — 첫 만남 [세트 1]**
-AI: 왔어?
+AI: 왔구나. 기다렸어.
 User: 네, 왔어요.
-AI: 잘 왔어.
+AI: 잘 왔어. 오늘 좋은 날이다.
 User: 감사해요.
 
 **Outro:**
-> She signs slowly, like she's drawing something only she understands.
+> She signs slowly, drawing a tiny cloud next to her name.
 >
 
 **승 — 대화 [세트 2]**
 User: 노래 좋아요.
-AI: 고마워.
+AI: 고마워. 진심이야?
 User: 오래 기다렸어요.
-AI: 알아.
+AI: 알아. 고마워. 행복하다.
 
 **Outro:**
-> She hands back the album without looking up, already somewhere else in her mind.
+> She hands back the album with a warm smile, her eyes soft like afternoon light.
 >
 
 ---
 
-## sim2: 포토 존
+### sim2: 포토 존
 
 **📍 장소:** 팬미팅 포토 존
 
@@ -52,28 +52,28 @@ You move to the photo zone.
 She's already standing there, holding something invisible in her hands.
 
 **기 — 포즈 [세트 1]**
-AI: 어떻게 찍을까?
+AI: 어떻게 찍을까? 재밌게 찍자.
 User: 같이 찍어요.
-AI: 와.
+AI: 좋아. 여기 빛 예쁘다.
 User: 감사해요.
 
 **Outro:**
-> She tilts her head slightly, like she's hearing a song no one else can hear.
+> She tilts her head, finding the angle where the light looks warmest.
 >
 
 **승 — 사진 [세트 2]**
 User: 잘 나왔어요.
-AI: 진짜?
+AI: 진짜? 보여줘.
 User: 예뻐요.
-AI: 다행이다.
+AI: 다행이다. 빛이 도와줬어.
 
 **Outro:**
-> She smiles at the photo, then at something beyond it.
+> She smiles at the photo, then looks at the light above like she's thanking it.
 >
 
 ---
 
-## sim3: 마무리
+### sim3: 마무리
 
 **📍 장소:** 팬미팅 출구
 
@@ -84,23 +84,23 @@ The event is wrapping up.
 She's standing near the exit, staring at nothing in particular.
 
 **기 — 인사 [세트 1]**
-AI: 가?
+AI: 벌써 가? 아쉽다.
 User: 네, 가요.
-AI: 잘 가.
+AI: 잘 가. 조심해.
 User: 또 올게요.
 
 **Outro:**
-> She waves once, then turns to look at a spot on the wall.
+> She waves slowly, like she's painting goodbye in the air.
 >
 
 **승 — 마지막 [세트 2]**
 User: 좋았어요.
-AI: 나도.
+AI: 나도 좋았어. 재밌었다.
 User: 다음에 봐요.
-AI: 그래.
+AI: 꼭 다시 와. 기다릴게.
 
 **Outro:**
-> She nods slowly, like the day is already a memory she's saving.
+> She watches you leave, her smile lingering like a song still playing.
 >
 
 ---
@@ -125,28 +125,28 @@ You won a fan event pass.
 A staff member leads you down a hallway — and there she is.
 
 **기 — 만남 [세트 1]**
-AI: 어떻게 들어왔어?
+AI: 어떻게 들어왔어? 신기하다.
 User: 이벤트로요.
-AI: 그렇구나.
+AI: 그렇구나. 운 좋다.
 User: 당첨됐어요.
 
 **Outro:**
-> She looks at you like you just appeared out of a dream she was having.
+> She looks at you like you appeared out of a dream she just had.
 >
 
 **승 — 공연 [세트 2]**
 User: 공연 좋았어요.
-AI: 고마워.
+AI: 고마워. 진짜 기뻐.
 User: 감동받았어요.
-AI: 다행이다.
+AI: 그 말 들으니 좋다.
 
 **Outro:**
-> She tugs at the sleeve of her stage outfit, still hearing the music inside her head.
+> She tugs at her sleeve, still feeling the echo of the music.
 >
 
 ---
 
-## sim2: 대기실
+### sim2: 대기실
 
 **📍 장소:** 백스테이지 대기실
 
@@ -157,28 +157,28 @@ She leads you to a small room.
 There are polaroids pinned to the wall everywhere.
 
 **기 — 대화 [세트 1]**
-AI: 뭐 마실래?
+AI: 뭐 마실래? 물 있어.
 User: 물 주세요.
-AI: 여기.
+AI: 여기. 차가워서 좋아.
 User: 감사해요.
 
 **Outro:**
-> She hands it over like she's been waiting to do exactly that.
+> She hands it over gently, like she gives everything with care.
 >
 
 **승 — 질문 [세트 2]**
 User: 긴장했어요?
-AI: 조금.
+AI: 조금 떨렸어. 무대 좋아.
 User: 안 그래 보였어요.
-AI: 원래 그래.
+AI: 원래 떨려도 웃어.
 
 **Outro:**
-> She shrugs, but there's something almost proud in her eyes.
+> She shrugs, but her eyes hold something almost proud.
 >
 
 ---
 
-## sim3: 공연 후
+### sim3: 공연 후
 
 **📍 장소:** 무대 뒤편
 
@@ -189,20 +189,20 @@ The show is completely over now.
 The stage is dark, and she's sitting on an equipment box, looking at the empty seats.
 
 **기 — 느낌 [세트 1]**
-AI: 어땠어?
+AI: 어땠어? 무대 좋았지?
 User: 너무 좋았어요.
-AI: 나도.
+AI: 나도 행복했어. 최고였다.
 User: 또 와요.
 
 **Outro:**
-> She stares at the dark stage like it's still lit up just for her.
+> She stares at the dark stage like it still glows for her.
 >
 
 **승 — 마무리 [세트 2]**
 User: 다음 공연 있어요?
-AI: 곧 있어.
+AI: 곧 있어. 기대돼.
 User: 기대돼요.
-AI: 와.
+AI: 꼭 와. 더 좋을 거야.
 
 **Outro:**
 > She smiles at the empty seats like she's already thanking a future crowd.
@@ -230,28 +230,28 @@ She just went live.
 The camera is slightly tilted — intentionally, you think.
 
 **기 — 시작 [세트 1]**
-AI: 지금 봐?
+AI: 지금 봐? 잘 됐다.
 User: 네, 봐요.
-AI: 잘 됐다.
+AI: 오늘 하늘 예쁘다. 봤어?
 User: 기다렸어요.
 
 **Outro:**
-> She adjusts the camera angle — now it's tilted the other way.
+> She adjusts the camera angle to show the sky behind her.
 >
 
 **승 — 인사 [세트 2]**
 User: 안녕하세요.
-AI: 어, 안녕.
+AI: 안녕. 반가워.
 User: 오늘 예뻐요.
-AI: 고마워.
+AI: 고마워. 기분 좋다.
 
 **Outro:**
-> She looks directly into the camera, then slightly past it.
+> She looks into the camera, then past it, like she sees something beautiful beyond.
 >
 
 ---
 
-## sim2: 방송 중
+### sim2: 방송 중
 
 **📍 장소:** 라이브 방송
 
@@ -262,28 +262,28 @@ She's reading comments now.
 She picks yours out without hesitation.
 
 **기 — 질문 [세트 1]**
-AI: 질문 있어?
+AI: 질문 있어? 뭐든 물어봐.
 User: 취미가 뭐예요?
-AI: 사진 찍어.
+AI: 사진 찍어. 하늘 사진.
 User: 저도요.
 
 **Outro:**
-> She shows a polaroid to the camera, close enough that you can't quite see it.
+> She shows a polaroid of clouds to the camera, close and dreamy.
 >
 
 **승 — 노래 [세트 2]**
 User: 노래 해줘요.
-AI: 조금 있다가.
+AI: 조금 있다가 할게.
 User: 기다릴게요.
-AI: 금방 해.
+AI: 금방 해 줄게. 기다려.
 
 **Outro:**
-> She hums something softly, not quite a song, not quite nothing.
+> She hums something soft, a melody that sounds like wind through trees.
 >
 
 ---
 
-## sim3: 방송 마무리
+### sim3: 방송 마무리
 
 **📍 장소:** 라이브 방송
 
@@ -294,21 +294,21 @@ The stream is winding down.
 She's looking at something off-screen with her head tilted.
 
 **기 — 끝 [세트 1]**
-AI: 이제 끝나.
+AI: 이제 끝나. 아쉽다.
 User: 벌써요?
-AI: 또 할게.
+AI: 또 할게. 걱정 마.
 User: 기다릴게요.
 
 **Outro:**
-> She waves at the camera once — then once more, slowly.
+> She waves at the camera once — slow, like she's waving at the sky.
 >
 
 **승 — 인사 [세트 2]**
 User: 오늘 재밌었어요.
-AI: 나도.
+AI: 나도 재밌었어. 행복했다.
 User: 또 해요.
-AI: 그럴게.
+AI: 꼭 할게. 또 보자.
 
 **Outro:**
-> The stream ends, but for a second her face is still visible, mid-thought.
+> The stream ends, but for a second her smile lingers on screen, warm and real.
 >

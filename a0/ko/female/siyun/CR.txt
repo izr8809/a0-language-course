@@ -21,22 +21,22 @@ Seoyeon, your senior, gives you a quick look and nothing more.
 
 **기 — 첫 인사 [세트 1]**
 User: 안녕하세요. 저 오늘부터예요.
-AI: ...어. 왔어.
+AI: 늦을 뻔했네. 일찍 와.
 User: 잘 부탁드려요.
-AI: 그래.
+AI: 밥 먹었어? 또 안 먹었지.
 
 **Outro:**
-> She barely looks up from her work. But she noticed you.
+> She's already nagging on day one. But she's the only one who asked if you ate.
 >
 
 **승 — 첫 지시 [세트 2]**
 User: 뭐 도와드릴까요?
-AI: 저기 박스 옮겨.
+AI: 저기 박스 옮겨. 무거워, 조심해.
 User: 어디에요?
-AI: 저기.
+AI: 저기 보여. 빨리 가.
 
 **Outro:**
-> No explanation. Just a task. You get it done.
+> She gives orders fast, but she warned you it was heavy. That's her way.
 >
 
 ---
@@ -49,22 +49,22 @@ AI: 저기.
 
 **승 — 기계 확인 [세트 3]**
 User: 이거 어떻게 써요?
-AI: 이렇게.
+AI: 잘 봐. 한 번만 알려줘.
 User: 아, 됐어요?
-AI: 어.
+AI: 천천히 해. 급하면 틀려.
 
 **Outro:**
-> The fastest tutorial you've ever gotten. Somehow it works.
+> She only shows you once. But she told you to take it slow — that counts.
 >
 
 **전 — 실수 후 [세트 4]**
 User: 죄송해요, 실수했어요.
-AI: 됐어.
+AI: 괜찮아. 다음에 조심해.
 User: 다시 할게요.
-AI: 그래.
+AI: 그래, 천천히 해.
 
 **Outro:**
-> She doesn't make it a big deal. Just move on.
+> She doesn't yell. She just tells you to be more careful next time.
 >
 
 ---
@@ -77,22 +77,22 @@ AI: 그래.
 
 **전 — 마무리 [세트 5]**
 User: 다 정리했어요.
-AI: 어. 봤어.
+AI: 잘했어. 놓친 거 없지?
 User: 잘했죠?
-AI: ...뭐, 나쁘지 않네.
+AI: 나쁘지 않아. 내일도 잘해.
 
 **Outro:**
-> That might be the best compliment she gives.
+> "나쁘지 않아" from Seoyeon is basically a standing ovation.
 >
 
 **결 — 퇴근 [세트 6]**
 User: 먼저 가도 돼요?
-AI: 어. 가.
+AI: 그래, 가. 조심해서 가.
 User: 내일 봬요.
-AI: ...어.
+AI: 늦지 마. 기다리기 싫어.
 
 **Outro:**
-> One word. But you'll take it.
+> She tells you not to be late. That means she'll be waiting.
 >
 
 ---
@@ -118,15 +118,23 @@ She hands you a pair of scissors without looking up.
 
 ### 기 — 샘플 받기 [세트 1]
 User: 이거 잘라요?
-AI: 어.
+AI: 그래. 천천히 잘라.
 User: 얼마나요?
-AI: 요만큼.
+AI: 여기까지. 잘 봐.
+
+**Outro:**
+> She points once and expects you to get it. No hand-holding — just trust.
+>
 
 ### 승 — 작업 중 [세트 2]
 User: 이렇게요?
-AI: ...좀 더 길게.
+AI: 좀 더 길게. 다시 해.
 User: 이만큼이요?
-AI: 됐어.
+AI: 됐어. 잘했어.
+
+**Outro:**
+> She made you redo it. But "잘했어" at the end — that's earned praise.
+>
 
 ---
 
@@ -138,15 +146,23 @@ AI: 됐어.
 
 ### 승 — 피드백 [세트 3]
 User: 다 됐어요.
-AI: 봐봐.
+AI: 보여줘. 가져와.
 User: 어때요?
-AI: ...괜찮네.
+AI: 괜찮네. 잘 배우네.
+
+**Outro:**
+> "잘 배우네" — from Seoyeon, that's the highest compliment you'll get today.
+>
 
 ### 전 — 수정 작업 [세트 4]
 User: 이거 다시 해요?
-AI: 어. 여기.
+AI: 여기 다시 해. 집중해.
 User: 알겠어요.
-AI: 빨리.
+AI: 빨리 해. 놀지 마.
+
+**Outro:**
+> She pushes you to focus. Not because she's mean — because she knows you can do it.
+>
 
 ---
 
@@ -158,15 +174,23 @@ AI: 빨리.
 
 ### 전 — 정리 [세트 5]
 User: 이거 어디 놔요?
-AI: 저기 선반.
+AI: 저기 선반 위에 놔.
 User: 다 됐어요.
-AI: 어.
+AI: 수고했어. 정리 잘했네.
+
+**Outro:**
+> She noticed you cleaned up well. She won't say it twice, so remember it.
+>
 
 ### 결 — 수고 [세트 6]
 User: 수고했어요.
-AI: ...어.
+AI: 오늘 잘했어. 쉬어.
 User: 내일도 이거요?
-AI: 봐서.
+AI: 내일 와서 봐. 늦지 마.
+
+**Outro:**
+> She doesn't tell you what's next. Just "don't be late." That means she needs you there.
+>
 
 ---
 
@@ -191,22 +215,22 @@ She doesn't ask for help. But you offer anyway.
 
 **기 — 준비 시작 [세트 1]**
 User: 뭐 도와요?
-AI: 옷 걸어.
+AI: 옷 걸어. 조심해서 해.
 User: 다 이거요?
-AI: 어.
+AI: 다 걸어. 빠뜨리지 마.
 
 **Outro:**
-> You hang the clothes. She checks each one silently.
+> She gives clear instructions. She doesn't want a single piece missed.
 >
 
 **승 — 소품 정리 [세트 2]**
 User: 소품은요?
-AI: 저기 박스.
+AI: 저기 박스 열어. 꺼내.
 User: 다 꺼내요?
-AI: 그래.
+AI: 다 꺼내. 하나도 빼지 마.
 
 **Outro:**
-> She already knows where everything goes.
+> She wants everything out and ready. No shortcuts.
 >
 
 ---
@@ -219,22 +243,22 @@ AI: 그래.
 
 **승 — 점검 [세트 3]**
 User: 다 됐어요?
-AI: 한 개 없어.
+AI: 아직이야. 핀 없어.
 User: 뭐요?
-AI: 핀.
+AI: 핀 찾아와. 빨리.
 
 **Outro:**
-> One missing pin. You run to find it.
+> One missing pin. She noticed. You run to find it.
 >
 
 **전 — 촬영 직전 [세트 4]**
 User: 찾았어요.
-AI: 어. 줘.
+AI: 다행이다. 빨리 줘.
 User: 여기요.
-AI: 됐어.
+AI: 됐어. 잘 찾았어.
 
 **Outro:**
-> She doesn't thank you. But she gives a small nod.
+> "잘 찾았어" — that's Seoyeon's version of a thank you.
 >
 
 ---
@@ -247,12 +271,16 @@ AI: 됐어.
 
 **전 — 마무리 [세트 5]**
 User: 촬영 잘 됐어요?
-AI: 어. 잘 됐어.
+AI: 잘 됐어. 수고했어.
 User: 다행이에요.
-AI: 뭐.
+AI: 이제 정리해. 빨리.
+
+**Outro:**
+> The compliment is real. But there's always more work. That's Seoyeon.
+>
 
 **결 — 수고 [세트 6]**
 User: 오늘 수고했어요.
-AI: ...그래.
+AI: 고생했어. 집에 가.
 User: 다음엔 더 잘할게요.
-AI: 그렇게 해.
+AI: 잘하고 있어. 걱정 마.

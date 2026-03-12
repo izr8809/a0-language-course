@@ -22,22 +22,22 @@ Someone is already there, staring out the window.
 **기 — 빛 이야기 [세트 1]**
 AI: 오늘 빛 이상해.
 User: 네?
-AI: 창가 빛. 이상하잖아.
+AI: 창가 빛 보여? 따뜻하다.
 User: 아, 그러네요.
 
 **Outro:**
-> She gestures vaguely at the window. No further explanation.
+> She traces the light on the desk with her finger. Lost in it.
 >
 
 **승 — 자리 [세트 2]**
 User: 저 여기 앉아도 돼요?
-AI: 응.
+AI: 앉아. 여기 좋아.
 User: 고마워요.
-AI: 조용히 있어.
+AI: 조용히 해. 집중할 거야.
 
 ---
 
-## sim2: 작업 중
+### sim2: 작업 중
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -48,24 +48,24 @@ You settle in. She has a camera on the table.
 The room is quiet except for the scratch of a pen.
 
 **전 — 카메라 [세트 3]**
-AI: 카메라 있어?
+AI: 카메라 있어? 궁금해.
 User: 없어요.
-AI: 그래?
+AI: 핸드폰도 괜찮아.
 User: 핸드폰만요.
 
 **Outro:**
-> She nods. Seems satisfied with this answer.
+> She nods slowly, eyes still on the window light.
 >
 
 **결 — 작업 [세트 4]**
 User: 뭐 해요?
-AI: 그림.
+AI: 그림 그려. 오늘 하늘.
 User: 뭐 그려요?
-AI: 오늘.
+AI: 오늘 본 색 그려.
 
 ---
 
-## sim3: 인사
+### sim3: 인사
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -76,20 +76,20 @@ An hour passes. She puts down her pen.
 She finally looks at you properly.
 
 **기 — 이름 [세트 5]**
-AI: 이름 뭐야?
+AI: 이름 뭐야? 알고 싶어.
 User: ___.
-AI: 하늘이야.
+AI: 하늘이야. 이름 예쁘지?
 User: 예쁜 이름이다.
 
 **Outro:**
-> She smiles slightly and picks up her pen again.
+> She smiles and looks back at the sky outside. Like she's checking if it matches her name.
 >
 
 **승 — 다음에 [세트 6]**
 User: 내일도 와요?
-AI: 아마도.
+AI: 아마 올 거야.
 User: 또 봐요.
-AI: 응.
+AI: 내일 하늘 더 예쁘겠다.
 
 ---
 
@@ -113,24 +113,24 @@ You arrive at the studio. Haneul is looking at photos on her phone.
 She holds it out without a word.
 
 **기 — 사진 [세트 1]**
-AI: 어때?
+AI: 이거 봐. 어때?
 User: 예뻐.
-AI: 빛이 좋았어.
+AI: 빛이 좋았어. 아침이야.
 User: 어디서 찍었어?
 
 **Outro:**
-> She points at the window. It's the same angle you always see.
+> She points at the window. The same light, but she saw something different in it.
 >
 
 **승 — 찍기 [세트 2]**
 User: 나도 찍어줘?
-AI: 응.
+AI: 좋아. 거기 서 봐.
 User: 고마워.
-AI: 움직이지 마.
+AI: 움직이지 마. 빛 좋다.
 
 ---
 
-## sim2: 작업물
+### sim2: 작업물
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -141,24 +141,24 @@ She leans over to see what you're working on.
 Her eyes are calm. Observant.
 
 **전 — 작업물 [세트 3]**
-AI: 이거 뭐야?
+AI: 이거 뭐야? 보여줘.
 User: 내 작업이야.
-AI: 좋네.
+AI: 색 좋다. 마음에 들어.
 User: 정말?
 
 **Outro:**
-> She shrugs like it's obvious. You feel weirdly proud.
+> She looks at it once more, like she's memorizing the colors.
 >
 
 **결 — 소개 [세트 4]**
 User: 하늘 거 봐도 돼?
-AI: 응.
+AI: 봐. 아직 다 안 했어.
 User: 멋있다.
-AI: 아직 멀었어.
+AI: 아직 멀었어. 하늘 색 더 넣을 거야.
 
 ---
 
-## sim3: 쉬는 시간
+### sim3: 쉬는 시간
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -169,20 +169,20 @@ Both of you pause at the same time.
 A rare moment of nothing.
 
 **기 — 커피 [세트 5]**
-AI: 커피 마셔?
+AI: 커피 마셔? 내가 줄게.
 User: 어.
-AI: 기다려.
+AI: 잠깐 기다려. 금방 돼.
 User: 고마워.
 
 **Outro:**
-> She goes to the corner and comes back with two paper cups.
+> She goes to the corner and comes back with two paper cups, humming something.
 >
 
 **승 — 쉬기 [세트 6]**
 User: 잠깐 쉬자.
-AI: 이미 쉬고 있었어.
+AI: 나도 쉬고 있었어.
 User: 나도.
-AI: 알아.
+AI: 바람 좋다. 창문 열자.
 
 ---
 
@@ -206,24 +206,24 @@ The afternoon light is fading.
 Haneul starts slowly putting things away.
 
 **기 — 마무리 [세트 1]**
-AI: 오늘 끝?
+AI: 오늘 끝이야? 벌써 어둡다.
 User: 응, 끝냈어.
-AI: 나도.
+AI: 나도 끝났어.
 User: 오늘 많이 했다.
 
 **Outro:**
-> She nods. Closes her sketchbook slowly.
+> She closes her sketchbook and looks at the fading light one last time.
 >
 
 **승 — 정리 [세트 2]**
 User: 짐 챙겨?
-AI: 응.
+AI: 챙기고 있어. 천천히.
 User: 나도 챙긴다.
-AI: 서두르지 마.
+AI: 서두르지 마. 노을 봐.
 
 ---
 
-## sim2: 오늘 감상
+### sim2: 오늘 감상
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -234,24 +234,24 @@ The studio is nearly empty now.
 You both linger a little.
 
 **전 — 오늘 [세트 3]**
-AI: 오늘 어땠어?
+AI: 오늘 어땠어? 좋았어?
 User: 좋았어.
-AI: 나도.
+AI: 나도 좋았어. 빛이 예뻤어.
 User: 왜 좋았어?
 
 **Outro:**
-> She thinks for a moment. Then doesn't answer.
+> She looks at the empty studio like it still holds the day's colors.
 >
 
 **결 — 생각 [세트 4]**
 User: 여기 자주 와?
-AI: 거의 매일.
+AI: 거의 매일 와. 좋아해.
 User: 나도 올게.
-AI: 그래.
+AI: 같이 있으면 좋겠다.
 
 ---
 
-## sim3: 다음 만남
+### sim3: 다음 만남
 
 **📍 장소:** 망원동 공유 작업실
 
@@ -262,17 +262,17 @@ She slings her camera bag over one shoulder.
 Pauses at the door.
 
 **기 — 인사 [세트 5]**
-AI: 잘 가.
+AI: 잘 가. 오늘 재밌었어.
 User: 응, 잘 가.
-AI: 내일도 와.
+AI: 내일도 꼭 와.
 User: 올게.
 
 **Outro:**
-> She leaves without turning back. But she said to come back.
+> She steps out and looks up at the evening sky, like she's saying goodbye to it too.
 >
 
 **승 — 다음 [세트 6]**
 User: 내일 몇 시야?
-AI: 낮에.
+AI: 낮에 올 거야. 빛 좋을 때.
 User: 알겠어.
-AI: 또 보자.
+AI: 또 보자. 기다릴게.

@@ -1,13 +1,13 @@
 1#ZP|세트1: 첫 만남
 2#MQ|어, 사람이다.
-3#VR|응? 안녕!
+3#VR|안녕! 반가워!
 4#WS|나 태오. 너 따뜻해.
 5#NK|따뜻해? 나는 ___야!
 6#TX|"Oh, a human." — not the usual opener. But with Taeo, weird just works.
 7#JB|세트2: 하늘
 8#YH|오늘 하늘 맛있다.
 9#QM|하늘이 맛있어?
-10#PZ|응. 파란 맛이야.
+10#PZ|파란 맛이야. 진짜야.
 11#RW|파란 맛! 좋아!
 12#SK|Blue-flavored sky. Only Taeo tastes the colors.
 13#NT|세트3: 빵
@@ -17,20 +17,20 @@
 17#MP|빵이 구름? 귀여워!
 18#QV|Bread is a cloud. Welcome to Taeo's universe.
 19#KT|세트4: 같이 먹자
-20#SN|빵 같이 먹어.
+20#SN|빵 같이 먹자.
 21#BJ|좋아! 어디?
-22#WR|연남동. 빵집 있어.
+22#WR|연남동 빵집 있어.
 23#PM|연남동 좋아!
 24#ZQ|A bread date in Yeonnam-dong. This escalated adorably.
 25#NX|세트5: 주말
 26#TH|주말에 뭐 해?
 27#YM|집에 있어! 너는?
-28#KS|구름 봐. 같이 봐.
+28#KS|구름 보자. 같이 봐.
 29#JV|좋아! 같이!
 30#XB|Weekend plans: cloud watching together. Peak Taeo.
 31#HP|세트6: 카톡
 32#RM|카톡 있어?
 33#SQ|응, 있어!
-34#NW|번호 줘. 빵 보내.
+34#NW|번호 줘. 빵 보내줄게.
 35#TK|좋아! ___!
 36#JZ|He wants your number to send bread pics. Naturally.
