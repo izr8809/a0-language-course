@@ -1,124 +1,36 @@
-1#ZP|# 🖤 PERSONAL INTEREST (격식체) >> Korean Life
-2#MQ|
-3#VR|# PI-1: …네
-4#WS|
-5#NK|- 대분류: Personal Interest
-6#TX|- 중분류: First Meeting
-7#JB|- 난이도: A0 (Absolute Beginner)
-8#YH|- 12턴 (6세트, 3sim)
-9#ZM|
-10#PV|He barely speaks.
-11#RW|But somehow... you can't look away.
-12#SR|
-13#KT|---
-14#XJ|
-15#BY|### sim1: Awkward First Meeting
-16#HZ|
-17#PM|**Goal:** To introduce yourself and learn his name. He won't say much — but he's listening.
-18#QV|
-19#WK|**📍 장소:** 카페
-20#NX|
-21#PV|**intro_text:**
-22#RW|He barely speaks.
-23#JH|But somehow... you can't look away.
-24#MK|
-25#TB|**기 — 첫 인사 [세트 1]**
-26#WN|User: 안녕하세요!
-27#SJ|AI: …네. 안녕하세요.
-28#QR|AI: 현준이에요.
-29#HX|User: 저는 ___예요! / ___이에요!
-30#ZK|AI: 네.
-31#YP|AI: 어디서 오셨어요?
-32#BV|User: ___에서 왔어요!
-33#NM|AI: 그래요.
-34#TS|
-35#WR|**Outro:**
-36#PJ|> He said six words total.
-37#KH|> So why does "그래요" feel like it meant something?
-38#XQ|>
-39#ZN|
-40#BM|**승 — 한국 [세트 2]**
-41#TW|AI: 한국은 처음이세요?
-42#SV|User: 네! / 아니요!
-43#QK|AI: …네.
-44#HJ|AI: 한국 좋아하세요?
-45#RX|User: 네, 좋아해요!
-46#YZ|AI: …다행이에요.
-47#NP|
-48#MV|**Outro:**
-49#WB|> "다행이에요." He's glad you like Korea.
-50#JK|> Wait — was that... warmth?
-51#TH|>
-52#ZR|
-53#QS|---
-54#PW|
-55#XN|### sim2: Unexpected Care
-56#BJ|
-57#YM|**Goal:** To talk about food and hobbies. He barely reacts — but watch what he says.
-58#KV|
-59#HT|**📍 장소:** 카페 (동일)
-60#SW|
-61#NZ|**승 — 밥 [세트 3]**
-62#RQ|AI: 밥은 드셨어요?
-63#MP|User: 아직이요!
-64#WK|AI: 드세요.
-65#VJ|AI: 무리하지 마세요.
-66#XH|User: 네! 고마워요!
-67#TB|AI: …네.
-68#YS|
-69#QN|**Outro:**
-70#ZW|> He didn't smile. Didn't even look up.
-71#PK|> But "무리하지 마세요" — why does that hit so different?
-72#BX|>
-73#HV|
-74#MR|**전 — 취미 [세트 4]**
-75#NJ|User: 뭐 좋아하세요?
-76#WZ|AI: 음악이요.
-77#KQ|User: 저도 좋아해요!
-78#TP|AI: …그래요.
-79#SB|AI: 같아요.
-80#YX|User: 네!
-81#VN|AI: …네.
-82#HM|
-83#RK|**Outro:**
-84#ZJ|> "같아요." Same.
-85#QH|> One word. But it felt like he just opened a door — just a crack.
-86#XW|>
-87#PV|
-88#BS|---
-89#NR|
-90#TK|### sim3: Contact Exchange
-91#MH|
-92#WQ|**Goal:** To make weekend plans and exchange KakaoTalk. He won't ask first — but he'll say yes.
-93#JP|
-94#ZV|**📍 장소:** 카페 앞
-95#SX|
-96#RH|**전 — 주말 [세트 5]**
-97#KJ|User: 주말에 뭐 해요?
-98#YN|AI: …아직 없어요.
-99#QB|AI: 왜요?
-100#HW|User: 같이 밥 먹어요!
-101#TX|AI: …네. 좋아요.
-102#MZ|User: 어디 가요?
-103#VP|AI: 삼성역이요.
-104#NB|
-105#WJ|**Outro:**
-106#SK|> He said yes. Just like that.
-107#RQ|> No hesitation. No emoji. Just "좋아요."
-108#ZH|> Somehow that's more exciting than a thousand exclamation marks.
-109#PX|>
-110#KW|
-111#TM|**결 — 카톡 [세트 6]**
-112#BQ|User: 카톡 있어요?
-113#HN|AI: …네.
-114#YJ|User: 아이디 알려주세요!
-115#XK|AI: 여기요.
-116#WP|AI: 보냈어요.
-117#SZ|User: 고마워요! 또 봐요!
-118#RV|AI: …네. 또 봐요.
-119#MJ|
-120#NX|**Outro:**
-121#QW|> He handed over his Kakao. No drama. No games.
-122#KB|> "…네. 또 봐요." — cold as always.
-123#TZ|> So why are you already checking your phone?
-124#VR|>
+1#ZP|세트1: 첫 인사, 이름 교환
+2#MQ|안녕하세요!
+3#VR|…네. 안녕하세요.
+4#WS|저는 ___예요!
+5#NK|…현준이에요.
+6#TX|He barely looked up. But he said his name — and that counts.
+7#JB|세트2: 한국 어때요?
+8#YH|한국 좋아요?
+9#PM|…네. 좋아요.
+10#QV|어디 좋아요?
+11#RW|…서초 좋아요.
+12#SN|Two words. But he waited for your question first — patient, unhurried.
+13#KT|세트3: 밥 먹었어요?
+14#XJ|밥 먹었어요?
+15#BY|…아니요.
+16#HZ|저도요!
+17#ZM|…같이 먹어요.
+18#PQ|He didn't smile. He just stood up and held the door open.
+19#MV|세트4: 뭐 좋아해요?
+20#QR|뭐 좋아해요?
+21#WV|…커피요.
+22#SK|저도 커피 좋아해요!
+23#NX|…그래요.
+24#TJ|"그래요." Again. Then a second coffee appeared at your desk.
+25#XB|세트5: 주말 계획
+26#JY|주말에 뭐 해요?
+27#BH|…집에 있어요.
+28#YZ|저도 집에 있어요!
+29#HP|…네.
+30#ZQ|"네." Was that agreement — or invitation? With him, you never know.
+31#MR|세트6: 카톡 교환
+32#PV|카톡 있어요?
+33#QW|…네. 있어요.
+34#VS|제 카톡 ___예요!
+35#RN|…네. 좋아요.
+36#WK|No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe.

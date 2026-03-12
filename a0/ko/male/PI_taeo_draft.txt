@@ -1,125 +1,36 @@
-1#ZP|# 🌙 PERSONAL INTEREST (반말) >> Korean Life
-2#MQ|
-3#VR|# PI-1: 어, 사람이다
-4#WS|
-5#NK|- 대분류: Personal Interest
-6#TX|- 중분류: First Meeting
-7#JB|- 난이도: A0 (Absolute Beginner)
-8#YH|- 15턴 (6세트, 3sim)
-9#PM|
-10#QV|Someone appeared out of nowhere.
-11#RW|He's staring at you. And smiling. ...Weird.
-12#SN|
-13#KT|---
-14#XJ|
-15#BY|### sim1: 엉뚱한 첫 만남
-16#HZ|
-17#MP|**Goal:** To meet someone new and exchange names — but nothing goes as expected.
-18#QR|
-19#VW|**📍 장소:** 밖 (연남동 골목)
-20#SK|
-21#NX|**intro_text:**
-22#TJ|Someone appeared out of nowhere.
-23#BH|He's staring at you. And smiling. ...Weird.
-24#YP|
-25#ZM|**기 — 첫 만남 [세트 1]**
-26#PK|AI: 어, 사람이다.
-27#QW|User: 응? / 안녕!
-28#RV|AI: 안녕. 나 태오야.
-29#SX|AI: 이름이 뭐야?
-30#NT|User: 나는 ___야! / ___이야!
-31#KB|AI: 오. 좋은 이름이다.
-32#TY|
-33#JH|**Outro:**
-34#WZ|> Wait — did he just say "Oh, a human"? 👁️
-35#VM|> Who starts a conversation like that?
-36#XQ|>
-37#BR|
-38#HP|**승 — 하늘 [세트 2]**
-39#YN|AI: 오늘 하늘 봤어?
-40#ZK|User: 하늘? / 응, 봤어!
-41#PT|AI: 오늘 하늘 맛있다.
-42#MJ|AI: 어디서 왔어?
-43#QS|User: ___에서 왔어!
-44#RB|AI: 좋은 데다.
-45#WH|AI: 나는 여기 살아. 연남동.
-46#NV|
-47#KX|**Outro:**
-48#TZ|> The sky is... delicious? 🤔
-49#JP|> This guy is strange. But somehow you want to hear more.
-50#SM|>
-51#BW|
-52#YK|---
-53#ZR|
-54#HQ|### sim2: 예상 밖 공통점
-55#PN|
-56#MX|**Goal:** To talk about food and hobbies — Taeo style, where bread becomes a metaphor for you.
-57#QJ|
-58#VT|**📍 장소:** 밖 (동일)
-59#WB|
-60#RH|**승 — 빵 [세트 3]**
-61#SZ|AI: 빵 좋아해?
-62#NP|User: 응! / 아니!
-63#KW|AI: 나는 빵이 좋아.
-64#TM|AI: 빵은 따뜻하잖아.
-65#XV|User: 맞아! / 그래?
-66#JQ|AI: 너도 따뜻해 보여.
-67#BK|AI: 뭐 좋아해?
-68#YS|User: 음악! / 운동!
-69#ZH|
-70#HN|**Outro:**
-71#PR|> He compared you to bread. Warm bread. 🍞
-72#MT|> Is that a compliment? It definitely is.
-73#QX|>
-74#VJ|
-75#WK|**전 — 같이 먹자 [세트 4]**
-76#RZ|AI: 배고파.
-77#SQ|User: 나도! / 그래?
-78#NP|AI: 뭐 먹고 싶어?
-79#KB|User: 빵! / 밥!
-80#TX|AI: 나도. 같이 먹자.
-81#JV|AI: 여기 빵집 알아?
-82#BM|AI: 언제?
-83#YW|User: 주말에! / 내일!
-84#ZS|
-85#HT|**Outro:**
-86#PQ|> From bread philosophy to lunch plans in 30 seconds. 🥐
-87#MK|> With Taeo, nothing goes where you expect.
-88#QH|>
-89#VN|
-90#WJ|---
-91#RX|
-92#SP|### sim3: 연락처 교환
-93#NB|
-94#KZ|**Goal:** To exchange KakaoTalk IDs — because of course, Taeo asks out of nowhere.
-95#TV|
-96#JQ|**📍 장소:** 밖 (동일)
-97#BW|
-98#YM|**전 — 카톡 [세트 5]**
-99#ZX|AI: 아, 맞다.
-100#HK|User: 뭐? / 왜?
-101#PV|AI: 카톡 있어?
-102#MN|AI: 카톡 해도 돼?
-103#QT|User: 응! / 좋아!
-104#VH|AI: 아이디 뭐야?
-105#WZ|User: ___이야!
-106#RJ|
-107#SB|**Outro:**
-108#NQ|> KakaoTalk: secured. 📱
-109#KW|> Fair warning — his profile pic changes every 12 hours.
-110#XR|>
-111#JP|
-112#BN|**결 — 마무리 [세트 6]**
-113#YV|AI: 고마워.
-114#ZQ|AI: 연락할게.
-115#HM|User: 응! / 좋아!
-116#PW|AI: 근데...
-117#MS|User: 응? / 뭐?
-118#QK|AI: 다음에 빵 먹자.
-119#VZ|AI: 연남동 와. 좋은 데 알아.
-120#WT|AI: 또 봐!
-121#RN|
-122#SJ|**Outro:**
-123#NX|> He's bringing bread. Of course he is. 🍞
-124#KH|> You have no idea what he'll say next. And that's exactly why you'll check your phone.
-125#TQ|>
+1#ZP|세트1: 첫 만남
+2#MQ|어, 사람이다.
+3#VR|응? 안녕!
+4#WS|나 태오. 너 따뜻해.
+5#NK|따뜻해? 나는 ___야!
+6#TX|"Oh, a human." — not the usual opener. But with Taeo, weird just works.
+7#JB|세트2: 하늘
+8#YH|오늘 하늘 맛있다.
+9#QM|하늘이 맛있어?
+10#PZ|응. 파란 맛이야.
+11#RW|파란 맛! 좋아!
+12#SK|Blue-flavored sky. Only Taeo tastes the colors.
+13#NT|세트3: 빵
+14#XJ|빵 좋아해?
+15#BY|응, 좋아해!
+16#HZ|빵은 구름이야.
+17#MP|빵이 구름? 귀여워!
+18#QV|Bread is a cloud. Welcome to Taeo's universe.
+19#KT|세트4: 같이 먹자
+20#SN|빵 같이 먹어.
+21#BJ|좋아! 어디?
+22#WR|연남동. 빵집 있어.
+23#PM|연남동 좋아!
+24#ZQ|A bread date in Yeonnam-dong. This escalated adorably.
+25#NX|세트5: 주말
+26#TH|주말에 뭐 해?
+27#YM|집에 있어! 너는?
+28#KS|구름 봐. 같이 봐.
+29#JV|좋아! 같이!
+30#XB|Weekend plans: cloud watching together. Peak Taeo.
+31#HP|세트6: 카톡
+32#RM|카톡 있어?
+33#SQ|응, 있어!
+34#NW|번호 줘. 빵 보내.
+35#TK|좋아! ___!
+36#JZ|He wants your number to send bread pics. Naturally.

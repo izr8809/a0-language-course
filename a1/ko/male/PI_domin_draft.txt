@@ -1,0 +1,36 @@
+1#KZ|세트1: 첫 인사, 이름 교환
+2#NP|안녕! 나는 도민이야. 이름이 뭐야?
+3#WM|나는 ___야! 반가워!
+4#JQ|반가워! 여기 자주 와? 나는 처음인데!
+5#VR|나도 처음이야!
+6#SX|He stepped closer with that warm smile. Something about him puts you at ease.
+7#BT|세트2: 어디서 왔어?
+8#HN|어디서 왔어? 나는 서울에서 살아!
+9#ZK|나는 ___에서 왔어!
+10#PW|오 진짜? 거기 진짜 좋잖아! 가 보고 싶다!
+11#MJ|응! 서울도 진짜 좋아 보여!
+12#QR|He nodded like he really wanted to know more. Not just polite—he means it.
+13#TX|세트3: 뭐 좋아해?
+14#YB|뭐 좋아해? 나는 카페랑 영화 좋아해!
+15#NK|나는 ___이랑 ___ 좋아해!
+16#WZ|오 진짜? 나도 좋아하는데! 같이 가 보고 싶다!
+17#JP|좋아! 같이 가자!
+18#RH|His face lit up. You just became his favorite person to hang out with.
+19#VM|세트4: 밥, 음식
+20#SB|배고프지 않아? 나는 좀 배고픈데!
+21#KX|나도 배고파!
+22#ZN|뭐 먹고 싶어? 나는 떡볶이 먹고 싶은데!
+23#PH|나는 ___ 먹고 싶어!
+24#QW|He's already pulling you toward the nearest food spot. Classic Domin—food first, always.
+25#JT|세트5: 주말
+26#BY|이번 주말에 뭐 하고 싶어?
+27#MR|___ 하고 싶어!
+28#XK|좋다! 나도 같이 가면 안 돼?
+29#NZ|응! 같이 가자!
+30#WP|He's already planning the weekend around you. This guy doesn't waste time.
+31#SH|세트6: 카톡 교환
+32#VJ|우리 카톡 있잖아! 번호 알려줄래?
+33#BN|응! 여기 내 번호야!
+34#KQ|고마워! 나중에 꼭 연락할게!
+35#TP|응! 기다릴게!
+36#ZR|He saved your number right away. Something tells you he'll text first.

@@ -1,0 +1,36 @@
+1#ZK|세트1: 첫 인사, 이름 교환
+2#PT|안녕하세요! 저 한결이에요! 처음 보는 얼굴인데 반가워요!
+3#MX|안녕하세요! 저는 ___이에요. 만나서 반가워요!
+4#QJ|오 이름 진짜 예쁘다! 몇 살이에요?
+5#VB|___살이에요! 한결 씨는 몇 살이에요?
+6#RY|He said your name like he was tasting candy — and decided it was his new favorite flavor.
+7#WH|세트2: 어디서 왔어요?
+8#SZ|어디에서 왔어요? 저는 서울에서 살아요!
+9#NP|저는 ___에서 왔어요. 여기 처음이에요!
+10#KM|진짜요? 거기 꼭 가 보고 싶어요!
+11#TV|한국은 처음인데 진짜 좋아요!
+12#XQ|His eyes went supernova — you could see the travel plans forming in his head.
+13#JW|세트3: 뭐 좋아해요?
+14#BS|요즘 뭐 좋아해요? 저는 음악 좋아해요!
+15#YN|저도 ___ 좋아해요! 언제부터 좋아했어요?
+16#HK|와 우리 진짜 잘 맞는데! 반말 할래요?
+17#ZT|좋아요! 우리 이제 반말 하자!
+18#PX|He asked to go casual like a puppy rolling over for belly rubs — how could you say no?
+19#MJ|세트4: 밥, 음식
+20#QB|배고프지 않아? 밥 먹으러 가자!
+21#VY|좋아! 나도 배고파! 뭐 먹고 싶어?
+22#RH|나 떡볶이 먹고 싶어! 매운 거 좋아해?
+23#WZ|응! 나는 ___ 제일 좋아해!
+24#SP|Food talk unlocked a whole new energy level. You didn't think that was possible.
+25#NM|세트5: 주말 계획
+26#KV|이번 주말에 뭐 하고 싶어?
+27#TQ|___ 하고 싶어! 같이 갈래?
+28#XW|진짜? 나도 같이 가고 싶었어!
+29#JS|당연하지! 같이 가자! 재밌겠다!
+30#BN|Weekend invite accepted in 0.2 seconds. New personal record.
+31#YK|세트6: 카톡 교환
+32#HT|카톡 번호 알려 줘! 연락하고 싶어!
+33#ZX|응! 여기 내 번호! 저장해!
+34#PJ|바로 저장했어! 내일 꼭 연락할게!
+35#MB|알겠어! 나도 연락 기다릴게!
+36#QY|He saved your number like it was a limited-edition Pokémon card. You've been collected.

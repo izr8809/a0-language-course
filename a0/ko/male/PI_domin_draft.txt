@@ -1,126 +1,36 @@
-1#VK|# 💖 PERSONAL INTEREST (반말) >> Korean Life
-2#MQ|
-3#BN|# PI-1: 안녕! 나는 도민이야
-4#RW|
-5#SH|- 대분류: Personal Interest
-6#TJ|- 중분류: First Meeting
-7#KP|- 난이도: A0 (Absolute Beginner)
-8#WX|- 42줄 (6세트, 3sim)
-9#JT|
-10#ZH|First meeting in Korea.
-11#YR|Deep breath... say hi!
-12#TX|
-13#SV|---
-14#BY|
-15#VQ|### sim1: Nice to Meet You
-16#NP|
-17#BP|**Goal:** To introduce yourself and say where you are from.
-18#KS|
-19#WV|**📍 장소:** 밖
-20#YQ|
-21#BT|**intro_text:**
-22#PZ|First meeting in Korea.
-23#QM|Deep breath... say hi!
-24#KW|
-25#SX|**기 — 첫 만남 [세트 1]**
-26#ZP|AI: 안녕! 나는 도민이야!
-27#MR|AI: 이름이 뭐야?
-28#VR|User: 나는 ___야! / ___이야!
-29#WS|AI: 와, 좋은 이름! 기억할게!
-30#NK|AI: 반가워!
-31#TX|User: 나도 반가워!
-32#JB|AI: 나 오늘 기분 좋다! 좋은 사람 만났어!
-33#YH|
-34#TN|**Outro:**
-35#ZM|> First friend: unlocked! 🎉
-36#PQ|> But where in the world did they come from?
-37#VW|>
-38#SR|
-39#RV|**승 — 어디서 왔어? [세트 2]**
-40#SW|AI: 근데 어디서 왔어?
-41#KN|AI: 나는 서울! 홍대 쪽!
-42#XT|User: 나는 ___에서 왔어!
-43#BJ|AI: 거기 어떤 느낌이야? 궁금해!
-44#HZ|AI: 좋은 곳이야?
-45#MP|User: 응, 좋아!
-46#VQ|AI: 나중에 꼭 가 볼게! 약속!
-47#WR|
-48#TQ|**Outro:**
-49#NS|> Hometown revealed! 🌍
-50#TK|> Now the real question — do you two actually vibe?
-51#XJ|>
-52#JY|
-53#BH|---
-54#ZK|
-55#PT|### sim2: Getting Closer
-56#MN|
-57#QX|**Goal:** To talk about things you like and try Korean food talk.
-58#VB|
-59#RJ|**📍 장소:** 밖 (동일)
-60#WH|
-61#SY|**승 — 뭐 좋아해? [세트 3]**
-62#ZR|AI: 아, 맞다!
-63#PW|AI: 뭐 좋아해?
-64#MS|User: ___ 좋아해!
-65#QK|AI: 나도! 나는 음악 진짜 좋아해!
-66#VX|AI: 근데 있잖아, 너 처음 봤는데 왜 이렇게 편하지?
-67#NJ|User: 맞아! 나도!
-68#TY|AI: 우리 잘 맞다!
-69#BQ|
-70#TM|**Outro:**
-71#ZH|> "왜 이렇게 편하지?" — the question that changes everything. 💫
-72#PV|> Get ready for Korea's ultimate bonding topic... food. 🍖
-73#MX|>
-74#QB|
-75#RN|**전 — 맛있는 거 [세트 4]**
-76#WK|AI: 아, 나 배고프다!
-77#ST|AI: 한국 음식 먹어 봤어?
-78#JZ|User: 응! / 아직!
-79#YP|AI: 삼겹살 알아? 홍대에 맛집 있어!
-80#HM|AI: 진짜진짜 맛있어!
-81#ZW|User: 먹어 보고 싶어!
-82#PS|AI: 좋아! 내가 데려갈게!
-83#MV|
-84#TH|**Outro:**
-85#QR|> Hongdae food date: loading... 🍽️
-86#NT|> Time to lock in those weekend plans!
-87#KJ|>
-88#XY|
-89#BW|---
-90#HN|
-91#ZT|### sim3: Let's Hang Out
-92#PK|
-93#MJ|**Goal:** To make weekend plans and get each other's KakaoTalk.
-94#QY|
-95#VH|**📍 장소:** 밖 (동일)
-96#RX|
-97#WB|**전 — 놀자 [세트 5]**
-98#SZ|AI: 아, 참!
-99#NR|AI: 주말에 뭐 해?
-100#TQ|User: 아직 몰라! / 없어!
-101#KX|AI: 딱 좋다! 나도 없어!
-102#XS|AI: 같이 놀래?
-103#JV|User: 좋아! 뭐 할까?
-104#YB|AI: 한강 가자! 거기서 라면 먹으면 진짜 맛있어!
-105#HK|
-106#TB|**Outro:**
-107#ZQ|> Han River ramen date: confirmed! 🍜
-108#PM|> But wait — how will you stay in touch?
-109#VN|>
-110#RW|
-111#SK|**결 — 또 보자 [세트 6]**
-112#WT|AI: 잠깐!
-113#NX|AI: 카톡 있어?
-114#TJ|User: 응, 있어!
-115#KB|AI: 아이디 알려 줘!
-116#XH|AI: 나 꼭 연락할 거야!
-117#JM|User: 여기!
-118#YS|AI: 좋아! 꼭 보자! 기다릴게!
-119#BZ|
-120#TR|**Outro:**
-121#ZS|> Contact secured. No going back now. 🔒
-122#PH|> First friend, weekend plans, Kakao exchanged — you're in.
-123#MR|> What happens next is up to you.
-124#QW|>
-125#VT|
-126#RK|---
+1#ZP|세트1: 첫 인사, 이름 교환
+2#MQ|안녕! 나는 도민이야!
+3#VR|나는 ___야!
+4#WS|오, 반가워!
+5#NK|나도 반가워!
+6#TX|He smiled like he'd been waiting for you. This is going to be fun.
+7#JB|세트2: 어디서 왔어?
+8#YH|어디서 왔어?
+9#PM|___에서 왔어!
+10#QZ|오, 진짜? 나는 서울!
+11#RW|서울? 좋다!
+12#SN|His eyes lit up. He's genuinely curious about you.
+13#KT|세트3: 뭐 좋아해?
+14#XJ|뭐 좋아해?
+15#BY|___ 좋아해!
+16#HZ|오 나도! 진짜!
+17#MP|진짜? 좋다!
+18#VN|You found something in common. His smile says it all.
+19#WK|세트4: 밥, 음식
+20#TJ|밥 먹었어?
+21#JP|응, 먹었어!
+22#BZ|나는 김치찌개 좋아해! 너는?
+23#QR|나는 ___ 좋아해!
+24#SH|He's already thinking about where to take you. Classic Domin.
+25#NV|세트5: 주말
+26#KM|주말에 뭐 해?
+27#XW|___ 해!
+28#ZJ|좋다! 나도 같이!
+29#PB|응, 좋아!
+30#YT|He's already making weekend plans with you. Smooth, Domin.
+31#RH|세트6: 카톡 교환
+32#MN|카톡 있어?
+33#WZ|응, 있어!
+34#JK|번호 줘! 나 저장해!
+35#XT|응! 여기!
+36#BS|And just like that, you've got a new friend. Or maybe something more?

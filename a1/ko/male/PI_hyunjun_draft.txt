@@ -1,0 +1,36 @@
+1#KN|세트1: 첫 인사, 이름 교환
+2#TX|안녕하세요! 저는 ___인데요, 만나서 반가워요!
+3#JB|…현준이에요. 반가워요.
+4#QM|여기 처음 왔는데요, 자주 와요?
+5#VP|…가끔요. 조용해서 좋아요.
+6#WZ|He spoke in fragments. But each one landed — quiet, precise, chosen.
+7#SH|세트2: 한국 어때요?
+8#RY|한국에 처음 왔는데요, 너무 좋아요!
+9#NX|…그래요. 어디 가 봤어요?
+10#MK|아직 많이 못 가 봤어요. 추천해 주세요!
+11#BJ|…서초 가 보세요. 조용해요.
+12#ZV|He recommended his own neighborhood. In Hyunjun language, that was an open door.
+13#WT|세트3: 밥 먹었어요?
+14#PH|혹시 밥 먹었어요? 같이 먹을까요?
+15#QS|…아직 안 먹었는데요.
+16#XR|뭐 먹고 싶어요? 저는 아무거나 좋아요!
+17#YM|…아무거나요. 뭐 먹고 싶어요?
+18#KZ|He turned the question back. Hyunjun's care always hides in questions returned.
+19#NB|세트4: 뭐 좋아해요?
+20#VJ|뭐 좋아해요? 취미 같은 거 있어요?
+21#TW|…책 읽는 거요.
+22#HQ|저도 책 좋아하는데요! 무슨 책이요?
+23#SP|…추천해 줄까요?
+24#MX|He offered to share his world — one quiet book at a time.
+25#ZK|세트5: 주말 계획
+26#RH|주말이잖아요, 뭐 하고 싶어요?
+27#JN|…딱히 없는데요.
+28#BT|심심하면 같이 어디 나갈까요?
+29#WQ|…생각해 볼게요.
+30#YV|"생각해 볼게요." From anyone else, a polite no. From Hyunjun — that was a yes.
+31#XM|세트6: 카톡 교환
+32#PK|혹시 카톡 있어요? 아이디 알려 줄까요?
+33#NZ|…네. 좋아요.
+34#HW|제 카톡 ___인데요, 연락해요!
+35#SJ|…먼저 보낼게요.
+36#QB|"먼저 보낼게요." He doesn't say much. But he always shows up first.

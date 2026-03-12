@@ -1,119 +1,36 @@
-1#KV|# 💚 PERSONAL INTEREST (존댓말→반말) >> Korean Life
-2#MX|
-3#TP|# PI-1: 누나! 안녕하세요~
-4#WB|
-5#SJ|- 대분류: Personal Interest
-6#RN|- 중분류: First Meeting
-7#QH|- 난이도: A0 (Absolute Beginner)
-8#ZK|- 12턴 (6세트, 3sim)
-9#YM|
-10#BV|A younger guy just waved at you. Big smile, big energy.
-11#XT|He looks like a golden retriever in human form.
-12#PW|
-13#JR|---
-14#NS|
-15#HQ|### sim1: 반가워요!
-16#VZ|
-17#KT|**Goal:** To greet each other, exchange names, and share ages.
-18#MW|
-19#XR|**📍 장소:** 건대 앞
-20#PJ|
-21#SV|**intro_text:**
-22#BH|A younger guy just waved at you. Big smile, big energy.
-23#TN|He looks like a golden retriever in human form.
-24#WK|
-25#ZR|**기 — 첫 인사 [세트 1]**
-26#QM|AI: 안녕하세요! 저는 한결이에요! 헤헤
-27#YP|AI: 이름이 뭐예요?
-28#HB|User: 나는 ___야! / ___이야!
-29#VX|AI: 오! 반가워요!
-30#NJ|AI: 저는 스물두 살이에요! 누나/형은요?
-31#KS|User: 나는 ___살이야!
-32#RT|AI: 진짜요? 대박이다! 헤헤
-33#WM|
-34#PZ|**Outro:**
-35#XV|> He already said your name three times. 🐶
-36#JK|> This boy has golden retriever energy and zero chill.
-37#BN|>
-38#TH|
-39#SQ|**승 — 어디서 왔어요? [세트 2]**
-40#MR|AI: 어디서 오셨어요?
-41#ZW|User: ___에서 왔어!
-42#YN|AI: 진짜요? 멋있다!
-43#HV|AI: 한국 좋아해요?
-44#QX|User: 응, 좋아해! / 진짜 좋아해!
-45#KB|AI: 저도요! 저 한국 진짜 좋아요! 헤헤
-46#RP|
-47#WJ|**Outro:**
-48#NT|> He said "저도요!" like you just became best friends. 🥹
-49#VS|> Next: finding out if you actually have anything in common.
-50#XH|>
-51#PM|
-52#ZQ|---
-53#TK|
-54#YR|### sim2: 우리 통하네요!
-55#BW|
-56#JV|**Goal:** To discover shared hobbies — and hear him ask THE question.
-57#SN|
-58#HX|**📍 장소:** 건대먹자골목
-59#MZ|
-60#QK|**승 — 뭐 좋아해요? [세트 3]**
-61#KR|AI: 누나/형! 뭐 좋아해요?
-62#VP|User: 음악! / 드라마!
-63#WT|AI: 오, 저도요! 진짜요?
-64#XN|AI: 저는 음악 진짜 좋아해요!
-65#RB|User: 나도! / 진짜?
-66#ZJ|AI: 우리 잘 맞아요! 헤헤
-67#TM|AI: 누나/형... 나 반말해도 돼?
-68#PH|
-69#NQ|**Outro:**
-70#YW|> He just asked to drop the formalities. 😳
-71#SK|> In Korean culture, this is HUGE. Say yes.
-72#BX|>
-73#JM|
-74#HZ|---
-75#QV|
-76#MJ|### sim3: 또 만나자!
-77#WR|
-78#KN|**Goal:** To eat together, make weekend plans, and exchange KakaoTalk IDs — all in 반말.
-79#TX|
-80#ZS|**📍 장소:** 건대먹자골목
-81#PB|
-82#YV|**전 — 뭐 먹을래? [세트 4]**
-83#RQ|AI: 누나, 배 안 고파? / 형, 배 안 고파?
-84#VK|User: 응, 고파! / 좀!
-85#XJ|AI: 떡볶이 좋아해?
-86#NW|User: 좋아해! / 안 먹어 봤어!
-87#HT|AI: 진짜? 여기 떡볶이 맛있어!
-88#SZ|AI: 같이 먹자! 내가 사 줄게! 헤헤
-89#JQ|
-90#BM|**Outro:**
-91#WN|> Full 반말 unlocked. He's buying you food. 🍜
-92#KX|> You two are officially close now.
-93#TV|>
-94#QR|
-95#MP|**전 — 주말에 뭐 해? [세트 5]**
-96#RH|AI: 누나, 주말에 뭐 해? / 형, 주말에 뭐 해?
-97#VB|User: 아직 몰라! / 약속 없어!
-98#XW|AI: 진짜? 그럼 나랑 놀자!
-99#NZ|User: 좋아! 뭐 할까?
-100#JT|AI: 성수동 가자! ...아, 갈래요? 아니 갈래! 헤헤
-101#HK|AI: 거기 진짜 좋아!
-102#SB|
-103#WV|**Outro:**
-104#TQ|> Weekend plans? Locked in. 📅
-105#ZN|> Catch that? He slipped back to 존댓말 for a second. Old habits. 🐶
-106#PX|>
-107#YK|
-108#BJ|**결 — 카톡 해! [세트 6]**
-109#KW|AI: 누나, 카톡 해? / 형, 카톡 해?
-110#MH|User: 응, 해!
-111#RV|AI: 아이디 뭐야? 알려 줘!
-112#ZT|User: 여기!
-113#QJ|AI: 좋아! 이모티콘 보낼게! 헤헤
-114#XS|AI: 누나/형, 또 보자! 기다릴게!
-115#NK|
-116#HN|**Outro:**
-117#WS|> Contact secured. Emoticon bomb incoming. 💣💚
-118#TJ|> You just gained a younger friend who texts back in 0.2 seconds.
-119#BY|>
+1#ZP|세트1: 첫 인사, 이름 교환
+2#MQ|안녕하세요! 저 한결이에요!
+3#VR|안녕하세요! ___이에요!
+4#WS|이름 진짜 예뻐요!
+5#NK|고마워요!
+6#TX|He bounced over like a golden retriever who just spotted his favorite person.
+7#JB|세트2: 어디서 왔어요?
+8#YH|어디서 왔어요?
+9#ZM|___에서 왔어요.
+10#PV|오! 진짜요? 좋아요!
+11#QW|한결 씨는요?
+12#RN|His eyes went wide — like you'd just told him the most interesting thing in the world.
+13#KX|세트3: 뭐 좋아해요?
+14#TJ|뭐 좋아해요?
+15#BY|___ 좋아해요.
+16#HZ|대박! 반말 해요!
+17#PM|응, 좋아!
+18#QR|He asked to drop formalities like a puppy nudging your hand for another pet.
+19#VW|세트4: 밥, 음식
+20#SN|밥 먹었어?
+21#KT|응, 먹었어!
+22#XB|뭐 먹었어?
+23#JY|___ 먹었어!
+24#HM|He leaned in like your lunch story was the season finale of his favorite drama.
+25#ZQ|세트5: 주말 계획
+26#PW|주말에 뭐 해?
+27#VS|___ 해!
+28#RK|대박! 나도 가!
+29#NT|같이 가자!
+30#XZ|Weekend plans? He was already mentally packing his bag.
+31#JP|세트6: 카톡 교환
+32#BM|카톡 해! 번호 줘!
+33#YV|응! 여기!
+34#HW|바로 연락해!
+35#QS|응! 빨리!
+36#KR|He saved your number faster than you could blink. You've been claimed.

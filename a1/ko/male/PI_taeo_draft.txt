@@ -1,0 +1,36 @@
+1#BH|세트1: 첫 만남
+2#KX|어, 사람이다. 근데 좀 반짝거리는데?
+3#NP|반짝거려? 안녕, 나는 ___야!
+4#TM|나 태오야. 진짜 반짝거려. 신기하다.
+5#JS|고마워! 태오 재밌다!
+6#WQ|"Oh, a sparkly human." — Taeo notices things nobody else does.
+7#RZ|세트2: 하늘
+8#PV|오늘 하늘 맛있지 않아? 노란맛 나는데.
+9#HN|하늘이 노란맛이야? 왜?
+10#QT|몰라. 그냥 달콤한 느낌이잖아.
+11#XK|태오는 진짜 신기하다!
+12#SM|Yellow-flavored sky. Taeo's synesthesia is oddly convincing.
+13#VJ|세트3: 빵
+14#BW|갑자기 빵 생각나는데. 빵 좋아해?
+15#NR|응, 빵 좋아해! 뭐 좋아해?
+16#ZH|크루아상이 제일 좋아. 구름이랑 닮았잖아.
+17#KP|구름이랑? 진짜 그렇다!
+18#XM|Croissants look like clouds. Once you see it, you can't unsee it.
+19#MJ|세트4: 같이 먹자
+20#JN|나 연남동에 빵집 아는데, 같이 갈래?
+21#WB|좋아! 연남동 가고 싶다!
+22#SV|거기 빵이 구름맛이야. 진짜로.
+23#HK|구름맛 빵? 먹어 보고 싶다!
+24#PX|A cloud-flavored bakery in Yeonnam-dong. Only Taeo knows places like this.
+25#RV|세트5: 주말
+26#QB|주말에 뭐 하고 싶어?
+27#TJ|아직 모르겠는데, 태오는?
+28#NB|나는 옥상에서 구름 보고 싶다. 같이 볼래?
+29#ZW|구름 보기! 좋아, 같이 가자!
+30#KH|Rooftop cloud watching — Taeo's idea of a perfect weekend.
+31#XP|세트6: 카톡
+32#MS|카톡 있으면 빵 사진 보내줄게.
+33#VQ|좋아! 빵 사진 보고 싶다!
+34#JR|번호 알려 줘. 구름 사진도 보낼게.
+35#BT|여기! ___! 기다릴게!
+36#WN|Bread pics and cloud pics. The most wholesome notification list ever.
