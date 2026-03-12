@@ -1,36 +1,411 @@
-1#TM|세트1: 카페 추천
-2#SK|카페 좋은 데 알아?
-3#PP|응! 내가 자주 가는 데 있어! 같이 가자!
-4#RV|거기 분위기 어때?
-5#VH|완전 좋아! 조용하고 커피도 맛있어!
-6#TP|He had already mapped the route. He was excited to show her.
-7#JK|세트2: 식당 선택
-8#XM|오늘 점심 뭐 먹을지 모르겠어.
-9#YZ|삼겹살 어때? 내가 아는 맛집 있어!
-10#HX|거기 맛있어? 같이 가자!
-11#RM|응! 완전 맛있어! 꼭 가봐야 해!
-12#KN|He was already walking toward the restaurant.
-13#NK|세트3: 한강 나들이
-14#MV|주말에 한강 갈래?
-15#ZV|네, 좋아요! 치킨도 사요!
-16#WN|응! 치킨이랑 맥주!
-17#HY|완전 좋아요! 빨리 가요!
-18#XB|He had already picked the best spot by the river.
-19#RS|세트4: 길 안내
-20#NQ|여기 어떻게 가는지 알아?
-21#XW|응! 내가 데려다 줄게! 따라와!
-22#RR|고마워요, 잘 알고 있네요.
-23#QH|헤헤, 이 동네 자주 와서!
-24#BV|He had memorized every shortcut. He loves this neighborhood.
-25#WT|세트5: 카페 자리
-26#HZ|자리 어디 앉을까?
-27#XJ|창가 어때? 뷰가 좋잖아!
-28#WJ|완전 좋아요!
-29#MY|헤헤, 좋지?
-30#WV|He always picks the best seat. He scouts ahead.
-31#TJ|세트6: 귀가
-32#SM|오늘 진짜 재미있었어! 고마워!
-33#PH|나도 완전 재미있었어! 또 가자!
-34#QX|네, 또 가요!
-35#MZ|헤헤, 기대돼!
-36#TX|He texted her when he got home. Just to say he had fun.
+# ✈️ TRAVELING (존댓말) >> Korean Travel
+
+# TR-5: 호텔 체크인 할게요
+
+- 대분류: Traveling
+- 중분류: Hotel
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Check In
+
+**Goal:** To check into your hotel, confirm your booking details, and get your room key.
+
+**📍 장소:** 호텔 프론트 데스크
+
+**intro_text:**
+Finally at the hotel. Time to check in.
+
+**기 — 도착 [세트 1]**
+User: 안녕하세요, 체크인 하고 싶어요.
+AI: 안녕하세요! 예약하셨어요?
+User: 네, ___이에요.
+AI: 네, 확인했어요! 여권 보여 주세요.
+
+**Outro:**
+> Passport checked! 🛂 Let's see if they got your booking right.
+> One more step before you get that room key.
+>
+
+**승 — 방 확인 [세트 2]**
+AI: 2박 맞으세요?
+User: 네, 맞아요. / 아니요, 3박이요.
+AI: 방은 5층이에요. 여기 카드 키요!
+User: 감사합니다!
+
+**Outro:**
+> Room key secured! 🔑 Now, onto the most important question: the WiFi.
+> A hotel room without WiFi is just a very expensive nap.
+>
+
+---
+
+### sim2: Asking Questions
+
+**Goal:** To ask the front desk about WiFi, breakfast hours, and request extra towels for your room.
+
+**📍 장소:** 호텔 프론트 데스크 (동일)
+
+**승 — 질문 [세트 3]**
+User: 와이파이 비밀번호 뭐예요?
+AI: 여기 적혀 있어요!
+User: 감사합니다! 아침 식사 몇 시예요?
+AI: 7시부터 9시까지에요! 1층 식당이에요!
+
+**Outro:**
+> Breakfast schedule locked in! 🍳 But wait, do you need anything extra for the room?
+> Never leave the front desk without asking for towels.
+>
+
+**전 — 추가 요청 [세트 4]**
+User: 수건 더 받을 수 있어요?
+AI: 네, 방으로 보내 드릴게요!
+User: 감사합니다!
+AI: 더 필요하신 거 있으세요?
+
+**Outro:**
+> Extra towels on the way! 🛁 Time to hunt for some late-night snacks.
+> A convenience store run is basically a Korean travel ritual.
+>
+
+---
+
+### sim3: Getting Settled
+
+**Goal:** To find out where the nearest convenience store is and wrap up your check-in smoothly.
+
+**📍 장소:** 호텔 로비
+
+**전 — 짐 정리 [세트 5]**
+User: 근처에 편의점 있어요?
+AI: 나가시면 바로 오른쪽에 있어요!
+User: 감사합니다!
+AI: 천천히 쉬세요!
+
+**Outro:**
+> Convenience store located! 🏪 You're officially ready to settle in.
+> Ramen, snacks, and a good night's sleep — the perfect combo.
+>
+
+**결 — 마무리 [세트 6]**
+AI: 뭐 필요하시면 전화주세요!
+User: 네, 알겠어요!
+AI: 편하게 쉬세요!
+User: 네!
+
+**Outro:**
+> Check-in complete! Rest up. 🛏️ Next up: Surviving the Seoul subway maze.
+> Tomorrow's adventure starts with a T-money card.
+>
+
+---
+
+# TR-6: 지하철 어떻게 타요?
+
+- 대분류: Traveling
+- 중분류: Subway
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: At the Station
+
+**Goal:** To buy a transit card, charge it, and find the right subway line to your destination.
+
+**📍 장소:** 지하철역 매표소/기계 앞
+
+**intro_text:**
+Seoul subway. 9 lines. Hundreds of stations. You've got this.
+
+**기 — 역에서 [세트 1]**
+User: 저기요, 교통카드 어디에서 사요?
+AI: 저기 기계에서 사실 수 있어요!
+User: 감사합니다! 충전도 거기에서 돼요?
+AI: 네, 돼요!
+
+**Outro:**
+> T-money card acquired! 💳 Now, which line do you need?
+> Seoul's subway map looks scary — but it's actually pretty logical.
+>
+
+**승 — 노선 [세트 2]**
+User: 홍대입구역 가고 싶어요. 몇 호선이에요?
+AI: 2호선 타세요! 저쪽이에요.
+User: 갈아타야 돼요?
+AI: 아니요, 바로 가요!
+
+**Outro:**
+> Line 2, no transfers! 🚇 That's the best news you've heard all day.
+> Now hop on and try not to miss your stop.
+>
+
+---
+
+### sim2: On the Train
+
+**Goal:** To ask a fellow passenger for help and figure out how to transfer to the right line.
+
+**📍 장소:** 지하철 안
+
+**승 — 지하철 안 [세트 3]**
+AI: 어디 가세요?
+User: 홍대요!
+AI: 그러면 세 정거장 더 가세요!
+User: 세 정거장이요? 감사합니다!
+
+**Outro:**
+> Three more stops! 🎯 A kind stranger just saved your day.
+> But wait — what if you need to transfer somewhere else?
+>
+
+**전 — 갈아타기 [세트 4]**
+User: 저기요, 시청역에서 어떻게 갈아타요?
+AI: 내리시면 바로 표지판 보여요! 6호선 따라가세요!
+User: 감사합니다!
+AI: 쉬워요! 걱정 마세요!
+
+**Outro:**
+> Transfer decoded! 🗺️ Follow the signs and you'll be fine.
+> Almost at your destination — just a few more stops.
+>
+
+---
+
+### sim3: Arriving
+
+**Goal:** To confirm you've arrived at the right station and find the correct exit.
+
+**📍 장소:** 지하철역 (도착역 플랫폼)
+
+**전 — 도착 [세트 5]**
+User: 여기가 홍대입구역이에요?
+AI: 네, 맞아요!
+User: 몇 번 출구로 나가야 돼요?
+AI: 9번 출구로 나가세요!
+
+**Outro:**
+> Exit 9! 🚪 You made it through the Seoul subway like a pro.
+> One last thank-you and you're free.
+>
+
+**결 — 나가기 [세트 6]**
+User: 감사합니다!
+AI: 천만에요!
+User: 도움 많이 됐어요!
+AI: 즐거운 하루 보내세요!
+
+**Outro:**
+> Seoul subway: conquered! 🏆 You're officially a local now.
+> Next challenge: shopping in Hongdae without spending your whole budget.
+>
+
+---
+
+# TR-7: 이거 입어 봐도 돼요?
+
+- 대분류: Traveling
+- 중분류: Shopping
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Looking Around
+
+**Goal:** To browse a clothing store, find something you like, and ask to try it on.
+
+**📍 장소:** 옷가게
+
+**intro_text:**
+Hongdae shopping street. So many cute clothes. Where do you even start?
+
+**기 — 구경 [세트 1]**
+AI: 안녕하세요! 뭐 찾으세요?
+User: 그냥 구경하고 있어요. / 티셔츠 보고 싶어요.
+AI: 이쪽에 새로 나온 거 있어요! 보실래요?
+User: 네, 볼게요!
+
+**Outro:**
+> New arrivals section — dangerous territory! 👀 Everything looks good.
+> You spotted something. Time to try it on.
+>
+
+**승 — 고르기 [세트 2]**
+User: 이거 예쁘다! 이거 입어 봐도 돼요?
+AI: 네, 저쪽에 피팅룸 있어요!
+User: 감사합니다!
+AI: 사이즈 맞으세요?
+
+**Outro:**
+> Fitting room secured! 🪞 The moment of truth is coming.
+> Will it fit? Will it look good? Only one way to find out.
+>
+
+---
+
+### sim2: Trying On
+
+**Goal:** To try on clothes, ask for a different size, and decide whether to buy.
+
+**📍 장소:** 옷가게 피팅룸 앞
+
+**승 — 입어보기 [세트 3]**
+AI: 어떠세요? 잘 맞으세요?
+User: 좀 작아요. 큰 거 있어요? / 잘 맞아요!
+AI: 한 사이즈 큰 거 가져다 드릴게요!
+User: 감사합니다!
+
+**Outro:**
+> One size up on the way! 📦 Korean sizing can be tricky.
+> Now comes the real question: how much does it cost?
+>
+
+**전 — 고민 [세트 4]**
+User: 이거 얼마예요?
+AI: 삼만 원이에요!
+User: 좀 깎아 주세요. / 네, 살게요!
+AI: 이만 오천 원에 드릴게요!
+
+**Outro:**
+> Discount secured! 💰 Bargaining in Korean — you're a natural.
+> Time to head to the register and seal the deal.
+>
+
+---
+
+### sim3: Buying
+
+**Goal:** To pay for your purchase and wrap up the shopping trip on a friendly note.
+
+**📍 장소:** 옷가게 계산대
+
+**전 — 결제 [세트 5]**
+User: 그러면 이거 살게요!
+AI: 카드 되세요?
+User: 네, 카드요.
+AI: 여기 영수증이요!
+
+**Outro:**
+> Purchase complete! 🛍️ New outfit, new confidence.
+> The staff loved you — they're already hoping you'll come back.
+>
+
+**결 — 마무리 [세트 6]**
+AI: 다른 거 더 보실래요?
+User: 괜찮아요, 감사합니다!
+AI: 또 오세요!
+User: 네!
+
+**Outro:**
+> Shopping mission accomplished! 🎉 Hongdae: 1, Budget: 0.
+> Next stop: finding the most famous food in the neighborhood.
+>
+
+---
+
+# TR-8: 여기 유명한 거 뭐예요?
+
+- 대분류: Traveling
+- 중분류: Exploring
+- 난이도: A1 (Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: Asking Locals
+
+**Goal:** To ask a local for food recommendations and find out about a famous café nearby.
+
+**📍 장소:** 동네 골목길
+
+**intro_text:**
+You're in a new neighborhood. No plan, no map. Just vibes and curiosity.
+
+**기 — 추천 [세트 1]**
+User: 저기요, 이 근처에 맛있는 데 있어요?
+AI: 네! 저쪽에 유명한 칼국수 집 있어요!
+User: 오, 가 보고 싶어요! 멀어요?
+AI: 아니요, 걸어서 5분이면 돼요!
+
+**Outro:**
+> Local tip unlocked! 🍜 Five minutes away — that's basically next door.
+> But wait, there's more to this neighborhood than just food.
+>
+
+**승 — 더 물어보기 [세트 2]**
+User: 여기 유명한 거 뭐예요?
+AI: 이 동네는 카페가 많아요! 한옥 카페 가 보셨어요?
+User: 아니요, 아직이요!
+AI: 꼭 가 보세요! 사진 찍기 좋아요!
+
+**Outro:**
+> Hanok café added to the list! 📸 This neighborhood just got a lot more interesting.
+> Time to step inside and see what the hype is about.
+>
+
+---
+
+### sim2: Visiting
+
+**Goal:** To visit the hanok café, admire the space, and order something famous from the menu.
+
+**📍 장소:** 한옥 카페 안
+
+**승 — 방문 [세트 3]**
+User: 여기가 그 한옥 카페예요?
+AI: 네, 맞아요! 안으로 들어오세요!
+User: 와, 진짜 예쁘다!
+AI: 감사합니다! 뭐 드실래요?
+
+**Outro:**
+> Traditional architecture meets modern café culture! 🏯 Stunning.
+> Now, what's the must-order item here?
+>
+
+**전 — 주문 [세트 4]**
+User: 여기 뭐가 맛있어요?
+AI: 팥빙수 유명해요!
+User: 팥빙수 하나 주세요!
+AI: 네, 잠깐만 기다려 주세요!
+
+**Outro:**
+> Patbingsu incoming! 🍧 The most iconic Korean summer dessert.
+> This is going to be worth every won.
+>
+
+---
+
+### sim3: Enjoying
+
+**Goal:** To enjoy your dessert, compliment the café, and promise to come back.
+
+**📍 장소:** 한옥 카페 안 (동일)
+
+**전 — 즐기기 [세트 5]**
+AI: 여기 팥빙수요!
+User: 감사합니다! 와, 대박이다!
+AI: 맛있으세요?
+User: 네, 진짜 맛있어요!
+
+**Outro:**
+> Patbingsu approved! 😍 This place is going straight into your travel diary.
+> Time to wrap up and say your goodbyes.
+>
+
+**결 — 마무리 [세트 6]**
+User: 여기 정말 좋아요! 또 올게요!
+AI: 감사합니다! 또 오세요!
+User: 네!
+AI: 즐거운 여행 되세요!
+
+**Outro:**
+> A perfect afternoon in a perfect café! ✨ Korea keeps delivering.
+> Next up: a K-drama moment you definitely didn't plan for.
+>
+
+---
+
+# 🎬 KDRAMA / MOVIE (반말) >> Korean Drama Life
