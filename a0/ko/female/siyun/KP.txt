@@ -267,8 +267,16 @@ AI: 시간이 됐어. 아쉽지?
 User: 더 해요.
 AI: 다음에 또 할게. 기다려.
 
+**Outro:**
+> She tells you to wait. Not a request — a quiet promise that she'll come back for you.
+>
+
 **결 — 마지막 인사 [세트 6]**
 User: 또 해요.
 AI: 알았어. 잔소리 그만해.
 User: 건강해야 해요.
 AI: 너도 건강해. 늦게 자지 마.
+
+**Outro:**
+> You told her to stay healthy. She told you not to stay up late. Always has to have the last word — and it's always about you.
+>

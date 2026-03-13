@@ -284,3 +284,7 @@ User: 오늘 수고했어요.
 AI: 고생했어. 집에 가.
 User: 다음엔 더 잘할게요.
 AI: 잘하고 있어. 걱정 마.
+
+**Outro:**
+> "잘하고 있어." She doesn't hand that out easily. You earned it — and she'll never say it again.
+>

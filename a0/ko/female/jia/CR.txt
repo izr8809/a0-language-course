@@ -35,6 +35,10 @@ AI: 저쪽 왼쪽 자리예요.
 User: 감사해요.
 AI: 필요하면 말하세요.
 
+**Outro:**
+> She turns on her heel and walks back to her desk without a word.
+>
+
 ---
 
 ### sim2: 업무 자료
@@ -63,6 +67,10 @@ AI: 말해 보세요. 들을게요.
 User: 이 부분이요.
 AI: 내일 설명할게요. 기다리세요.
 
+**Outro:**
+> She marks something in her planner and moves on.
+>
+
 ---
 
 ### sim3: 퇴근 인사
@@ -90,6 +98,10 @@ User: 오늘 잘 했어요?
 AI: 괜찮았어요. 잘했어요.
 User: 다행이에요.
 AI: 내일도 힘내세요. 응원해요.
+
+**Outro:**
+> She gathers her bag and coat, already planning tomorrow.
+>
 
 ---
 
@@ -128,6 +140,10 @@ AI: 여기 앉으세요.
 User: 네, 알겠어요.
 AI: 잘 들으세요. 중요해요.
 
+**Outro:**
+> She slides a printed agenda your way and clicks her pen open.
+>
+
 ---
 
 ### sim2: 회의 중
@@ -156,6 +172,10 @@ AI: 회의 끝나고 하세요.
 User: 알겠어요.
 AI: 메모해 두세요.
 
+**Outro:**
+> She glances at the clock and keeps the meeting moving.
+>
+
 ---
 
 ### sim3: 회의 후
@@ -183,6 +203,10 @@ User: 언제까지예요?
 AI: 금요일까지 하세요.
 User: 알겠어요.
 AI: 잘 할 수 있어요.
+
+**Outro:**
+> She taps the deadline on the whiteboard once, then walks out.
+>
 
 ---
 
@@ -221,6 +245,10 @@ AI: 아직 못 먹었어요.
 User: 시킬까요?
 AI: 좋아요. 편한 거 시키세요.
 
+**Outro:**
+> She pulls up a delivery app on her phone without hesitation.
+>
+
 ---
 
 ### sim2: 야근 중
@@ -249,6 +277,10 @@ AI: 제가 확인할게요.
 User: 감사해요.
 AI: 다음엔 혼자 해보세요.
 
+**Outro:**
+> She gives a short nod — her version of a compliment.
+>
+
 ---
 
 ### sim3: 퇴근
@@ -276,3 +308,7 @@ User: 혼자 가요?
 AI: 괜찮아요. 걱정 마세요.
 User: 조심해서 가세요.
 AI: 푹 쉬세요. 내일 봐요.
+
+**Outro:**
+> She walks ahead into the quiet street, steady as always.
+>

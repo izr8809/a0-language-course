@@ -37,6 +37,10 @@ AI: 저도 얼마 안 됐어요.
 User: 다행이에요.
 AI: 같이 잘 해요!
 
+**Outro:**
+> She adjusts your apron collar and gives you a thumbs up.
+>
+
 ---
 
 ## sim2: 업무 파악
