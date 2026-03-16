@@ -20,50 +20,51 @@ Taeo's favorite bakery. The smell hits you first.
 The staff is already looking up.
 
 **기 — 주문 [세트 1]**
-User: 이거 주세요.
+User: 이거 주세요. / 이 빵 주세요.
 AI: 어떤 거요?
-User: 이 빵이요.
-AI: 네, 잠깐만요.
+User: 이 빵이요. / 이거요.
+AI: 네, 잠깐만요. 따뜻하게 해드릴까요?
 
 **Outro:**
-> The bread smells like a warm color.
+> The bread smells good.
 > Something to drink with it, maybe.
 >
 
 **승 — 음료 [세트 2]**
-User: 커피 있어요?
-AI: 네, 있어요.
-User: 아메리카노 주세요.
+User: 커피 있어요? / 음료 뭐 있어요?
+AI: 네, 있어요. 뭐 드릴까요?
+User: 아메리카노 주세요. / 라테 주세요.
 AI: 알겠습니다. 준비할게요.
 
 **Outro:**
-> Bread and coffee — a cloud and its shadow.
+> Bread and coffee — a good combination.
 > Almost time to make it yours.
 >
 
 ---
 
-### sim2: 계산
+## sim2: 계산
 
 **Goal:** To pay and ask about the price.
 
 **📍 장소:** 연남동 빵집 카운터 (동일)
 
 **승 — 가격 [세트 3]**
-User: 얼마예요?
-AI: 육천 원이에요.
-User: 카드 돼요?
+User: 얼마예요? / 전부 얼마예요?
+AI: 육천 원이에요. 카드나 현금 다 돼요.
+User: 카드 돼요? / 카드로 할게요.
 AI: 네, 카드 돼요.
 
 **Outro:**
-> Six thousand won tastes about right.
-> A fair price for something soft.
+> Six thousand won. Not bad.
+> A fair price for fresh bread.
+> 💬 Taeo texted: "그 빵 맛있어. 창가에서 먹어."
 >
 
 **전 — 결제 [세트 4]**
-User: 여기요.
-AI: 감사합니다.
-User: 봉투 있어요?
+User: 여기요. / 감사합니다.
+AI: 감사합니다. 봉투 드릴까요?
+User: 봉투 있어요? / 봉투 주세요.
 AI: 여기 있어요. 드릴게요.
 
 **Outro:**
@@ -73,32 +74,33 @@ AI: 여기 있어요. 드릴게요.
 
 ---
 
-### sim3: 자리
+## sim3: 자리
 
 **Goal:** To find a seat and settle in.
 
 **📍 장소:** 연남동 빵집 내부
 
 **전 — 자리 [세트 5]**
-User: 자리 있어요?
-AI: 안쪽에 있어요.
-User: 감사합니다.
+User: 자리 있어요? / 창가 자리 있어요?
+AI: 안쪽에 있어요. 창가도 괜찮아요.
+User: 감사합니다. / 여기 앉을게요.
 AI: 편하게 앉으세요.
 
 **Outro:**
-> This seat catches the afternoon light just right.
-> Taeo always picks the warmest corner.
+> A nice, quiet spot inside.
+> Taeo always picks the coziest corner.
 >
 
 **결 — 맛 [세트 6]**
-User: 맛있어요?
-AI: 네, 인기 많아요.
-User: 감사합니다!
+User: 맛있어요. / 여기 빵 좋네요.
+AI: 감사합니다. 다 직접 만들어요.
+User: 감사합니다! / 또 올게요.
 AI: 또 오세요. 감사합니다.
 
 **Outro:**
-> The bread tasted like a good day.
-> Taeo's sky is always right.
+> The bread was really good.
+> Taeo's recommendations are always right.
+> 💬 Taeo texted: "거기 오후 빛이 좋아. 느낌 있지?"
 >
 
 ---
@@ -123,85 +125,90 @@ Taeo mentioned a park nearby.
 You can't find it. Ask someone.
 
 **기 — 공원 [세트 1]**
-User: 공원 어디예요?
-AI: 저쪽이에요.
-User: 멀어요?
+User: 공원 어디예요? / 연남동 공원이요.
+AI: 저쪽이에요. 걸어서 오 분이면 돼요.
+User: 멀어요? / 걸어서 돼요?
 AI: 아니요, 가까워요.
 
 **Outro:**
-> The sky is wider in that direction.
-> Follow the light.
+> Not far from here.
+> Follow the path.
+> 💬 Taeo texted: "그 공원, 하늘이 넓어서 좋아."
 >
 
 **승 — 확인 [세트 2]**
-User: 이 길이요?
+User: 이 길이요? / 이쪽이요?
 AI: 네, 맞아요.
-User: 감사합니다!
+User: 감사합니다! / 알겠습니다.
 AI: 조금만 더 가세요.
 
 **Outro:**
-> The air already smells greener here.
-> You're walking toward the right color.
+> Almost there. The park is close.
+> You're going the right way.
 >
 
 ---
 
-### sim2: 공원에서
+## sim2: 공원에서
 
 **Goal:** To find a bench and enjoy the park.
 
 **📍 장소:** 연남동 공원
 
 **승 — 벤치 [세트 3]**
-User: 자리 있어요?
-AI: 네, 앉으세요.
-User: 감사합니다.
+User: 자리 있어요? / 여기 앉아도 돼요?
+AI: 네, 앉으세요. 그늘도 있어요.
+User: 감사합니다. / 여기 좋네요.
 AI: 여기 좋은 자리예요.
 
 **Outro:**
-> The bench faces the widest part of the sky.
-> Taeo would sit here and taste the blue.
+> A good bench with a nice view.
+> Taeo would love this spot.
+> 💬 Taeo texted: "나무 아래 자리, 바람이 좋지?"
 >
 
 **전 — 산책 [세트 4]**
-User: 산책로 있어요?
+User: 산책로 있어요? / 걷기 좋은 데 있어요?
 AI: 네, 저쪽이에요.
-User: 감사합니다!
+User: 감사합니다! / 가볼게요.
 AI: 천천히 걸어 가세요.
 
 **Outro:**
-> The wind knows this path already.
-> Let it carry you.
+> A nice path for a walk.
+> Take your time.
+> 💬 Taeo texted: "천천히 걸어. 그 길 분위기 좋아."
 >
 
 ---
 
-### sim3: 공원 나가기
+## sim3: 공원 나가기
 
 **Goal:** To ask about the exit and nearby spots.
 
 **📍 장소:** 연남동 공원 출구
 
 **전 — 출구 [세트 5]**
-User: 출구 어디예요?
-AI: 저기 보이세요?
-User: 감사합니다.
+User: 출구 어디예요? / 나가는 길이요.
+AI: 저기 보이세요? 저쪽으로 가세요.
+User: 감사합니다. / 알겠습니다.
 AI: 조심히 가세요.
 
 **Outro:**
-> The sky shifts color at the gate.
-> One more flavor left in this day.
+> Time to head out.
+> One more stop left in this day.
+> 💬 Taeo texted: "노을 보면서 나와. 그 출구 빛이 예뻐."
 >
 
 **결 — 다음 [세트 6]**
-User: 시장 있어요?
+User: 시장 있어요? / 근처에 시장 있어요?
 AI: 네, 근처에 있어요.
-User: 감사합니다!
+User: 감사합니다! / 가볼게요.
 AI: 즐거운 시간 되세요.
 
 **Outro:**
-> The market smells like stories and warm bread.
-> Taeo's neighborhood tastes like it never ends.
+> The market is busy and warm.
+> Taeo's neighborhood always has something new.
+> 💬 Taeo texted: "그 시장, 저녁 분위기가 좋아. 느끼해봐."
 >
 
 ---
@@ -226,85 +233,90 @@ Weekend flea market. Taeo loves this place.
 Everything has a story here.
 
 **기 — 구경 [세트 1]**
-User: 이거 얼마예요?
-AI: 오천 원이에요.
-User: 비싸요?
+User: 이거 얼마예요? / 이거 볼 수 있어요?
+AI: 오천 원이에요. 한번 보세요.
+User: 비싸요? / 좀 깎아주세요.
 AI: 괜찮은 가격이에요.
 
 **Outro:**
-> Five thousand won for something with a past.
-> That feels like the right taste.
+> Five thousand won for something special.
+> That feels like a good price.
+> 💬 Taeo texted: "거기 빛 좋은 거 골라. 느낌 있는 거."
 >
 
 **승 — 물건 [세트 2]**
-User: 이거 뭐예요?
+User: 이거 뭐예요? / 이거 보여주세요.
 AI: 빈티지 컵이에요.
-User: 예뻐요.
+User: 예뻐요. / 마음에 들어요.
 AI: 감사합니다. 골라 보세요.
 
 **Outro:**
-> Old things hold colors no one makes anymore.
-> Taeo sees that right away.
+> Old things have their own charm.
+> Taeo notices that right away.
 >
 
 ---
 
-### sim2: 흥정
+## sim2: 흥정
 
 **Goal:** To negotiate a price politely.
 
 **📍 장소:** 연남동 벼룩시장 (동일)
 
 **승 — 흥정 [세트 3]**
-User: 깎아줘요?
-AI: 조금만 깎아줄게요.
-User: 사천 원이요?
+User: 깎아줘요? / 좀 싸게 해주세요.
+AI: 조금만 깎아줄게요. 얼마가 좋아요?
+User: 사천 원이요? / 사천 원 돼요?
 AI: 네, 좋아요.
 
 **Outro:**
-> A little less money, the same warm weight in your hand.
-> Some things taste better when you ask.
+> A little less money, same nice item.
+> It never hurts to ask.
+> 💬 Taeo texted: "흥정하는 분위기, 그것도 여행이야."
 >
 
 **전 — 계산 [세트 4]**
-User: 카드 돼요?
+User: 카드 돼요? / 카드로 할게요.
 AI: 현금만 돼요.
-User: 현금 있어요.
+User: 현금 있어요. / 현금으로 할게요.
 AI: 감사합니다. 잘 쓰세요.
 
 **Outro:**
-> The cup feels like it was waiting for you.
-> It already has a color that fits.
+> The cup feels just right in your hands.
+> A good find today.
+> 💬 Taeo texted: "그 컵, 오후 햇빛에 놓으면 예뻐."
 >
 
 ---
 
-### sim3: 마무리
+## sim3: 마무리
 
 **Goal:** To wrap up shopping and say goodbye.
 
 **📍 장소:** 연남동 벼룩시장 출구
 
 **전 — 포장 [세트 5]**
-User: 봉투 있어요?
-AI: 네, 여기 드릴게요.
-User: 감사합니다.
+User: 봉투 있어요? / 봉투 주세요.
+AI: 네, 여기 드릴게요. 잘 넣어드릴까요?
+User: 감사합니다. / 잘 담아주세요.
 AI: 잘 담았어요. 조심하세요.
 
 **Outro:**
-> Wrapped gently, like bread in a cloth.
-> The afternoon light is turning golden.
+> Wrapped carefully. Ready to go.
+> The afternoon is winding down.
+> 💬 Taeo texted: "잘 샀어? 하늘 좋을 때 나와."
 >
 
 **결 — 인사 [세트 6]**
-User: 잘 됐어요?
-AI: 네, 감사해요.
-User: 또 올게요!
+User: 감사합니다. / 잘 샀어요.
+AI: 좋은 거 고르셨어요. 잘 쓰세요.
+User: 또 올게요! / 감사합니다!
 AI: 기다릴게요. 또 오세요.
 
 **Outro:**
-> The sky is softer when you leave with something warm.
-> This market tastes like Taeo's world.
+> It feels nice to leave with something warm.
+> This market feels like Taeo's neighborhood.
+> 💬 Taeo texted: "그 시장 저녁 빛, 기억해둬."
 >
 
 ---
@@ -329,85 +341,90 @@ Long day in Yeonnam-dong. Time to head home.
 The bus pulls up.
 
 **기 — 버스 [세트 1]**
-User: 이 버스 맞아요?
+User: 이 버스 맞아요? / 홍대 가요?
 AI: 어디 가세요?
-User: 홍대요.
-AI: 네, 이 버스 맞아요.
+User: 홍대요. / 홍대입구요.
+AI: 네, 이 버스 맞아요. 타세요.
 
 **Outro:**
-> The right bus feels like catching a cloud at the right moment.
+> The right bus, right on time.
 > Step on.
+> 💬 Taeo texted: "버스 창문 밖 하늘 봐. 지금 예쁠 거야."
 >
 
 **승 — 요금 [세트 2]**
-User: 얼마예요?
+User: 얼마예요? / 카드 돼요?
 AI: 천이백 원이에요.
-User: 카드 돼요?
-AI: 네, 카드 돼요.
+User: 카드 돼요? / 카드로 할게요.
+AI: 네, 카드 돼요. 찍으세요.
 
 **Outro:**
-> A small price for a window seat and a moving sky.
-> Sit by the glass.
+> A small price for a ride home.
+> Sit by the window.
 >
 
 ---
 
-### sim2: 버스 안
+## sim2: 버스 안
 
 **Goal:** To ask about the stop during the ride.
 
 **📍 장소:** 버스 안
 
 **승 — 정류장 [세트 3]**
-User: 홍대 멀어요?
-AI: 두 정류장이에요.
-User: 감사합니다.
+User: 홍대 멀어요? / 얼마나 걸려요?
+AI: 두 정류장이에요. 금방이에요.
+User: 감사합니다. / 알겠습니다.
 AI: 곧 도착해요.
 
 **Outro:**
-> Two stops — just enough sky left to watch.
-> The light is shifting already.
+> Two stops — almost there.
+> Not long now.
+> 💬 Taeo texted: "창밖 보고 있어? 이 시간 빛이 좋아."
 >
 
 **전 — 내리기 [세트 4]**
-User: 여기서 내려요?
+User: 여기서 내려요? / 다음이에요?
 AI: 네, 여기예요.
-User: 감사합니다!
+User: 감사합니다! / 알겠습니다.
 AI: 조심히 내리세요.
 
 **Outro:**
-> The air tastes different when you step off.
-> One more ride under the evening sky.
+> Fresh air feels good when you step off.
+> One more ride to go.
+> 💬 Taeo texted: "내려서 바람 쐬어. 기분 좋을 거야."
 >
 
 ---
 
-### sim3: 택시 귀가
+## sim3: 택시 귀가
 
 **Goal:** To take a taxi home and pay.
 
 **📍 장소:** 택시 안
 
 **전 — 목적지 [세트 5]**
-User: 연남동이요.
-AI: 네, 알겠습니다.
-User: 빨리 가주세요.
+User: 연남동이요. / 연남동 가주세요.
+AI: 네, 알겠습니다. 어디쯤이요?
+User: 빨리 가주세요. / 감사합니다.
 AI: 네, 바로 출발할게요.
 
 **Outro:**
-> The city blurs past like watercolor.
-> Home is where the warm bread waits.
+> The city passes by outside the window.
+> Almost home.
+> 💬 Taeo texted: "택시 안에서 보는 밤 하늘, 좋지?"
 >
 
 **결 — 도착 [세트 6]**
-User: 여기서 세워주세요.
+User: 여기서 세워주세요. / 여기서 내릴게요.
 AI: 네, 잠깐만요.
-User: 감사합니다!
+User: 감사합니다! / 수고하세요.
 AI: 조심히 들어가세요.
 
 **Outro:**
-> The sky turned soft on the way back.
-> Another Yeonnam-dong day, tasted whole.
+> A nice ride home.
+> Another good day in Yeonnam-dong.
+> 💬 Taeo texted: "오늘 하루 어땠어? 연남동 빛, 좋았지?"
 >
 
 ---

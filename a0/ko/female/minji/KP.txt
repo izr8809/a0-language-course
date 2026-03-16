@@ -103,223 +103,211 @@ User: 저도 사랑해요!
 
 ---
 
-# KP-2: 소리 질러!
+# KP-2: 음방 같이 가요!
 
 - 대분류: Kpop
-- 중분류: Concert
+- 중분류: Music Show
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: Before the Show
+## sim1: 대기
 
-**Goal:** To make small talk with a fellow fan before the concert starts.
+**Goal:** To make small talk while waiting in line for a music show recording.
 
-📍 장소: 콘서트장 객석 (공연 전)
+📍 장소: 음방 대기줄
 
 **intro_text:**
-The lights are still on. The seat next to you is taken.
-Say hi — you might just make a new fan friend!
+You're in line for a music show recording.
+The person next to you looks just as excited!
 
-### 기 — 콘서트 전 [세트 1]
+### 기 — 대기 [세트 1]
 
-AI: 안녕하세요! 혼자 오셨어요?
-User: 네! / 네, 혼자요!
-
-AI: 저도요! 누구 팬이에요?
+AI: 안녕하세요! 여기 처음이에요?
+User: 네, 처음이에요! / 두 번째예요!
+AI: 오, 저는 세 번째예요! 누구 보러 왔어요?
 User: ___이요! / 다 좋아해요!
 
 **Outro:**
-> New fan friend found! 🎪
-> The nerves are real — share the excitement.
+> Line buddy found! 🎪
+> The doors are about to open...
 >
 
-### 승 — 기다림 [세트 2]
+### 승 — 기대 [세트 2]
 
-AI: 떨리지 않아요?
-User: 떨려요! / 진짜 떨려요!
-
-AI: 저도요! 곧 시작해요!
-User: 빨리 보고 싶어요!
+AI: 곧 들어가요! 준비됐어요?
+User: 네, 떨려요! / 너무 기대돼요!
+AI: 응원봉 가져왔어요?
+User: 네, 여기요! / 아, 깜빡했어요!
 
 **Outro:**
-> Countdown begins! ⏳
-> The lights are about to go dark...
+> Ready or not, it's happening! ⏳
+> The stage lights are warming up...
 >
 
-## sim2: During the Show
+## sim2: 음방
 
-**Goal:** To respond to stage calls and cheer during the concert.
+**Goal:** To cheer during the music show and react to your idol's performance.
 
-📍 장소: 콘서트장 객석 (공연 중)
+📍 장소: 음방 녹화장
 
-### 승 — 공연 중 [세트 3]
+### 승 — 녹화 중 [세트 3]
 
-AI: 와! 드디어 나왔어요!
-User: 대박이에요! / 너무 멋있어요!
-
-AI: 노래 진짜 잘해요.
-User: 맞아요! / 최고예요!
+AI: 와, 나온다! 소리 질러요!
+User: 대박이에요! / 너무 예뻐요!
+AI: 가까이서 보니까 더 멋있어요!
+User: 맞아요! / 감동이에요!
 
 **Outro:**
-> Voice: gone. Heart: full. 🎤
-> The crowd wants more — time for the encore!
+> Up close and personal! 🎤
+> Wait... did they just look this way?!
 >
 
-### 전 — 앵콜 [세트 4]
+### 전 — 눈 마주침 [세트 4]
 
-AI: 앵콜! 앵콜!
-User: 다시 나올까요? / 또 보고 싶어요.
-
-AI: 진짜 다시 나왔어요!
-User: 와, 대박! / 너무 좋아요!
+AI: 이쪽 봤어요! 봤어요?
+User: 봤어요! / 눈 마주쳤어요!
+AI: 진짜요? 부러워요!
+User: 심장이 뛰어요! / 꿈 같아요!
 
 **Outro:**
-> Encore secured! 🎶
-> The show is over... but the night isn't.
+> Eye contact achieved! 👀
+> That memory is locked in forever.
 >
 
-## sim3: After the Show
+## sim3: 끝나고
 
-**Goal:** To share excitement and bond with a fellow fan after the concert.
+**Goal:** To share your excitement after the show and plan to come again.
 
-📍 장소: 콘서트장 밖 (공연 후)
+📍 장소: 음방 밖
 
-### 전 — 끝 [세트 5]
+### 전 — 감상 [세트 5]
 
-User: 진짜 좋았어요!
-AI: 맞아요! 대박이었어요!
-
-AI: 목소리 다 나갔어요!
-User: 저도요!
+AI: 가까이서 봤어요! 대박이었어요!
+User: 최고였어요! / 또 오고 싶어요!
+AI: 다음에도 같이 와요!
+User: 네, 꼭이요! / 연락해요!
 
 **Outro:**
-> Post-concert high! 🌟
-> Make it official — plan the next one together.
+> Post-show glow! 🌟
+> New music show buddy — check!
 >
 
 ### 결 — 인사 [세트 6]
 
 AI: 오늘 진짜 재밌었어요!
-User: 네, 진짜요!
-
-AI: 다음 콘서트도 같이 가요!
-User: 네, 좋아요!
+User: 저도요! 고마워요!
+AI: 우리 다음에도 만나요!
+User: 네, 꼭요!
 
 **Outro:**
-> Concert buddy secured! 🎫
-> Next up: Show your idol some love online.
+> Music show buddy secured! 🎫
+> Next up: The most special day of the year for your idol.
 >
 
 ---
 
-# KP-3: 수고했어요!
+# KP-3: 생일 축하해요!
 
 - 대분류: Kpop
-- 중분류: Support
+- 중분류: Idol Birthday
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: After a Performance
+## sim1: 생일 메시지
 
-**Goal:** To cheer and respond during an idol's live stream.
+**Goal:** To send birthday wishes and express your love to your idol.
+
+📍 장소: 온라인 (버블/위버스)
+
+**intro_text:**
+It's your idol's birthday!
+Time to send the perfect message!
+
+### 기 — 생일 [세트 1]
+
+AI: 오늘 제 생일이에요! 고마워요!
+User: 생일 축하해요! / 해피 버스데이!
+AI: 와, 고마워요! 사랑해요!
+User: 저도 사랑해요! / 건강하세요!
+
+**Outro:**
+> Birthday wishes sent! 🎂
+> She has more to share...
+>
+
+### 승 — 선물 [세트 2]
+
+AI: 오늘 선물 많이 받았어요!
+User: 뭐 받았어요? / 좋겠다!
+AI: 편지가 제일 좋았어요!
+User: 다행이에요! / 저도 썼어요!
+
+**Outro:**
+> Letters over luxury! 💌
+> She's going live — don't miss it!
+>
+
+## sim2: 생일 라이브
+
+**Goal:** To participate in your idol's birthday live stream.
 
 📍 장소: 온라인 (라이브 방송)
 
-**intro_text:**
-Your idol just went live. The chat is moving fast.
-Type something — let them know you're here!
+### 승 — 라이브 [세트 3]
 
-### 기 — 라이브 방송 [세트 1]
-
-AI: 안녕! 다들 잘 지냈어요?
-User: 네! / 잘 지냈어요!
-
-AI: 오늘 공연 했는데, 재밌었어요!
-User: 수고했어요! / 대박이었어요!
+AI: 생일 라이브 시작할게요! 다들 왔어요?
+User: 네, 왔어요! / 기다렸어요!
+AI: 오늘 케이크도 있어요! 볼래요?
+User: 보여주세요! / 맛있겠다!
 
 **Outro:**
-> Your message got through! 💬
-> Keep the conversation going.
+> Birthday cake on screen! 🎂
+> Time for the birthday wish...
 >
 
-### 승 — 대화 [세트 2]
+### 전 — 소원 [세트 4]
 
-AI: 고마워요! 다들 뭐 하고 있어요?
-User: 라이브 보고 있어요! / 지금 이거 보고 있죠!
-
-AI: 와, 고마워요!
-User: 사랑해요!
+AI: 소원 빌었어요! 뭐 빌었을까요?
+User: 뭐예요? / 알려주세요!
+AI: 비밀이에요! 근데 팬분들 덕분이에요!
+User: 감동이에요! / 응원할게요!
 
 **Outro:**
-> Love sent! 💖
-> Next up: What do you say when they're having a hard time?
+> A secret wish! 🕯️
+> The night is wrapping up, but the love isn't.
 >
 
-## sim2: Encouragement
+## sim3: 마무리
 
-**Goal:** To encourage and express support for your idol.
+**Goal:** To celebrate one last time and say goodnight to your idol.
 
-📍 장소: 온라인 (버블/위버스 메시지)
+📍 장소: 온라인 (라이브 방송, 동일)
 
-### 승 — 격려 [세트 3]
+### 전 — 행복 [세트 5]
 
-AI: 요즘 좀 힘들어요...
-User: 괜찮아요! / 화이팅!
-
-AI: 고마워요. 여러분 때문에 힘내요.
-User: 항상 응원할게요! / 힘내세요!
+AI: 오늘 정말 행복했어요! 다들 고마워요!
+User: 저도 행복해요! / 최고의 생일이에요!
+AI: 내년에도 같이해요!
+User: 당연하죠! / 매년 함께할게요!
 
 **Outro:**
-> Your words reached them! 🌟
-> They want to say something back...
+> Every year, together! 🎉
+> One last goodnight before the birthday ends.
 >
 
-### 전 — 감사 [세트 4]
+### 결 — 잘 자요 [세트 6]
 
-AI: 팬분들이 있어서 행복해요.
-User: 저도 행복해요! / 고마워요!
-
-AI: 항상 감사해요!
-User: 저야말로 감사해요!
-
-**Outro:**
-> Mutual appreciation! 🥹
-> Time to send one last message before they go to sleep.
->
-
-## sim3: Sending Love
-
-**Goal:** To send heartfelt messages and say goodnight to your idol.
-
-📍 장소: 온라인 (버블/위버스, 동일)
-
-### 전 — 메시지 [세트 5]
-
-User: 오늘 영상 봤어요!
-AI: 진짜요? 고마워요!
-
-User: 진짜 좋았어요!
-AI: 감사해요!
-
-**Outro:**
-> Message delivered! 📩
-> One last thing before the night ends.
->
-
-### 결 — 잘 자 [세트 6]
-
-AI: 이제 잘 거예요! 잘 자요!
+AI: 이제 잘 거예요! 오늘 정말 감사해요!
+User: 생일 축하해요!
+AI: 잘 자요! 좋은 꿈 꿔요!
 User: 잘 자요!
 
-AI: 꿈에서 봐요!
-User: 좋은 꿈 꿔요!
-
 **Outro:**
-> Goodnight said! 🌙
+> Happy birthday! 🌙
 > Next up: Time to put on your professional face.
 >
 

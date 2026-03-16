@@ -100,335 +100,317 @@ User: 응!
 
 ---
 
-# KD-2: 짜증나! 어떡해!
+# KD-2: 요즘 힘들어...
 
 - 대분류: Kdrama/Movie
-- 중분류: Emotions
+- 중분류: Empathy
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: Frustration
+## sim1: 무슨 일이야?
 
-**Goal:** To express frustration and offer comfort to a friend.
+**Goal:** To ask what's wrong and comfort a friend who's having a hard time.
 
-📍 장소: 버스 정류장
+📍 장소: 카페
 
 **intro_text:**
-Your friend looks upset. Something went wrong.
-Ask what happened — and be there for them.
+Minji looks tired today. Something's off.
+Be the friend she needs right now.
 
-### 기 — 짜증 [세트 1]
+### 기 — 고민 [세트 1]
 
-AI: 아, 짜증나!
-User: 왜? / 무슨 일이야?
-
-AI: 버스 놓쳤어!
-User: 어떡해! / 다음 거 타!
+AI: 나 요즘 힘들어...
+User: 왜? 무슨 일이야? / 괜찮아?
+AI: 요즘 너무 바빠서... 힘들어.
+User: 많이 힘들었겠다. / 수고했어.
 
 **Outro:**
-> Frustration vented! 😤
-> But the day isn't over yet — there's more to unpack.
+> She's been holding it in. 😔
+> Time to cheer her up — you know how.
 >
 
 ### 승 — 위로 [세트 2]
 
-AI: 오늘 하루 진짜 힘들었어.
-User: 왜? 무슨 일이야? / 괜찮아?
-
-AI: 일이 너무 많았어.
-User: 수고했어! / 고생했어!
-
-**Outro:**
-> Comfort delivered! 🤗
-> Next up: What happens when the mood flips completely?
->
-
-## sim2: Happy
-
-**Goal:** To react to and celebrate a friend's good news.
-
-📍 장소: 카페
-
-### 승 — 기쁨 [세트 3]
-
-AI: 야, 이거 봐!
-User: 뭐야? / 보여줘!
-
-AI: 나 시험 합격했어!
-User: 대박! 축하해! / 진짜? 잘했어!
+User: 오늘은 쉬어! / 맛있는 거 먹자!
+AI: 진짜? 고마워!
+User: 뭐 먹고 싶어? / 내가 살게!
+AI: 떡볶이 먹고 싶어!
 
 **Outro:**
-> Celebration mode ON! 🎉
-> And it turns out... you had something to do with it.
+> Comfort food incoming! 🍜
+> Tteokbokki fixes everything... right?
 >
 
-### 전 — 감동 [세트 4]
+## sim2: 기분 전환
 
-AI: 다 네 덕분이야.
-User: 아니야, 네가 잘한 거야. / 고생했어.
-
-AI: 진짜 고마워.
-User: 축하해!
-
-**Outro:**
-> Friendship goals! 💛
-> But the emotional rollercoaster isn't done yet.
->
-
-## sim3: Sad
-
-**Goal:** To express sadness and offer encouragement to a friend.
+**Goal:** To cheer up a friend by sharing fun activities and making plans.
 
 📍 장소: 카페 (동일)
 
-### 전 — 슬픔 [세트 5]
+### 승 — 기분 전환 [세트 3]
 
-AI: 나 오늘 좀 슬퍼.
-User: 왜? / 괜찮아?
-
-AI: 친구가 한국 떠났어.
-User: 어떡해... / 많이 슬프겠다.
+AI: 아, 떡볶이 먹으니까 좀 나아!
+User: 다행이다! / 맛있지?
+AI: 응! 너는 요즘 뭐 해?
+User: 나? 드라마 봐! / 운동 시작했어!
 
 **Outro:**
-> Sad news hits different. 💙
-> Time to say the right thing.
+> Mood: lifting! 🌤️
+> She wants in on whatever you're doing.
 >
 
-### 결 — 응원 [세트 6]
+### 전 — 같이 하자 [세트 4]
 
-AI: 보고 싶을 것 같아.
-User: 괜찮아, 또 만날 수 있어.
-
-AI: 고마워.
-User: 응!
+AI: 오, 진짜? 나도 하고 싶어!
+User: 같이 하자! / 다음에 알려줄게!
+AI: 좋아! 약속이야!
+User: 응, 약속!
 
 **Outro:**
-> You showed up for your friend! 🫂
-> Next up: What do you say when you just... miss someone?
+> Plans made! 🤝
+> She's already feeling better — thanks to you.
+>
+
+## sim3: 고마워
+
+**Goal:** To accept gratitude and say a warm goodbye after a comforting hangout.
+
+📍 장소: 카페 밖
+
+### 전 — 고마워 [세트 5]
+
+AI: 오늘 진짜 고마워. 기분 좋아졌어!
+User: 다행이다! / 나도 재밌었어!
+AI: 힘들 때 또 불러도 돼?
+User: 당연하지! / 언제든지!
+
+**Outro:**
+> Best friend energy at its peak! 💛
+> Time to head home with a full heart.
+>
+
+### 결 — 또 봐 [세트 6]
+
+AI: 나 이제 가볼게! 오늘 진짜 고마웠어!
+User: 응, 조심히 가!
+AI: 다음에 또 만나!
+User: 응, 또 봐!
+
+**Outro:**
+> You turned her bad day around! 🌟
+> Next up: Gossip time — who does she like?
 >
 
 ---
 
-# KD-3: 보고 싶어
+# KD-3: 좋아하는 사람 있어?
 
 - 대분류: Kdrama/Movie
-- 중분류: Romance
+- 중분류: Crush Talk
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: Missing You
+## sim1: 비밀
 
-**Goal:** To express missing someone and make plans to meet up.
+**Goal:** To talk about having a crush and describe what you like in a person.
 
-📍 장소: 온라인 (카톡/전화)
+📍 장소: 카페
 
 **intro_text:**
-You haven't seen them in a while.
-Three words. Just say it.
+Minji has that look in her eye.
+She knows something... or she wants to know something.
 
-### 기 — 보고 싶어 [세트 1]
+### 기 — 좋아하는 사람 [세트 1]
 
-User: 뭐 해?
-AI: 집에 있어. 왜?
-
-User: 보고 싶어.
-AI: 나도. 지금 나올 수 있어?
+AI: 야, 너 좋아하는 사람 있어?
+User: 비밀! / 왜?
+AI: 있지? 얼굴 빨개졌어!
+User: 아니야! / 좀 있어...
 
 **Outro:**
-> You said it! 💗
-> Now make it happen — get out the door.
+> Your face says it all! 😳
+> She's not letting this go.
 >
 
-### 승 — 만날까 [세트 2]
+### 승 — 어떤 사람? [세트 2]
 
-User: 응, 나갈게!
-AI: 빨리 나와!
-
-User: 금방 갈게!
-AI: 기다릴게!
+AI: 어떤 사람 좋아해? 키 커?
+User: 응, 키 커! / 키보다 얼굴!
+AI: 오, 그래? 성격은?
+User: 착해! / 웃긴 사람!
 
 **Outro:**
-> They're waiting! 🏃
-> Next up: The moment you actually see each other.
+> Type: revealed! 💘
+> Now she's got an idea...
 >
 
-## sim2: Together
+## sim2: 고백
 
-**Goal:** To greet and react when finally meeting someone.
+**Goal:** To discuss confession plans and practice what to say.
 
-📍 장소: 공원/길거리 (만나는 장소)
+📍 장소: 카페 (동일)
 
-### 승 — 만남 [세트 3]
+### 승 — 고백할 거야? [세트 3]
 
-AI: 왔어?
-User: 응, 왔어! / 어디야?
-
-AI: 여기! 이쪽!
-User: 아, 봤어!
+AI: 그래서 고백할 거야?
+User: 아직 모르겠어. / 하고 싶어!
+AI: 해! 뭐라고 할 거야?
+User: 좋아해... 라고? / 모르겠어!
 
 **Outro:**
-> Found each other! 🌸
-> And then... they say something that makes your heart skip.
+> The word is out there! 💬
+> Time for a practice round.
 >
 
-### 전 — 설렘 [세트 4]
+### 전 — 연습 [세트 4]
 
-AI: 오늘 예쁘다.
-User: 진짜? / 고마워.
-
-AI: 항상 예뻐.
-User: 부끄러워! / 고마워.
+AI: 연습해 봐! 내가 그 사람이야!
+User: 부끄러워! / 좋아... 좋아해!
+AI: 와, 심장 뛰어! 잘할 수 있어!
+User: 정말? / 떨려!
 
 **Outro:**
-> Heart: melted. 💕
-> But all good things must end... for now.
+> Heart racing! 💓
+> She believes in you. Do you?
 >
 
-## sim3: Don't Go
+## sim3: 응원
 
-**Goal:** To express reluctance to part and say goodbye.
+**Goal:** To receive encouragement and make a brave decision.
 
-📍 장소: 공원/길거리 (동일)
+📍 장소: 카페 (동일)
 
-### 전 — 가지 마 [세트 5]
+### 전 — 응원 [세트 5]
 
-AI: 나 이제 가야 돼.
-User: 벌써? / 가지 마.
-
-AI: 나도 가기 싫어.
-User: 조금만 더! / 좀 더 있자.
+AI: 걱정하지 마! 분명 잘 될 거야!
+User: 그럴까? / 고마워!
+AI: 당연하지! 너 멋있어!
+User: 용기 낼게! / 내일 해볼게!
 
 **Outro:**
-> Five more minutes... 🥺
-> But eventually, you have to say goodbye.
+> Decision made! 🔥
+> She'll be waiting for that update.
 >
 
-### 결 — 다음에 [세트 6]
+### 결 — 결과 알려줘! [세트 6]
 
-AI: 내일 또 보자.
-User: 응, 내일 봐.
-
-AI: 잘 가.
-User: 응, 조심히 가.
+AI: 결과 알려줘! 기다릴게!
+User: 응, 알려줄게!
+AI: 화이팅! 응원할게!
+User: 고마워!
 
 **Outro:**
-> See you tomorrow! 🌙
-> Next up: What happens when things get a little... heated?
+> Bestie on standby! 📱
+> Next up: What happens when you leave her on read?
 >
 
 ---
 
-# KD-4: 야! 장난해?
+# KD-4: 왜 읽씹해?
 
 - 대분류: Kdrama/Movie
-- 중분류: Conflict
+- 중분류: Text Conflict
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: Argument
+## sim1: 읽씹
 
-**Goal:** To apologize and respond to someone who is angry.
+**Goal:** To respond when a friend confronts you about ignoring their messages.
 
-📍 장소: 길거리 (약속 장소 앞)
+📍 장소: 학교/교실
 
 **intro_text:**
-You're late. They've been waiting.
-This is going to take more than a sorry.
+Minji is not happy. You left her on read.
+You have exactly 30 seconds to explain yourself.
 
-### 기 — 화남 [세트 1]
+### 기 — 읽씹 [세트 1]
 
-AI: 왜 전화 안 받았어?
-User: 미안, 못 봤어. / 핸드폰 안 가지고 있었어.
-
-AI: 한 시간이나 기다렸어!
-User: 진짜 미안해. / 화 풀어~
+AI: 야! 왜 읽씹해?
+User: 미안! 바빴어! / 아, 못 봤어!
+AI: 세 시간이나 기다렸어!
+User: 진짜 미안해! / 핸드폰 안 봤어!
 
 **Outro:**
-> Anger level: high. 😤
-> It's not over yet — they have more to say.
+> Three hours?! She counted. 😤
+> This is going to take more than words.
 >
 
-### 승 — 다툼 [세트 2]
+### 승 — 삐침 [세트 2]
 
-AI: 항상 이래! 나 화났어.
-User: 미안해. / 화내지 마.
-
-AI: 장난해? 세 번째야!
-User: 알아, 미안해. / 다음엔 안 그럴게.
+AI: 나 삐졌어.
+User: 화내지 마~ / 기분 풀어줄게!
+AI: 어떡하긴! 답장 빨리 해!
+User: 응! / 다음엔 바로 할게!
 
 **Outro:**
-> Argument peaked! 💥
-> Now comes the hard part — making up.
+> Sulking level: maximum. 😤
+> Time to bring out the big guns.
 >
 
-## sim2: Making Up
+## sim2: 달래기
 
-**Goal:** To make up after a fight.
+**Goal:** To make up for ignoring a friend and suggest plans.
 
-📍 장소: 길거리 (동일)
+📍 장소: 학교/교실 (동일)
 
-### 승 — 풀기 [세트 3]
+### 승 — 기분 풀어줘 [세트 3]
 
-User: 아직 화났어?
-AI: 응, 아직 화났어.
-
-User: 미안해. 밥 사줄게.
-AI: 진짜?
+User: 내가 뭐 해줄까? / 맛있는 거 사줄게!
+AI: 진짜? 뭐 사줄 건데?
+User: 뭐 먹고 싶어? / 마라탕 어때?
+AI: 오, 마라탕! 좋아!
 
 **Outro:**
-> Offer accepted... maybe. 🍽️
-> One more push and you're back on good terms.
+> Food bribe: accepted! 🍜
+> Now lock in the plans before she changes her mind.
 >
 
-### 전 — 화해 [세트 4]
+### 전 — 약속 [세트 4]
 
-User: 응, 뭐 먹고 싶어?
-AI: 삼겹살!
-
-User: 가자!
-AI: 알겠어!
+AI: 그럼 오늘 갈 거야?
+User: 응, 오늘 가자! / 지금 갈까?
+AI: 수업 끝나고 가자!
+User: 그래! 기대돼!
 
 **Outro:**
-> Samgyeopsal fixes everything! 🥩
-> Now seal the deal over food.
+> Plans locked! ⏰
+> Mala-tang to the rescue.
 >
 
-## sim3: All Good
+## sim3: 화해
 
-**Goal:** To smooth things over and make promises after a fight.
+**Goal:** To fully reconcile and promise to reply faster.
 
-📍 장소: 삼겹살 식당
+📍 장소: 마라탕 가게
 
-### 전 — 맛있다 [세트 5]
+### 전 — 화해 [세트 5]
 
-AI: 맛있다!
-User: 맛있지? / 많이 먹어!
-
-AI: 아까 미안해. 내가 너무 화냈어.
-User: 괜찮아. / 아니야.
+AI: 맛있다! 기분 풀렸어!
+User: 다행이다! / 맛있지?
+AI: 근데 다음엔 진짜 답장해!
+User: 약속할게! / 바로 할게!
 
 **Outro:**
-> Apology accepted over pork belly! 🤝
-> Now make it official with a promise.
+> Food heals everything! 🥢
+> Now make it official.
 >
 
-### 결 — 다시 [세트 6]
+### 결 — 우리 사이 [세트 6]
 
-AI: 다음엔 전화해! 알겠지?
-User: 알겠어! / 응!
-
-AI: 약속!
-User: 약속!
+AI: 우리 싸워도 금방 풀리지?
+User: 응, 그렇지!
+AI: 읽씹하면 나 진짜 화난다!
+User: 알겠어! 안 할게!
 
 **Outro:**
-> Pinky promise made! 🤙
-> Next up: Time to scream your heart out at a concert.
+> Friendship restored! 🤙
+> Next up: Time to fangirl together at a concert.
 >
 
 ---

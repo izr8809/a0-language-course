@@ -21,22 +21,22 @@ She looks up and smiles — but it's a strange, dreamy smile.
 
 **기 — 첫 만남 [세트 1]**
 AI: 왔구나. 기다렸어.
-User: 네, 왔어요.
-AI: 잘 왔어. 오늘 좋은 날이다.
-User: 감사해요.
+User: 네, 왔어요. / 기다렸어요.
+AI: 잘 왔어. 오늘 좋은 날이다. 기분 어때?
+User: 감사해요. / 좋은 날이에요.
 
 **Outro:**
 > She signs slowly, drawing a tiny cloud next to her name.
 >
 
 **승 — 대화 [세트 2]**
-User: 노래 좋아요.
+User: 노래 좋아요. / 무대 좋았어요.
 AI: 고마워. 진심이야?
-User: 오래 기다렸어요.
-AI: 알아. 고마워. 행복하다.
+User: 오래 기다렸어요. / 꿈같아요.
+AI: 알아. 고마워. 행복하다. 어떤 노래 좋았어?
 
 **Outro:**
-> She hands back the album with a warm smile, her eyes soft like afternoon light.
+> She hands back the album with a warm, gentle smile.
 >
 
 ---
@@ -53,22 +53,22 @@ She's already standing there, holding something invisible in her hands.
 
 **기 — 포즈 [세트 3]**
 AI: 어떻게 찍을까? 재밌게 찍자.
-User: 같이 찍어요.
-AI: 좋아. 여기 빛 예쁘다.
-User: 감사해요.
+User: 같이 찍어요. / 사진 찍어도 돼요?
+AI: 좋아. 여기 분위기 좋다. 어떤 포즈 할까?
+User: 감사해요. / 좋아요.
 
 **Outro:**
-> She tilts her head, finding the angle where the light looks warmest.
+> She tilts her head, looking for the best angle.
 >
 
 **승 — 사진 [세트 4]**
-User: 잘 나왔어요.
+User: 잘 나왔어요. / 예뻐요.
 AI: 진짜? 보여줘.
-User: 예뻐요.
-AI: 다행이다. 빛이 도와줬어.
+User: 예뻐요. / 간직할게요.
+AI: 다행이다. 잘 나왔다. 나도 보고 싶어.
 
 **Outro:**
-> She smiles at the photo, then looks at the light above like she's thanking it.
+> She smiles at the photo, genuinely pleased.
 >
 
 ---
@@ -85,22 +85,22 @@ She's standing near the exit, staring at nothing in particular.
 
 **기 — 인사 [세트 5]**
 AI: 벌써 가? 아쉽다.
-User: 네, 가요.
-AI: 잘 가. 조심해.
-User: 또 올게요.
+User: 네, 가야 돼요. / 아쉬워요.
+AI: 잘 가. 조심해. 다음에 또 보자.
+User: 또 올게요. / 꼭 올게요.
 
 **Outro:**
-> She waves slowly, like she's painting goodbye in the air.
+> She waves slowly, quiet and sincere.
 >
 
 **승 — 마지막 [세트 6]**
-User: 좋았어요.
-AI: 나도 좋았어. 재밌었다.
-User: 다음에 봐요.
+User: 좋았어요. / 행복했어요.
+AI: 나도 좋았어. 재밌었다. 또 올 거지?
+User: 다음에 봐요. / 기다릴게요.
 AI: 꼭 다시 와. 기다릴게.
 
 **Outro:**
-> She watches you leave, her smile lingering like a song still playing.
+> She watches you leave with a lingering, gentle smile.
 >
 
 ---
@@ -126,22 +126,22 @@ A staff member leads you down a hallway — and there she is.
 
 **기 — 만남 [세트 1]**
 AI: 어떻게 들어왔어? 신기하다.
-User: 이벤트로요.
-AI: 그렇구나. 운 좋다.
-User: 당첨됐어요.
+User: 이벤트로요. / 당첨됐어요.
+AI: 그렇구나. 운 좋다. 기대했어?
+User: 당첨됐어요. / 놀랐어요.
 
 **Outro:**
-> She looks at you like you appeared out of a dream she just had.
+> She looks at you with quiet surprise, pleasantly caught off guard.
 >
 
 **승 — 공연 [세트 2]**
-User: 공연 좋았어요.
-AI: 고마워. 진짜 기뻐.
-User: 감동받았어요.
-AI: 그 말 들으니 좋다.
+User: 공연 좋았어요. / 감동받았어요.
+AI: 고마워. 진짜 기뻐. 어디가 좋았어?
+User: 감동받았어요. / 최고였어요.
+AI: 그 말 들으니 좋다. 더 열심히 할게.
 
 **Outro:**
-> She tugs at her sleeve, still feeling the echo of the music.
+> She tugs at her sleeve, still thinking about the performance.
 >
 
 ---
@@ -158,19 +158,19 @@ There are polaroids pinned to the wall everywhere.
 
 **기 — 대화 [세트 3]**
 AI: 뭐 마실래? 물 있어.
-User: 물 주세요.
-AI: 여기. 차가워서 좋아.
-User: 감사해요.
+User: 물 주세요. / 감사해요.
+AI: 여기. 차가워서 좋아. 목 마르지?
+User: 감사해요. / 고마워요.
 
 **Outro:**
 > She hands it over gently, like she gives everything with care.
 >
 
 **승 — 질문 [세트 4]**
-User: 긴장했어요?
+User: 긴장했어요? / 떨렸어요?
 AI: 조금 떨렸어. 무대 좋아.
-User: 안 그래 보였어요.
-AI: 원래 떨려도 웃어.
+User: 안 그래 보였어요. / 멋있었어요.
+AI: 원래 떨려도 웃어. 그게 내 비밀이야.
 
 **Outro:**
 > She shrugs, but her eyes hold something almost proud.
@@ -190,22 +190,22 @@ The stage is dark, and she's sitting on an equipment box, looking at the empty s
 
 **기 — 느낌 [세트 5]**
 AI: 어땠어? 무대 좋았지?
-User: 너무 좋았어요.
-AI: 나도 행복했어. 최고였다.
-User: 또 와요.
+User: 너무 좋았어요. / 최고였어요.
+AI: 나도 행복했어. 최고였다. 다음에도 올 거야?
+User: 또 올게요. / 기대돼요.
 
 **Outro:**
-> She stares at the dark stage like it still glows for her.
+> She stares at the dark stage, still feeling the energy.
 >
 
 **승 — 마무리 [세트 6]**
-User: 다음 공연 있어요?
+User: 다음 공연 있어요? / 언제 또 해요?
 AI: 곧 있어. 기대돼.
-User: 기대돼요.
+User: 기대돼요. / 꼭 갈게요.
 AI: 꼭 와. 더 좋을 거야.
 
 **Outro:**
-> She smiles at the empty seats like she's already thanking a future crowd.
+> She smiles at the empty seats, already looking forward to next time.
 >
 
 ---
@@ -231,22 +231,22 @@ The camera is slightly tilted — intentionally, you think.
 
 **기 — 시작 [세트 1]**
 AI: 지금 봐? 잘 됐다.
-User: 네, 봐요.
-AI: 오늘 하늘 예쁘다. 봤어?
-User: 기다렸어요.
+User: 네, 봐요. / 기다렸어요.
+AI: 오늘 기분 좋다. 너는?
+User: 기다렸어요. / 저도 좋아요.
 
 **Outro:**
-> She adjusts the camera angle to show the sky behind her.
+> She adjusts the camera angle and smiles softly.
 >
 
 **승 — 인사 [세트 2]**
-User: 안녕하세요.
+User: 안녕하세요. / 하늘 씨!
 AI: 안녕. 반가워.
-User: 오늘 예뻐요.
-AI: 고마워. 기분 좋다.
+User: 오늘 예뻐요. / 분위기 좋아요.
+AI: 고마워. 기분 좋다. 뭐 하고 싶어?
 
 **Outro:**
-> She looks into the camera, then past it, like she sees something beautiful beyond.
+> She looks into the camera with a calm, genuine expression.
 >
 
 ---
@@ -263,22 +263,22 @@ She picks yours out without hesitation.
 
 **기 — 질문 [세트 3]**
 AI: 질문 있어? 뭐든 물어봐.
-User: 취미가 뭐예요?
-AI: 사진 찍어. 하늘 사진.
-User: 저도요.
+User: 취미가 뭐예요? / 평소에 뭐 해요?
+AI: 사진 찍어. 예쁜 거 찍어. 너는?
+User: 저도요. / 보여줘요.
 
 **Outro:**
-> She shows a polaroid of clouds to the camera, close and dreamy.
+> She shows a polaroid to the camera, smiling softly.
 >
 
 **승 — 노래 [세트 4]**
-User: 노래 해줘요.
+User: 노래 해줘요. / 노래 듣고 싶어요.
 AI: 조금 있다가 할게.
-User: 기다릴게요.
+User: 기다릴게요. / 좋아요.
 AI: 금방 해 줄게. 기다려.
 
 **Outro:**
-> She hums something soft, a melody that sounds like wind through trees.
+> She hums something soft, a quiet melody.
 >
 
 ---
@@ -295,20 +295,20 @@ She's looking at something off-screen with her head tilted.
 
 **기 — 끝 [세트 5]**
 AI: 이제 끝나. 아쉽다.
-User: 벌써요?
-AI: 또 할게. 걱정 마.
-User: 기다릴게요.
+User: 벌써요? / 아쉬워요.
+AI: 또 할게. 걱정 마. 언제 또 볼까?
+User: 기다릴게요. / 꼭 해줘요.
 
 **Outro:**
-> She waves at the camera once — slow, like she's waving at the sky.
+> She waves at the camera once — slow and gentle.
 >
 
 **승 — 인사 [세트 6]**
-User: 오늘 재밌었어요.
-AI: 나도 재밌었어. 행복했다.
-User: 또 해요.
+User: 오늘 재밌었어요. / 행복했어요.
+AI: 나도 재밌었어. 행복했다. 다음에 또 하자.
+User: 또 해요. / 기다릴게요.
 AI: 꼭 할게. 또 보자.
 
 **Outro:**
-> The stream ends, but for a second her smile lingers on screen, warm and real.
+> The stream ends, but her warm smile stays with you.
 >

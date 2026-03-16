@@ -106,334 +106,334 @@ AI: 연락할게! 또 봐!
 
 ---
 
-# PI-2: MBTI가 뭐야?
+# PI-2: 같이 쇼핑 가자!
 
 - 대분류: Personal Interest
-- 중분류: Small Talk
+- 중분류: Shopping & Style
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: The Basics
+## sim1: 홍대 쇼핑
 
-**Goal:** To ask and answer questions about age and where you live.
+**Goal:** To talk about shopping preferences and share opinions on clothes.
 
-📍 장소: 카페
+📍 장소: 홍대 쇼핑거리
 
 **intro_text:**
-You made it to the café. Now the real small talk begins.
-Age, location... and then the question everyone asks.
+Minji texted: "홍대 가자!"
+Here you are, surrounded by shops and way too many choices.
 
-### 기 — 나이 [세트 1]
+### 기 — 뭐 살 거야? [세트 1]
 
-AI: 몇 살이야?
-User: ___살이야!
+AI: 오늘 뭐 살 거야? 나 옷 사고 싶어!
+User: 나도 옷! / 나는 구경만!
 
-AI: 오, 나랑 비슷해! 나는 25살!
-User: 진짜? / 오, 그래?
+AI: 여기 예쁜 거 많아! 들어가 보자!
+User: 좋아! / 어디?
 
 **Outro:**
-> Age revealed! 🎂
-> Now find out where they actually live.
+> She's already pulling you into the first store. Classic Minji.
+> Now let's see if your styles match.
 >
 
-### 승 — 어디 살아 [세트 2]
+### 승 — 이거 어때? [세트 2]
 
-User: 어디 살아?
-AI: 나? 강남이야! 너는?
+AI: 이거 어때? 예쁘지?
+User: 예쁘다! / 별로야.
 
-User: 서울이야! / 홍대 근처야!
-AI: 오, 가깝다!
+AI: 진짜? 나는 이거 좋아! 너는 뭐 좋아해?
+User: 이거! / 저거가 더 예뻐!
 
 **Outro:**
-> Neighbors? Maybe! 📍
-> Get ready — the MBTI question is coming.
+> First opinions shared! 👀
+> Time to find out your actual style.
 >
 
-## sim2: MBTI Talk
+## sim2: 스타일
 
-**Goal:** To discuss MBTI types and talk about personality.
+**Goal:** To talk about personal style and try things on.
 
-📍 장소: 카페 (동일)
+📍 장소: 홍대 옷가게 안
 
-### 승 — MBTI [세트 3]
+### 승 — 평소 스타일 [세트 3]
 
-User: MBTI 뭐야?
-AI: 나는 INFJ야! 너는?
+AI: 평소에 뭐 입어? 나는 원피스!
+User: 나는 청바지! / 나도 원피스!
 
-User: ENFP야! / 모르겠어!
-AI: ENFP? 잘 맞을 것 같아!
+AI: 오, 그래? 이거 입어 봐!
+User: 이거? / 진짜?
 
 **Outro:**
-> Compatibility check: Passed! 💫
-> Now dig a little deeper into who they really are.
+> She picked something for you already. That's friendship.
+> Now the real question — does it look good?
 >
 
-### 전 — 성격 [세트 4]
+### 전 — 입어 봐! [세트 4]
 
-AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
-User: 밖에 나가는 거! / 집이 좋아!
+AI: 어때? 잘 어울려?
+User: 괜찮아? / 좀 큰 것 같아.
 
-AI: 나도 밖에 나가는 거 좋아해!
-User: 오, 나랑 같아!
+AI: 완전 예뻐! 이거 사!
+User: 살까? / 다른 거 볼래.
 
 **Outro:**
-> Same energy! ✨
-> One more round — what are they up to these days?
+> She's your personal stylist now. 💅
+> But wait — there's always one more stop.
 >
 
-## sim3: More About You
+## sim3: 더 알아가기
 
-**Goal:** To talk about what you've been doing lately.
+**Goal:** To share what you're into lately and make plans to meet again.
 
-📍 장소: 카페 (동일)
+📍 장소: 홍대 거리 (밖)
 
-### 전 — 요즘 뭐 해 [세트 5]
+### 전 — 요즘 뭐 빠졌어? [세트 5]
 
-AI: 요즘 뭐 해?
-User: 한국어 공부! / 드라마 봐!
+AI: 요즘 뭐 빠졌어? 나 마라탕!
+User: 나는 드라마! / 나도 마라탕!
 
-AI: 한국어 어때? 재밌어?
-User: 응, 재밌어! / 좀 어려워.
+AI: 오, 진짜? 나한테도 알려줘!
+User: 응, 추천해 줄게! / 다음에 같이 보자!
 
 **Outro:**
-> Honest answer! 😄
-> Time to wrap this up and make plans to talk again.
+> Shared obsessions: unlocked! 🔥
+> One last thing before you go.
 >
 
-### 결 — 마무리 [세트 6]
+### 결 — 또 만나자! [세트 6]
 
-AI: 다음에 더 얘기하자!
-User: 응, 좋아!
+AI: 오늘 진짜 재밌었어! 또 오자!
+User: 응, 또 오자! / 나도 재밌었어!
 
-AI: 카톡 해!
-User: 응!
+AI: 다음엔 카페도 가자! 내가 맛집 알아!
+User: 좋아! 기대돼!
 
 **Outro:**
-> New friend unlocked! 🔓
-> Next up: Turn that chat into actual plans.
+> Shopping buddy secured! 🛍️
+> Next up: Making food plans with your new bestie.
 >
 
 ---
 
-# PI-3: 주말에 뭐 해?
+# PI-3: 오늘 뭐 먹지?
 
 - 대분류: Personal Interest
-- 중분류: Making Plans
+- 중분류: Food Plans
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: This Weekend
+## sim1: 뭐 먹을까?
 
-**Goal:** To suggest and agree on weekend plans.
+**Goal:** To suggest and decide on food together.
 
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-The text bubble is blinking.
-Time to shoot your shot — ask them to hang out!
+Minji's craving something.
+Help her decide — or she'll pick for both of you.
 
-### 기 — 주말 [세트 1]
+### 기 — 배고파 [세트 1]
 
-User: 주말에 뭐 해?
-AI: 나? 아직 없어! 왜?
+AI: 배고파! 오늘 뭐 먹을까?
+User: 떡볶이? / 마라탕?
 
-User: 같이 놀래?
-AI: 좋아! 뭐 할까?
-
-**Outro:**
-> They said yes! 🙌
-> Now figure out what you're actually doing.
->
-
-### 승 — 어디 갈까 [세트 2]
-
-User: 카페 갈래? 밥 먹으러 갈래?
-AI: 밥! 배고파! 어디?
-
-User: 홍대 어때?
-AI: 좋아!
+AI: 오, 둘 다 좋아! 뭐가 더 좋아?
+User: 네가 골라! / 떡볶이!
 
 **Outro:**
-> Destination: Hongdae! 🗺️
-> Now nail down the details — when and where exactly?
+> Decision made! She was craving both anyway.
+> Now find the perfect spot.
 >
 
-## sim2: When and Where
+### 승 — 맛집 [세트 2]
 
-**Goal:** To confirm the meeting time and place.
+AI: 맛집 알아? 나 하나 알아!
+User: 어디? / 진짜?
+
+AI: 홍대에 맛있는 데 있어! 거기 갈래?
+User: 좋아! 가자! / 다른 데는?
+
+**Outro:**
+> Restaurant picked! 🍜
+> Now set the time before she changes her mind.
+>
+
+## sim2: 약속 정하기
+
+**Goal:** To confirm the time and meeting place.
 
 📍 장소: 온라인 (카톡, 동일)
 
-### 승 — 시간 [세트 3]
+### 승 — 몇 시? [세트 3]
 
-AI: 몇 시에 만날까?
-User: 2시? / 저녁에!
+AI: 몇 시에 만날까? 나 6시 좋아!
+User: 6시 좋아! / 7시는?
 
-AI: 2시 좋아! 홍대역 앞?
-User: 응!
+AI: 알겠어! 홍대역 앞에서 볼까?
+User: 응! / 어디가 좋아?
 
 **Outro:**
-> Time locked in! ⏰
-> One more confirmation and you're all set.
+> Plans locked! ⏰
+> Now just confirm and count down.
 >
 
 ### 전 — 확인 [세트 4]
 
-AI: 그럼 토요일 2시, 홍대역!
-User: 응!
+AI: 오늘 저녁, 홍대역!
+User: 응, 기대돼! / 배고파, 빨리 가자!
 
-AI: 늦으면 안 돼!
-User: 알겠어! / 안 늦어!
-
-**Outro:**
-> Plans confirmed! 📅
-> Saturday is coming... are you ready for the real thing?
->
-
-## sim3: Day of
-
-**Goal:** To coordinate arrival and find each other in real time.
-
-📍 장소: 홍대역 앞 (야외)
-
-### 전 — 당일 [세트 5]
-
-AI: 나왔어?
-User: 응, 거의 다 왔어! / 나가고 있어!
-
-AI: 나 도착했어! 빨리 와!
-User: 금방 가!
+AI: 나도! 늦지 마!
+User: 안 늦어! / 먼저 가 있어!
 
 **Outro:**
-> Almost there! 🏃
-> Just one more step — actually find each other.
+> Confirmed! She's already getting ready.
+> Time to head out.
 >
 
-### 결 — 만남 [세트 6]
+## sim3: 만나자!
 
-User: 어디야?
+**Goal:** To coordinate arrival and meet up.
+
+📍 장소: 홍대역 앞
+
+### 전 — 가는 길 [세트 5]
+
+AI: 나왔어? 나 거의 다 왔어!
+User: 나도 가고 있어! / 조금만 기다려!
+
+AI: 빨리 와! 배고파!
+User: 금방 가! / 나도 배고파!
+
+**Outro:**
+> She's counting the minutes. And the hunger.
+> Almost there!
+>
+
+### 결 — 도착 [세트 6]
+
+User: 민지야! 어디야?
 AI: 여기! 이쪽!
 
-User: 아, 봤어!
-AI: 가자!
+User: 아, 봤어! 가자!
+AI: 가자가자! 배고파 죽겠어!
 
 **Outro:**
-> You found each other! 🎉
-> Next up: Staying in touch between hangouts.
+> Found her! Now feed her before she gets hangry. 🍜
+> Next up: Staying connected between hangouts.
 >
 
 ---
 
-# PI-4: 카톡 해!
+# PI-4: 사진 보내줘!
 
 - 대분류: Personal Interest
-- 중분류: Staying in Touch
+- 중분류: Sharing Daily Life
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: First Text
+## sim1: 오늘 뭐 했어?
 
-**Goal:** To start a casual conversation over text.
+**Goal:** To share your day and react to your friend's day.
 
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have their KakaoTalk ID.
-Now what? Just... text them!
+Minji just texted: "뭐 해~?"
+She wants to know everything. Of course she does.
 
-### 기 — 첫 카톡 [세트 1]
+### 기 — 뭐 했어? [세트 1]
 
-User: 뭐 해?
-AI: 집에 있어! 너는?
+AI: 오늘 뭐 했어? 나 쇼핑 갔어!
+User: 진짜? 뭐 샀어? / 나는 집에 있었어!
 
-User: 나도 집! 심심해.
-AI: 나도! 나갈까?
-
-**Outro:**
-> Conversation started! 💬
-> Now keep it going — ask about their day.
->
-
-### 승 — 대화 [세트 2]
-
-AI: 오늘 뭐 했어?
-User: 영화 봤어. / 드라마 봤어.
-
-AI: 오, 뭐 봤어?
-User: 새로 나온 거! / 비밀!
+AI: 원피스 샀어! 예쁘지?
+User: 예쁘다! / 보여줘!
 
 **Outro:**
-> Chatting like pros! 😎
-> Time to take it up a notch — share something fun.
+> She bought another dress. Shocking? Not really. 👗
+> Now tell her about your day.
 >
 
-## sim2: Chatting More
+### 승 — 나는 [세트 2]
 
-**Goal:** To share photos and links and react to them.
+AI: 너는 오늘 뭐 했어?
+User: 카페 갔어! / 한국어 공부했어!
+
+AI: 오, 어디 갔어? 사진 있어?
+User: 응, 보내줄게! / 사진 안 찍었어!
+
+**Outro:**
+> She wants photos of everything. Classic bestie behavior.
+> Get ready — she's about to show you something.
+>
+
+## sim2: 사진 공유
+
+**Goal:** To share and react to photos.
 
 📍 장소: 온라인 (카톡, 동일)
 
-### 승 — 사진 [세트 3]
+### 승 — 이거 봐! [세트 3]
 
-AI: 나 지금 여기야!
-User: 어디야? / 와, 예쁘다!
+AI: 이거 봐! 오늘 먹은 거!
+User: 뭐야? 맛있겠다! / 어디서 먹었어?
 
-AI: 한강이야! 다음에 같이 가자!
-User: 가자! / 응, 가고 싶어!
-
-**Outro:**
-> Han River plans made! 🌊
-> Now send them something funny.
->
-
-### 전 — 재미 [세트 4]
-
-User: 이거 봤어?
-AI: 뭐야? 안 봤어!
-
-User: 진짜 웃겨! 봐봐!
-AI: 알겠어! 볼게!
+AI: 마라탕! 진짜 맛있었어!
+User: 나도 먹고 싶어! / 다음에 같이 가자!
 
 **Outro:**
-> Link sent! 😂
-> The night is winding down... time to say goodnight.
+> Food pics incoming! 🍜
+> She's got more to share.
 >
 
-## sim3: Good Night
+### 전 — 추천 [세트 4]
 
-**Goal:** To end a conversation naturally and say goodnight.
+AI: 이 카페 알아? 진짜 예뻐!
+User: 몰라! 어디야? / 알아! 거기 좋지!
+
+AI: 홍대야! 다음에 같이 가자!
+User: 좋아! / 언제 갈까?
+
+**Outro:**
+> Cafe recommendation saved! ☕
+> The night is winding down.
+>
+
+## sim3: 잘 자!
+
+**Goal:** To wrap up a conversation and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
 
-### 전 — 저녁 [세트 5]
+### 전 — 밥 먹었어? [세트 5]
 
-AI: 밥 먹었어?
-User: 응, 먹었어. / 아직!
+AI: 밥 먹었어? 나 떡볶이 먹었어!
+User: 응, 먹었어! / 아직 안 먹었어!
 
-User: 너는?
-AI: 나도 먹었어! 라면!
+AI: 뭐 먹었어?
+User: 라면! / 김밥!
 
 **Outro:**
-> Dinner check done! 🍜
-> Almost time to wrap up for the night.
+> Dinner report done! 🍜
+> Time to say goodnight.
 >
 
 ### 결 — 잘 자 [세트 6]
 
-AI: 나 이제 잘 거야! 잘 자!
-User: 잘 자!
+AI: 나 이제 잘 거야! 오늘 진짜 재밌었어!
+User: 나도! 잘 자!
 
-User: 내일 봐!
-AI: 응, 내일 봐!
+User: 내일 또 카톡 해!
+AI: 당연하지! 잘 자!
 
 **Outro:**
-> Goodnight said! 🌙
+> Goodnight! She'll text you first thing tomorrow. Guaranteed. 🌙
 > Next up: Taking your Korean out into the real world.
 >
 

@@ -8,7 +8,7 @@
 - 12턴 (6세트, 3sim)
 
 First meeting in Korea.
-The light is warm... say hi!
+She looks quiet but friendly. Say hi!
 
 ---
 
@@ -20,7 +20,7 @@ The light is warm... say hi!
 
 **intro_text:**
 First meeting in Korea.
-The light is warm... say hi!
+She looks quiet but friendly. Say hi!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕! 나는 하늘이야. 이름이 뭐야?
@@ -29,18 +29,18 @@ AI: 오, 예쁜 이름이다. 어디서 왔어?
 User: ___에서 왔어!
 
 **Outro:**
-> She's already staring at the light behind you.
+> She smiles quietly and waits.
 > Now tell her why you came to Korea.
 >
 
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아해?
 User: 응, 좋아해! / 진짜 좋아해!
-AI: 나도 좋아해. 빛이 예뻐서. 너는 왜 좋아해?
+AI: 나도 좋아해. 분위기 좋아. 너는 왜 좋아해?
 User: 드라마! / 음식!
 
 **Outro:**
-> She tilted her head, imagining your answer in color.
+> She nodded slowly, thinking about your answer.
 > Let's see what else you two have in common.
 >
 
@@ -56,10 +56,10 @@ User: 드라마! / 음식!
 User: 하늘아, 뭐 좋아해?
 AI: 사진 찍는 거 좋아해. 너는?
 User: 나도 사진! / 음악 좋아해!
-AI: 좋다. 나는 사진 찍어. 색 담는 거 좋아해.
+AI: 좋다. 나 사진 찍어. 같이 찍을래?
 
 **Outro:**
-> Something clicked — like a perfect frame in a photo.
+> You two have something in common.
 > Now, the topic every Korean cares about: food.
 >
 
@@ -67,7 +67,7 @@ AI: 좋다. 나는 사진 찍어. 색 담는 거 좋아해.
 AI: 한국 음식 먹어 봤어?
 User: 응! / 아직!
 AI: 크로플 좋아해. 같이 먹으러 가자!
-User: 먹어 보고 싶어! / 좋아!
+User: 먹어 보고 싶어! / 어디가 맛있어?
 
 **Outro:**
 > She's already picturing the café in her head.
@@ -84,23 +84,23 @@ User: 먹어 보고 싶어! / 좋아!
 
 **전 — 놀자 [세트 5]**
 User: 주말에 뭐 해?
-AI: 음... 빛 좋은 데 가고 싶어. 같이 갈래?
+AI: 음... 예쁜 카페 가고 싶어. 같이 갈래?
 User: 좋아! 어디 갈까?
-AI: 망원동 카페 가자!
+AI: 망원동 카페 가자! 크로플 먹어 볼래?
 
 **Outro:**
-> A plan shaped like afternoon light through a window.
+> A weekend plan is forming.
 > Don't forget to get her Kakao ID!
 >
 
 **결 — 연락 [세트 6]**
 User: 카톡 있어?
 AI: 응, 있어! 아이디 보내 줘!
-User: 여기!
+User: 여기! / 보낼게!
 AI: 연락할게. 또 보자!
 
 **Outro:**
-> Contact saved, like a photo you never want to lose.
+> Contact saved. She seems happy about it.
 > Next up: Get to know the real her.
 >
 
@@ -123,31 +123,31 @@ AI: 연락할게. 또 보자!
 
 **intro_text:**
 You're at a quiet café with big windows.
-The light is golden. Time to learn more about each other.
+It's warm and cozy. Time to learn more about each other.
 
 ### 기 — 나이 [세트 1]
 
 AI: 몇 살이야?
 User: ___살이야!
 
-AI: 나는 24살이야. 나이는 숫자일 뿐이야.
+AI: 나는 24살이야. 나이는 숫자일 뿐이야. 뭐 하는 사람이야?
 User: 진짜? / 오, 그래?
 
 **Outro:**
-> Ages exchanged under warm café light.
+> Ages exchanged over warm coffee.
 > Now find out where she actually lives.
 >
 
 ### 승 — 어디 살아 [세트 2]
 
 User: 어디 살아?
-AI: 망원동이야. 창문이 예뻐. 너는?
+AI: 망원동이야. 동네가 좋아. 너는?
 
 User: 서울이야! / 홍대 근처야!
-AI: 오, 가깝다!
+AI: 오, 가깝다! 자주 만날 수 있겠다. 놀러 와!
 
 **Outro:**
-> Mangwon-dong — where the light hits just right.
+> Mangwon-dong — a quiet neighborhood she loves.
 > Brace yourself for the MBTI question.
 >
 
@@ -163,10 +163,10 @@ User: MBTI 뭐야?
 AI: 나는 INFP야. 너는?
 
 User: ENFP야! / 모르겠어!
-AI: 괜찮아. 나는 INFP야. 하늘 같은 거래. 자유롭고.
+AI: 괜찮아. 나는 INFP야. 조용한 편이야. 너는 어때?
 
 **Outro:**
-> INFP meets you — she says it feels like warm light.
+> INFP meets you — she's quiet but warm.
 > Now dig a little deeper.
 >
 
@@ -176,7 +176,7 @@ AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
 User: 밖에 나가는 거! / 집이 좋아!
 
 AI: 나는 둘 다 좋아해. 기분에 따라 달라.
-User: 오, 나랑 비슷해!
+User: 오, 나랑 비슷해! / 나는 좀 달라!
 
 **Outro:**
 > She lives by feeling, not by schedule.
@@ -194,11 +194,11 @@ User: 오, 나랑 비슷해!
 AI: 요즘 뭐 해?
 User: 한국어 공부! / 드라마 봐!
 
-AI: 나는 요즘 사진 찍어. 색이 예뻐.
-User: 오, 멋있다!
+AI: 나는 요즘 사진 찍어. 재밌어. 보여 줄까?
+User: 오, 멋있다! / 보여 줘!
 
 **Outro:**
-> She photographs colors the way you learn words.
+> She likes taking photos of pretty places.
 > Time to wrap up and plan to talk again.
 >
 
@@ -208,10 +208,10 @@ AI: 다음에 더 얘기하자!
 User: 응, 좋아!
 
 AI: 카톡 해. 사진 보내 줄게!
-User: 응!
+User: 응! / 기대된다!
 
 **Outro:**
-> She promised photos — that means she wants to share her world.
+> She promised photos — she wants to stay in touch.
 > Next up: Turn that chat into actual plans.
 >
 
@@ -234,18 +234,18 @@ User: 응!
 
 **intro_text:**
 A message from Haneul.
-She sent a photo of the sunset. Now make plans!
+She sent a pretty photo. Now make plans!
 
 ### 기 — 주말 [세트 1]
 
 User: 주말에 뭐 해?
-AI: 아직 없어. 빛 좋은 데 가고 싶어.
+AI: 아직 없어. 예쁜 카페 가고 싶어.
 
-User: 같이 놀래?
+User: 같이 갈래? / 같이 놀래?
 AI: 좋아! 어디 갈까?
 
 **Outro:**
-> She said yes — like the sun said yes to the horizon.
+> She said yes right away. She seems happy.
 > Now figure out where you're going.
 >
 
@@ -254,8 +254,8 @@ AI: 좋아! 어디 갈까?
 User: 카페 갈래? 밥 먹으러 갈래?
 AI: 카페! 크로플 먹자. 어디?
 
-User: 망원동 어때?
-AI: 거기 좋아!
+User: 망원동 어때? / 하늘이 골라!
+AI: 거기 좋아! 맛있는 카페 알아.
 
 **Outro:**
 > Mangwon-dong it is — her home neighborhood.
@@ -277,16 +277,16 @@ AI: 좋아! 망원역 앞에서 만나자.
 User: 응!
 
 **Outro:**
-> Time set — the afternoon light will be perfect.
+> Time set — this weekend is going to be fun.
 > One more confirmation before Saturday.
 >
 
 ### 전 — 확인 [세트 4]
 
 AI: 그럼 토요일, 망원역!
-User: 응!
+User: 응! / 좋아!
 
-AI: 카메라 가져올게!
+AI: 카메라 가져올게! 뭐 입고 올 거야?
 User: 알겠어! / 기대된다!
 
 **Outro:**
@@ -305,11 +305,11 @@ User: 알겠어! / 기대된다!
 AI: 나왔어?
 User: 응, 거의 다 왔어! / 나가고 있어!
 
-AI: 나 도착했어! 빛이 진짜 예뻐.
-User: 금방 가!
+AI: 나 도착했어! 여기 분위기 좋다. 빨리 와!
+User: 금방 가! / 거의 다 왔어!
 
 **Outro:**
-> Of course she noticed the light first.
+> She's already taking in the scenery.
 > Now find each other!
 >
 
@@ -318,11 +318,11 @@ User: 금방 가!
 User: 어디야?
 AI: 여기! 이쪽이야!
 
-User: 아, 봤어!
+User: 아, 봤어! / 어디야?
 AI: 가자! 오늘 사진 많이 찍자.
 
 **Outro:**
-> You found her — standing in a patch of golden light.
+> You found her — she waves quietly with a small smile.
 > Next up: Staying in touch between hangouts.
 >
 
@@ -345,18 +345,18 @@ AI: 가자! 오늘 사진 많이 찍자.
 
 **intro_text:**
 A notification from Haneul.
-She sent a photo of her window. Start chatting!
+She sent a simple message. Start chatting!
 
 ### 기 — 첫 카톡 [세트 1]
 
 User: 뭐 해?
 AI: 창문 보고 있어. 너는?
 
-User: 나도 집! 심심해.
+User: 나도 집이야! / 심심해!
 AI: 나도. 같이 어디 갈까?
 
 **Outro:**
-> She was watching light through her window — classic Haneul.
+> She was relaxing at home — classic Haneul.
 > Now ask about her day.
 >
 
@@ -381,14 +381,14 @@ User: 응, 보여 줘! / 보고 싶어!
 
 ### 승 — 사진 [세트 3]
 
-AI: 나 지금 여기야! 색이 예뻐.
+AI: 나 지금 여기야! 분위기 좋아.
 User: 어디야? / 와, 예쁘다!
 
 AI: 망원 한강이야! 다음에 같이 가자.
 User: 가자! / 응, 가고 싶어!
 
 **Outro:**
-> Mangwon Hangang at golden hour — filed under future plans.
+> Mangwon Hangang — filed under future plans.
 > Now send her something fun.
 >
 
@@ -398,7 +398,7 @@ User: 이거 봤어?
 AI: 뭐야? 안 봤어!
 
 User: 진짜 예뻐! 봐봐!
-AI: 알겠어! 볼게!
+AI: 알겠어! 볼게! 너도 뭐 보내 줘!
 
 **Outro:**
 > You sent her something pretty — right up her alley.
@@ -416,24 +416,24 @@ AI: 알겠어! 볼게!
 AI: 밥 먹었어?
 User: 응, 먹었어. / 아직!
 
-User: 너는?
-AI: 과일 먹었어. 딸기!
+User: 너는? / 뭐 먹었어?
+AI: 과일 먹었어. 딸기! 좋아해?
 
 **Outro:**
-> Strawberries for dinner — she eats like a painter.
+> Strawberries for dinner — simple and cute, just like her.
 > Time to say goodnight.
 >
 
 ### 결 — 잘 자 [세트 6]
 
 AI: 나 이제 잘 거야. 잘 자!
-User: 잘 자!
+User: 잘 자! / 좋은 꿈 꿔!
 
-User: 내일 봐!
+User: 내일 봐! / 내일 카톡 해!
 AI: 응, 좋은 꿈 꿔!
 
 **Outro:**
-> Goodnight — she probably dreams in watercolor.
+> Goodnight — she's the type who sleeps early and wakes up calm.
 > Next up: Taking your Korean out into the real world.
 >
 

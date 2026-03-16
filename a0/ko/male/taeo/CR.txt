@@ -22,11 +22,11 @@ The guy by the window speaks first.
 **기 — 하늘 [세트 1]**
 AI: 오늘 하늘 색 좋다.
 User: 어? 맞네.
-AI: 파란데 달콤해.
-User: 달콤해?
+AI: 커피 냄새 좋다.
+User: 진짜 좋다!
 
 **Outro:**
-> Strange thing to say, but somehow... right.
+> He notices small things. That's Taeo.
 > Who is this guy?
 >
 
@@ -91,13 +91,13 @@ User: 어떻게 알아?
 >
 
 **결 — 내일 [세트 6]**
-AI: 하늘이 말해줬어.
+AI: 그냥 느낌이야.
 User: 뭔 소리야.
 AI: 내일 또 보자.
 User: 응, 내일 봐.
 
 **Outro:**
-> The sky apparently told him.
+> He just has a feeling. That's how Taeo is.
 > You'll be back tomorrow.
 >
 
@@ -136,13 +136,13 @@ User: 왜?
 
 ### 승 — 소리 [세트 2]
 
-AI: 이 작업 무슨 소리야?
+AI: 잠깐. 무슨 소리 들려?
 User: 소리?
-AI: 소리로 생각해봐.
+AI: 다르게 생각해봐.
 User: 바람 소리인가?
 
 **Outro:**
-> Sound thinking. Literally.
+> Taeo helps you think differently.
 > Something is shifting.
 >
 
@@ -156,13 +156,13 @@ User: 바람 소리인가?
 
 ### 승 — 시도 [세트 3]
 
-AI: 바람처럼 해봐.
+AI: 편하게 해봐.
 User: 어떻게?
 AI: 가볍게 하면 돼.
 User: 해볼게.
 
 **Outro:**
-> Simple. Strange. Weirdly effective.
+> Simple advice. But it helps.
 > You try it his way.
 >
 
@@ -194,8 +194,8 @@ AI: 따뜻할 때 마셔야 해.
 User: 맞아.
 
 **Outro:**
-> Even cold coffee becomes a lesson.
-> He makes everything feel like a metaphor.
+> Small moments matter to Taeo.
+> He cares about the little things.
 >
 
 ### 결 — 믿음 [세트 6]
@@ -267,11 +267,11 @@ User: 먹어볼게.
 
 AI: 지금 몇 시야?
 User: 새벽 두 시.
-AI: 하늘 맛있는 시간이야.
+AI: 이 시간 좋아.
 User: 뭔 소리야.
 
 **Outro:**
-> 2am and he's talking about the sky.
+> 2am and he says he likes this time. That's Taeo.
 > You're too tired to argue.
 >
 

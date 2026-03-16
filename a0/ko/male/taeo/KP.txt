@@ -23,11 +23,11 @@ Like he's been waiting.
 **기 — 첫 만남 [세트 1]**
 AI: 와줬어요. 고마워요.
 User: 네! 왔어요!
-AI: 하늘 색 좋은 날이에요.
+AI: 오늘 날씨 좋아요.
 User: 맞아요!
 
 **Outro:**
-> He noticed the sky before he noticed the crowd.
+> He smiled when he saw you.
 > Now he's noticing you.
 >
 
@@ -130,11 +130,11 @@ Then the lights change.
 AI: 안녕하세요. 왔어요?
 User: 네! 왔어요!
 
-AI: 오늘 밤 하늘 봤어요?
+AI: 오늘 하늘 봤어요? 예뻐요.
 User: 아니요! / 못 봤어요!
 
 **Outro:**
-> He's asking about the sky before the show.
+> He noticed the pretty sky before the show.
 > That's just who he is.
 >
 
@@ -168,8 +168,8 @@ AI: 이쪽 봤어요! 눈 마주쳤어요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-> He looked your way. Like he was painting you into the scene.
-> The whole arena screamed. He stayed still. Glowing.
+> He looked your way. Right at you.
+> The whole arena screamed. He smiled.
 >
 
 ### 전 — 앵콜 [세트 4]
@@ -181,8 +181,8 @@ AI: 진짜 다시 나왔어요!
 User: 최고예요!
 
 **Outro:**
-> Encore delivered. The lights turned violet — his favorite color.
-> The show is over. The color stays.
+> Encore delivered. The crowd went wild.
+> The show is over. The feeling stays.
 >
 
 ---
@@ -215,7 +215,7 @@ AI: 다음엔 비 오는 날 봐요.
 User: 네, 꼭이요!
 
 **Outro:**
-> Concert night. The sky remembers.
+> Concert night. You'll remember this.
 > Next up: He actually went live.
 >
 
@@ -271,7 +271,7 @@ User: 사랑해요!
 
 ## sim2: 메시지
 
-**Goal:** To send Taeo a message and get his most poetic reply.
+**Goal:** To send Taeo a message and get his warm reply.
 
 📍 장소: 온라인 (버블/위버스 메시지)
 
@@ -280,11 +280,11 @@ User: 사랑해요!
 AI: 편지 읽었어요.
 User: 진짜요?! / 읽었어요?
 
-AI: 네 목소리가 파래요.
-User: 파래요?
+AI: 마음이 좋아요. 고마워요.
+User: 진짜요?
 
 **Outro:**
-> "네 목소리가 파래요." You'll think about that for days.
+> "I feel good. Thank you." Simple words, but he meant every one.
 > He's still typing.
 >
 

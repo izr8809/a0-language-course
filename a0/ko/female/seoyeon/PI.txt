@@ -23,25 +23,25 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 어, 사람이다. 나 태오야. 이름이 뭐야?
+AI: 서연이야. 반말 해. 이름이 뭐야?
 User: 나는 ___야! / ___이야!
-AI: 오, 반가워. 오늘 따뜻해.
-User: 따뜻해? ___에서 왔어!
+AI: 그래. 어디서 왔어?
+User: ___에서 왔어!
 
 **Outro:**
-> Taeo is honest and a little different. But he's warm.
-> Why are you here in Korea? Tell him.
+> She said her name once. Flat. Don't ask her to repeat it — she won't.
+> But wait... why are you *really* here in Korea?
 >
 
 **승 — 알아가기 [세트 2]**
-AI: 오늘 하늘 예쁘다. 한국 좋아해?
+AI: 멀리서 왔네. 한국 좋아해?
 User: 응, 좋아해! / 진짜 좋아해!
-AI: 한국 왜 좋아해? 나는 하늘이 좋아.
+AI: 그래? 뭐가 좋아?
 User: 드라마! / 음식!
 
 **Outro:**
-> Taeo likes the sky. Simple as that.
-> Now let's see if your hobbies match his.
+> You answered. She nodded once. That's approval.
+> Red flag or green flag? Let's see if your hobbies match.
 >
 
 ---
@@ -53,25 +53,25 @@ User: 드라마! / 음식!
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
-User: 태오야, 뭐 좋아해?
-AI: 나? 빵 좋아해. 진짜 좋아해.
-User: 빵? / 나도 빵 좋아해!
-AI: 응, 부드럽잖아. 따뜻하잖아.
+User: 서연아, 뭐 좋아해?
+AI: 커피. 너는?
+User: 나도 커피! / 음악 좋아해!
+AI: 취향 괜찮네.
 
 **Outro:**
-> Taeo really loves bread. Soft, warm bread.
-> Now, let's talk about Korean food.
+> She approved your taste. Save that — it doesn't happen often.
+> Now, prepare for the ultimate Korean obsession... Food.
 >
 
 **전 — 음식 [세트 4]**
-AI: 한국 음식 먹어 봤어? 빵 말고.
-User: 응! / 아직!
-AI: 삼겹살 먹어 봤어? 빵이랑 먹으면 맛있어.
-User: 먹어 보고 싶어! / 응, 맛있었어!
+AI: 밥 먹었어? 또 안 먹었지.
+User: 아직! / 응, 먹었어!
+AI: 어쨌든 같이 가. 밥 먹자.
+User: 같이 먹자! / 좋아!
 
 **Outro:**
-> Samgyeopsal with bread? Only in Taeo's world.
-> This is your chance — ask him to hang out!
+> She didn't ask if you wanted to eat. She decided for you.
+> This is your golden chance. Make a move and ask her out!
 >
 
 ---
@@ -84,23 +84,23 @@ User: 먹어 보고 싶어! / 응, 맛있었어!
 
 **전 — 놀자 [세트 5]**
 User: 주말에 뭐 해?
-AI: 구름 보려고 했는데. 같이 볼래?
-User: 좋아! 어디서?
-AI: 연남동 빵집 앞에서 만나자.
+AI: 딱히 없어. 왜?
+User: 같이 놀래?
+AI: 좋아. 늦지 마.
 
 **Outro:**
-> A bread date in Yeonnam-dong. This escalated adorably.
-> Don't let him drift away without getting his Kakao!
+> She said yes — then immediately set a rule. That's her love language.
+> ...Wait! Don't let her walk away without getting her Kakao ID!
 >
 
 **결 — 연락 [세트 6]**
 User: 카톡 있어?
-AI: 응, 있어. 아이디 알려줘.
-User: 여기!
-AI: 빵 사진 보내줄게. 또 봐.
+AI: 있어. 아이디 줘.
+User: 여기! 내 아이디 ___야!
+AI: 저장했어. 나중에 연락해.
 
 **Outro:**
-> He wants your Kakao to send bread pics. Naturally.
+> "Saved it." She won't text first. But she'll reply in three seconds flat.
 > Next up: The test that decides if you're *truly* compatible.
 >
 
@@ -119,35 +119,35 @@ AI: 빵 사진 보내줄게. 또 봐.
 
 **Goal:** To ask and answer questions about age and where you live.
 
-📍 장소: 카페
+📍 장소: 성수 카페
 
 **intro_text:**
-You made it to the cafe. Taeo is staring at the ceiling.
-Age, location... and then the question everyone asks.
+You made it to her café in Seongsu.
+She's already sitting down, iced Americano in hand. No smile.
 
 ### 기 — 나이 [세트 1]
 
-AI: 몇 살이야? 나 먼저, 스물다섯.
+AI: 몇 살이야?
 User: ___살이야!
 
-AI: 오, 나랑 비슷하다. 반갑다.
-User: 진짜? / 오, 그래?
+AI: 그래? 나는 26살. 언니네.
+User: 진짜? / 오, 언니야?
 
 **Outro:**
-> Age revealed! Taeo is 25 and happy to share.
-> Now find out where he lives.
+> Age revealed. She's 26 — and already acting like your big sister.
+> Now find out where she actually lives.
 >
 
 ### 승 — 어디 살아 [세트 2]
 
 User: 어디 살아?
-AI: 연남동이야. 빵집 옆에 살아.
+AI: 성수. 너는?
 
 User: 서울이야! / 홍대 근처야!
-AI: 오, 가깝다. 자주 만나겠다.
+AI: 가깝네. 밥집 많아.
 
 **Outro:**
-> You live close! Taeo seems happy about that.
+> Neighbors? Maybe. She already has a mental map of every good restaurant nearby.
 > Get ready — the MBTI question is coming.
 >
 
@@ -155,19 +155,19 @@ AI: 오, 가깝다. 자주 만나겠다.
 
 **Goal:** To discuss MBTI types and talk about personality.
 
-📍 장소: 카페 (동일)
+📍 장소: 성수 카페 (동일)
 
 ### 승 — MBTI [세트 3]
 
 User: MBTI 뭐야?
-AI: 나는 INFP야. 감성 폭발형.
+AI: INTJ. 너는?
 
 User: ENFP야! / 모르겠어!
-AI: 괜찮아. 느낌으로 알아. 너 좋은 사람이야.
+AI: 나는 혼자 좋아.
 
 **Outro:**
-> Taeo trusts his feelings. He thinks you're a good person.
-> Now dig a little deeper into who he really is.
+> INTJ who likes being alone. She just told you something real.
+> Now dig a little deeper into who she really is.
 >
 
 ### 전 — 성격 [세트 4]
@@ -175,49 +175,49 @@ AI: 괜찮아. 느낌으로 알아. 너 좋은 사람이야.
 AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
 User: 밖에 나가는 거! / 집이 좋아!
 
-AI: 나는 둘 다 좋아. 하늘만 보이면 돼.
-User: 오, 나랑 같아! / 독특하다!
+AI: 나는 집. 근데 너랑 같이면 괜찮아.
+User: 오, 고마워!
 
 **Outro:**
-> Taeo likes both. He's easy-going like that.
-> One more round — what is he up to these days?
+> She's a homebody. But with you? She'll make an exception.
+> One more round — what's she been up to these days?
 >
 
 ## sim3: More About You
 
 **Goal:** To talk about what you've been doing lately.
 
-📍 장소: 카페 (동일)
+📍 장소: 성수 카페 (동일)
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
-AI: 요즘 뭐 해? 나는 빵 굽는 중이야.
+AI: 요즘 뭐 해?
 User: 한국어 공부! / 드라마 봐!
 
-AI: 나는 요즘 빵에 글씨 써. 재밌어?
+AI: 나는 요즘 카페 많이 다녀.
 User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
-> Taeo bakes bread and writes on it. He's creative like that.
-> Time to wrap up and make plans to talk again.
+> You shared what you're into. She pivoted to cafés — she opens up in her own way.
+> Time to wrap this up and make plans to talk again.
 >
 
 ### 결 — 마무리 [세트 6]
 
-AI: 다음에 또 얘기하자. 재밌었어.
+AI: 다음에 더 얘기하자. 밥 꼭 먹어.
 User: 응, 좋아!
 
-AI: 카톡 해. 구름 사진 보내줄게.
+AI: 카톡 해. 늦게까지 깨있지 마.
 User: 응!
 
 **Outro:**
-> New friend! Taeo wants to keep talking.
+> New friend unlocked. She already gave you two rules before leaving.
 > Next up: Turn that chat into actual plans.
 >
 
 ---
 
-# PI-3: 주말에 뭐 해?
+# PI-3: 성수 갈래?
 
 - 대분류: Personal Interest
 - 중분류: Making Plans
@@ -234,31 +234,31 @@ User: 응!
 
 **intro_text:**
 The text bubble is blinking.
-Time to shoot your shot — ask him to hang out!
+Time to shoot your shot — ask her to hang out!
 
 ### 기 — 주말 [세트 1]
 
 User: 주말에 뭐 해?
-AI: 빵 먹으려고 했는데. 왜?
+AI: 딱히 없어. 왜?
 
 User: 같이 놀래?
-AI: 좋아. 빵 먹으러 가자.
+AI: 좋아. 뭐 먹을래?
 
 **Outro:**
-> He said yes! Everything is a bread mission with Taeo.
+> She said yes. And immediately pivoted to food. Classic Seoyeon.
 > Now figure out what you're actually doing.
 >
 
 ### 승 — 어디 갈까 [세트 2]
 
-User: 카페 갈래? 밥 먹으러 갈래?
-AI: 빵집 가자. 연남동에 맛있는 데 있어.
+User: 샐러드 먹으러 갈래? / 카페 갈래?
+AI: 성수에 좋은 데 있어. 거기 가자.
 
-User: 연남동 좋아!
-AI: 가면 바로 보여. 빵집이야.
+User: 좋아!
+AI: 아침 먹었어? 또 안 먹었지.
 
 **Outro:**
-> Destination: Yeonnam-dong. He knows a good bakery.
+> Destination: Seongsu spot. She already had a place in mind.
 > Now nail down the details — when and where exactly?
 >
 
@@ -270,59 +270,59 @@ AI: 가면 바로 보여. 빵집이야.
 
 ### 승 — 시간 [세트 3]
 
-AI: 몇 시에 만날까? 하늘 예쁜 시간이 좋아.
+AI: 몇 시에 만날까?
 User: 2시? / 저녁에!
 
-AI: 좋아. 하늘 예쁠 때 보자. 연남동역 앞에서.
+AI: 성수역 앞. 늦지 마.
 User: 응!
 
 **Outro:**
-> Time locked in. Taeo likes a pretty sky. Simple.
-> One more confirmation and you're all set.
+> Time locked in. She didn't ask — she confirmed.
+> One more check and you're all set.
 >
 
 ### 전 — 확인 [세트 4]
 
-AI: 그럼 토요일, 연남동이야.
+AI: 그럼 토요일 2시, 성수역.
 User: 응!
 
-AI: 늦으면 빵 다 먹을 거야.
+AI: 늦지 마. 진짜 늦으면 안 돼.
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-> Plans confirmed. And yes, that was a real bread threat.
-> Saturday is coming... are you ready?
+> Plans confirmed. She said "don't be late" twice. She means it.
+> Saturday is coming... are you ready for the real thing?
 >
 
 ## sim3: Day of
 
 **Goal:** To coordinate arrival and find each other in real time.
 
-📍 장소: 연남동역 앞 (야외)
+📍 장소: 성수역 앞 (야외)
 
 ### 전 — 당일 [세트 5]
 
-AI: 나왔어? 하늘 진짜 예쁘다 오늘.
+AI: 나왔어? 뛰지 마. 천천히 와.
 User: 응, 거의 다 왔어! / 나가고 있어!
 
-AI: 나 도착했어. 빵집 앞이야.
+AI: 나 도착했어. 빨리 와. 근데 뛰지 마.
 User: 금방 가!
 
 **Outro:**
-> He's at the bakery already. Of course.
-> One more step — actually find each other.
+> She told you not to run — twice. But she's already standing there waiting.
+> Just one more step — actually find each other.
 >
 
 ### 결 — 만남 [세트 6]
 
 User: 어디야?
-AI: 여기. 하늘 보고 있었어.
+AI: 여기. 이쪽.
 
 User: 아, 봤어!
-AI: 가자. 빵 기다리고 있어.
+AI: 밥부터 먹자. 배고프지?
 
 **Outro:**
-> You found him! Taeo is always calm and easy to be around.
+> You found each other. Her first words? "Let's eat." Some things never change.
 > Next up: Staying in touch between hangouts.
 >
 
@@ -344,32 +344,32 @@ AI: 가자. 빵 기다리고 있어.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have Taeo's KakaoTalk ID.
-Now what? Just... text him!
+You have her KakaoTalk ID.
+Now what? Just... text her!
 
 ### 기 — 첫 카톡 [세트 1]
 
 User: 뭐 해?
-AI: 구름 보고 있어. 너는?
+AI: 카페 있어. 너는?
 
 User: 나도 집! 심심해.
-AI: 나도. 하늘 보러 나갈까?
+AI: 심심하면 밥이라도 먹어.
 
 **Outro:**
-> Conversation started! Taeo is relaxed and friendly.
-> Now keep it going — ask about his day.
+> Conversation started. Her first instinct? Make sure you've eaten.
+> Now keep it going — ask about her day.
 >
 
 ### 승 — 대화 [세트 2]
 
-AI: 오늘 뭐 했어? 나는 빵 구웠어.
+AI: 오늘 뭐 했어?
 User: 영화 봤어. / 드라마 봤어.
 
-AI: 오, 뭐 봤어? 재밌었어?
+AI: 뭐 봤어? 이상한 거 보지 마.
 User: 새로 나온 거! / 비밀!
 
 **Outro:**
-> He baked bread today. You watched a movie. Perfect balance.
+> She asked what you watched and immediately gave a warning. Typical.
 > Time to take it up a notch — share something fun.
 >
 
@@ -381,27 +381,27 @@ User: 새로 나온 거! / 비밀!
 
 ### 승 — 사진 [세트 3]
 
-AI: 나 지금 여기야. 하늘 봐.
-User: 어디야? / 와, 예쁘다!
+AI: 나 지금 여기야.
+User: 어디야? / 와, 좋다!
 
-AI: 연남동이야. 다음에 같이 오자.
+AI: 성수 카페. 다음에 같이 가자.
 User: 가자! / 응, 가고 싶어!
 
 **Outro:**
-> He shared a photo. Taeo likes sharing moments with you.
-> Now send him something funny.
+> Café photo from Seongsu. She's already planning your next outing.
+> Now send her something funny.
 >
 
 ### 전 — 재미 [세트 4]
 
 User: 이거 봤어?
-AI: 뭐야? 안 봤어. 빵이야?
+AI: 뭐야? 안 봤어.
 
 User: 진짜 웃겨! 봐봐!
-AI: 알겠어. 볼게. 빵이면 좋겠다.
+AI: 알겠어. 볼게. 자기 전에 핸드폰 그만 해.
 
 **Outro:**
-> He hoped it was bread content. It wasn't. He'll watch it anyway.
+> You sent a link. She said she'd watch it — then told you to get off your phone. Classic.
 > The night is winding down... time to say goodnight.
 >
 
@@ -413,30 +413,28 @@ AI: 알겠어. 볼게. 빵이면 좋겠다.
 
 ### 전 — 저녁 [세트 5]
 
-AI: 밥 먹었어? 나는 빵 먹었어.
+AI: 밥 먹었어? 라면 먹지 마.
 User: 응, 먹었어. / 아직!
 
-User: 너는 매일 빵 먹어?
-AI: 응. 빵은 매일 먹어야 해.
+User: 너는?
+AI: 나는 샐러드 먹었어.
 
 **Outro:**
-> Dinner check: He had bread. Shocking absolutely no one.
+> Dinner check done. She even told you what NOT to eat. She cares in her own way.
 > Almost time to wrap up for the night.
 >
 
 ### 결 — 잘 자 [세트 6]
 
-AI: 나 이제 잘 거야. 오늘 하늘 예뻤어.
+AI: 나 이제 잘 거야. 너도 자. 늦게까지 깨있지 마.
 User: 잘 자!
 
 User: 내일 봐!
-AI: 응, 내일 봐. 잘 자.
+AI: 응. 내일 봐. 세수하고 자.
 
 **Outro:**
-> Goodnight! Taeo is warm even over text.
+> Goodnight said. She reminded you to wash your face. That's peak Seoyeon.
 > Next up: Taking your Korean out into the real world.
 >
 
 ---
-
-# ✈️ TRAVELING (존댓말)

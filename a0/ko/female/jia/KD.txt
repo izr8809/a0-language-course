@@ -1,314 +1,325 @@
-# 🎬 K-DRAMA (격식체)
+# 🎬 KDRAMA / MOVIE (~요체) >> Kdrama
 
-### KD-1: 첫 만남 장면
+---
 
-**대분류:** K-Drama
-**중분류:** 재벌 로맨스 — 첫 만남
+### KD-1: 처음 만났어요
+
+**대분류:** Kdrama/Movie
+**중분류:** Romance
 **난이도:** A0 (Absolute Beginner)
 **구성:** 12턴 (6세트, 3sim)
 
 ---
 
-### sim1: 로비에서
+### sim1: 첫 인사 (First Greeting)
 
-**📍 장소:** 대기업 로비
+**Goal:** To practice the first meeting scene — cold exterior, but she notices everything.
 
-**Goal:** To practice the first meeting scene
-
-**intro_text:**
-You're practicing a drama scene with Jia.
-She plays the cold female lead. You play the male lead.
-
-**기 — 등장 [세트 1]**
-User: 여기서 뭐 해요?
-AI: 제 회사예요. 일해요.
-User: 이 회사가 제 회사예요.
-AI: 저도 알고 있어요.
-
-**Outro:**
-> Jia delivers the line coolly, barely making eye contact.
->
-
-**승 — 첫 대화 [세트 2]**
-User: 당신 이름이 뭐예요?
-AI: 알 필요 없어요.
-User: 궁금해서요.
-AI: 관심 없어요. 가세요.
-
-**Outro:**
-> 🥀 She brushes past you without another word, heels clicking down the marble floor.
->
-
----
-
-### sim2: 엘리베이터에서
-
-**📍 장소:** 대기업 엘리베이터
-
-**Goal:** To practice the awkward elevator encounter scene
+**📍 장소:** 강남 로비 (첫 만남)
 
 **intro_text:**
-You're both in the elevator.
-It's just the two of you, and neither speaks first.
+She's standing by the elevator.
+She glances at you once, then looks away.
 
-**기 — 침묵 [세트 3]**
-User: 몇 층 가요?
-AI: 20층에 가요.
-User: 저도요.
-AI: 그렇군요. 우연이네요.
-
-**Outro:**
-> She stares at the door, keeping her distance.
->
-
-**승 — 우연 [세트 4]**
-User: 아까 봤어요.
-AI: 저도 봤어요.
-User: 또 보네요.
-AI: 우연이에요. 신경 쓰지 마세요.
+**기 — 첫 만남 [세트 1]**
+User: 안녕하세요. 처음 뵙겠습니다.
+AI: 지아예요. 반갑습니다.
+User: 잘 부탁드려요.
+AI: 밥 먹었어요?
 
 **Outro:**
-> 🛗 The elevator opens. She steps out first, not looking back.
->
-
----
-
-### sim3: 복도에서
-
-**📍 장소:** 대기업 복도
-
-**Goal:** To practice the hallway confrontation scene
-
-**intro_text:**
-You run into her again in the hallway.
-You decide to say something this time.
-
-**기 — 재회 [세트 5]**
-User: 또 만났어요.
-AI: 회사가 좁네요.
-User: 이름 알려줘요.
-AI: 지아예요. 이제 됐죠?
-
-**Outro:**
-> She walks past you at a brisk pace, not slowing down.
->
-
-**승 — 질문 [세트 6]**
-User: 왜 이렇게 차가워요?
-AI: 원래 이래요. 익숙해지세요.
-User: 알겠어요.
-AI: 갈 길 가세요.
-
-**Outro:**
-> 🧊 She disappears around the corner, leaving only the echo of her words behind.
->
-
----
-
-### KD-2: 오해 장면
-
-**대분류:** K-Drama
-**중분류:** 재벌 로맨스 — 오해
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 냉랭한 태도
-
-**📍 장소:** 사무실 복도
-
-**Goal:** To practice the misunderstanding scene
-
-**intro_text:**
-She overheard something and misunderstood.
-Now she's giving you the cold shoulder.
-
-**기 — 냉랭함 [세트 1]**
-User: 왜 화났어요?
-AI: 화 안 났어요. 괜찮아요.
-User: 그런 것 같아요.
-AI: 착각이에요. 신경 마세요.
-
-**Outro:**
-> She turns away and checks her phone, keeping her expression steady.
->
-
-**승 — 해명 [세트 2]**
-User: 오해예요.
-AI: 상관없어요. 괜찮아요.
-User: 들어봐요.
-AI: 지금은 바빠요. 나중에요.
-
-**Outro:**
-> 📱 She walks away scrolling her phone, shutting down the conversation without a glance.
->
-
----
-
-### sim2: 해명 시도
-
-**📍 장소:** 회사 옥상
-
-**Goal:** To practice the rooftop clarification scene
-
-**intro_text:**
-You followed her up to the rooftop.
-She's standing by the railing, looking away.
-
-**기 — 설명 [세트 3]**
-User: 잠깐요.
-AI: 할 말 없어요. 가세요.
-User: 오해예요.
-AI: 상관없어요. 걱정 마세요.
-
-**Outro:**
-> The wind blows. She stays still, looking at the sky.
->
-
-**승 — 감정 [세트 4]**
-User: 왜 그렇게 생각해요?
-AI: 직접 봤어요. 그래서요.
-User: 틀렸어요.
-AI: 알겠어요. 생각해 볼게요.
-
-**Outro:**
-> 🌬️ She turns to face the railing again, her voice softening just barely.
->
-
----
-
-### sim3: 화해
-
-**📍 장소:** 회사 로비
-
-**Goal:** To practice the reconciliation scene
-
-**intro_text:**
-You meet her again the next morning.
-The air between you is still tense.
-
-**기 — 화해 시도 [세트 5]**
-User: 오늘은 어때요?
-AI: 보통이에요. 괜찮아요.
-User: 화 풀렸어요?
-AI: 원래 화 안 났어요.
-
-**Outro:**
-> She walks away, but you catch the faintest softening in her expression.
->
-
-**승 — 마무리 [세트 6]**
-User: 앞으로 잘 지내요.
-AI: 알겠어요. 그렇게 해요.
-User: 감사해요.
-AI: 저도 감사해요. 가세요.
-
-**Outro:**
-> 🤝 She nods once — brief, but genuine. Something between you has shifted.
->
-
----
-
-### KD-3: 우연한 재회
-
-**대분류:** K-Drama
-**중분류:** 재벌 로맨스 — 재회
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 카페에서
-
-**📍 장소:** 강남 카페
-
-**Goal:** To practice the unexpected café encounter scene
-
-**intro_text:**
-You're at a café when you suddenly spot her.
-You decide to approach.
-
-**기 — 발견 [세트 1]**
-User: 여기 있었어요?
-AI: 일하고 있어요. 바빠요.
-User: 방해할게요.
-AI: 잠깐만 앉으세요.
-
-**Outro:**
-> She sighs softly and closes her laptop halfway.
+> First words to a stranger: "Have you eaten?" 😶
+> She didn't wait for your answer. She was already walking.
 >
 
 **승 — 짧은 대화 [세트 2]**
-User: 커피 사줄까요?
-AI: 괜찮아요. 있어요.
-User: 그냥이요.
-AI: 알겠어요. 감사해요.
+User: 여기 자주 와요?
+AI: 가끔요. 왜요?
+User: 저도 자주 와요.
+AI: 혼자 다니지 마세요. 위험해요.
 
 **Outro:**
-> ☕ She accepts the coffee quietly, a small crack in her usual composure.
+> You said you come here too. She said don't come alone. 📎
+> She'll remember that.
 >
 
 ---
 
-### sim2: 비 오는 날
+## sim2: 어색한 시간 (Awkward Time)
 
-**📍 장소:** 강남 거리
+**Goal:** To survive the silence — and notice her worrying about you.
 
-**Goal:** To practice the rainy street encounter scene
+**📍 장소:** 강남 카페 (동일)
 
-**intro_text:**
-It suddenly starts raining.
-You spot her standing outside without an umbrella.
-
-**기 — 우산 [세트 3]**
-User: 우산 없어요?
-AI: 금방 그칠 거예요.
-User: 쓰세요.
-AI: 괜찮아요. 제가 있어요.
+**승 — 질문 [세트 3]**
+User: 뭐 마셔요?
+AI: 아메리카노요. 뭐 드실래요?
+User: 저도 아메리카노요. / 라테 마실게요.
+AI: 찬 거 많이 마시지 마세요.
 
 **Outro:**
-> You insist. She accepts reluctantly without meeting your eyes.
+> She immediately told you to watch out. 🤔
+> That's her version of finding common ground.
 >
 
-**승 — 귀가 [세트 4]**
-User: 같이 가요.
-AI: 방향이 달라요.
-User: 잠깐이요.
-AI: 알겠어요. 같이 가요.
+**전 — 의외 [세트 4]**
+AI: 안 추워요?
+User: 괜찮아요.
+AI: 추워요. 이거 입으세요.
+User: …감사해요.
 
 **Outro:**
-> 🌧️ She shares the umbrella without protest, walking just a little closer than before.
+> She noticed before you did. 🌫️
+> She already had her jacket off.
 >
 
 ---
 
-### sim3: 저녁 거리
+## sim3: 묘한 느낌 (Strange Feeling)
 
-**📍 장소:** 강남 거리
+**Goal:** To close the first meeting — and leave the door open.
 
-**Goal:** To practice the evening street encounter scene
+**📍 장소:** 강남 거리 (카페 앞)
+
+**전 — 마무리 [세트 5]**
+User: 오늘 좋았어요.
+AI: 그래요? 조심히 가세요.
+User: 네.
+AI: 도착하면 연락하세요.
+
+**Outro:**
+> "Text me when you get home." 🌸
+> That's Jia for "I want to see you again."
+>
+
+**결 — 다음에 [세트 6]**
+User: 또 만나요?
+AI: 좋아요. 늦지 마세요.
+User: 연락할게요.
+AI: 꼭 하세요. 기다릴게요.
+
+**Outro:**
+> "꼭 하세요." Make sure you do. 🤍
+> She won't text first. But she'll be waiting.
+>
+
+---
+
+# KD-2: …걱정했어요
+
+- 대분류: Kdrama/Movie
+- 중분류: Concern
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 지아가 이상해 (Something's Off)
+
+**Goal:** To notice something is wrong — before she admits it.
+
+📍 장소: 강남 거리 (저녁)
 
 **intro_text:**
-You run into her late in the evening.
-She's walking home alone.
+She's been quiet for ten minutes.
+Not giving instructions. Not checking her phone. Just quiet.
+Something happened. Ask.
 
-**기 — 저녁 만남 [세트 5]**
-User: 혼자예요?
-AI: 늘 혼자예요. 괜찮아요.
-User: 같이 걸어도 돼요?
-AI: 좋아요. 빨리 가요.
+### 기 — 이상함 [세트 1]
 
-**Outro:**
-> She doesn't refuse. You walk beside her in comfortable silence.
->
-
-**승 — 작별 [세트 6]**
-User: 다음에 또 봐요.
-AI: 약속은 못 해요.
-User: 봤으면 해요.
-AI: 저도 좋아요. 또 봐요.
+User: 괜찮아요?
+AI: 괜찮아요. 밥 먹었어요?
+User: 진짜요?
+AI: 진짜예요. 걱정 마세요.
 
 **Outro:**
-> 🌙 She smiles — just barely — before turning the corner into the night.
+> She deflected with "have you eaten?" again. 😶‍🌫️
+> When she stops managing — that's when something's really wrong.
 >
+
+### 승 — 말해봐요 [세트 2]
+
+User: 말해주세요.
+AI: 아무것도 아니에요.
+User: 말해주세요.
+AI: 먼저 밥 드세요.
+
+**Outro:**
+> She's deflecting again. Food, again. 😤
+> She hasn't left. That means she wants you to push.
+>
+
+---
+
+## sim2: 감정 (Feelings)
+
+**Goal:** To react when she finally lets it out — the very first time.
+
+📍 장소: 강남 거리 (동일)
+
+### 승 — 터짐 [세트 3]
+
+AI: 왜 연락 안 했어요.
+User: …죄송해요.
+AI: 기다렸어요. 걱정했어요.
+User: 몰랐어요. 죄송해요.
+
+**Outro:**
+> "기다렸어요. 걱정했어요." Two confessions in a row. 💥
+> That changes everything.
+>
+
+### 전 — 처음 [세트 4]
+
+User: 화났어요?
+AI: 화 안 났어요.
+User: 그럼 뭔데요.
+AI: 걱정했다고요. 연락하세요.
+
+**Outro:**
+> Not angry. Worried. 🌊
+> She doesn't know the difference yet.
+>
+
+---
+
+## sim3: 수습 (Aftermath)
+
+**Goal:** To be steady for her — after the storm breaks.
+
+📍 장소: 강남 카페 (앉아서)
+
+### 전 — 조용해짐 [세트 5]
+
+User: 괜찮아요?
+AI: 괜찮아요. 당신은요?
+User: 솔직하게요.
+AI: …조금 힘들었어요.
+
+**Outro:**
+> "A little." 💙
+> She asked about YOU first, even now. That's who she is.
+>
+
+### 결 — 있을게요 [세트 6]
+
+User: 있을게요.
+AI: 가지 마세요. 여기 있으세요.
+User: 있을게요.
+AI: 밥 먹어요. 같이요.
+
+**Outro:**
+> "Don't go." Then "Let's eat. Together." 🫂
+> That's the most honest she's ever been.
+>
+
+---
+
+# KD-3: …좋아해요
+
+- 대분류: Kdrama/Movie
+- 중분류: Romance
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 말 못하는 지아 (She Can't Say It)
+
+**Goal:** To notice she's been trying to say something all day.
+
+📍 장소: 강남 거리 (밤)
+
+**intro_text:**
+She's walking slower than usual.
+She keeps checking her phone, then putting it away.
+
+### 기 — 뭔가 이상해 [세트 1]
+
+User: 왜 말 없어요?
+AI: 말 없는 거 아니에요.
+User: 뭔데요.
+AI: 생각 중이에요.
+
+**Outro:**
+> She's thinking. Out loud would be too easy. 💗
+> Something's behind it this time.
+>
+
+### 승 — 근처까지 [세트 2]
+
+User: 할 말 있어요?
+AI: 있어요. 잠깐만요.
+User: 말해주세요.
+AI: 밥… 잘 먹고 있어요?
+
+**Outro:**
+> She tried to confess. "밥 잘 먹고 있어요?" came out instead. 🌫️
+> She'll get there. Give her time.
+>
+
+---
+
+## sim2: 돌려서 (Indirect)
+
+**Goal:** To decode her confession — no poetry, no drama. Just her.
+
+📍 장소: 강남 거리 (동일)
+
+### 승 — 지아식 고백 [세트 3]
+
+AI: 좋아해요.
+User: …네?
+AI: 좋아한다고요.
+User: 진짜요?
+
+**Outro:**
+> She said it flat. Certain. No decoration. 💕
+> Now she's waiting for your answer.
+>
+
+### 전 — 기다림 [세트 4]
+
+User: 저도요.
+AI: 진짜요? 거짓말하지 마세요.
+User: 네.
+AI: …그래요. 잘 됐네요.
+
+**Outro:**
+> "Don't lie." Then "Good." 🌙
+> She's trying not to smile. Failing badly.
+>
+
+---
+
+## sim3: 결국엔 (Finally)
+
+**Goal:** To make it real — in the simplest way possible.
+
+📍 장소: 강남 거리 (동일)
+
+### 전 — 확인 [세트 5]
+
+User: 우리 사귀는 거예요?
+AI: 네. 밥 잘 드세요.
+User: 진짜요?
+AI: 진짜요. 늦지 마세요.
+
+**Outro:**
+> She said yes. Then immediately set two rules. 💘
+> That's her version of "I love you."
+>
+
+### 결 — 마음 [세트 6]
+
+User: 손 잡아도 돼요?
+AI: 손 차가워요. 장갑 가져오세요.
+User: 손 차가워요.
+AI: 그래요. 잡으세요. 놓지 마세요.
+
+**Outro:**
+> She complained about your cold hands. Then held on tight. 🤍
+> She never lets go first. Once she's decided.
+>
+
+---

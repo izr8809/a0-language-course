@@ -1,314 +1,287 @@
-# 🗺️ TRAVEL & LIFESTYLE (존댓말→반말)
+# ✈️ TRAVELING (존댓말)
 
-### TR-1: 신촌 야시장
+# TR-1: 떡볶이 주세요
 
-**대분류:** Travel & Lifestyle
-**중분류:** 신촌 — 야시장
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 야시장 도착
-
-**📍 장소:** 신촌 야시장
-
-**Goal:** To arrive at the night market in Sinchon with Yuna
-
-**intro_text:**
-It's Friday night in Sinchon.
-Yuna is already pulling you toward the food stalls.
-
-**기 — 도착 [세트 1]**
-AI: 여기 왔어요!
-User: 사람 많네요.
-AI: 맞아요, 신나요.
-User: 뭐 먹어요?
-
-**Outro:**
-> She's already pointing at three different stalls at once.
->
-
-**승 — 구경 [세트 2]**
-User: 이거 뭐예요?
-AI: 떡볶이예요.
-User: 맛있겠다.
-AI: 같이 먹어요.
-
-**Outro:**
-> The spicy smell drifts through the crowd.
->
+- 대분류: Traveling
+- 중분류: Street Food
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
 ---
 
-## sim2: 야시장 쇼핑
+### sim1: 야시장 음식 주문
 
-**📍 장소:** 신촌 야시장 — 소품 가판대
+**Goal:** To order street food at a night market stall and choose toppings.
 
-**Goal:** To browse and shop at the market stalls
+**📍 장소:** 신촌 야시장 포장마차
 
-**intro_text:**
-Yuna spots a cute accessories stall.
-She grabs your sleeve and runs over.
+**intro_text:** Friday night in Sinchon. The street food stalls are packed and everything smells amazing.
 
-**승 — 쇼핑 [세트 3]**
-AI: 이거 예쁘죠?
-User: 네, 귀엽네요.
-AI: 살까요?
-User: 좋아요.
+**기 — 주문 [세트 1]**
+AI: 어서오세요! 뭐 드릴까요?
+User: 떡볶이 주세요. / 순대 주세요.
+AI: 네! 몇 인분이요?
+User: 일 인분이요. / 이 인분이요.
 
 **Outro:**
-> She holds up three different items at once.
+> Your phone buzzes. Yuna texts: "거기 떡볶이 맛있어!! 꼭 먹어!!"
 >
 
-**전 — 계산 [세트 4]**
-User: 얼마예요?
-AI: 오천 원이에요.
-User: 깎아 주세요.
-AI: 네, 사천 원요.
+**승 — 추가 [세트 2]**
+AI: 계란이나 치즈 추가하실래요?
+User: 치즈 추가요. / 계란 추가요.
+AI: 네, 알겠습니다! 좀만 기다려 주세요.
+User: 네!
 
 **Outro:**
-> The vendor smiles and wraps it carefully.
+> Another text from Yuna: "치즈 무조건 넣어!! 진짜 맛있어!!"
 >
 
 ---
 
-## sim3: 야시장 마무리
+## sim2: 결제 + 추가주문
 
-**📍 장소:** 신촌 야시장 — 출구
+**Goal:** To pay for your food and order something extra to drink.
 
-**Goal:** To wrap up the night market visit using casual speech
+**📍 장소:** 신촌 야시장 포장마차 (동일)
 
-**intro_text:**
-The stalls are closing one by one.
-Yuna switches to casual speech without warning.
-
-**전 — 정리 [세트 5]**
-AI: 재밌었어.
-User: 나도 좋았어.
-AI: 또 와.
-User: 그래, 또 오자.
+**승 — 결제 [세트 3]**
+AI: 다 됐어요! 오천 원이에요.
+User: 카드 돼요? / 현금이요.
+AI: 네, 됩니다!
+User: 여기요.
 
 **Outro:**
-> She ties her shopping bag and grins.
+> Yuna texts again: "음료도 사!! 거기 매실차 맛있어!"
 >
 
-**결 — 귀가 [세트 6]**
-User: 집 멀어?
-AI: 아니, 가까워.
-User: 잘 들어가.
-AI: 응, 너도.
+**전 — 추가주문 [세트 4]**
+User: 저기요, 음료도 있어요?
+AI: 네! 매실차랑 사이다 있어요.
+User: 매실차 주세요. / 사이다 주세요.
+AI: 네, 천 원이요!
 
 **Outro:**
-> She waves and disappears into the crowd.
+> Phone lights up: "빨리 먹어!! 사진 보내!!"
 >
 
 ---
 
-### TR-2: 신촌 포장마차
+## sim3: 마무리 + 인사
 
-**대분류:** Travel & Lifestyle
-**중분류:** 신촌 — 포장마차
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
+**Goal:** To finish your meal and say goodbye to the vendor.
 
----
+**📍 장소:** 신촌 야시장 포장마차 (동일)
 
-### sim1: 포장마차 도착
-
-**📍 장소:** 신촌 포장마차
-
-**Goal:** To arrive at a pojangmacha in Sinchon with Yuna
-
-**intro_text:**
-A red tent glows in the night.
-Yuna stops and turns to you excitedly.
-
-**기 — 도착 [세트 1]**
-AI: 여기 어때요?
-User: 좋아요, 들어가요.
-AI: 자리 있어요.
-User: 앉아요.
+**전 — 마무리 [세트 5]**
+AI: 맛있게 드셨어요?
+User: 네, 맛있었어요! / 네, 정말 좋았어요!
+AI: 감사합니다! 또 오세요!
+User: 네, 또 올게요!
 
 **Outro:**
-> Steam rises from the pots inside.
+> You send Yuna a photo. She replies instantly: "맛있겠다!!! 나도 먹고 싶어ㅠㅠ"
 >
 
-**승 — 메뉴 [세트 2]**
-User: 뭐 있어요?
-AI: 순대 있어요.
-User: 두 개요.
-AI: 네, 잠깐만요.
+**결 — 인사 [세트 6]**
+User: 포장도 돼요? / 하나 더 주세요.
+AI: 네, 돼요! 잠깐만요!
+User: 감사합니다!
+AI: 네, 맛있게 드세요! 안녕히 가세요!
 
 **Outro:**
-> She peers at the menu board with wide eyes.
+> Yuna's last text: "나한테도 사와!! 약속!!"
+> Street food mission complete. Next up: caffeine time!
 >
 
 ---
 
-## sim2: 포장마차 주문
+# TR-2: 아이스 아메리카노 주세요
 
-**📍 장소:** 신촌 포장마차 — 테이블
+- 대분류: Traveling
+- 중분류: Cafe
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
-**Goal:** To order food and drinks at the pojangmacha
+---
 
-**intro_text:**
-The food arrives quickly.
-Yuna pours the drinks with great care.
+### sim1: 카페 주문
 
-**승 — 주문 [세트 3]**
-AI: 뭐 마셔요?
-User: 따뜻한 거요.
-AI: 오뎅탕 어때요?
-User: 좋아요.
+**Goal:** To order a drink at a café and choose your size.
+
+**📍 장소:** 신촌 카페 카운터
+
+**intro_text:** A cozy café between the buildings of Sinchon. Time for your first Korean coffee order.
+
+**기 — 주문 [세트 1]**
+AI: 안녕하세요! 뭐 드릴까요?
+User: 아이스 아메리카노 주세요. / 아이스 라떼 주세요.
+AI: 사이즈는요?
+User: 기본이요. / 큰 거요.
 
 **Outro:**
-> The broth smells rich and comforting.
+> Yuna texts: "나도 거기 자주 가! 아메리카노 맛있어!!"
 >
 
-**전 — 식사 [세트 4]**
-User: 맛있어요?
-AI: 네, 진짜요.
-User: 저도 맛있어요.
-AI: 다행이에요.
+**승 — 추가 [세트 2]**
+AI: 더 필요하신 거 있으세요?
+User: 케이크 있어요? / 괜찮아요.
+AI: 딸기 케이크랑 티라미수 있어요!
+User: 딸기 케이크 주세요. / 티라미수 주세요.
 
 **Outro:**
-> She smiles with her cheeks full.
+> Yuna replies: "거기 케이크 진짜 맛있어!! 사진 찍어 보내!!"
 >
 
 ---
 
-## sim3: 포장마차 마무리
+## sim2: 결제 + 이름
 
-**📍 장소:** 신촌 포장마차 — 계산대
+**Goal:** To pay for your order and give your name for pickup.
 
-**Goal:** To finish the meal and leave the pojangmacha using casual speech
+**📍 장소:** 신촌 카페 카운터 (동일)
 
-**intro_text:**
-The meal is almost over.
-Yuna leans back and sighs happily.
-
-**전 — 계산 [세트 5]**
-AI: 내가 낼게.
-User: 아니야, 같이 내.
-AI: 그래, 반반.
-User: 얼마야?
+**승 — 결제 [세트 3]**
+AI: 팔천오백 원이에요!
+User: 카드 돼요? / 여기요.
+AI: 네, 됩니다!
+User: 네!
 
 **Outro:**
-> She pulls out her phone to calculate.
+> Phone buzzes. Yuna: "나도 지금 카페 가고 싶다ㅠㅠ"
 >
 
-**결 — 나가기 [세트 6]**
-User: 또 오자.
-AI: 응, 꼭.
-User: 배불러.
-AI: 나도 배불러.
+**전 — 이름 [세트 4]**
+AI: 이름이 어떻게 되세요?
+User: ___이요.
+AI: 네! 나오면 불러 드릴게요!
+User: 감사합니다!
 
 **Outro:**
-> She pats her stomach and laughs quietly.
+> Yuna texts: "다 되면 사진 보내!! 기다릴게!!"
 >
 
 ---
 
-### TR-3: 신촌 카페
+## sim3: 자리 + 픽업
 
-**대분류:** Travel & Lifestyle
-**중분류:** 신촌 — 카페
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
+**Goal:** To pick up your order and find a seat in the café.
 
----
+**📍 장소:** 신촌 카페 픽업대 → 카페 좌석
 
-### sim1: 카페 입장
-
-**📍 장소:** 신촌 카페
-
-**Goal:** To enter a café in Sinchon with Yuna
-
-**intro_text:**
-It's a rainy afternoon in Sinchon.
-Yuna finds a cozy café tucked between buildings.
-
-**기 — 입장 [세트 1]**
-AI: 여기 좋아요.
-User: 아늑하네요.
-AI: 자주 와요.
-User: 진짜요?
+**전 — 픽업 [세트 5]**
+AI: 아이스 아메리카노 나왔어요!
+User: 감사합니다!
+AI: 빨대 필요하세요?
+User: 네, 주세요. / 괜찮아요.
 
 **Outro:**
-> Soft music plays from a corner speaker.
+> You snap a photo and send it. Yuna: "우와 맛있겠다!!! 다음에 같이 가자!!"
 >
 
-**승 — 자리 [세트 2]**
-User: 어디 앉아요?
-AI: 창가 어때요?
-User: 좋아요.
-AI: 가요, 빨리요.
+**결 — 자리 [세트 6]**
+User: 자리 있어요? / 여기 앉아도 돼요?
+AI: 네, 창가 자리 있어요!
+User: 감사합니다!
+AI: 맛있게 드세요!
 
 **Outro:**
-> She rushes to the window seat.
+> Yuna's text: "창가 자리 분위기 좋지?! 부럽다!!"
+> Café mission complete. Next up: getting around Sinchon!
 >
 
 ---
 
-## sim2: 카페 주문
+# TR-3: 여기서 내릴게요
 
-**📍 장소:** 신촌 카페 — 주문대
+- 대분류: Traveling
+- 중분류: Bus
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
-**Goal:** To order drinks at the café
+---
 
-**intro_text:**
-Yuna studies the menu board carefully.
-She seems to have a plan already.
+### sim1: 버스 타기
 
-**승 — 주문 [세트 3]**
-AI: 뭐 마셔요?
-User: 아이스 아메리카노요.
-AI: 저는 라떼요.
-User: 좋아요.
+**Goal:** To get on the right bus and ask about your stop.
+
+**📍 장소:** 신촌 버스 정류장
+
+**intro_text:** You're at the Sinchon bus stop. Time to figure out which bus to take!
+
+**기 — 탑승 [세트 1]**
+User: 저기요, 이 버스 홍대 가요? / 이거 몇 번 버스예요?
+AI: 네, 홍대역 가요! 타세요!
+User: 감사합니다!
+AI: 카드 찍으세요!
 
 **Outro:**
-> She approaches the counter with confidence.
+> Yuna texts: "버스 탔어?! 조심히 가!!"
 >
 
-**전 — 계산 [세트 4]**
-User: 제가 낼게요.
-AI: 아니에요, 제가요.
-User: 다음에 사줘요.
-AI: 네, 알겠어요.
+**승 — 확인 [세트 2]**
+User: 홍대역까지 몇 정거장이에요? / 여기서 멀어요?
+AI: 세 정거장이에요!
+User: 알겠어요! / 감사합니다!
+AI: 네!
 
 **Outro:**
-> The barista smiles at their argument.
+> Yuna replies: "금방이야!! 도착하면 바로 연락해!!"
 >
 
 ---
 
-## sim3: 카페 대화
+## sim2: 이동 중
 
-**📍 장소:** 신촌 카페 — 창가 자리
+**Goal:** To navigate the bus ride and confirm your stop.
 
-**Goal:** To have a casual chat at the café using informal speech
+**📍 장소:** 버스 안
 
-**intro_text:**
-The drinks arrive.
-Yuna wraps both hands around her cup and grins.
-
-**전 — 대화 [세트 5]**
-AI: 따뜻하다.
-User: 맛있어?
-AI: 응, 최고야.
-User: 나도 좋아.
+**승 — 이동 [세트 3]**
+User: 저기요, 다음이 홍대역이에요? / 여기 어디예요?
+AI: 아직이에요! 하나 더 가세요.
+User: 아, 네! / 알겠어요!
+AI: 다음에 내리세요!
 
 **Outro:**
-> Rain taps softly against the window.
+> Phone lights up. Yuna: "아직이야?? 빨리 와!!"
 >
 
-**결 — 마무리 [세트 6]**
-User: 또 오자.
-AI: 응, 자주 와.
-User: 좋아.
-AI: 나도 좋아.
+**전 — 하차 준비 [세트 4]**
+AI: 다음 정류장 홍대역이에요!
+User: 감사합니다! 여기서 내릴게요. / 알겠어요!
+AI: 네, 조심히 내리세요!
+User: 네!
 
 **Outro:**
-> She holds her empty cup and smiles at the rain.
+> Yuna texts: "도착?!?! 나 지금 배고파!!"
+>
+
+---
+
+## sim3: 하차 + 택시
+
+**Goal:** To get off the bus and take a taxi if needed.
+
+**📍 장소:** 홍대역 앞 → 택시
+
+**전 — 도착 [세트 5]**
+User: 저기요, 택시 어디서 타요? / 택시 정류장 어디예요?
+AI: 저쪽에 있어요! 횡단보도 건너세요.
+User: 감사합니다! / 저기요?
+AI: 네, 저쪽이요!
+
+**Outro:**
+> Yuna replies: "택시 타?! 가까운데!! 걸어!!"
+>
+
+**결 — 택시 [세트 6]**
+User: 신촌이요. / 신촌 가 주세요.
+AI: 네, 알겠습니다! 십 분 정도 걸려요.
+User: 네! / 감사합니다!
+AI: 안전벨트 매 주세요!
+
+**Outro:**
+> Your phone buzzes one last time. Yuna: "도착하면 연락해!! 밥 먹으러 가자!!"
+> Transportation mission complete. You survived Korean buses and taxis!
 >

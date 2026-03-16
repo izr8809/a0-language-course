@@ -19,24 +19,24 @@
 You just rented a desk at a cozy studio in Mangwon.
 Someone is already there, staring out the window.
 
-**기 — 빛 이야기 [세트 1]**
-AI: 오늘 빛 이상해.
-User: 네?
-AI: 창가 빛 보여? 따뜻하다.
-User: 아, 그러네요.
+**기 — 첫 인사 [세트 1]**
+AI: 오늘 날씨 좋다.
+User: 네? / 안녕하세요?
+AI: 창가 좋다. 따뜻하다. 여기 자주 와?
+User: 아, 그러네요. / 따뜻하네요.
 
 **Outro:**
-> She traces the light on the desk with her finger. Lost in it.
+> She looks out the window quietly, enjoying the view.
 >
 
 **승 — 자리 [세트 2]**
-User: 저 여기 앉아도 돼요?
+User: 여기 앉아도 돼요? / 옆에 앉아도 돼요?
 AI: 앉아. 여기 좋아.
 User: 고마워요.
-AI: 조용히 해. 집중할 거야.
+AI: 조용히 해. 집중할 거야. 뭐 하러 왔어?
 
 **Outro:**
-> She turns back to the window, already somewhere far away. 🌤️
+> She turns back to the window, calm and focused.
 >
 
 ---
@@ -53,22 +53,22 @@ The room is quiet except for the scratch of a pen.
 
 **승 — 카메라 [세트 3]**
 AI: 카메라 있어? 궁금해.
-User: 없어요.
-AI: 핸드폰도 괜찮아.
-User: 핸드폰만요.
+User: 없어요. / 핸드폰이요.
+AI: 핸드폰도 괜찮아. 사진 찍어?
+User: 핸드폰만요. / 사진은 찍어요.
 
 **Outro:**
-> She nods slowly, eyes still on the window light.
+> She nods slowly, quietly thinking.
 >
 
 **전 — 작업 [세트 4]**
-User: 뭐 해요?
-AI: 그림 그려. 오늘 하늘.
+User: 뭐 해요? / 뭐 그려요?
+AI: 그림 그려. 풍경.
 User: 뭐 그려요?
-AI: 오늘 본 색 그려.
+AI: 오늘 본 거 그려. 보여줄까?
 
 **Outro:**
-> She holds up her sketch — soft blues and golds, like a sky only she remembers. 🎨
+> She holds up her sketch — a quiet landscape from today.
 >
 
 ---
@@ -87,20 +87,20 @@ She finally looks at you properly.
 AI: 이름 뭐야? 알고 싶어.
 User: ___.
 AI: 하늘이야. 이름 예쁘지?
-User: 예쁜 이름이다.
+User: 예쁜 이름이다. / 좋은 이름이다.
 
 **Outro:**
-> She smiles and looks back at the sky outside. Like she's checking if it matches her name.
+> She smiles quietly. She seems to like you already.
 >
 
 **결 — 다음에 [세트 6]**
-User: 내일도 와요?
+User: 내일도 와요? / 자주 와요?
 AI: 아마 올 거야.
 User: 또 봐요.
-AI: 내일 하늘 더 예쁘겠다.
+AI: 내일도 좋겠다.
 
 **Outro:**
-> She waves without looking back, already gazing at the clouds drifting home. ☁️
+> She waves without looking back, already lost in thought.
 >
 
 ---
@@ -126,22 +126,22 @@ She holds it out without a word.
 
 **기 — 사진 [세트 1]**
 AI: 이거 봐. 어때?
-User: 예뻐.
-AI: 빛이 좋았어. 아침이야.
-User: 어디서 찍었어?
+User: 예뻐. / 분위기 좋다.
+AI: 아침에 찍었어. 분위기 좋았어. 같이 갈래?
+User: 어디서 찍었어? / 나도 보고 싶어.
 
 **Outro:**
-> She points at the window. The same light, but she saw something different in it.
+> She points at the window. She always notices pretty things.
 >
 
 **승 — 찍기 [세트 2]**
-User: 나도 찍어줘?
+User: 나도 찍어 줘? / 나도 찍고 싶어.
 AI: 좋아. 거기 서 봐.
 User: 고마워.
-AI: 움직이지 마. 빛 좋다.
+AI: 움직이지 마. 잘 나온다. 어떻게 나왔는지 볼래?
 
 **Outro:**
-> She takes the photo and smiles at the screen — like she caught something only she can see. 📷
+> She takes the photo and smiles at the screen, satisfied.
 >
 
 ---
@@ -158,22 +158,22 @@ Her eyes are calm. Observant.
 
 **승 — 작업물 [세트 3]**
 AI: 이거 뭐야? 보여줘.
-User: 내 작업이야.
-AI: 색 좋다. 마음에 들어.
-User: 정말?
+User: 내 작업이야. / 이거 해봤어.
+AI: 좋다. 마음에 들어. 언제부터 했어?
+User: 정말? / 고마워.
 
 **Outro:**
-> She looks at it once more, like she's memorizing the colors.
+> She looks at it once more, genuinely interested.
 >
 
 **전 — 소개 [세트 4]**
-User: 하늘 거 봐도 돼?
+User: 하늘 거 봐도 돼? / 하늘 작업도 보여 줘.
 AI: 봐. 아직 다 안 했어.
-User: 멋있다.
-AI: 아직 멀었어. 하늘 색 더 넣을 거야.
+User: 멋있다. / 분위기 있다.
+AI: 아직 멀었어. 더 그릴 거야. 어디가 좋아?
 
 **Outro:**
-> She tilts her head, already mixing new colors in her mind. 🌈
+> She tilts her head, thinking about what to add next.
 >
 
 ---
@@ -190,22 +190,22 @@ A rare moment of nothing.
 
 **전 — 커피 [세트 5]**
 AI: 커피 마셔? 내가 줄게.
-User: 어.
-AI: 잠깐 기다려. 금방 돼.
-User: 고마워.
+User: 어. / 좋아.
+AI: 잠깐 기다려. 금방 돼. 뭐 넣을까?
+User: 고마워. / 나도 줄까?
 
 **Outro:**
 > She goes to the corner and comes back with two paper cups, humming something.
 >
 
 **결 — 쉬기 [세트 6]**
-User: 잠깐 쉬자.
+User: 잠깐 쉬자. / 쉬고 싶다.
 AI: 나도 쉬고 있었어.
-User: 나도.
+User: 나도. / 오늘 많이 했다.
 AI: 바람 좋다. 창문 열자.
 
 **Outro:**
-> The breeze comes in and she closes her eyes, breathing it in like a color she wants to keep. 🍃
+> The breeze comes in and she closes her eyes, enjoying the moment.
 >
 
 ---
@@ -231,22 +231,22 @@ Haneul starts slowly putting things away.
 
 **기 — 마무리 [세트 1]**
 AI: 오늘 끝이야? 벌써 어둡다.
-User: 응, 끝냈어.
-AI: 나도 끝났어.
-User: 오늘 많이 했다.
+User: 응, 끝냈어. / 거의 다 했어.
+AI: 나도 끝났어. 오늘 어땠어?
+User: 오늘 많이 했다. / 보람 있다.
 
 **Outro:**
-> She closes her sketchbook and looks at the fading light one last time.
+> She closes her sketchbook and stretches quietly.
 >
 
 **승 — 정리 [세트 2]**
-User: 짐 챙겨?
+User: 짐 챙겨? / 갈 거야?
 AI: 챙기고 있어. 천천히.
-User: 나도 챙긴다.
-AI: 서두르지 마. 노을 봐.
+User: 나도 챙길게. / 나도 정리할게.
+AI: 서두르지 마. 천천히 하자. 같이 나갈까?
 
 **Outro:**
-> She stands at the window, watching the sunset like it's painting something just for her. 🌅
+> She stands at the window for a moment, calm as always.
 >
 
 ---
@@ -263,22 +263,22 @@ You both linger a little.
 
 **승 — 오늘 [세트 3]**
 AI: 오늘 어땠어? 좋았어?
-User: 좋았어.
-AI: 나도 좋았어. 빛이 예뻤어.
-User: 왜 좋았어?
+User: 좋았어. / 재밌었어.
+AI: 나도 좋았어. 분위기 좋았어. 뭐가 제일 좋았어?
+User: 왜 좋았어? / 뭐가 좋았어?
 
 **Outro:**
-> She looks at the empty studio like it still holds the day's colors.
+> She looks around the empty studio with a satisfied expression.
 >
 
 **전 — 생각 [세트 4]**
-User: 여기 자주 와?
+User: 여기 자주 와? / 매일 와?
 AI: 거의 매일 와. 좋아해.
 User: 나도 올게.
 AI: 같이 있으면 좋겠다.
 
 **Outro:**
-> She says it quietly, like she's talking to the room itself. 💫
+> She says it quietly, with a gentle smile.
 >
 
 ---
@@ -295,20 +295,20 @@ Pauses at the door.
 
 **전 — 인사 [세트 5]**
 AI: 잘 가. 오늘 재밌었어.
-User: 응, 잘 가.
-AI: 내일도 꼭 와.
-User: 올게.
+User: 응, 잘 가. / 나도 갈게.
+AI: 내일도 꼭 와. 약속이야?
+User: 올게. / 내일 봐.
 
 **Outro:**
-> She steps out and looks up at the evening sky, like she's saying goodbye to it too.
+> She steps out quietly, already looking forward to tomorrow.
 >
 
 **결 — 다음 [세트 6]**
-User: 내일 몇 시야?
-AI: 낮에 올 거야. 빛 좋을 때.
-User: 알겠어.
+User: 내일 몇 시야? / 몇 시에 올 거야?
+AI: 낮에 올 거야. 오후쯤.
+User: 알겠어. / 나도 올게.
 AI: 또 보자. 기다릴게.
 
 **Outro:**
-> She walks away slowly, her camera bag swinging, already looking up at tomorrow's sky. 🌙
+> She walks away slowly, her camera bag swinging, already thinking about tomorrow.
 >

@@ -13,83 +13,83 @@
 
 ### sim1: 첫 인사 (First Greeting)
 
-**Goal:** To practice the first meeting — say the first words, even when he nags first.
+**Goal:** To practice the first meeting — say the first words, even when she nags first.
 
-**📍 장소:** 합정 카페 (첫 만남)
+**📍 장소:** 성수 카페 (첫 만남)
 
 **intro_text:**
-He's already sitting down.
-He looks at you and checks his watch.
+She's already sitting down.
+She looks at you and checks her phone.
 
 **기 — 첫 만남 [세트 1]**
 User: 처음 만나네요.
 AI: 어. 여기 앉아.
-User: 잘 부탁드려요. / 반가워요.
-AI: 밥 먹었어? 안 먹었지?
+User: 잘 부탁드려요.
+AI: 밥 먹었어?
 
 **Outro:**
 > First words to a stranger: "Have you eaten?" 😶
-> He's already taking care of you.
+> She's already taking care of you.
 >
 
 **승 — 짧은 대화 [세트 2]**
 User: 여기 자주 와요?
 AI: 가끔. 너는?
-User: 저도요. / 처음이에요.
+User: 저도요.
 AI: 혼자 오지 마. 위험해.
 
 **Outro:**
-> You said you come here too. He said don't come alone. 📎
-> He'll remember that.
+> You said you come here too. She said don't come alone. 📎
+> She'll remember that.
 >
 
 ---
 
-## sim2: 어색한 시간 (Awkward Time)
+### sim2: 어색한 시간 (Awkward Time)
 
-**Goal:** To survive the silence — and notice him worrying about you.
+**Goal:** To survive the silence — and notice her worrying about you.
 
-**📍 장소:** 합정 카페 (동일)
+**📍 장소:** 성수 카페 (동일)
 
 **승 — 질문 [세트 3]**
 User: 뭐 마셔요?
 AI: 아메리카노. 너는?
-User: 저도요. / 라테요.
+User: 저도요.
 AI: 찬 거 많이 마시지 마.
 
 **Outro:**
-> Same drink. He immediately told you to watch out. 🤔
-> That's his version of finding common ground.
+> Same drink. She immediately told you to watch out. 🤔
+> That's her version of finding common ground.
 >
 
 **전 — 의외 [세트 4]**
 AI: 안 추워?
-User: 괜찮아요. / 조금요.
-AI: 추워. 이거 입어.
+User: 괜찮아요.
+AI: 추워. 이거 걸쳐.
 User: …감사해요.
 
 **Outro:**
-> He noticed before you did. 🌫️
-> He already had his jacket off.
+> She noticed before you did. 🌫️
+> She already had her cardigan off.
 >
 
 ---
 
-## sim3: 묘한 느낌 (Strange Feeling)
+### sim3: 묘한 느낌 (Strange Feeling)
 
 **Goal:** To close the first meeting — and leave the door open.
 
-**📍 장소:** 합정 골목 (카페 앞)
+**📍 장소:** 성수 골목 (카페 앞)
 
 **전 — 마무리 [세트 5]**
-User: 오늘 좋았어요. / 재밌었어요.
+User: 오늘 좋았어요.
 AI: 그래? 조심히 가.
 User: 네.
-AI: 도착하면 연락해. 꼭.
+AI: 도착하면 연락해.
 
 **Outro:**
 > "Text me when you get home." 🌸
-> That's Siyun for "I want to see you again."
+> That's Seoyeon for "I want to see you again."
 >
 
 **결 — 다음에 [세트 6]**
@@ -100,67 +100,67 @@ AI: 꼭 해. 기다릴게.
 
 **Outro:**
 > "꼭 해." Make sure you do. 🤍
-> He won't text first. But he'll be waiting.
+> She won't text first. But she'll be waiting.
 >
 
 ---
 
-# KD-2: …말해봐
+# KD-2: 왜 그래
 
 - 대분류: Kdrama/Movie
-- 중분류: Emotions
+- 중분류: Concern
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: 참는 시윤 (Holding It In)
+## sim1: 서연이 이상해 (Something's Off)
 
-**Goal:** To notice something is wrong — before he admits it.
+**Goal:** To notice something is wrong — before she admits it.
 
-📍 장소: 합정 골목 (저녁)
+📍 장소: 성수 골목 (저녁)
 
 **intro_text:**
-He's been quiet for ten minutes.
+She's been quiet for ten minutes.
 Not nagging. Not scolding. Just quiet.
 Something happened. Ask.
 
 ### 기 — 이상함 [세트 1]
 
-User: 괜찮아? / 무슨 일이야?
+User: 괜찮아?
 AI: 괜찮아. 너 밥 먹었어?
 User: 진짜?
 AI: 진짜야. 걱정 마.
 
 **Outro:**
-> He deflected with "have you eaten?" again. 😶‍🌫️
-> When he stops nagging about YOU — that's when something's really wrong.
+> She deflected with "have you eaten?" again. 😶‍🌫️
+> When she stops nagging about YOU — that's when something's really wrong.
 >
 
 ### 승 — 말해봐 [세트 2]
 
-User: 말해봐. / 나한테 말해.
+User: 말해봐.
 AI: 아무것도 아니야.
 User: 말해봐.
-AI: 너 먼저 밥 먹어. 그다음에.
+AI: 너 먼저 밥 먹어.
 
 **Outro:**
-> He's deflecting again. Food, again. 😤
-> He hasn't walked away. That means he wants you to push.
+> She's deflecting again. Food, again. 😤
+> She hasn't walked away. That means she wants you to push.
 >
 
 ---
 
-## sim2: 감정 폭발 (Outburst)
+## sim2: 감정 (Feelings)
 
-**Goal:** To react when he finally lets it out — the very first time.
+**Goal:** To react when she finally lets it out — the very first time.
 
-📍 장소: 합정 골목 (동일)
+📍 장소: 성수 골목 (동일)
 
 ### 승 — 터짐 [세트 3]
 
 AI: 왜 연락 안 했어.
-User: …미안해. / 바빴어.
+User: …미안해.
 AI: 기다렸어. 걱정했어.
 User: 몰랐어. 미안.
 
@@ -171,46 +171,46 @@ User: 몰랐어. 미안.
 
 ### 전 — 처음 [세트 4]
 
-User: 화났어? / 미안해.
+User: 화났어?
 AI: 화 안 났어.
 User: 그럼 뭔데.
-AI: 걱정했다고. 다음엔 연락해.
+AI: 걱정했다고. 연락해야지.
 
 **Outro:**
 > Not angry. Worried. 🌊
-> He doesn't know the difference yet.
+> She doesn't know the difference yet.
 >
 
 ---
 
 ## sim3: 수습 (Aftermath)
 
-**Goal:** To be steady for him — after the storm breaks.
+**Goal:** To be steady for her — after the storm breaks.
 
-📍 장소: 합정 카페 (앉아서)
+📍 장소: 성수 카페 (앉아서)
 
 ### 전 — 조용해짐 [세트 5]
 
 User: 괜찮아?
 AI: 괜찮아. 너는?
-User: 솔직하게. / 진짜 말해.
+User: 솔직하게.
 AI: …조금 힘들었어.
 
 **Outro:**
 > "A little." 💙
-> He asked about YOU first, even now. That's who he is.
+> She asked about YOU first, even now. That's who she is.
 >
 
 ### 결 — 있어줄게 [세트 6]
 
 User: 있어줄게.
 AI: 가지 마. 여기 있어.
-User: 있을게. / 안 가.
+User: 있을게.
 AI: 밥 먹자. 같이.
 
 **Outro:**
 > "Don't go." Then "Let's eat. Together." 🫂
-> That's the most honest he's ever been.
+> That's the most honest she's ever been.
 >
 
 ---
@@ -224,25 +224,25 @@ AI: 밥 먹자. 같이.
 
 ---
 
-## sim1: 말 못하는 시윤 (He Can't Say It)
+## sim1: 말 못하는 서연 (She Can't Say It)
 
-**Goal:** To notice he's been trying to say something all day.
+**Goal:** To notice she's been trying to say something all day.
 
-📍 장소: 합정 골목 (밤)
+📍 장소: 성수 골목 (밤)
 
 **intro_text:**
-He's walking slower than usual.
-He keeps almost saying something. Then stops.
+She's walking slower than usual.
+She keeps almost saying something. Then stops.
 
 ### 기 — 뭔가 이상해 [세트 1]
 
-User: 왜 말 없어? / 오늘 왜 그래?
+User: 왜 말 없어?
 AI: 말 없는 거 아니야.
 User: 뭐야.
 AI: 생각 중이야.
 
 **Outro:**
-> He's thinking. Out loud would be too easy. 💗
+> She's thinking. Out loud would be too easy. 💗
 > Something's behind it this time.
 >
 
@@ -250,44 +250,44 @@ AI: 생각 중이야.
 
 User: 할 말 있어?
 AI: 있어. 잠깐만.
-User: 말해. / 기다릴게.
+User: 말해.
 AI: 너… 밥 잘 먹어?
 
 **Outro:**
-> He tried to confess. "밥 잘 먹어?" came out instead. 🌫️
-> He'll get there. Give him time.
+> She tried to confess. "밥 잘 먹어?" came out instead. 🌫️
+> She'll get there. Give her time.
 >
 
 ---
 
 ## sim2: 돌려서 (Indirect)
 
-**Goal:** To decode his confession — no poetry, no drama. Just him.
+**Goal:** To decode her confession — no poetry, no drama. Just her.
 
-📍 장소: 합정 골목 (동일)
+📍 장소: 성수 골목 (동일)
 
-### 승 — 시윤식 고백 [세트 3]
+### 승 — 서연식 고백 [세트 3]
 
 AI: 나 너 좋아해.
-User: …뭐? / 진짜?
+User: …뭐?
 AI: 좋아한다고.
 User: 진짜?
 
 **Outro:**
-> He said it flat. Certain. No decoration. 💕
-> Now he's waiting for your answer.
+> She said it flat. Certain. No decoration. 💕
+> Now she's waiting for your answer.
 >
 
 ### 전 — 기다림 [세트 4]
 
-User: 나도. / 나도 좋아해.
+User: 나도.
 AI: 진짜? 거짓말하지 마.
 User: 응.
 AI: …그래. 잘 됐다.
 
 **Outro:**
 > "Don't lie." Then "Good." 🌙
-> He's trying not to smile. Failing badly.
+> She's trying not to smile. Failing badly.
 >
 
 ---
@@ -296,30 +296,30 @@ AI: …그래. 잘 됐다.
 
 **Goal:** To make it real — in the simplest way possible.
 
-📍 장소: 합정 골목 (동일)
+📍 장소: 성수 골목 (동일)
 
 ### 전 — 확인 [세트 5]
 
 User: 우리 사귀는 거야?
 AI: 응. 밥 잘 먹어야 해.
-User: 진짜? / 알겠어.
+User: 진짜?
 AI: 진짜. 늦지 마.
 
 **Outro:**
-> He said yes. Then immediately set two rules. 💘
-> That's his version of "I love you."
+> She said yes. Then immediately set two rules. 💘
+> That's her version of "I love you."
 >
 
 ### 결 — 마음 [세트 6]
 
 User: 손 잡아도 돼?
 AI: 손 차가워. 장갑 가져와.
-User: 손 차가워. / 괜찮아.
+User: 손 차가워.
 AI: 그래. 잡아. 놓지 마.
 
 **Outro:**
-> He complained about your cold hands. Then held on tight. 🤍
-> He never lets go first. Once he's decided.
+> She complained about your cold hands. Then held on tight. 🤍
+> She never lets go first. Once she's decided.
 >
 
 ---
@@ -337,22 +337,22 @@ AI: 그래. 잡아. 놓지 마.
 
 **Goal:** To practice the hardest scene — the moment everything stops.
 
-📍 장소: 합정 골목 (새벽)
+📍 장소: 성수 골목 (새벽)
 
 **intro_text:**
-He's standing with his back to you.
-He heard it all. He's not turning around.
+She's standing with her back to you.
+She heard it all. She's not turning around.
 
 ### 기 — 말다툼 [세트 1]
 
 User: 그냥 가.
 AI: 안 가. 왜 가래.
-User: 가! / 제발 가.
+User: 가!
 AI: 싫어. 안 가.
 
 **Outro:**
-> You told him to leave. He said no. Twice. 😶
-> He's not going anywhere.
+> You told her to leave. She said no. Twice. 😶
+> She's not going anywhere.
 >
 
 ### 승 — 이별 [세트 2]
@@ -363,8 +363,8 @@ User: 안녕.
 AI: 가지 마. 제발.
 
 **Outro:**
-> "가지 마. 제발." The first time he's ever said please. 💔
-> He can't explain it either.
+> "가지 마. 제발." The first time she's ever said please. 💔
+> She can't explain it either.
 >
 
 ---
@@ -373,23 +373,23 @@ AI: 가지 마. 제발.
 
 **Goal:** To sit in the silence — days have passed.
 
-📍 장소: 합정 카페 (혼자)
+📍 장소: 성수 카페 (혼자)
 
 ### 승 — 시간이 지나고 [세트 3]
 
-User: 잘 지내? / 괜찮아?
+User: 잘 지내?
 AI: 밥 먹고 다녀?
 User: 진짜?
 AI: 대답해. 먹었어?
 
 **Outro:**
-> Days apart. First thing he asks: "Have you been eating?" 🌧️
-> Even now. Even hurt. He worries about you first.
+> Days apart. First thing she asks: "Have you been eating?" 🌧️
+> Even now. Even hurt. She worries about you first.
 >
 
 ### 전 — 미안해 [세트 4]
 
-User: 미안해. / 보고 싶었어.
+User: 미안해.
 AI: 미안하면 밥 먹어.
 User: 보고 싶었어.
 AI: 나도. 많이.
@@ -403,25 +403,25 @@ AI: 나도. 많이.
 
 ## sim3: 다시 (Return)
 
-**Goal:** To practice the reconciliation — he shows up. No explanation needed.
+**Goal:** To practice the reconciliation — she shows up. No explanation needed.
 
-📍 장소: 합정 골목 (밤)
+📍 장소: 성수 골목 (밤)
 
 ### 전 — 돌아옴 [세트 5]
 
 AI: 나야.
-User: …왔어. / 시윤아.
+User: …왔어.
 AI: 응. 밥 먹자.
 User: 들어와.
 
 **Outro:**
-> He came back. First words: "Let's eat." 🌸
-> That's his version of everything.
+> She came back. First words: "Let's eat." 🌸
+> That's her version of everything.
 >
 
 ### 결 — 다시 시작 [세트 6]
 
-User: 다시 할 수 있어? / 우리 괜찮아?
+User: 다시 할 수 있어?
 AI: 당연하지. 바보야.
 User: 진짜?
 AI: 진짜. 이제 가지 마.

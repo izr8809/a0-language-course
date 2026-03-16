@@ -1,314 +1,318 @@
-# 🗺️ TRAVEL & LIFESTYLE (격식체)
+# ✈️ TRAVELING (존댓말)
 
-### TR-1: 강남 레스토랑
+# TR-1: 지아가 가는 카페
 
-**대분류:** Travel & Lifestyle
-**중분류:** 강남 — 레스토랑
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 예약 확인
-
-**📍 장소:** 강남 파인다이닝
-
-**Goal:** To check in at a restaurant with a reservation
-
-**intro_text:**
-Jia has made a reservation at her favorite restaurant.
-She's taking you there for the first time.
-
-**기 — 도착 [세트 1]**
-User: 여기가 어때요?
-AI: 여기 좋아요. 맛있어요.
-User: 자주 와요?
-AI: 가끔 와요. 좋아해요.
-
-**Outro:**
-> She walks in confidently. The host immediately recognizes her.
->
-
-**승 — 예약 [세트 2]**
-User: 예약 확인해 주세요.
-AI: 네, 성함이 어떻게 되세요?
-User: 지아 씨 이름으로요.
-AI: 확인해 드릴게요. 잠깐만요.
-
-**Outro:**
-> 🪪 She handles it without breaking stride. Reservation confirmed.
->
+- 대분류: Traveling
+- 중분류: Cafe
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
 ---
 
-### sim2: 주문
+### sim1: 지아의 단골 카페
 
-**📍 장소:** 강남 파인다이닝
+**Goal:** To order your drink at Jia's regular café — she's watching, so don't mess up.
 
-**Goal:** To order food at a restaurant with Jia's recommendation
+**📍 장소:** 강남 카페 카운터
 
 **intro_text:**
-You're seated at the table.
-Jia is skimming the menu, already knowing what she wants.
+Jia brought you here. "제 단골이에요," she said.
+She's sitting in the corner, watching you order alone.
+Don't disappoint her.
 
-**기 — 추천 [세트 3]**
-User: 뭐가 맛있어요?
-AI: 여기 다 맛있어요.
-User: 추천해 줘요.
-AI: 파스타 드세요. 괜찮아요.
+**기 — 주문 [세트 1]**
+User: 아이스 아메리카노 주세요.
+AI: 사이즈는요?
+User: 기본이요. / 큰 거요.
+AI: 네, 잠깐만요. 준비할게요.
 
 **Outro:**
-> She sets down her menu and looks at you briefly.
+> Order placed. ☕
+> You glanced back at Jia. She gave a small nod.
 >
 
-**승 — 주문 [세트 4]**
-User: 파스타 주세요.
-AI: 어떤 것으로 드릴까요?
-User: 이거요.
+**승 — 추가 [세트 2]**
+User: 케이크 있어요?
+AI: 네, 있어요.
+User: 티라미수 주세요.
+AI: 네!
+
+**Outro:**
+> Jia texted from the corner: "디저트 안 시켜도 되는데."
+> But she ate half of it later. 🍰
+>
+
+---
+
+### sim2: 결제
+
+**Goal:** To pay for your order and pick it up — Jia's judging your Korean from across the room.
+
+**📍 장소:** 강남 카페 카운터 (동일)
+
+**승 — 결제 [세트 3]**
+User: 카드 돼요?
+AI: 네, 돼요.
+User: 감사합니다!
+AI: 감사합니다!
+
+**Outro:**
+> Payment done! 💳
+> Jia's expression didn't change. But she uncrossed her arms. That's approval.
+>
+
+**전 — 기다리기 [세트 4]**
+User: 이름 말씀드릴까요?
+AI: 이름이요?
+User: ___이에요.
+AI: 나오면 불러드릴게요.
+
+**Outro:**
+> Name given! 📝
+> Jia texted: "한국어 괜찮네요."
+>
+
+---
+
+### sim3: 자리
+
+**Goal:** To pick up your order and sit down — Jia saved you a seat (not that she'd admit it).
+
+**📍 장소:** 강남 카페 픽업대 → 좌석
+
+**전 — 받기 [세트 5]**
+User: 이거 맞나요?
+AI: 네!
+User: 빨대 있어요?
+AI: 여기 있어요.
+
+**Outro:**
+> Coffee in hand! ☕
+> There's an empty seat next to Jia. Her bag was on it — she moved it just now.
+>
+
+**결 — 자리 [세트 6]**
+User: 여기 앉아도 돼요?
+AI: 네, 앉으세요!
+User: 감사합니다!
+AI: 네!
+
+**Outro:**
+> You sat down. Jia slid the cake toward you without a word. ☕🍰
+> "드세요." She'll be here when you come back.
+>
+
+---
+
+# TR-2: 지아가 추천한 맛집
+
+- 대분류: Traveling
+- 중분류: Restaurant
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+### sim1: 지아의 맛집
+
+**Goal:** To order food at the restaurant Jia recommended — on your own this time.
+
+**📍 장소:** 강남 맛집
+
+**intro_text:**
+Jia sent you a pin. Then: "혼자 가보세요."
+Then five seconds later: "메뉴 사진 보내세요."
+She's managing you remotely.
+
+**기 — 자리 잡기 [세트 1]**
+User: 한 명이요.
+AI: 이쪽이에요.
+User: 네, 감사합니다.
+AI: 네, 알겠어요. 잠깐만요.
+
+**Outro:**
+> Seated! 🪑
+> You texted Jia: "왔어요!" She replied: "메뉴 봐요."
+>
+
+**승 — 주문 [세트 2]**
+User: 불고기 정식 주세요. / 비빔밥 하나 주세요.
+AI: 네!
+User: 물도 주세요.
+AI: 알겠어요.
+
+**Outro:**
+> Order placed! 🍲
+> Jia texted: "잘 시켰어요. 많이 드세요."
+>
+
+---
+
+### sim2: 식사
+
+**Goal:** To handle the meal and ask for what you need like a pro.
+
+**📍 장소:** 강남 맛집 (동일)
+
+**승 — 맵기 [세트 3]**
+User: 많이 매워요?
+AI: 조금 매워요.
+User: 덜 맵게 해주세요. / 괜찮아요!
+AI: 네, 덜 맵게 해드릴게요.
+
+**Outro:**
+> Crisis averted! 🥵
+> Jia texted: "매운 거 조심하세요."
+>
+
+**전 — 반찬 리필 [세트 4]**
+User: 반찬 더 주세요.
+AI: 어떤 거요?
+User: 김치 더 주세요.
+AI: 김치요? 네, 가져다드릴게요.
+
+**Outro:**
+> Refill secured! 🥢
+> Jia texted: "다 드셨어요?"
+>
+
+---
+
+### sim3: 계산
+
+**Goal:** To pay the bill and leave — mission complete.
+
+**📍 장소:** 강남 맛집 카운터
+
+**전 — 결제 [세트 5]**
+User: 계산해 주세요!
+AI: 만이천 원이에요.
+User: 카드 돼요?
+AI: 네, 돼요.
+
+**Outro:**
+> Bill sorted! 💳
+> You sent Jia a food photo. She replied: "맛있었어요?"
+>
+
+**결 — 인사 [세트 6]**
+User: 잘 먹었습니다!
+AI: 네!
+User: 감사합니다.
+AI: 또 오세요.
+
+**Outro:**
+> You reported back to Jia: "맛있었어요!"
+> Her reply: "당연하죠. 제가 추천했으니까요." 🏆
+>
+
+---
+
+# TR-3: 택시 타기
+
+- 대분류: Traveling
+- 중분류: Taxi
+- 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
+
+---
+
+## sim1: 타기
+
+**Goal:** To get in a taxi and tell the driver where to go — Jia called it for you.
+
+📍 장소: 택시 안
+
+**intro_text:**
+Jia called a taxi. "타세요," she said, opening the door.
+"조심하세요." Then she watched you leave.
+
+### 기 — 타기 [세트 1]
+
+User: 강남역이요.
+AI: 네, 알겠습니다.
+User: 감사합니다!
+AI: 출발할게요.
+
+**Outro:**
+> Destination set! 🚕
+> Jia texted: "타셨어요?"
+>
+
+### 승 — 가는 중 [세트 2]
+
+User: 오래 걸려요?
+AI: 한 10분이요.
+User: 괜찮아요. / 빨리 갈 수 있어요?
 AI: 네, 알겠습니다.
 
 **Outro:**
-> 🍝 She closes the menu with a quiet snap. Order placed, no fuss.
+> Traffic? No problem! 🛣️
+> Jia texted: "도착하면 연락하세요."
 >
 
 ---
 
-### sim3: 식사 후
+## sim2: 가는 중
 
-**📍 장소:** 강남 파인다이닝
+**Goal:** To handle small talk with the driver and navigate politely.
 
-**Goal:** To wrap up dinner and head out
+📍 장소: 택시 안 (동일)
 
-**intro_text:**
-Dinner was excellent.
-The check is on the table.
+### 승 — 대화 [세트 3]
 
-**기 — 계산 [세트 5]**
-User: 계산해 주세요.
-AI: 네, 영수증 가져다 드릴게요.
-User: 감사해요.
-AI: 또 오세요. 감사합니다.
+AI: 여행 오셨어요?
+User: 네!
+AI: 한국어 잘하시네요!
+User: 감사합니다!
 
 **Outro:**
-> Jia stands up and puts on her coat smoothly.
+> Friendly driver unlocked! 😊
+> Almost there.
 >
 
-**승 — 마무리 [세트 6]**
-User: 좋았어요.
-AI: 다행이에요. 맛있었어요?
-User: 다음엔 내가 낼게요.
-AI: 괜찮아요. 제가 할게요.
+### 전 — 도착 [세트 4]
+
+User: 저기서 세워주세요. / 여기서 내릴게요.
+AI: 여기요?
+User: 네, 여기 앞에서요.
+AI: 네, 알겠습니다.
 
 **Outro:**
-> 🧥 She heads for the door without looking back. Evening handled.
->
-
----
-
-### TR-2: 강남 백화점
-
-**대분류:** Travel & Lifestyle
-**중분류:** 강남 — 백화점
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 백화점 입장
-
-**📍 장소:** 강남 현대백화점
-
-**Goal:** To enter a department store with Jia
-
-**intro_text:**
-Jia suggested stopping by the department store.
-You follow her in through the main entrance.
-
-**기 — 도착 [세트 1]**
-User: 여기 자주 와요?
-AI: 주말마다 와요. 좋아해요.
-User: 뭐 사요?
-AI: 필요한 거 사요.
-
-**Outro:**
-> She walks in at a steady pace, clearly knowing exactly where to go.
->
-
-**승 — 안내 [세트 2]**
-User: 어디 가요?
-AI: 3층에 가요. 같이 가요.
-User: 같이 가요.
-AI: 이쪽으로 따라오세요.
-
-**Outro:**
-> 🛗 She steps onto the escalator without slowing down. She knows the way.
+> Almost out! 🏁
+> Handle the payment.
 >
 
 ---
 
-### sim2: 쇼핑 중
+## sim3: 도착
 
-**📍 장소:** 강남 현대백화점
+**Goal:** To pay and exit the taxi — Jia's already texted three times.
 
-**Goal:** To shop for something with help from Jia
+📍 장소: 택시 안 → 도착지
 
-**intro_text:**
-You're on the third floor.
-Jia is looking at something while you browse.
+### 전 — 계산 [세트 5]
 
-**기 — 물건 [세트 3]**
-User: 이거 어때요?
-AI: 괜찮아요. 잘 어울려요.
-User: 살까요?
-AI: 마음에 들면 사세요.
+User: 카드 돼요?
+AI: 네, 돼요.
+User: 감사합니다!
+AI: 감사합니다. 조심히 가세요.
 
 **Outro:**
-> She glances at the price tag and gives a subtle nod of approval.
+> Payment sorted! 💳
+> Jia texted: "아직이에요? 왜 이렇게 오래 걸려요."
 >
 
-**승 — 직원 [세트 4]**
-User: 이 사이즈 있어요?
-AI: 잠깐만요. 확인해 드릴게요.
-User: 감사해요.
-AI: 네, 여기 있습니다.
+### 결 — 내리기 [세트 6]
+
+User: 감사합니다!
+AI: 네, 조심히 가세요!
+User: 안녕히 가세요!
+AI: 네!
 
 **Outro:**
-> 🛍️ She takes the bag from the counter with a brief nod. Done.
->
-
----
-
-### sim3: 백화점 식품관
-
-**📍 장소:** 강남 현대백화점 식품관
-
-**Goal:** To browse the food hall with Jia
-
-**intro_text:**
-You head downstairs to the food hall.
-Jia knows all the good spots.
-
-**기 — 식품관 [세트 5]**
-User: 여기가 좋아요?
-AI: 여기 물건 좋아요.
-User: 뭐 추천해요?
-AI: 이거 드세요. 맛있어요.
-
-**Outro:**
-> She picks up a small item and inspects it carefully.
->
-
-**승 — 구매 [세트 6]**
-User: 이거 주세요.
-AI: 네, 선물 포장 해드릴까요?
-User: 네, 부탁해요.
-AI: 잠깐만 기다려 주세요.
-
-**Outro:**
-> 🎁 She waits with arms crossed, perfectly patient. Purchase complete.
+> Arrived safely! 🎌
+> Jia texted: "도착했어요? 밥 드세요." She'd been watching the clock.
 >
 
 ---
-
-### TR-3: 강남 카페
-
-**대분류:** Travel & Lifestyle
-**중분류:** 강남 — 카페
-**난이도:** A0 (Absolute Beginner)
-**구성:** 12턴 (6세트, 3sim)
-
----
-
-### sim1: 카페 도착
-
-**📍 장소:** 강남 세련된 카페
-
-**Goal:** To arrive at a café with Jia
-
-**intro_text:**
-Jia suggests a coffee break between errands.
-She takes you to her favorite café nearby.
-
-**기 — 도착 [세트 1]**
-User: 분위기 좋네요.
-AI: 단골이에요. 자주 와요.
-User: 자주 와요?
-AI: 일할 때 와요. 조용해요.
-
-**Outro:**
-> She walks straight to a corner table without hesitating.
->
-
-**승 — 자리 [세트 2]**
-User: 여기 앉아요?
-AI: 여기 좋아요. 앉으세요.
-User: 조용하네요.
-AI: 그래서 좋아해요.
-
-**Outro:**
-> ☕ She settles into her seat like she owns the place. Comfortable silence.
->
-
----
-
-### sim2: 주문
-
-**📍 장소:** 강남 세련된 카페
-
-**Goal:** To order drinks at a café
-
-**intro_text:**
-You're at the counter, looking at the menu board.
-Jia already knows her order.
-
-**기 — 메뉴 [세트 3]**
-User: 뭐 시켜요?
-AI: 아메리카노 마실게요.
-User: 추천해요?
-AI: 여기 라테 맛있어요.
-
-**Outro:**
-> She steps aside so you can order at the register.
->
-
-**승 — 주문 [세트 4]**
-User: 라테 주세요.
-AI: 사이즈는 어떻게 해 드릴까요?
-User: 미디움이요.
-AI: 네, 잠깐만요.
-
-**Outro:**
-> 🧾 She pays before you even reach for your wallet. Smooth as always.
->
-
----
-
-### sim3: 카페에서
-
-**📍 장소:** 강남 세련된 카페
-
-**Goal:** To have a brief catch-up conversation at the café
-
-**intro_text:**
-Drinks have arrived. You're both seated.
-Jia is checking her phone briefly.
-
-**기 — 대화 [세트 5]**
-User: 요즘 바빠요?
-AI: 항상 바빠요. 괜찮아요.
-User: 쉬어야 해요.
-AI: 이게 쉬는 거예요.
-
-**Outro:**
-> She looks out the window briefly, then back at her drink.
->
-
-**승 — 마무리 [세트 6]**
-User: 다음엔 또 와요.
-AI: 좋아요. 같이 와요.
-User: 좋았어요.
-AI: 다행이에요. 저도 좋았어요.
-
-**Outro:**
-> 🚶‍♀️ She finishes her coffee and stands. A good afternoon, neatly wrapped up.
->
