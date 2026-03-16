@@ -20,10 +20,10 @@ Lunch time in Korea. You've met a few times now, but you're still being polite.
 She's already bouncing. So many options... what should we eat?
 
 **기 — 뭐 먹을까요 [세트 1]**
-AI: 배고프지 않아요? 저 진짜 배고파요!
+AI: 배고프지 않아요?
 User: 네, 저도요! / 뭐 먹을까요?
-AI: 삼겹살 어때요? 맛있는 데 알아요!
-User: 좋아요! 가요!
+AI: 삼겹살 어때요?
+User: 좋아요! / 맛있는 데 알아요?
 
 **Outro:**
 > Samgyeopsal it is! She's already clapping her hands.
@@ -64,10 +64,10 @@ User: 삼겹살 2인분이요! / 된장찌개도요!
 >
 
 **전 — 말 놓기 [세트 4]**
-AI: 고기 제가 구울게요! 잠깐만요!
+AI: 고기 제가 구울게요!
 User: 감사해요! / 잘 굽네요!
-AI: 아, 우리 말 놓아요! 편하게 해요!
-User: 좋아요! / 네, 그래요!
+AI: 아, 우리 말 놓을까요?
+User: 좋아! / 응, 그래!
 
 **Outro:**
 > She declared it — no question, no hesitation. That's Yuna energy.
@@ -83,7 +83,7 @@ User: 좋아요! / 네, 그래요!
 **📍 장소:** 삼겹살 식당 안 → 식당 밖 길거리
 
 **전 — 식사 후 [세트 5]**
-AI: 진짜 맛있다! 내가 낼게!
+AI: 진짜 맛있다! 내가 낼까?
 User: 아니야, 내가 낼게! / 같이 내자!
 AI: 진짜? 고마워! 다음엔 내가 쏠게!
 User: 알겠어!

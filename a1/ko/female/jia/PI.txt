@@ -21,8 +21,8 @@ You spot Jia at a café. She's already seated with a planner open. Time to catch
 You spot Jia at a café. She's already seated with a planner open. Time to catch up.
 
 **기 — 재회 [세트 1]**
-AI: 어, 안녕하세요. 오랜만이에요.
-User: 지아 씨! 반가워요! / 네, 오랜만이에요!
+AI: 어, 안녕하세요. 잘 지냈어요?
+User: 지아 씨! 반가워요! / 네, 잘 지냈어요!
 AI: 요즘 뭐 하세요?
 User: 한국어 공부해요! / 일하고 있어요!
 
@@ -52,8 +52,8 @@ User: 대단해요! / 오, 그래요?
 
 **승 — 취미 [세트 3]**
 User: 지아 씨는 쉴 때 뭐 해요?
-AI: 카페에서 계획 세워요.
-User: 계획이요? / 저는 드라마 봐요!
+AI: 카페에서 계획 세우는데, 뭐 좋아해요?
+User: 저는 드라마 봐요! / 산책 좋아해요!
 AI: 저도 가끔 봐요.
 User: 진짜요? / 뭐 좋아해요?
 

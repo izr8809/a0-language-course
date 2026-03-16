@@ -32,8 +32,8 @@ User: 네, 가끔 와요! / 오늘 처음이에요!
 **승 — 요즘 어때요? [세트 2]**
 AI: 요즘 어떻게 지내요?
 User: 잘 지내요! / 바빠요!
-AI: 저도 바빴어요! 한국어 많이 늘었네요!
-User: 진짜요? 감사해요! / 아직 멀었어요!
+AI: 한국어 많이 늘었네요, 어떻게 공부했어요?
+User: 매일 연습했어요! / 드라마 많이 봤어요!
 
 **Outro:**
 > He noticed your Korean got better. That means something.

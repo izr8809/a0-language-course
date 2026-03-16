@@ -34,8 +34,8 @@ User: 한국어 공부하고 있어요! / 일하고 있어요!
 **승 — 일상 [세트 2]**
 AI: 저는 요즘 빵 만들어요.
 User: 진짜요? 멋있어요! / 어떤 빵이요?
-AI: 구름 모양 빵이에요.
-User: 오, 그래요? / 먹어 보고 싶어요!
+AI: 구름 모양 빵인데, 먹어 볼래요?
+User: 네, 먹어 보고 싶어요! / 와, 진짜요?
 
 **Outro:**
 > Cloud-shaped bread. Only Taeo would think of that.

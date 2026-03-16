@@ -64,10 +64,10 @@ User: 삼겹살 2인분이요! / 된장찌개도요!
 >
 
 **전 — 말 놓기 [세트 4]**
-AI: 고기 구워줄게요! 잠깐만요!
-User: 감사해요! / 잘 굽네요!
 AI: 아, 우리 이제 말 놓을까요? 편하게 해요!
 User: 좋아요! / 네, 그래요!
+AI: 좋아! 나는 한결이야! 편하게 해!
+User: 응! 나는 ___야!
 
 **Outro:**
 > He couldn't hold the formalities any longer — halfway through grilling, he just went for it.

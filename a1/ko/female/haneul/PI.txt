@@ -21,8 +21,8 @@ You see Haneul at a quiet café. She's holding her camera. Time to reconnect.
 You see Haneul at a quiet café. She's holding her camera. Time to reconnect.
 
 **기 — 재회 [세트 1]**
-AI: 안녕하세요! 오랜만이에요.
-User: 하늘 씨! 반가워요! / 네, 오랜만이에요!
+AI: 어, 안녕하세요!
+User: 하늘 씨! 반가워요! / 네, 안녕하세요!
 AI: 잘 지냈어요?
 User: 네, 잘 지냈어요! / 바빴어요!
 
@@ -52,8 +52,8 @@ User: 보여 주세요! / 와, 좋아요!
 
 **승 — 취미 [세트 3]**
 User: 하늘 씨는 주말에 뭐 해요?
-AI: 보통 사진 찍으러 나가요.
-User: 저도 주말에 돌아다녀요! / 어디서 찍어요?
+AI: 보통 사진 찍으러 나가는데, 혹시 사진 좋아해요?
+User: 네, 좋아해요! / 어디서 찍어요?
 AI: 망원동이요.
 User: 거기 분위기 좋죠! / 가 보고 싶어요!
 
@@ -67,8 +67,8 @@ AI: 우리 이제 많이 친해졌죠?
 User: 네, 맞아요! / 그런 것 같아요!
 AI: 말 놓을까요?
 User: 네, 좋아요! / 그래요!
-AI: 좋아! 나는 하늘이야. 편하게 해!
-User: 응! 나는 ___야!
+AI: 좋아! 나는 하늘이야. 뭐라고 불러줄까?
+User: 하늘아! / 하늘이!
 
 **Outro:**
 > She asked gently, with that quiet smile of hers.

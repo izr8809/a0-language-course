@@ -19,8 +19,10 @@ That voice... is that Minji? She's running toward you already.
 She looks excited. Brace yourself.
 
 **기 — 세상에! [세트 1]**
-AI: 어머! 안녕하세요! 기억나요? 민지예요!
+AI: 어머! 안녕하세요!
 User: 네! 반가워요! / 와, 민지 씨!
+AI: 기억나요? 민지예요!
+User: 네, 기억나요! / 당연하죠!
 AI: 여기 자주 와요?
 User: 네, 가끔요! / 오늘 처음이에요!
 
@@ -62,8 +64,8 @@ User: 맞아요! / 그러게요!
 **전 — 편하게 해! [세트 4]**
 AI: 우리 이제 편하게 말해요! 친구 하자!
 User: 네, 좋아요! / 그래요!
-AI: 나 민지야! 편하게 해!
-User: 응! 반가워!
+AI: 나 민지야! 뭐라고 불러줄까?
+User: 민지! / 민지야!
 
 **Outro:**
 > She couldn't wait. The formality lasted about five minutes.
@@ -73,8 +75,8 @@ User: 응! 반가워!
 **전 — 뭐 할까? [세트 5]**
 AI: 지금 시간 있어? 나랑 놀자!
 User: 응, 있어! / 뭐 할까?
-AI: 맛집 가자! 여기 맛있는 데 알아!
-User: 좋아! 가자!
+AI: 맛집 갈래?
+User: 좋아! 가자! / 뭐 먹을까?
 
 **Outro:**
 > She grabbed your arm before you could even answer.
@@ -92,7 +94,7 @@ User: 좋아! 가자!
 **전 — 같이 먹자 [세트 6]**
 AI: 여기야! 분위기 좋지?
 User: 와, 좋다! / 사람 많다!
-AI: 뭐 먹을래? 여기 떡볶이 맛있어!
+AI: 뭐 먹을래?
 User: 떡볶이! / 뭐가 맛있어?
 
 **Outro:**
