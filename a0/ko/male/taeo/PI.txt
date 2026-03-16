@@ -1,11 +1,11 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-1: 안녕! 나는 ___야
+# PI-1: 안녕하세요! 저는 ___예요
 
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
+- 14턴 (7세트, 3sim) — 존댓말→반말 전환 포함
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -23,10 +23,12 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 어, 사람이다. 나 태오야. 이름이 뭐야?
-User: 나는 ___야! / ___이야!
-AI: 오, 반가워. 오늘 따뜻해.
-User: 따뜻해? ___에서 왔어!
+AI: 어, 안녕하세요. 저는 태오예요.
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
+User: 저는 ___예요!
+AI: 반가워요.
+User: ___에서 왔어요!
 
 **Outro:**
 > Taeo is honest and a little different. But he's warm.
@@ -34,10 +36,14 @@ User: 따뜻해? ___에서 왔어!
 >
 
 **승 — 알아가기 [세트 2]**
-AI: 오늘 하늘 예쁘다. 한국 좋아해?
-User: 응, 좋아해! / 진짜 좋아해!
-AI: 한국 왜 좋아해? 나는 하늘이 좋아.
-User: 드라마! / 음식!
+AI: 오늘 하늘 예쁘네요.
+User: 진짜요? / 그러네요!
+AI: 한국 좋아해요?
+User: 네, 좋아해요! / 진짜 좋아해요!
+AI: 저는 하늘이 좋아요.
+User: 오, 그래요? / 좋아요!
+AI: 왜 좋아해요?
+User: 드라마요! / 음식이요!
 
 **Outro:**
 > Taeo likes the sky. Simple as that.
@@ -46,28 +52,46 @@ User: 드라마! / 음식!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies, talk about food, and get comfortable enough to drop formalities.
 
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
-User: 태오야, 뭐 좋아해?
-AI: 나? 빵 좋아해. 진짜 좋아해.
-User: 빵? / 나도 빵 좋아해!
-AI: 응, 부드럽잖아. 따뜻하잖아.
+User: 태오 씨, 뭐 좋아해요?
+AI: 저요? 빵 좋아해요.
+User: 빵이요? / 저도 빵 좋아해요!
+AI: 진짜 좋아해요.
+User: 오, 그래요? / 맛있죠!
+AI: 부드럽잖아요.
+User: 맞아요! / 따뜻하죠!
 
 **Outro:**
 > Taeo really loves bread. Soft, warm bread.
-> Now, let's talk about Korean food.
+> You two are vibing — maybe it's time to relax a bit.
 >
 
-**전 — 음식 [세트 4]**
+**전 — 말 놓기 [세트 4]**
+AI: 우리 빵 둘 다 좋아하네요.
+User: 네, 맞아요! / 그러네요!
+AI: 우리 편하게 말해요.
+User: 네, 좋아요! / 그래요!
+AI: 좋아. 나는 태오야. 편하게 해!
+User: 응! 나는 ___야!
+
+**Outro:**
+> He suggested it softly, right when it felt natural.
+> From here on, it's 반말 — you're friends now.
+>
+
+**전 — 음식 [세트 5]**
 AI: 한국 음식 먹어 봤어? 빵 말고.
 User: 응! / 아직!
-AI: 삼겹살 먹어 봤어? 빵이랑 먹으면 맛있어.
-User: 먹어 보고 싶어! / 응, 맛있었어!
+AI: 삼겹살 먹어 봤어?
+User: 먹어 보고 싶어! / 응, 먹어 봤어!
+AI: 빵이랑 먹으면 맛있어.
+User: 진짜? / 같이 먹자!
 
 **Outro:**
 > Samgyeopsal with bread? Only in Taeo's world.
@@ -76,13 +100,13 @@ User: 먹어 보고 싶어! / 응, 맛있었어!
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
-**전 — 놀자 [세트 5]**
+**전 — 놀자 [세트 6]**
 User: 주말에 뭐 해?
 AI: 구름 보려고 했는데. 같이 볼래?
 User: 좋아! 어디서?
@@ -93,7 +117,7 @@ AI: 연남동 빵집 앞에서 만나자.
 > Don't let him drift away without getting his Kakao!
 >
 
-**결 — 연락 [세트 6]**
+**결 — 연락 [세트 7]**
 User: 카톡 있어?
 AI: 응, 있어. 아이디 알려줘.
 User: 여기!

@@ -1,11 +1,11 @@
 # 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-1: 안녕! 나는 ___야
+# PI-1: 안녕하세요! 저는 ___예요
 
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
+- 22턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -23,9 +23,13 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕하세요! 저 한결이에요! 이름이 뭐예요?
-User: 안녕하세요! ___이에요!
-AI: 이름 진짜 예뻐요! 어디서 왔어요?
+AI: 안녕하세요! 저는 한결이에요!
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
+User: ___이에요!
+AI: 이름 진짜 예뻐요!
+User: 감사해요! / 고마워요!
+AI: 어디서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
@@ -34,9 +38,11 @@ User: ___에서 왔어요!
 >
 
 **승 — 알아가기 [세트 2]**
-AI: 한국 좋아해요? 저는 진짜 좋아해요!
+AI: 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
-AI: 한국 왜 좋아해요? 저는 음식 때문이에요!
+AI: 저는 진짜 좋아해요!
+User: 오, 진짜요? / 저도요!
+AI: 한국 왜 좋아해요?
 User: 드라마요! / 음식이요!
 
 **Outro:**
@@ -46,47 +52,55 @@ User: 드라마요! / 음식이요!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies, talk about Korean food, and get comfortable enough to drop formalities.
 
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
 User: 한결 씨, 뭐 좋아해요?
-AI: 저요? 다 좋아해요!! 특히 떡볶이요!
-User: 떡볶이 좋아요! / 나도 좋아해요!
+AI: 저요? 다 좋아해요!!
+User: 진짜요? / 와, 대박!
+AI: 특히 떡볶이요!
+User: 떡볶이 좋아요! / 저도 좋아해요!
 AI: 대박! 우리 통했어요!
 
 **Outro:**
 > He likes everything. Especially tteokbokki. Especially you, probably.
-> Now, prepare for the ultimate Korean obsession... Food.
+> He's getting comfortable — you can feel it.
 >
 
-**전 — 음식 [세트 4]**
-AI: 한국 음식 먹어 봤어요?
-User: 네! / 아직이요!
-AI: 삼겹살 먹어 봤어요? 진짜 맛있어요!
-User: 먹어 보고 싶어요! / 네, 맛있었어요!
+**전 — 말 놓기 [세트 4]**
+AI: 나이가 어떻게 돼요?
+User: ___살이에요!
+AI: 오, 비슷해요!
+User: 네, 그래요! / 오, 진짜요?
+AI: 말 놓을까요?
+User: 네, 좋아요! / 네!
 
 **Outro:**
-> Tteokbokki. Of course that's his answer. He's already planning where to take you.
-> This is your chance — ask him to hang out!
+> He asked your age and immediately went for it. No hesitation — classic Hangyeol.
+> From now on, it's 반말 all the way.
 >
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **전 — 놀자 [세트 5]**
-User: 주말에 뭐 해요?
-AI: 저요? 아직 없어요! 같이 놀래요?!
-User: 좋아요! 뭐 할까요?
-AI: 밥 먹으러 가요! 맛집 알아요!
+AI: 좋아! 나는 한결이야.
+User: 나는 ___야!
+AI: 편하게 해!
+User: 응! / 알겠어!
+AI: 주말에 뭐 해?
+User: 아직 없어! / 모르겠어!
+AI: 같이 놀래?!
+User: 좋아! 뭐 할까?
 
 **Outro:**
 > Weekend plans? He was already mentally packing his bag.
@@ -94,10 +108,17 @@ AI: 밥 먹으러 가요! 맛집 알아요!
 >
 
 **결 — 연락 [세트 6]**
-User: 카톡 있어요?
-AI: 카톡 해요! 번호 줘요!
-User: 응! 여기요!
-AI: 저장했어요! 바로 연락할게요!!
+AI: 밥 먹으러 가자!
+User: 좋아! / 가자!
+AI: 맛집 알아!
+User: 좋아! 카톡 있어?
+AI: 카톡 해!
+User: 응! / 좋아!
+AI: 번호 줘!
+User: 여기!
+AI: 저장했어!
+User: 나도 저장했어! / 오, 빠르다!
+AI: 바로 연락할게!!
 
 **Outro:**
 > He saved your number faster than you could blink. You've been claimed.
@@ -123,15 +144,15 @@ AI: 저장했어요! 바로 연락할게요!!
 
 **intro_text:**
 You made it to the cafe. Hangyeol is already waving at you from across the room.
-Age, location... and then the question everyone asks.
+You're 반말 buddies now — time to get to know each other for real.
 
 ### 기 — 나이 [세트 1]
 
-AI: 몇 살이에요? 저 궁금해요!!
-User: ___살이에요!
+AI: 몇 살이야? 나 궁금해!!
+User: ___살이야!
 
-AI: 오! 저는 스물두 살이에요!
-User: 진짜요? / 오, 비슷해요!
+AI: 오! 나는 스물두 살이야!
+User: 진짜? / 오, 비슷해!
 
 **Outro:**
 > Age revealed! He's the younger one and already acting like your biggest fan.
@@ -140,11 +161,11 @@ User: 진짜요? / 오, 비슷해요!
 
 ### 승 — 어디 살아 [세트 2]
 
-User: 어디 살아요?
-AI: 저 건대 근처에 살아요! 거기 맛집 많아요!
+User: 어디 살아?
+AI: 나 건대 근처에 살아! 거기 맛집 많아!
 
-User: 저는 서울 살아요! / 저는 홍대 근처!
-AI: 오, 가깝다! 놀러 와요!
+User: 나는 서울 살아! / 나는 홍대 근처!
+AI: 오, 가깝다! 놀러 와!
 
 **Outro:**
 > Neighbors? He's already inviting you over. Classic puppy energy.

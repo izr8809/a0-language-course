@@ -5,7 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
+- 22턴 (6세트, 3sim)
 
 First meeting in Korea.
 Someone is waving at you — big smile!
@@ -23,9 +23,13 @@ First meeting in Korea.
 Someone is waving at you — big smile!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕하세요! 저는 유나예요! 이름이 뭐예요?
+AI: 안녕하세요! 저는 유나예요!
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
 User: 저는 ___예요! / ___이에요!
-AI: 와, 반가워요! 어디에서 왔어요?
+AI: 와, 반가워요!
+User: 저도 반가워요! / 감사해요!
+AI: 어디에서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
@@ -36,7 +40,9 @@ User: ___에서 왔어요!
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
-AI: 진짜요?! 저도 한국 좋아해요! 왜 좋아해요?
+AI: 진짜요?! 저도 좋아해요!
+User: 오, 진짜요? / 저도요!
+AI: 왜 좋아해요?
 User: 드라마요! / 음식이요!
 
 **Outro:**
@@ -46,47 +52,55 @@ User: 드라마요! / 음식이요!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies, talk about Korean food, and become close enough to drop formalities.
 
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
 User: 유나 씨, 뭐 좋아해요?
-AI: 저요? 노래 좋아해요! 같이 노래방 가요!
-User: 좋아요! / 나도 음악 좋아해요!
+AI: 저요? 노래 좋아해요!
+User: 오, 진짜요? / 저도 좋아해요!
+AI: 같이 노래방 가요!
+User: 좋아요! / 네, 가요!
 AI: 진짜요?! 완전 좋다!
 
 **Outro:**
 > She's already planning karaoke in her head.
-> Now for the most important topic: food.
+> She's vibing with you hard — something's about to change.
 >
 
-**전 — 음식 [세트 4]**
-AI: 한국 음식 먹어 봤어요?
-User: 네! / 아직이요!
-AI: 붕어빵 먹어 봤어요? 진짜 맛있어요!
-User: 먹어 보고 싶어요! / 네, 맛있었어요!
+**전 — 말 놓기 [세트 4]**
+AI: 나이가 어떻게 돼요?
+User: ___살이에요!
+AI: 오, 비슷해요!
+User: 네, 그래요! / 오, 진짜요?
+AI: 우리 말 놓아요!
+User: 네, 좋아요! / 네!
 
 **Outro:**
-> Bungeoppang — her number one snack recommendation.
-> Time to lock this friendship down. Ask her to hang out!
+> She didn't even ask — she declared it. That's Yuna energy.
+> From now on, it's 반말 all the way!
 >
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **전 — 놀자 [세트 5]**
-User: 주말에 뭐 해요?
-AI: 저요? 아직 없어요! 같이 놀아요!
-User: 좋아요! 뭐 할까요?
-AI: 신촌 가요! 맛있는 거 먹어요!
+AI: 좋아! 나는 유나야!
+User: 나는 ___야!
+AI: 편하게 해!
+User: 응! / 알겠어!
+AI: 주말에 뭐 해?
+User: 아직 없어! / 모르겠어!
+AI: 같이 놀자!
+User: 좋아! 뭐 할까?
 
 **Outro:**
 > She didn't even wait for you to ask — she invited herself.
@@ -94,10 +108,17 @@ AI: 신촌 가요! 맛있는 거 먹어요!
 >
 
 **결 — 연락 [세트 6]**
-User: 카톡 있어요?
-AI: 네! 아이디 알려 주세요!
-User: 여기요!
-AI: 연락할게요! 또 봐요!
+AI: 신촌 가자!
+User: 좋아! / 가자!
+AI: 맛있는 거 먹자!
+User: 좋아! 카톡 있어?
+AI: 카톡 해!
+User: 응! / 좋아!
+AI: 아이디 알려 줘!
+User: 여기!
+AI: 연락할게!
+User: 응! / 기다릴게!
+AI: 또 보자!
 
 **Outro:**
 > Contact secured — expect a flood of messages soon.
@@ -122,15 +143,15 @@ AI: 연락할게요! 또 봐요!
 📍 장소: 카페
 
 **intro_text:**
-You're at a busy café near Sinchon station.
+You're at a busy cafe near Sinchon station.
 She's already ordered — and she got you something too.
 
 ### 기 — 나이 [세트 1]
 
-AI: 몇 살이에요?
-User: ___살이에요!
+AI: 몇 살이야? 궁금해!
+User: ___살이야!
 
-AI: 저는 21살이에요! 나이 차이 얼마 안 나네!
+AI: 나는 21살이야! 나이 차이 얼마 안 나네!
 User: 진짜? / 오, 그래?
 
 **Outro:**
@@ -140,11 +161,11 @@ User: 진짜? / 오, 그래?
 
 ### 승 — 어디 살아 [세트 2]
 
-User: 어디 살아요?
-AI: 신촌이요! 학교 근처예요. 어디 살아요?
+User: 어디 살아?
+AI: 신촌! 학교 근처야. 너는?
 
-User: 서울이에요! / 홍대 근처예요!
-AI: 와, 가까워요! 자주 보자!
+User: 서울이야! / 홍대 근처야!
+AI: 와, 가깝다! 자주 보자!
 
 **Outro:**
 > She already wants to hang out again — you just met.

@@ -1,11 +1,11 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-1: 안녕! 나는 ___야
+# PI-1: 안녕하세요! 저는 ___이에요
 
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
+- 16턴 (8세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -14,7 +14,7 @@ Deep breath... say hi!
 
 ### sim1: Nice to Meet You
 
-**Goal:** To introduce yourself, state where you are from, and briefly share why you like Korea.
+**Goal:** To introduce yourself and share where you're from.
 
 **📍 장소:** 밖
 
@@ -23,55 +23,77 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕! 나는 민지야! 이름이 뭐야?
-User: 나는 ___야! / ___이야!
-AI: 오, 반가워! 어디서 왔어?
-User: ___에서 왔어!
+AI: 안녕하세요! 저는 민지예요!
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
+User: 저는 ___이에요!
 
 **Outro:**
-> First impression: Passed! 🎯
+> First impression: Passed!
 > But wait... why are you *really* here in Korea?
 >
 
-**승 — 알아가기 [세트 2]**
-AI: 한국 좋아해?
-User: 응, 좋아해! / 진짜 좋아해!
-AI: 한국 왜 좋아해?
-User: 드라마! / 음식!
+**승 — 어디에서 왔어요 [세트 2]**
+AI: 반가워요! 어디에서 왔어요?
+User: ___에서 왔어요!
+AI: 와, 멀리서 왔네요! 한국 좋아해요?
+User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-> They loved your answer! 👀
-> Red flag or green flag? Let's see if your hobbies match.
+> She seems impressed!
+> Now tell her *why* you love Korea.
+>
+
+**승 — 왜 좋아해요 [세트 3]**
+AI: 한국 왜 좋아해요?
+User: 음식이요! / 쇼핑이요!
+AI: 오, 저도요! 쇼핑 자주 해요?
+User: 네, 자주요! / 가끔요!
+
+**Outro:**
+> Shared interests detected!
+> She's already getting excited. Watch what happens next.
 >
 
 ---
 
 ### sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies and become friends.
 
 **📍 장소:** 밖 (동일)
 
-**승 — 취미 [세트 3]**
-User: 민지야, 뭐 좋아해?
-AI: 나? 음악 좋아해! 너는?
-User: 나도 음악! / 드라마 좋아해!
-AI: 오, 진짜? 한국 음악?
+**전 — 취미 [세트 4]**
+User: 민지 씨, 취미 뭐예요?
+AI: 저요? 쇼핑이랑 맛집이요!
+User: 저도요! / 오, 좋아요!
+AI: 진짜요? 우리 진짜 잘 맞아요!
 
 **Outro:**
-> Vibe check passed! ✔️
-> Now, prepare for the ultimate Korean obsession... Food.
+> Vibe check passed!
+> She's about to make a bold move...
 >
 
-**전 — 음식 [세트 4]**
-AI: 한국 음식 먹어 봤어?
-User: 응! / 아직!
-AI: 삼겹살 먹어 봤어? 진짜 맛있어!
-User: 먹어 보고 싶어! / 응, 맛있었어!
+**전 — 말 놓기 [세트 5]**
+AI: 나이가 어떻게 돼요?
+User: ___살이에요!
+AI: 오, 비슷해요! 편하게 말해요!
+User: 네, 좋아요! / 네!
 
 **Outro:**
-> Enough talking! 🛑
-> This is your golden chance. Make a move and ask them out!
+> Formality wall: destroyed.
+> From now on, it's 반말 only.
+>
+
+**결 — 반말 시작 [세트 6]**
+AI: 좋아! 나는 민지야, 편하게 해!
+User: 응! 나는 ___야!
+AI: 반가워! 한국 음식 좋아해?
+User: 응, 좋아해! / 진짜 좋아해!
+
+**Outro:**
+> New friend unlocked!
+> Now lock in those weekend plans before she disappears.
 >
 
 ---
@@ -80,27 +102,27 @@ User: 먹어 보고 싶어! / 응, 맛있었어!
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
-**📍 장소:** 밖 (동일, 쉬는 시간)
+**📍 장소:** 밖 (동일)
 
-**전 — 놀자 [세트 5]**
-User: 주말에 뭐 해?
-AI: 나? 아직 약속 없어! 같이 놀래?
-User: 좋아! 뭐 할까?
-AI: 밥 먹으러 가자!
+**결 — 놀자 [세트 7]**
+AI: 주말에 뭐 해? 같이 놀래?
+User: 좋아! 뭐 할까? / 어디 갈까?
+AI: 홍대 가자! 맛집 알아!
+User: 좋아! / 가자!
 
 **Outro:**
-> It's officially a date! 🥂
-> ...Wait! Don't let them walk away without getting their Kakao ID!
+> It's officially a date!
+> ...Wait! Don't walk away without getting her Kakao ID!
 >
 
-**결 — 연락 [세트 6]**
+**결 — 연락 [세트 8]**
 User: 카톡 있어?
 AI: 응, 있어! 아이디 알려줘!
-User: 여기!
-AI: 연락할게! 또 봐!
+User: 여기! / 보낼게!
+AI: 저장했어! 연락할게!
 
 **Outro:**
-> Contact secured! 🔒
+> Contact secured!
 > Next up: The test that decides if you're *truly* compatible.
 >
 

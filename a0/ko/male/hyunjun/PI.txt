@@ -23,7 +23,7 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕하세요. 현준이에요. 편하게 해요. 이름이 뭐예요?
+AI: 안녕하세요. 현준이에요. 이름이 뭐예요?
 User: 저는 ___예요!
 AI: 반가워요. 어디서 왔어요?
 User: ___에서 왔어요!
@@ -46,7 +46,7 @@ User: 드라마요! / 음식이요!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
 **Goal:** To discover shared hobbies and talk about your experience with Korean food.
 
@@ -76,7 +76,7 @@ User: 같이 먹어요! / 고마워요!
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
@@ -84,23 +84,23 @@ User: 같이 먹어요! / 고마워요!
 
 **전 — 놀자 [세트 5]**
 User: 주말에 뭐 해요?
-AI: 집에 있어요. 쉬어요. 왜요?
+AI: 아직 없어요. 왜요?
 User: 같이 놀래요?
-AI: 좋아요. 편히 쉬세요.
+AI: 좋아요. 뭐 할까요?
 
 **Outro:**
-> He said "rest well" like it was an order. But his voice was softer than usual.
-> ...Wait! Don't let him walk away without getting his Kakao ID!
+> He said yes — quietly, but he said yes. That counts.
+> Don't let him walk away without getting his Kakao ID!
 >
 
 **결 — 연락 [세트 6]**
 User: 카톡 있어요?
 AI: 네, 있어요. 보내세요.
 User: 제 카톡 ___예요!
-AI: 좋아요. 저장할게요.
+AI: 저장할게요. 편하게 말해도 돼요.
 
 **Outro:**
-> No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe.
+> No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe. Still in 존댓말.
 > Next up: The test that decides if you're *truly* compatible.
 >
 

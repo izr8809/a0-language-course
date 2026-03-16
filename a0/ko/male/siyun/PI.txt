@@ -1,11 +1,10 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-1: 안녕! 나는 ___야
+# PI-1: 안녕하세요! 저는 ___이에요
 
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -23,66 +22,88 @@ First meeting in Korea.
 Deep breath... say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 시윤이야. 반말 해. 이름이 뭐야?
-User: 나는 ___야! / ___이야!
-AI: 방금 말했어. 시윤. 어디서 왔어?
-User: ___에서 왔어!
+AI: 안녕하세요. 시윤이에요.
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
+User: 저는 ___이에요!
 
 **Outro:**
-> He told you his name once. Don't make him say it again — that's already more words than most people get.
-> But wait... why are you *really* here in Korea?
+> He said hi — flat, no smile. That's already generous for Siyun.
+> Now tell him where you're from.
 >
 
-**승 — 알아가기 [세트 2]**
-AI: 멀리서 왔네. 한국 좋아해?
-User: 응, 좋아해! / 진짜 좋아해!
-AI: 나도 좋아해. 뭐가 좋아?
-User: 드라마! / 음식!
+**승 — 어디에서 왔어요 [세트 2]**
+AI: 어디에서 왔어요?
+User: ___에서 왔어요!
+AI: 멀리서 왔네요. 한국 좋아해요?
+User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-> You said why you like Korea. He said he likes it too. That's as warm as Siyun gets.
-> Red flag or green flag? Let's see if your hobbies match.
+> You said you like Korea. He nodded once. That's as warm as Siyun gets.
+> But wait... *why* do you like Korea?
+>
+
+**승 — 왜 좋아해요 [세트 3]**
+AI: 뭐가 좋아요?
+User: 드라마요! / 음식이요!
+AI: 그래요? 저도 좋아해요.
+User: 진짜요? / 오, 좋아요!
+
+**Outro:**
+> He said "me too." For Siyun, that's practically a hug.
+> Let's see if your hobbies actually match.
 >
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
 **Goal:** To discover shared hobbies and talk about your experience with Korean food.
 
 **📍 장소:** 밖 (동일)
 
-**승 — 취미 [세트 3]**
-User: 시윤아, 뭐 좋아해?
-AI: 음악. 너는?
-User: 나도 음악! / 드라마 좋아해!
-AI: 그래? 취향 괜찮네.
+**전 — 취미 [세트 4]**
+User: 시윤 씨, 취미 뭐예요?
+AI: 음악이요. 듣는 거 좋아해요.
+User: 저도요! / 오, 좋아요!
+AI: 취향 괜찮네요.
 
 **Outro:**
 > He approved your taste. That's a rare compliment from Siyun. Save it.
 > Now, prepare for the ultimate Korean obsession... Food.
 >
 
-**전 — 음식 [세트 4]**
-AI: 밥 먹었어? 또 안 먹었지?
-User: 아직! / 응, 먹었어!
-AI: 어쨌든 같이 가. 밥 먹자.
-User: 같이 먹자! / 좋아!
+**전 — 음식 [세트 5]**
+AI: 밥 먹었어요?
+User: 아직이요! / 네, 먹었어요!
+AI: 어쨌든 같이 가요.
+User: 같이 먹어요! / 좋아요!
 
 **Outro:**
 > He didn't invite you to eat — he told you. There's a difference.
-> This is your golden chance. Make a move and ask him out!
+> He seems comfortable around you now. Maybe something's about to change...
 >
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
-**Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
+**Goal:** To switch to 반말, make casual weekend plans, and exchange KakaoTalk IDs.
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
-**전 — 놀자 [세트 5]**
+**전 — 말 놓기 [세트 6]**
+AI: 아, 그냥 편하게 해요. 반말 해요.
+User: 네! / 좋아요!
+AI: 나는 시윤이야. 편하게 해.
+User: 응! 나는 ___야!
+
+**Outro:**
+> He didn't ask — he decided. That's how Siyun drops formality.
+> Now you're on 반말 terms. Time to make some plans.
+>
+
+**전 — 놀자 [세트 7]**
 User: 주말에 뭐 해?
 AI: 딱히 없어. 왜?
 User: 같이 놀래?
@@ -93,7 +114,7 @@ AI: 좋아. 늦지 마.
 > ...Wait! Don't let him walk away without getting his Kakao ID!
 >
 
-**결 — 연락 [세트 6]**
+**결 — 연락 [세트 8]**
 User: 카톡 있어?
 AI: 있어. 번호 줘.
 User: 여기! 내 아이디 ___야!

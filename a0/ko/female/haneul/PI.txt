@@ -1,11 +1,11 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-1: 안녕! 나는 ___야
+# PI-1: 안녕하세요! 저는 ___예요
 
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 12턴 (6세트, 3sim)
+- 14턴 (7세트, 3sim) — 존댓말→반말 전환 포함
 
 First meeting in Korea.
 She looks quiet but friendly. Say hi!
@@ -23,10 +23,12 @@ First meeting in Korea.
 She looks quiet but friendly. Say hi!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕! 나는 하늘이야. 이름이 뭐야?
-User: 나는 ___야! / ___이야!
-AI: 오, 예쁜 이름이다. 어디서 왔어?
-User: ___에서 왔어!
+AI: 안녕하세요. 저는 하늘이에요.
+User: 안녕하세요! / 반가워요!
+AI: 이름이 뭐예요?
+User: 저는 ___예요!
+AI: 예쁜 이름이에요.
+User: 감사해요! / ___에서 왔어요!
 
 **Outro:**
 > She smiles quietly and waits.
@@ -34,10 +36,12 @@ User: ___에서 왔어!
 >
 
 **승 — 알아가기 [세트 2]**
-AI: 한국 좋아해?
-User: 응, 좋아해! / 진짜 좋아해!
-AI: 나도 좋아해. 분위기 좋아. 너는 왜 좋아해?
-User: 드라마! / 음식!
+AI: 한국 좋아해요?
+User: 네, 좋아해요! / 진짜 좋아해요!
+AI: 저도 좋아해요.
+User: 진짜요? / 오, 좋아요!
+AI: 왜 좋아해요?
+User: 드라마요! / 음식이요!
 
 **Outro:**
 > She nodded slowly, thinking about your answer.
@@ -46,54 +50,73 @@ User: 드라마! / 음식!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies, talk about food, and transition to casual speech.
 
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
-User: 하늘아, 뭐 좋아해?
-AI: 사진 찍는 거 좋아해. 너는?
-User: 나도 사진! / 음악 좋아해!
-AI: 좋다. 나 사진 찍어. 같이 찍을래?
+User: 하늘 씨, 뭐 좋아해요?
+AI: 사진 찍는 거 좋아해요.
+User: 저도 사진이요! / 음악 좋아해요!
+AI: 같이 찍을래요?
+User: 좋아요! / 네!
 
 **Outro:**
 > You two have something in common.
-> Now, the topic every Korean cares about: food.
+> She looks comfortable now — maybe it's time to relax.
 >
 
-**전 — 음식 [세트 4]**
-AI: 한국 음식 먹어 봤어?
-User: 응! / 아직!
-AI: 크로플 좋아해. 같이 먹으러 가자!
-User: 먹어 보고 싶어! / 어디가 맛있어?
+**전 — 말 놓기 [세트 4]**
+AI: 우리 비슷한 거 많네요.
+User: 네, 맞아요! / 그러네요!
+AI: 말 놓을까요?
+User: 네, 좋아요! / 그래요!
+AI: 좋아! 나는 하늘이야. 편하게 해!
+User: 응! 나는 ___야!
 
 **Outro:**
-> She's already picturing the café in her head.
+> She suggested it gently, with that quiet smile.
+> From here on, it's 반말 — you're friends now.
+>
+
+**전 — 음식 [세트 5]**
+AI: 한국 음식 먹어 봤어?
+User: 응! / 아직!
+AI: 크로플 좋아해.
+User: 먹어 보고 싶어! / 나도 좋아해!
+AI: 같이 먹으러 가자!
+User: 좋아! / 어디가 맛있어?
+
+**Outro:**
+> She's already picturing the cafe in her head.
 > Now is your chance — ask her to hang out!
 >
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
-**전 — 놀자 [세트 5]**
+**전 — 놀자 [세트 6]**
 User: 주말에 뭐 해?
-AI: 음... 예쁜 카페 가고 싶어. 같이 갈래?
-User: 좋아! 어디 갈까?
-AI: 망원동 카페 가자! 크로플 먹어 볼래?
+AI: 음... 예쁜 카페 가고 싶어.
+User: 좋아! / 나도!
+AI: 같이 갈래?
+User: 응! 어디 갈까?
+AI: 망원동 카페 가자!
+User: 좋아! / 거기 가고 싶어!
 
 **Outro:**
 > A weekend plan is forming.
 > Don't forget to get her Kakao ID!
 >
 
-**결 — 연락 [세트 6]**
+**결 — 연락 [세트 7]**
 User: 카톡 있어?
 AI: 응, 있어! 아이디 보내 줘!
 User: 여기! / 보낼게!
