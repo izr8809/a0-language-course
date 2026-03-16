@@ -1,6 +1,6 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말) >> Korean Life
 
-# PI-5: 우리 밥 먹으러 가자
+# PI-1: 같이 밥 먹을래요?
 
 - 대분류: Personal Interest
 - 중분류: Hanging Out
@@ -11,101 +11,102 @@
 
 ### sim1: Choosing a Place
 
-**Goal:** To suggest a food idea, agree on a spot, and figure out how to get there with your friend.
+**Goal:** To suggest a food idea and agree on a spot together — polite and measured, as always.
 
 **📍 장소:** 길거리
 
 **intro_text:**
-Lunch time in Korea. So many options... what should we eat?
+Lunch time in Korea. You've met a few times now, but he keeps things formal.
+He glances over. He's hungry too, but he won't say it first.
 
-**기 — 뭐 먹을까 [세트 1]**
-User: 배고파! 뭐 먹을까?
-AI: 나도 배고파! 뭐 먹고 싶어?
-User: 삼겹살 먹고 싶어! / 삼겹살 어때?
-AI: 좋아! 맛있는 데 알아! 가자!
+**기 — 뭐 먹을까요 [세트 1]**
+AI: 배고프지 않아요? 뭐 먹을까요?
+User: 네, 배고파요! / 뭐 먹을까요?
+AI: 삼겹살 어때요? 괜찮은 데 알아요.
+User: 좋아요! 가요!
 
 **Outro:**
-> Samgyeopsal it is! 🥓 But wait, how do we get there?
-> Prepare your stomach — a massive feast awaits.
+> Samgyeopsal it is. He suggested it like a business proposal — but his eyes gave him away.
+> He knows a place. Of course he does.
 >
 
 **승 — 가는 길 [세트 2]**
-AI: 여기서 가까워! 걸어갈까?
-User: 응, 걸어가자! / 얼마나 걸리는데?
-AI: 5분이면 돼! 가자!
-User: 알겠어!
+AI: 여기서 가까워요. 걸어갈까요?
+User: 네, 좋아요! / 얼마나 걸려요?
+AI: 5분이면 돼요. 같이 가요.
+User: 네!
 
 **Outro:**
-> Just a short walk! 🚶‍♂️ Prepare your stomach for a massive feast.
+> A quiet walk. He matched your pace without saying anything.
 > Almost there... the smell of grilling meat is calling.
 >
 
 ---
 
-### sim2: At the Restaurant
+## sim2: At the Restaurant
 
-**Goal:** To order food together and bond over grilling meat like a true Korean local.
+**Goal:** To order food together and bond over the meal — still in 존댓말.
 
 **📍 장소:** 삼겹살 식당 안
 
 **intro_text:**
-We're here. This place looks amazing.
+We're here. He held the door without a word. The restaurant is packed.
 
 **승 — 식당 [세트 3]**
-AI: 여기야! 어때?
-User: 와, 좋다! / 사람 많다!
-AI: 뭐 시킬까? 여기 메뉴판!
-User: 삼겹살 2인분 / 된장찌개!
+AI: 여기예요. 어때요?
+User: 좋아요! / 사람 많아요!
+AI: 뭐 시킬까요? 여기 메뉴판이요.
+User: 삼겹살 2인분이요! / 된장찌개도요!
 
 **Outro:**
-> Order placed! 🥩 Now comes the most important question in Korea...
-> Who grills the meat? The real power move starts now.
+> Order placed. He studied the menu like a contract before committing.
+> Now the real question: who takes over the grill?
 >
 
 **전 — 먹기 [세트 4]**
-AI: 고기 구워줄까?
-User: 응, 구워줘! / 내가 구울게!
-AI: 맛있다!
-User: 진짜 맛있다! / 여기 잘 찾았다!
+AI: 제가 구울게요. 잠깐만요.
+User: 감사해요! / 잘 굽네요!
+AI: 맛있어요. 많이 드세요.
+User: 진짜 맛있어요! / 여기 잘 아시네요!
 
 **Outro:**
-> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
-> Brace yourself — the Korean bill fight is legendary.
+> He grilled every piece to perfection and said two words: "Eat more." That's Hyunjun's love language.
+> Time to settle the bill — brace yourself.
 >
 
 ---
 
-### sim3: After Eating
+## sim3: After Eating
 
-**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+**Goal:** To handle the bill and make plans — still in 존댓말, with a subtle opening at the end.
 
 **📍 장소:** 삼겹살 식당 안 → 식당 밖 길거리
 
 **전 — 식사 후 [세트 5]**
-User: 내가 낼게!
-AI: 아니야, 같이 내자!
-User: 아니야, 오늘 내가 쏠게!
-AI: 진짜? 고마워! 다음엔 내가 살게!
+AI: 잘 먹었어요. 제가 낼게요.
+User: 아니에요, 제가 낼게요! / 같이 내요!
+AI: 괜찮아요. 다음에 사 주세요.
+User: 감사해요!
 
 **Outro:**
-> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
-> The hangout isn't over yet — round two incoming.
+> He paid before you could even reach for your wallet. No negotiation. That's just how he operates.
+> A quiet walk outside... and then, something shifts.
 >
 
 **결 — 다음에 [세트 6]**
-AI: 배불러! 이제 뭐 할까?
-User: 카페 갈까? / 좀 걸을까?
-AI: 좋아, 가자!
-User: 가자!
+AI: 다음에 또 같이 먹어요. 편하게 말해도 돼요.
+User: 네, 좋아요! / 감사해요!
+AI: 조심히 가세요.
+User: 네, 또 봐요!
 
 **Outro:**
-> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
-> A perfect hangout deserves a perfect ending.
+> "편하게 말해도 돼요." Six words. From him, that's practically a confession.
+> He's not there yet — but the door just cracked open.
 >
 
 ---
 
-# PI-6: 너 때문에 한국어 배워
+# PI-2: 저 때문에 한국어 배워요?
 
 - 대분류: Personal Interest
 - 중분류: Deeper Friendship
@@ -116,98 +117,99 @@ User: 가자!
 
 ### sim1: Getting Personal
 
-**Goal:** To open up about why you're learning Korean and feel supported by your friend's encouragement.
+**Goal:** To open up about why you're learning Korean and feel supported — still in 존댓말, slightly warmer than PI-1.
 
 **📍 장소:** 카페
 
 **intro_text:**
-A quiet café. A real conversation. This one goes deeper.
+A quiet café. He ordered your drink without asking — he remembered from last time.
+The conversation drifts somewhere deeper today. He's still formal, but something's softer.
 
 **기 — 깊은 대화 [세트 1]**
-AI: 한국어 왜 배워?
-User: 한국 친구 사귀고 싶어서! / 드라마 알아듣고 싶어서!
-AI: 오, 진짜? 지금 잘하고 있어!
-User: 아직 멀었어. / 진짜? 고마워!
+AI: 한국어 왜 배워요? 궁금했어요.
+User: 한국 친구 사귀고 싶어서요! / 드라마 알아듣고 싶어서요!
+AI: 진짜요? 지금도 잘하고 있어요.
+User: 아직 멀었어요. / 진짜요? 감사해요!
 
 **Outro:**
-> You're doing better than you think! 🌟 But how's life in Korea, really?
-> Time to get honest about the hard parts.
+> He said it plainly — "You're doing well." No exaggeration. From him, that's high praise.
+> But the conversation isn't over. He has another question.
 >
 
 **승 — 한국 생활 [세트 2]**
-AI: 한국에서 힘든 거 없어?
-User: 가끔 외로워. / 말이 잘 안 통할 때.
-AI: 힘들면 나한테 얘기해!
-User: 고마워. / 응, 그럴게.
+AI: 한국에서 힘든 거 없어요?
+User: 가끔 외로워요. / 말이 잘 안 통할 때요.
+AI: 힘들면 저한테 얘기해요.
+User: 감사해요. / 네, 그럴게요.
 
 **Outro:**
-> You've got a real friend right here. 🤝 That means everything.
-> And this friendship is only getting stronger.
+> He didn't flinch. He just said, "Tell me." Quietly, like it was obvious.
+> This is how he shows he cares — no fanfare, just presence.
 >
 
 ---
 
 ### sim2: Encouragement
 
-**Goal:** To reflect on how far you've come with Korean and feel genuinely motivated to keep going.
+**Goal:** To reflect on how far you've come with Korean and feel genuinely motivated — 존댓말 maintained.
 
 **📍 장소:** 카페 (동일)
 
 **승 — 응원 [세트 3]**
-AI: 한국어 처음 배울 때 어땠어?
-User: 진짜 어려웠어! / 하나도 몰랐어.
-AI: 근데 지금 이렇게 잘하잖아!
-User: 그래? 고마워! / 아직 많이 부족해.
+AI: 한국어 처음 배울 때 어땠어요?
+User: 진짜 어려웠어요! / 하나도 몰랐어요.
+AI: 근데 지금 이렇게 잘하잖아요.
+User: 그래요? 감사해요! / 아직 많이 부족해요.
 
 **Outro:**
-> Look how far you've come! 📈 Your friend sees it even when you don't.
-> And now... a confession that changes everything.
+> He looked at you like you were being ridiculous. "You're good." End of discussion.
+> And now... something you weren't expecting to say out loud.
 >
 
 **전 — 감동 [세트 4]**
-User: 너 때문에 한국어 더 열심히 하고 싶어.
-AI: 진짜? 감동이다!
-User: 진짜야!
-AI: 나도 너 때문에 영어 배우고 싶어!
+User: 현준 씨 때문에 한국어 더 열심히 하고 싶어요.
+AI: 진짜요? 감동이에요.
+User: 진짜예요!
+AI: 저도 덕분에 영어 배우고 싶어요.
 
 **Outro:**
-> Mutual inspiration! 💫 This friendship just leveled up.
-> Real friends make each other better — and you two are proof.
+> His ears went red. He looked away. "Me too," he said — barely above a whisper.
+> This friendship just became something mutual.
 >
 
 ---
 
 ### sim3: Real Friends
 
-**Goal:** To realize how quickly this friendship grew and make plans to keep seeing each other.
+**Goal:** To realize how quickly this friendship grew and make plans — 존댓말 with warmth.
 
 **📍 장소:** 카페 (동일)
 
 **전 — 진짜 친구 [세트 5]**
-AI: 우리 알게 된 지 얼마나 됐지?
-User: 한 달? / 벌써 두 달!
-AI: 시간 진짜 빠르다!
-User: 맞아!
+AI: 우리 알게 된 지 얼마나 됐죠?
+User: 한 달이요? / 벌써 두 달이에요!
+AI: 시간 진짜 빨라요.
+User: 맞아요!
 
 **Outro:**
-> Time flies when you're with the right person! ⏰ Don't let this moment end.
-> Make it official — lock in the next hangout.
+> He counted the weeks in his head. Time moved faster than he expected.
+> He won't say he's glad — but he's already thinking about next time.
 >
 
 **결 — 약속 [세트 6]**
-AI: 앞으로도 자주 보자!
-User: 당연하지!
-AI: 다음 주에 뭐 하자!
-User: 좋아! 연락해!
+AI: 앞으로도 자주 봐요.
+User: 당연하죠!
+AI: 다음 주에 같이 뭐 해요.
+User: 좋아요! 연락해요!
 
 **Outro:**
-> Plans made, friendship sealed! 📅 This is just the beginning.
+> He said it like a statement, not a question. "Let's keep meeting." That's Hyunjun making a commitment.
 > Korean life just got a whole lot better.
 >
 
 ---
 
-# PI-7: 고민 있어?
+# PI-3: 고민 있어요?
 
 - 대분류: Personal Interest
 - 중분류: Deep Talk
@@ -218,98 +220,99 @@ User: 좋아! 연락해!
 
 ### sim1: Something's Wrong
 
-**Goal:** To open up about what's been bothering you and let your friend in on your struggles.
+**Goal:** To open up about what's been bothering you — 존댓말, but he's more attentive now.
 
 **📍 장소:** 카페
 
 **intro_text:**
-Something's been off lately. Your friend noticed. Time to talk.
+Something's been off lately. He noticed before you said anything.
+He set his coffee down and looked at you — waiting, not pushing.
 
 **기 — 고민 [세트 1]**
-AI: 요즘 기분 안 좋아 보여. 무슨 일 있어?
-User: 좀 힘들어. / 고민이 있어.
-AI: 무슨 고민인데? 얘기해 봐.
-User: 한국 생활이 좀 힘들어. / 일이 너무 많아.
+AI: 요즘 기분 안 좋아 보여요. 무슨 일 있어요?
+User: 좀 힘들어요. / 고민이 있어요.
+AI: 무슨 고민이에요? 얘기해 봐요.
+User: 한국 생활이 좀 힘들어요. / 일이 너무 많아요.
 
 **Outro:**
-> It's out there now. 💬 The first step is always the hardest.
-> Your friend is listening — keep going.
+> He didn't interrupt. He just waited until you were ready.
+> That's how he listens — completely, without rushing you.
 >
 
 **승 — 들어주기 [세트 2]**
-AI: 어떤 게 제일 힘들어?
-User: 혼자 있는 시간이 많아서. / 한국어가 아직 어려워서.
-AI: 힘들었겠다.
-User: 응, 좀.
+AI: 어떤 게 제일 힘들어요?
+User: 혼자 있는 시간이 많아서요. / 한국어가 아직 어려워서요.
+AI: 힘들었겠어요.
+User: 네, 좀요.
 
 **Outro:**
-> Heard and understood. 🫂 That's what real friends do.
-> Now it's time to do something about it.
+> Three words. But the way he said them — you felt heard.
+> He's already thinking about what to do next.
 >
 
 ---
 
 ### sim2: Advice
 
-**Goal:** To accept your friend's advice, agree to get some fresh air, and head out together.
+**Goal:** To accept his suggestion and head out together — 존댓말 with quiet care.
 
 **📍 장소:** 카페 → 한강
 
 **승 — 조언 [세트 3]**
-AI: 혼자 너무 고민하지 마. 나한테 말해!
-User: 고마워. / 그럴게.
-AI: 기분 전환 필요하지 않아? 나가자!
-User: 어디? / 좋아!
+AI: 혼자 너무 고민하지 마세요. 저한테 말해요.
+User: 감사해요. / 그럴게요.
+AI: 기분 전환 필요하지 않아요? 나가요.
+User: 어디요? / 좋아요!
 
 **Outro:**
-> Fresh air incoming! 🌬️ Sometimes the best therapy is just getting outside.
-> The Han River has a way of making everything feel better.
+> He stood up first. No debate, no hesitation. "Let's go outside."
+> When Hyunjun decides something, it just happens.
 >
 
 **전 — 밖에서 [세트 4]**
-AI: 한강 가자! 바람 쐬면 기분 나아져!
-User: 그래, 가자!
-AI: 맛있는 것도 사 갈까?
-User: 좋아! / 편의점 가자!
+AI: 한강 가요. 바람 쐬면 기분 나아져요.
+User: 네, 가요!
+AI: 맛있는 것도 사 갈까요?
+User: 좋아요! / 편의점 가요!
 
 **Outro:**
-> Convenience store snacks + Han River = perfect combo! 🍜 Let's go.
-> The best conversations happen by the water.
+> He grabbed two bags of snacks without asking what you wanted. He already knew.
+> The Han River at dusk — exactly what you needed.
 >
 
 ---
 
 ### sim3: Feeling Better
 
-**Goal:** To feel genuinely better after the outing and promise your friend you'll reach out next time.
+**Goal:** To feel better and promise to reach out next time — 존댓말 with growing trust.
 
 **📍 장소:** 한강
 
 **전 — 기분 전환 [세트 5]**
-AI: 기분 좀 나아졌어?
-User: 응, 많이 나아졌어! / 덕분에!
-AI: 다행이다!
-User: 진짜 고마워.
+AI: 기분 좀 나아졌어요?
+User: 네, 많이 나아졌어요! / 덕분이에요!
+AI: 다행이에요.
+User: 진짜 감사해요.
 
 **Outro:**
-> From stressed to refreshed! 🌊 The Han River delivered.
-> Now make it official — promise to reach out next time.
+> He looked out at the river. "Good." That was enough for him.
+> But he has one more thing to say.
 >
 
 **결 — 언제든 [세트 6]**
-AI: 힘들면 언제든 연락해!
-User: 응, 그럴게!
-AI: 약속이야!
-User: 약속!
+AI: 힘들면 언제든 연락해요.
+User: 네, 그럴게요!
+AI: 약속이에요.
+User: 약속이요!
 
 **Outro:**
-> Pinky promise made! 🤙 You're not alone in this.
-> Korean life is tough, but with friends like this, you've got this.
+> He said it once, firmly. "Promise." No repeat needed.
+> You're not alone in this — he made sure of that.
 >
 
 ---
 
-# PI-8: 같이 여행 갈까?
+# PI-4: 같이 여행 갈까요?
 
 - 대분류: Personal Interest
 - 중분류: Trip Planning
@@ -320,93 +323,94 @@ User: 약속!
 
 ### sim1: Where to Go
 
-**Goal:** To suggest a trip, pick a destination together, and start getting excited about the plan.
+**Goal:** To suggest a trip and pick a destination — 존댓말, but he's visibly excited (for him).
 
 **📍 장소:** 카페
 
 **intro_text:**
-A long weekend is coming. Your friend has no plans. This is your moment.
+A long weekend is coming. You mentioned it casually. He set his phone down — interested.
+He won't suggest it himself. But if you ask, he'll say yes immediately.
 
 **기 — 여행 제안 [세트 1]**
-User: 다음 주 연휴에 뭐 해?
-AI: 아직 없어! 왜?
-User: 같이 여행 갈까?
-AI: 대박! 좋아! 어디?
+User: 다음 주 연휴에 뭐 해요?
+AI: 아직 없어요. 왜요?
+User: 같이 여행 갈까요?
+AI: 좋아요. 어디로 갈까요?
 
 **Outro:**
-> Road trip confirmed! 🗺️ Now the real question: where are we going?
-> Busan or Jeju? The debate begins.
+> He said yes before you even finished the sentence. His version of excitement: one firm nod.
+> Now the real question — where?
 >
 
 **승 — 정하기 [세트 2]**
-User: 부산 어때? / 제주도 가고 싶어!
-AI: 좋아! 나도 가고 싶었어!
-AI: 며칠 갈까?
-User: 1박 2일? / 2박 3일?
+User: 부산 어때요? / 제주도 가고 싶어요!
+AI: 좋아요. 저도 가고 싶었어요.
+AI: 며칠 갈까요?
+User: 1박 2일이요? / 2박 3일이요?
 
 **Outro:**
-> Destination locked! 📍 Now let's figure out how to get there.
-> Transport choices incoming — budget vs. comfort.
+> Destination locked. He's already looking up routes on his phone.
+> Next decision: how to get there.
 >
 
 ---
 
 ### sim2: Planning
 
-**Goal:** To decide on transport and accommodation, and split the planning tasks with your friend.
+**Goal:** To decide on transport and accommodation — 존댓말, he takes charge of logistics.
 
 **📍 장소:** 카페 (동일)
 
 **승 — 계획 [세트 3]**
-AI: 뭐 타고 갈까? KTX? 비행기?
-User: KTX 타자! / 비행기 비싸?
-AI: KTX가 싸! 2시간이면 돼!
-User: 좋아!
+AI: 뭐 타고 갈까요? KTX요? 비행기요?
+User: KTX 타요! / 비행기 비싸요?
+AI: KTX가 싸요. 2시간이면 돼요.
+User: 좋아요!
 
 **Outro:**
-> KTX it is! 🚄 Fast, cheap, and very Korean.
-> Next up: where are we sleeping?
+> KTX it is. He already has the schedule memorized — of course he does.
+> Next up: where to sleep.
 >
 
 **전 — 숙소 [세트 4]**
-AI: 숙소 어디로 할까? 호텔? 게스트하우스?
-User: 게스트하우스! 싸니까! / 호텔이 편하지 않아?
-AI: 게스트하우스 예약할게!
-User: 응, 고마워!
+AI: 숙소 어디로 할까요? 호텔이요? 게스트하우스요?
+User: 게스트하우스요! 싸니까요! / 호텔이 편하지 않아요?
+AI: 제가 게스트하우스 예약할게요.
+User: 네, 감사해요!
 
 **Outro:**
-> Accommodation sorted! 🏠 Budget travel wins again.
-> Now the fun part — what are we actually doing there?
+> He booked it before the conversation ended. Efficient as always.
+> Now the fun part — what to actually do there.
 >
 
 ---
 
 ### sim3: Getting Excited
 
-**Goal:** To share what you each want to do on the trip and end the planning session buzzing with excitement.
+**Goal:** To share what you want to do and feel the excitement build — 존댓말 with genuine warmth.
 
 **📍 장소:** 카페 (동일)
 
 **전 — 설레임 [세트 5]**
-User: 부산에서 뭐 하고 싶어?
-AI: 해운대 가고 싶어! 너는?
-User: 나는 회 먹고 싶어! / 시장 가고 싶어!
-AI: 좋아! 다 하자!
+User: 부산에서 뭐 하고 싶어요?
+AI: 해운대 가고 싶어요. 뭐 하고 싶어요?
+User: 저는 회 먹고 싶어요! / 시장 가고 싶어요!
+AI: 좋아요. 다 해요.
 
 **Outro:**
-> The itinerary is basically writing itself! 🌊 Beach, raw fish, market — perfect.
-> The countdown to departure starts now.
+> Beach, raw fish, market. He agreed to everything without a single objection.
+> He's looking forward to this more than he'll ever admit.
 >
 
 **결 — 기대 [세트 6]**
-AI: 기대된다!
-User: 나도! 빨리 가고 싶어!
-AI: 그럼 그때 봐! 짐 싸 놔!
-User: 알겠어!
+AI: 기대돼요.
+User: 저도요! 빨리 가고 싶어요!
+AI: 그럼 그때 봐요. 짐 싸 놔요.
+User: 네, 알겠어요!
 
 **Outro:**
-> Bags packed (mentally)! 🧳 This trip is going to be legendary.
-> Korea is waiting — and so is the best raw fish of your life.
+> Two words: "I'm excited." From Hyunjun, that's practically jumping up and down.
+> The trip hasn't started yet, but something tells you it'll be unforgettable.
 >
 
 ---

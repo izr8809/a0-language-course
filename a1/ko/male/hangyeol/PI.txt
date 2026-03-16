@@ -1,6 +1,6 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
 
-# PI-5: 우리 밥 먹으러 가자
+# PI-1: 같이 밥 먹을래요?
 
 - 대분류: Personal Interest
 - 중분류: Hanging Out
@@ -11,84 +11,85 @@
 
 ### sim1: Choosing a Place
 
-**Goal:** To suggest a food idea, agree on a spot, and figure out how to get there with your friend.
+**Goal:** To suggest a food idea and agree on a spot together — still in 존댓말, warming up.
 
 **📍 장소:** 길거리
 
 **intro_text:**
-Lunch time in Korea. So many options... what should we eat?
+Lunch time in Korea. You've hung out a few times now, but you're still speaking politely.
+So many options... what should we eat?
 
-**기 — 뭐 먹을까 [세트 1]**
-User: 배고파! 뭐 먹을까?
-AI: 나도 배고파! 뭐 먹고 싶어?
-User: 삼겹살 먹고 싶어! / 삼겹살 어때?
-AI: 좋아! 맛있는 데 알아! 가자!
+**기 — 뭐 먹을까요 [세트 1]**
+AI: 배고프지 않아요? 뭐 먹을까요?
+User: 네, 배고파요! / 뭐 먹을까요?
+AI: 삼겹살 좋아해요? 맛있는 데 알아요!
+User: 좋아요! 가요!
 
 **Outro:**
-> Samgyeopsal it is! 🥓 But wait, how do we get there?
-> Prepare your stomach — a massive feast awaits.
+> Samgyeopsal it is! He already knows a spot — classic Hangyeol.
+> But wait, how do we get there?
 >
 
 **승 — 가는 길 [세트 2]**
-AI: 여기서 가까워! 걸어갈까?
-User: 응, 걸어가자! / 얼마나 걸리는데?
-AI: 5분이면 돼! 가자!
-User: 알겠어!
+AI: 여기서 가까워요! 걸어갈까요?
+User: 네, 좋아요! / 얼마나 걸려요?
+AI: 5분이면 돼요! 같이 가요!
+User: 네!
 
 **Outro:**
-> Just a short walk! 🚶‍♂️ Prepare your stomach for a massive feast.
+> Just a short walk! He's already speed-walking ahead, waving you forward.
 > Almost there... the smell of grilling meat is calling.
 >
 
 ---
 
-### sim2: At the Restaurant
+## sim2: At the Restaurant
 
-**Goal:** To order food together and bond over grilling meat like a true Korean local.
+**Goal:** To order food together, grill meat, and naturally drop the formalities mid-meal.
 
 **📍 장소:** 삼겹살 식당 안
 
 **intro_text:**
-We're here. This place looks amazing.
+We're here. The restaurant smells incredible. He's grinning ear to ear.
 
 **승 — 식당 [세트 3]**
-AI: 여기야! 어때?
-User: 와, 좋다! / 사람 많다!
-AI: 뭐 시킬까? 여기 메뉴판!
-User: 삼겹살 2인분 / 된장찌개!
+AI: 여기예요! 어때요?
+User: 와, 좋아요! / 사람 많아요!
+AI: 뭐 시킬까요? 여기 메뉴판이요!
+User: 삼겹살 2인분이요! / 된장찌개도요!
 
 **Outro:**
-> Order placed! 🥩 Now comes the most important question in Korea...
-> Who grills the meat? The real power move starts now.
+> Order placed! Now the most important question in Korea: who grills the meat?
+> The real power move starts now.
 >
 
-**전 — 먹기 [세트 4]**
-AI: 고기 구워줄까?
-User: 응, 구워줘! / 내가 구울게!
-AI: 맛있다!
-User: 진짜 맛있다! / 여기 잘 찾았다!
+**전 — 말 놓기 [세트 4]**
+AI: 고기 구워줄게요! 잠깐만요!
+User: 감사해요! / 잘 굽네요!
+AI: 아, 우리 이제 말 놓을까요? 편하게 해요!
+User: 좋아요! / 네, 그래요!
 
 **Outro:**
-> That really hit the spot! 😋 But the real battle is about to begin: paying the bill.
-> Brace yourself — the Korean bill fight is legendary.
+> He couldn't hold the formalities any longer — halfway through grilling, he just went for it.
+> From now on, it's 반말. The friendship just leveled up.
 >
 
 ---
 
-### sim3: After Eating
+## sim3: After Eating
 
-**Goal:** To insist on paying the bill and make plans to keep the hangout going.
+**Goal:** To insist on paying the bill and make plans to keep the hangout going — now in 반말.
 
 **📍 장소:** 삼겹살 식당 안 → 식당 밖 길거리
 
 **전 — 식사 후 [세트 5]**
-User: 내가 낼게!
-AI: 아니야, 같이 내자!
-User: 아니야, 오늘 내가 쏠게!
+AI: 진짜 맛있다! 내가 낼게!
+User: 아니야, 내가 낼게! / 같이 내자!
 AI: 진짜? 고마워! 다음엔 내가 살게!
+User: 알겠어!
 
 **Outro:**
-> You smooth talker, you bought lunch! 😎 Where to next with your full stomach?
+> You smooth talker — you bought lunch! Where to next with your full stomach?
 > The hangout isn't over yet — round two incoming.
 >
 
@@ -99,13 +100,13 @@ AI: 좋아, 가자!
 User: 가자!
 
 **Outro:**
-> Food coma incoming! ☕ Time to grab some coffee and keep the vibe going.
+> Food coma incoming! Time to grab some coffee and keep the vibe going.
 > A perfect hangout deserves a perfect ending.
 >
 
 ---
 
-# PI-6: 너 때문에 한국어 배워
+# PI-2: 너 때문에 한국어 배워
 
 - 대분류: Personal Interest
 - 중분류: Deeper Friendship
@@ -207,7 +208,7 @@ User: 좋아! 연락해!
 
 ---
 
-# PI-7: 고민 있어?
+# PI-3: 고민 있어?
 
 - 대분류: Personal Interest
 - 중분류: Deep Talk
@@ -309,7 +310,7 @@ User: 약속!
 
 ---
 
-# PI-8: 같이 여행 갈까?
+# PI-4: 같이 여행 갈까?
 
 - 대분류: Personal Interest
 - 중분류: Trip Planning

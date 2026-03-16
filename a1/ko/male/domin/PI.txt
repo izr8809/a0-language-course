@@ -1,4 +1,128 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 또 만났네요!
+
+- 대분류: Personal Interest
+- 중분류: Reconnecting
+- 난이도: A1 (Elementary)
+
+---
+
+### sim1: 우연한 재회
+
+**Goal:** To bump into someone you met once before and catch up on what you've been up to.
+
+**📍 장소:** 편의점 앞
+
+**intro_text:**
+Wait... is that Domin? You met him once before.
+He's waving at you. Go say hi!
+
+**기 — 반가워요! [세트 1]**
+AI: 어, 안녕하세요! 저번에 만났죠?
+User: 네, 맞아요! 반가워요! / 어, 도민 씨!
+AI: 여기 자주 와요?
+User: 네, 가끔 와요! / 오늘 처음이에요!
+
+**Outro:**
+> He remembered you! Not bad for a second encounter.
+> Now catch up — what's he been doing?
+>
+
+**승 — 요즘 어때요? [세트 2]**
+AI: 요즘 어떻게 지내요?
+User: 잘 지내요! / 바빠요!
+AI: 저도 바빴어요! 한국어 많이 늘었네요!
+User: 진짜요? 감사해요! / 아직 멀었어요!
+
+**Outro:**
+> He noticed your Korean got better. That means something.
+> Sounds like you two have been on the same wavelength.
+>
+
+---
+
+## sim2: 말 놓을까요?
+
+**Goal:** To switch from 존댓말 to 반말 and start talking like real friends.
+
+**📍 장소:** 편의점 앞 (동일)
+
+**승 — 공통점 [세트 3]**
+AI: 요즘 뭐 하면서 지냈어요?
+User: 한국어 공부요! / 드라마 많이 봤어요!
+AI: 오, 저도요! 우리 진짜 비슷해요!
+User: 맞아요! / 그러게요!
+
+**Outro:**
+> You keep finding things in common. He's clearly vibing with you.
+> And now... he's about to ask something.
+>
+
+**전 — 편하게 해요! [세트 4]**
+AI: 우리 이제 말 놓을까요? 편하게 해요!
+User: 네, 좋아요! / 그래요!
+AI: 좋아! 나는 도민이야, 편하게 해!
+User: 응! 반가워!
+
+**Outro:**
+> The formality wall just came down. He was waiting for this moment.
+> From now on, it's 반말 all the way.
+>
+
+**전 — 뭐 하고 싶어? [세트 5]**
+AI: 오늘 시간 있어? 뭐 하고 싶어?
+User: 응, 시간 있어! / 뭐 할까?
+AI: 카페 갈래? 좋은 데 알아!
+User: 좋아! 가자!
+
+**Outro:**
+> He already has a spot in mind. Classic Domin.
+> Let's see where he takes you.
+>
+
+---
+
+## sim3: 진짜 친구
+
+**Goal:** To hang out at a cafe, get to know each other more, and make plans to meet again.
+
+**📍 장소:** 카페
+
+**전 — 카페에서 [세트 6]**
+AI: 여기야! 어때?
+User: 와, 좋다! / 분위기 좋다!
+AI: 뭐 마실래? 여기 커피 맛있어!
+User: 아메리카노! / 라떼 마실래!
+
+**Outro:**
+> Coffee ordered. The conversation is flowing like a river.
+> He's curious about something.
+>
+
+**결 — 또 만나자! [세트 7]**
+AI: 한국에서 뭐 하고 싶어?
+User: 친구 많이 사귀고 싶어! / 여행 가고 싶어!
+AI: 좋아! 나랑 같이 다니자!
+User: 진짜? 좋아!
+
+**Outro:**
+> He just volunteered as your Korean life guide.
+> Lock in the next hangout before you leave.
+>
+
+**결 — 약속 [세트 8]**
+AI: 다음 주에 또 보자! 밥 먹으러 가자!
+User: 좋아! 연락해!
+AI: 응! 카톡 할게!
+User: 기다릴게!
+
+**Outro:**
+> Plans made. This friendship is officially real.
+> Next time, you're eating together. Get ready.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 

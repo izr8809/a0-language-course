@@ -1,4 +1,119 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 안녕하세요, 처음 뵙겠습니다
+
+- 대분류: Personal Interest
+- 중분류: First Meeting
+- 난이도: A1 (Beginner)
+
+First meeting in Korea.
+This time, you're a bit more prepared. Say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, share where you're from, and talk about what brought you to Korea.
+
+**📍 장소:** 성수 카페
+
+**intro_text:**
+A café in Seongsu. Iced Americano already on the table. She looks up — no smile.
+
+**기 — 첫 만남 [세트 1]**
+AI: 안녕하세요. 서연이에요. 이름이 뭐예요?
+User: 안녕하세요! 저는 ___이에요. / 반갑습니다! ___이에요.
+AI: 네, 반가워요. 한국에 언제 왔어요?
+User: ___달 전에 왔어요! / 올해 왔어요!
+
+**Outro:**
+> She asked when you arrived. No warm-up, no small talk — straight to business.
+> She's already sizing you up.
+>
+
+**승 — 왜 한국에 [세트 2]**
+AI: 한국에 왜 왔어요?
+User: 한국어 배우러 왔어요! / 일하러 왔어요!
+AI: 그래요? 한국 생활 괜찮아요?
+User: 재밌어요! / 좀 어려워요.
+
+**Outro:**
+> She listened. No reaction on her face, but she didn't look away either.
+> From Seoyeon, that's practically warmth.
+>
+
+---
+
+## sim2: Getting to Know Each Other
+
+**Goal:** To share what you like about Korea and discover something in common.
+
+**📍 장소:** 성수 카페 (동일)
+
+**승 — 한국 생활 [세트 3]**
+AI: 한국에서 뭐가 제일 좋아요?
+User: 음식이요! / 카페가 좋아요!
+AI: 카페요? 저도 카페 좋아해요.
+User: 진짜요? / 여기도 좋아요!
+
+**Outro:**
+> She said "me too." She didn't elaborate — but her eyes said enough.
+> You found common ground. Don't let go of it.
+>
+
+**전 — 공통점 [세트 4]**
+User: 서연 씨는 취미가 뭐예요?
+AI: 커피 마시면서 책 읽는 거요.
+User: 좋아요! 저도 책 좋아해요! / 멋있어요!
+AI: 취향 괜찮네요.
+
+**Outro:**
+> She approved your taste. File that away — it doesn't happen often.
+> Something is shifting. The air feels lighter.
+>
+
+---
+
+## sim3: Dropping Formality
+
+**Goal:** To switch to 반말, exchange KakaoTalk IDs, and make plans to meet again.
+
+**📍 장소:** 성수 카페 (동일)
+
+**전 — 말 놓기 [세트 5]**
+AI: 말 놓을까요? 편하게 해요.
+User: 네, 좋아요! / 그럴까요?
+AI: 나는 서연이야. 편하게 해.
+User: 응! 나는 ___야!
+
+**Outro:**
+> She said it like she was checking off a list. No drama, no buildup.
+> That's Seoyeon — everything is efficient, even friendship.
+>
+
+**전 — 연락처 [세트 6]**
+AI: 카톡 있어? 아이디 줘.
+User: 여기! 내 아이디야! / 있어!
+AI: 저장했어. 늦게 답하면 안 돼.
+User: 알겠어!
+
+**Outro:**
+> She saved your number and set the rules in the same breath.
+> She won't text first. But when she does, you better reply fast.
+>
+
+**결 — 다음에 [세트 7]**
+User: 다음에 같이 커피 마실래?
+AI: 좋아. 성수에 좋은 데 있어.
+User: 기대된다! / 가고 싶어!
+AI: 그럼 연락해. 밥 꼭 먹고 다녀.
+
+**Outro:**
+> Plans made. She told you to eat before leaving. That's her version of a hug.
+> Next episode: The real compatibility test begins.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 

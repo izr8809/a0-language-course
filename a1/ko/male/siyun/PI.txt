@@ -1,4 +1,119 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 안녕하세요, 처음 뵙겠습니다
+
+- 대분류: Personal Interest
+- 중분류: First Meeting
+- 난이도: A1 (Beginner)
+
+First meeting in Korea.
+This time, you're a bit more prepared. Say hi!
+
+---
+
+### sim1: Nice to Meet You
+
+**Goal:** To introduce yourself, share where you're from, and talk about what brought you to Korea.
+
+**📍 장소:** 카페
+
+**intro_text:**
+A café in Seoul. Someone sits down across from you. He looks like he'd rather be anywhere else.
+
+**기 — 첫 만남 [세트 1]**
+AI: 안녕하세요. 시윤이에요. 이름이 뭐예요?
+User: 안녕하세요! 저는 ___이에요. / 반갑습니다! ___이에요.
+AI: 네, 반가워요. 한국에 언제 왔어요?
+User: ___달 전에 왔어요! / 올해 왔어요!
+
+**Outro:**
+> He asked when you came. No small talk, no warm-up — straight to the point.
+> That's already more words than he gives most people.
+>
+
+**승 — 왜 한국에 [세트 2]**
+AI: 한국에 왜 왔어요?
+User: 한국어 배우러 왔어요! / 일하러 왔어요!
+AI: 그래요? 한국 생활 어때요?
+User: 재밌어요! / 좀 어려워요.
+
+**Outro:**
+> He listened without interrupting. For Siyun, that's basically a standing ovation.
+> Now he's curious about something else...
+>
+
+---
+
+## sim2: Getting to Know Each Other
+
+**Goal:** To share what you like about Korea and discover something in common.
+
+**📍 장소:** 카페 (동일)
+
+**승 — 한국 생활 [세트 3]**
+AI: 한국에서 뭐가 제일 좋아요?
+User: 음식이요! / 사람들이 좋아요!
+AI: 음식이면 뭐 좋아해요?
+User: 삼겹살 좋아해요! / 김치찌개요!
+
+**Outro:**
+> He nodded. For a second, you could swear he almost smiled.
+> Food is the one thing that gets him talking.
+>
+
+**전 — 공통점 [세트 4]**
+User: 시윤 씨는 뭐 좋아해요?
+AI: 음악이요. 혼자 듣는 거 좋아해요.
+User: 저도 음악 좋아해요! / 어떤 음악이요?
+AI: 취향 괜찮네요.
+
+**Outro:**
+> He approved your taste. That's the highest compliment he gives.
+> The vibe is changing — he seems more relaxed now.
+>
+
+---
+
+## sim3: Dropping Formality
+
+**Goal:** To switch to 반말, exchange KakaoTalk IDs, and make plans to meet again.
+
+**📍 장소:** 카페 (동일)
+
+**전 — 말 놓기 [세트 5]**
+AI: 아, 그냥 편하게 해요. 반말 해요.
+User: 네, 좋아요! / 진짜요?
+AI: 나는 시윤이야. 편하게 해.
+User: 응! 나는 ___야!
+
+**Outro:**
+> He didn't ask — he decided. No ceremony, no buildup. That's how Siyun does it.
+> Now you're on 반말 terms. Don't waste it.
+>
+
+**전 — 연락처 [세트 6]**
+AI: 카톡 있어? 아이디 줘.
+User: 여기! 내 아이디야! / 있어!
+AI: 저장했어. 밥 먹을 때 연락해.
+User: 응, 좋아!
+
+**Outro:**
+> "Call me when you eat." That's Siyun for "let's be friends."
+> He won't text first — but he'll reply faster than you expect.
+>
+
+**결 — 다음에 [세트 7]**
+User: 다음에 같이 밥 먹을래?
+AI: 좋아. 맛집 알아. 늦지 마.
+User: 알겠어! / 기대된다!
+AI: 그럼 연락해. 밥 먹고 다녀.
+
+**Outro:**
+> Plans made. Rules set. He told you to eat before leaving. Classic Siyun.
+> Next episode: The real compatibility test begins.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 

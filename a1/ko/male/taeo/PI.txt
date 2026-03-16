@@ -1,4 +1,120 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 요즘 뭐 하세요?
+
+- 대분류: Personal Interest
+- 중분류: Getting to Know Each Other
+- 난이도: A1 (Beginner)
+- 14턴 (7세트, 3sim) — 존댓말→반말 전환 포함
+
+You run into Taeo again at a café. Time to catch up properly.
+
+---
+
+### sim1: Catching Up
+
+**Goal:** To reconnect, share what you've been up to lately, and talk about everyday life.
+
+**📍 장소:** 카페
+
+**intro_text:**
+You run into Taeo again at a café. Time to catch up properly.
+
+**기 — 재회 [세트 1]**
+AI: 어, 오랜만이에요! 잘 지냈어요?
+User: 네, 잘 지냈어요! / 태오 씨! 반가워요!
+AI: 요즘 뭐 하세요?
+User: 한국어 공부하고 있어요! / 일하고 있어요!
+
+**Outro:**
+> Taeo remembered you. He seems happy to see you again.
+> What has he been up to? Ask him.
+>
+
+**승 — 일상 [세트 2]**
+AI: 저는 요즘 빵 만들어요.
+User: 진짜요? 멋있어요! / 어떤 빵이요?
+AI: 구름 모양 빵이에요.
+User: 오, 그래요? / 먹어 보고 싶어요!
+
+**Outro:**
+> Cloud-shaped bread. Only Taeo would think of that.
+> You're starting to feel comfortable — maybe it's time to loosen up.
+>
+
+---
+
+## sim2: Getting Closer
+
+**Goal:** To share interests more deeply and naturally transition from 존댓말 to 반말.
+
+**📍 장소:** 카페 (동일)
+
+**승 — 취미 [세트 3]**
+User: 태오 씨는 취미가 뭐예요?
+AI: 하늘 보는 거요.
+User: 저도 산책 좋아해요! / 오, 좋아요!
+AI: 같이 산책할래요?
+User: 네, 좋아요! / 언제요?
+
+**Outro:**
+> A walk together sounds nice. He's already picturing the sky.
+> The mood is right — things are about to get more comfortable.
+>
+
+**전 — 말 놓기 [세트 4]**
+AI: 우리 자주 만나니까, 편하게 말해요.
+User: 네, 좋아요! / 그래요!
+AI: 좋아. 나는 태오야. 편하게 해!
+User: 응! 나는 ___야!
+
+**Outro:**
+> He said it softly, like it was the most natural thing.
+> From here on, it's 반말 — you're real friends now.
+>
+
+---
+
+## sim3: Making Plans
+
+**Goal:** To talk about favorite spots in Korea and make plans to hang out soon.
+
+**📍 장소:** 카페 (동일)
+
+**전 — 좋아하는 곳 [세트 5]**
+AI: 서울에서 어디 좋아해?
+User: 한강 좋아해! / 홍대 좋아해!
+AI: 나는 연남동 좋아해.
+User: 거기 뭐 있어? / 나도 가고 싶어!
+
+**Outro:**
+> Yeonnam-dong — bread and sky, his two favorite things in one place.
+> Lock in the plan before Taeo drifts off into cloud-watching.
+>
+
+**전 — 다음에 만나자 [세트 6]**
+AI: 연남동에 좋은 빵집 있어.
+User: 같이 가자! / 언제 갈까?
+AI: 주말에 갈까?
+User: 좋아!
+
+**Outro:**
+> Weekend plans, just like that. Simple and easy with Taeo.
+> One last thing — make sure you can reach each other.
+>
+
+**결 — 연락 [세트 7]**
+AI: 카톡 아직 있지?
+User: 응, 있어!
+AI: 그럼 연락할게. 빵 사진 보내줄게.
+User: 좋아! 기다릴게!
+
+**Outro:**
+> He'll send you bread photos before the weekend. Count on it.
+> Next up: Sharing your world with your new friend.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 

@@ -1,4 +1,122 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 요즘 뭐 하세요?
+
+- 대분류: Personal Interest
+- 중분류: Getting to Know Each Other
+- 난이도: A1 (Beginner)
+- 14턴 (7세트, 3sim) — 존댓말→반말 전환 포함
+
+You spot Jia at a café. She's already seated with a planner open. Time to catch up.
+
+---
+
+### sim1: Catching Up
+
+**Goal:** To reconnect, share recent updates, and talk about your lives in Korea.
+
+**📍 장소:** 카페
+
+**intro_text:**
+You spot Jia at a café. She's already seated with a planner open. Time to catch up.
+
+**기 — 재회 [세트 1]**
+AI: 어, 안녕하세요. 오랜만이에요.
+User: 지아 씨! 반가워요! / 네, 오랜만이에요!
+AI: 요즘 뭐 하세요?
+User: 한국어 공부해요! / 일하고 있어요!
+
+**Outro:**
+> She looked up from her planner and gave you her full attention.
+> That's rare — she must be glad to see you.
+>
+
+**승 — 일상 [세트 2]**
+AI: 저는 요즘 일이 바빠요.
+User: 많이 바쁘세요? / 힘들겠어요!
+AI: 괜찮아요.
+User: 대단해요! / 오, 그래요?
+
+**Outro:**
+> "I'm fine" — classic Jia. She handles everything.
+> Time to dig a little deeper.
+>
+
+---
+
+## sim2: Getting Closer
+
+**Goal:** To share more about your interests and efficiently transition from 존댓말 to 반말.
+
+**📍 장소:** 카페 (동일)
+
+**승 — 취미 [세트 3]**
+User: 지아 씨는 쉴 때 뭐 해요?
+AI: 카페에서 계획 세워요.
+User: 계획이요? / 저는 드라마 봐요!
+AI: 저도 가끔 봐요.
+User: 진짜요? / 뭐 좋아해요?
+
+**Outro:**
+> She plans for fun. That tracks perfectly.
+> She seems comfortable enough — time to drop the formalities.
+>
+
+**전 — 말 놓기 [세트 4]**
+AI: 나이 비슷하죠?
+User: 네, 맞아요! / 비슷해요!
+AI: 편하게 해요.
+User: 네, 좋아요! / 그래요!
+AI: 좋아. 나는 지아야. 편하게!
+User: 응! 나는 ___야!
+
+**Outro:**
+> No hesitation, no fuss. She made the switch in three seconds flat.
+> From here on, it's 반말 — you're friends now.
+>
+
+---
+
+## sim3: Making Plans
+
+**Goal:** To talk about favorite spots and lock in concrete plans to meet again.
+
+**📍 장소:** 카페 (동일)
+
+**전 — 좋아하는 곳 [세트 5]**
+AI: 서울에서 어디 자주 가?
+User: 홍대 자주 가! / 강남 좋아해!
+AI: 나는 강남 카페 자주 가.
+User: 거기 좋아? / 추천해 줘!
+
+**Outro:**
+> She has a list of cafés ranked by efficiency and coffee quality.
+> Lock in the plan — she won't wait around.
+>
+
+**전 — 다음에 만나자 [세트 6]**
+AI: 다음에 같이 갈래?
+User: 좋아! 언제? / 가고 싶어!
+AI: 이번 주 토요일 어때?
+User: 좋아!
+
+**Outro:**
+> Saturday, confirmed. She probably already blocked it in her calendar.
+> Secure the communication line.
+>
+
+**결 — 연락 [세트 7]**
+AI: 카톡 아직 있지?
+User: 응, 있어!
+AI: 토요일에 연락할게.
+User: 응! 알겠어!
+
+**Outro:**
+> She'll text you Saturday morning with the exact time and exit number.
+> Next up: Sharing your world with your efficient new friend.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 

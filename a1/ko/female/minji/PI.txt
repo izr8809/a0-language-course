@@ -1,4 +1,128 @@
-# 💖 PERSONAL INTEREST (반말) >> Korean Life
+# 💖 PERSONAL INTEREST (존댓말→반말) >> Korean Life
+
+# PI-1: 어머, 또 만났네요!
+
+- 대분류: Personal Interest
+- 중분류: Reconnecting
+- 난이도: A1 (Elementary)
+
+---
+
+### sim1: 우연한 재회
+
+**Goal:** To bump into someone you met before and catch up on life.
+
+**📍 장소:** 홍대 거리
+
+**intro_text:**
+That voice... is that Minji? She's running toward you already.
+She looks excited. Brace yourself.
+
+**기 — 세상에! [세트 1]**
+AI: 어머! 안녕하세요! 기억나요? 민지예요!
+User: 네! 반가워요! / 와, 민지 씨!
+AI: 여기 자주 와요?
+User: 네, 가끔요! / 오늘 처음이에요!
+
+**Outro:**
+> She spotted you from across the street. That's Minji energy.
+> She's already curious about everything.
+>
+
+**승 — 잘 지냈어요? [세트 2]**
+AI: 요즘 잘 지냈어요?
+User: 네, 잘 지냈어요! / 좀 바빴어요!
+AI: 한국어 더 잘해졌어요! 대박!
+User: 진짜요? 감사해요! / 아직 부족해요!
+
+**Outro:**
+> She's already hyping you up. Classic Minji.
+> Something tells me she's about to get even more excited.
+>
+
+---
+
+## sim2: 우리 편하게 해요!
+
+**Goal:** To break the formality and switch to 반말 like friends do.
+
+**📍 장소:** 홍대 거리 (동일)
+
+**승 — 통하는 느낌 [세트 3]**
+AI: 요즘 뭐 하면서 지냈어요?
+User: 한국어 공부요! / 카페 많이 갔어요!
+AI: 와, 저도요! 우리 진짜 잘 맞아요!
+User: 맞아요! / 그러게요!
+
+**Outro:**
+> She's practically glowing. You two are on the same frequency.
+> She can't hold back anymore...
+>
+
+**전 — 편하게 해! [세트 4]**
+AI: 우리 이제 편하게 말해요! 친구 하자!
+User: 네, 좋아요! / 그래요!
+AI: 나 민지야! 편하게 해!
+User: 응! 반가워!
+
+**Outro:**
+> She couldn't wait. The formality lasted about five minutes.
+> Welcome to Minji's world — it moves fast.
+>
+
+**전 — 뭐 할까? [세트 5]**
+AI: 지금 시간 있어? 나랑 놀자!
+User: 응, 있어! / 뭐 할까?
+AI: 맛집 가자! 여기 맛있는 데 알아!
+User: 좋아! 가자!
+
+**Outro:**
+> She grabbed your arm before you could even answer.
+> Minji always knows where the good food is.
+>
+
+---
+
+## sim3: 우리 자주 만나자!
+
+**Goal:** To eat together, bond over food, and promise to hang out more.
+
+**📍 장소:** 홍대 맛집
+
+**전 — 같이 먹자 [세트 6]**
+AI: 여기야! 분위기 좋지?
+User: 와, 좋다! / 사람 많다!
+AI: 뭐 먹을래? 여기 떡볶이 맛있어!
+User: 떡볶이! / 뭐가 맛있어?
+
+**Outro:**
+> She already knew what to order. You just got the best tour guide in Korea.
+> The food is coming. And so is a big question.
+>
+
+**결 — 진짜 재밌다! [세트 7]**
+AI: 맛있지? 나 여기 진짜 좋아해!
+User: 응, 맛있어! / 여기 잘 찾았다!
+AI: 다음에 또 같이 오자!
+User: 좋아! 또 오자!
+
+**Outro:**
+> Shared a meal, shared the vibes. This friendship is cooking.
+> Now lock it in — make sure you see her again.
+>
+
+**결 — 연락해! [세트 8]**
+AI: 우리 자주 만나자! 카톡 해!
+User: 응, 연락할게!
+AI: 기다릴게! 다음 주에 또 보자!
+User: 좋아! 약속!
+
+**Outro:**
+> She'll text you before you even get home. That's Minji.
+> Next time, bring your appetite — she has a list.
+>
+
+---
 
 # PI-5: 우리 밥 먹으러 가자
 
