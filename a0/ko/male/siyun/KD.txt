@@ -11,7 +11,7 @@
 
 ---
 
-### sim1: 첫 인사 (First Greeting)
+## sim1: 첫 인사 (First Greeting)
 
 **Goal:** To practice the first meeting — say the first words, even when he nags first.
 
@@ -22,7 +22,7 @@ He's already sitting down.
 He looks at you and checks his watch.
 
 **기 — 첫 만남 [세트 1]**
-User: 처음 만나네요.
+User: 처음 만나네요. / 안녕하세요.
 AI: 어. 여기 앉아.
 User: 잘 부탁드려요. / 반가워요.
 AI: 밥 먹었어? 안 먹었지?
@@ -33,7 +33,7 @@ AI: 밥 먹었어? 안 먹었지?
 >
 
 **승 — 짧은 대화 [세트 2]**
-User: 여기 자주 와요?
+User: 여기 자주 와요? / 자주 오세요?
 AI: 가끔. 너는?
 User: 저도요. / 처음이에요.
 AI: 혼자 오지 마. 위험해.
@@ -66,7 +66,7 @@ AI: 찬 거 많이 마시지 마.
 AI: 안 추워?
 User: 괜찮아요. / 조금요.
 AI: 추워. 이거 입어.
-User: …감사해요.
+User: …감사해요. / 고마워요.
 
 **Outro:**
 > He noticed before you did. 🌫️
@@ -84,7 +84,7 @@ User: …감사해요.
 **전 — 마무리 [세트 5]**
 User: 오늘 좋았어요. / 재밌었어요.
 AI: 그래? 조심히 가.
-User: 네.
+User: 네. / 또 봐요.
 AI: 도착하면 연락해. 꼭.
 
 **Outro:**
@@ -93,9 +93,9 @@ AI: 도착하면 연락해. 꼭.
 >
 
 **결 — 다음에 [세트 6]**
-User: 또 만나요?
+User: 또 만나요? / 다음에 봐요?
 AI: 그래. 늦지 마.
-User: 연락할게요.
+User: 연락할게요. / 기다려요.
 AI: 꼭 해. 기다릴게.
 
 **Outro:**
@@ -129,7 +129,7 @@ Something happened. Ask.
 
 User: 괜찮아? / 무슨 일이야?
 AI: 괜찮아. 너 밥 먹었어?
-User: 진짜?
+User: 진짜? / 거짓말.
 AI: 진짜야. 걱정 마.
 
 **Outro:**
@@ -141,7 +141,7 @@ AI: 진짜야. 걱정 마.
 
 User: 말해봐. / 나한테 말해.
 AI: 아무것도 아니야.
-User: 말해봐.
+User: 말해봐. / 듣고 있어.
 AI: 너 먼저 밥 먹어. 그다음에.
 
 **Outro:**
@@ -162,7 +162,7 @@ AI: 너 먼저 밥 먹어. 그다음에.
 AI: 왜 연락 안 했어.
 User: …미안해. / 바빴어.
 AI: 기다렸어. 걱정했어.
-User: 몰랐어. 미안.
+User: 몰랐어. 미안. / 미안해. 진짜.
 
 **Outro:**
 > "기다렸어. 걱정했어." Two confessions in a row. 💥
@@ -173,7 +173,7 @@ User: 몰랐어. 미안.
 
 User: 화났어? / 미안해.
 AI: 화 안 났어.
-User: 그럼 뭔데.
+User: 그럼 뭔데. / 말해줘.
 AI: 걱정했다고. 다음엔 연락해.
 
 **Outro:**
@@ -191,7 +191,7 @@ AI: 걱정했다고. 다음엔 연락해.
 
 ### 전 — 조용해짐 [세트 5]
 
-User: 괜찮아?
+User: 괜찮아? / 어때?
 AI: 괜찮아. 너는?
 User: 솔직하게. / 진짜 말해.
 AI: …조금 힘들었어.
@@ -238,7 +238,7 @@ He keeps almost saying something. Then stops.
 
 User: 왜 말 없어? / 오늘 왜 그래?
 AI: 말 없는 거 아니야.
-User: 뭐야.
+User: 뭐야. / 말해.
 AI: 생각 중이야.
 
 **Outro:**
@@ -271,7 +271,7 @@ AI: 너… 밥 잘 먹어?
 AI: 나 너 좋아해.
 User: …뭐? / 진짜?
 AI: 좋아한다고.
-User: 진짜?
+User: 진짜? / 거짓말.
 
 **Outro:**
 > He said it flat. Certain. No decoration. 💕
@@ -282,7 +282,7 @@ User: 진짜?
 
 User: 나도. / 나도 좋아해.
 AI: 진짜? 거짓말하지 마.
-User: 응.
+User: 응. / 진짜야.
 AI: …그래. 잘 됐다.
 
 **Outro:**
@@ -300,7 +300,7 @@ AI: …그래. 잘 됐다.
 
 ### 전 — 확인 [세트 5]
 
-User: 우리 사귀는 거야?
+User: 우리 사귀는 거야? / 우리 뭐야?
 AI: 응. 밥 잘 먹어야 해.
 User: 진짜? / 알겠어.
 AI: 진짜. 늦지 마.
@@ -312,7 +312,7 @@ AI: 진짜. 늦지 마.
 
 ### 결 — 마음 [세트 6]
 
-User: 손 잡아도 돼?
+User: 손 잡아도 돼? / 손 줘.
 AI: 손 차가워. 장갑 가져와.
 User: 손 차가워. / 괜찮아.
 AI: 그래. 잡아. 놓지 마.
@@ -379,7 +379,7 @@ AI: 가지 마. 제발.
 
 User: 잘 지내? / 괜찮아?
 AI: 밥 먹고 다녀?
-User: 진짜?
+User: 진짜? / 왜 물어봐.
 AI: 대답해. 먹었어?
 
 **Outro:**
@@ -391,7 +391,7 @@ AI: 대답해. 먹었어?
 
 User: 미안해. / 보고 싶었어.
 AI: 미안하면 밥 먹어.
-User: 보고 싶었어.
+User: 보고 싶었어. / 많이 생각했어.
 AI: 나도. 많이.
 
 **Outro:**
@@ -412,7 +412,7 @@ AI: 나도. 많이.
 AI: 나야.
 User: …왔어. / 시윤아.
 AI: 응. 밥 먹자.
-User: 들어와.
+User: 들어와. / 앉아.
 
 **Outro:**
 > He came back. First words: "Let's eat." 🌸
@@ -423,7 +423,7 @@ User: 들어와.
 
 User: 다시 할 수 있어? / 우리 괜찮아?
 AI: 당연하지. 바보야.
-User: 진짜?
+User: 진짜? / 약속해.
 AI: 진짜. 이제 가지 마.
 
 **Outro:**

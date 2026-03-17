@@ -1,4 +1,4 @@
-# 🎤 K-POP (반말)
+# 🎤 K-POP (존댓말)
 
 ### KP-1: 팬미팅
 
@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 사인회
+## sim1: 사인회
 
 **📍 장소:** 팬미팅 사인회장
 
@@ -20,9 +20,9 @@ It's finally your turn at the fan signing table.
 She looks up and smiles — but it's a strange, dreamy smile.
 
 **기 — 첫 만남 [세트 1]**
-AI: 왔구나. 기다렸어.
+AI: 오셨어요. 기다렸어요.
 User: 네, 왔어요. / 기다렸어요.
-AI: 잘 왔어. 오늘 좋은 날이다. 기분 어때?
+AI: 잘 오셨어요. 오늘 좋은 날이에요. 기분 어때요?
 User: 감사해요. / 좋은 날이에요.
 
 **Outro:**
@@ -31,9 +31,9 @@ User: 감사해요. / 좋은 날이에요.
 
 **승 — 대화 [세트 2]**
 User: 노래 좋아요. / 무대 좋았어요.
-AI: 고마워. 진심이야?
+AI: 고마워요. 진심이에요?
 User: 오래 기다렸어요. / 꿈같아요.
-AI: 알아. 고마워. 행복하다. 어떤 노래 좋았어?
+AI: 알아요. 고마워요. 행복해요. 어떤 노래 좋았어요?
 
 **Outro:**
 > She hands back the album with a warm, gentle smile.
@@ -41,7 +41,7 @@ AI: 알아. 고마워. 행복하다. 어떤 노래 좋았어?
 
 ---
 
-### sim2: 포토 존
+## sim2: 포토 존
 
 **📍 장소:** 팬미팅 포토 존
 
@@ -52,9 +52,9 @@ You move to the photo zone.
 She's already standing there, holding something invisible in her hands.
 
 **기 — 포즈 [세트 3]**
-AI: 어떻게 찍을까? 재밌게 찍자.
+AI: 어떻게 찍을까요? 재밌게 찍어요.
 User: 같이 찍어요. / 사진 찍어도 돼요?
-AI: 좋아. 여기 분위기 좋다. 어떤 포즈 할까?
+AI: 좋아요. 여기 분위기 좋아요. 어떤 포즈 할까요?
 User: 감사해요. / 좋아요.
 
 **Outro:**
@@ -63,9 +63,9 @@ User: 감사해요. / 좋아요.
 
 **승 — 사진 [세트 4]**
 User: 잘 나왔어요. / 예뻐요.
-AI: 진짜? 보여줘.
+AI: 진짜요? 보여주세요.
 User: 예뻐요. / 간직할게요.
-AI: 다행이다. 잘 나왔다. 나도 보고 싶어.
+AI: 다행이에요. 잘 나왔어요. 저도 보고 싶어요.
 
 **Outro:**
 > She smiles at the photo, genuinely pleased.
@@ -73,7 +73,7 @@ AI: 다행이다. 잘 나왔다. 나도 보고 싶어.
 
 ---
 
-### sim3: 마무리
+## sim3: 마무리
 
 **📍 장소:** 팬미팅 출구
 
@@ -84,9 +84,9 @@ The event is wrapping up.
 She's standing near the exit, staring at nothing in particular.
 
 **기 — 인사 [세트 5]**
-AI: 벌써 가? 아쉽다.
+AI: 벌써 가세요? 아쉬워요.
 User: 네, 가야 돼요. / 아쉬워요.
-AI: 잘 가. 조심해. 다음에 또 보자.
+AI: 잘 가세요. 조심하세요. 다음에 또 봐요.
 User: 또 올게요. / 꼭 올게요.
 
 **Outro:**
@@ -95,9 +95,9 @@ User: 또 올게요. / 꼭 올게요.
 
 **승 — 마지막 [세트 6]**
 User: 좋았어요. / 행복했어요.
-AI: 나도 좋았어. 재밌었다. 또 올 거지?
+AI: 저도 좋았어요. 재밌었어요. 또 올 거죠?
 User: 다음에 봐요. / 기다릴게요.
-AI: 꼭 다시 와. 기다릴게.
+AI: 꼭 다시 와요. 기다릴게요.
 
 **Outro:**
 > She watches you leave with a lingering, gentle smile.
@@ -114,7 +114,7 @@ AI: 꼭 다시 와. 기다릴게.
 
 ---
 
-### sim1: 백스테이지 입장
+## sim1: 백스테이지 입장
 
 **📍 장소:** 콘서트 백스테이지 입구
 
@@ -125,9 +125,9 @@ You won a fan event pass.
 A staff member leads you down a hallway — and there she is.
 
 **기 — 만남 [세트 1]**
-AI: 어떻게 들어왔어? 신기하다.
+AI: 어떻게 들어오셨어요? 신기해요.
 User: 이벤트로요. / 당첨됐어요.
-AI: 그렇구나. 운 좋다. 기대했어?
+AI: 그렇군요. 운 좋으시네요. 기대하셨어요?
 User: 당첨됐어요. / 놀랐어요.
 
 **Outro:**
@@ -136,9 +136,9 @@ User: 당첨됐어요. / 놀랐어요.
 
 **승 — 공연 [세트 2]**
 User: 공연 좋았어요. / 감동받았어요.
-AI: 고마워. 진짜 기뻐. 어디가 좋았어?
+AI: 고마워요. 진짜 기뻐요. 어디가 좋았어요?
 User: 감동받았어요. / 최고였어요.
-AI: 그 말 들으니 좋다. 더 열심히 할게.
+AI: 그 말 들으니 좋아요. 더 열심히 할게요.
 
 **Outro:**
 > She tugs at her sleeve, still thinking about the performance.
@@ -146,7 +146,7 @@ AI: 그 말 들으니 좋다. 더 열심히 할게.
 
 ---
 
-### sim2: 대기실
+## sim2: 대기실
 
 **📍 장소:** 백스테이지 대기실
 
@@ -157,9 +157,9 @@ She leads you to a small room.
 There are polaroids pinned to the wall everywhere.
 
 **기 — 대화 [세트 3]**
-AI: 뭐 마실래? 물 있어.
+AI: 뭐 마실래요? 물 있어요.
 User: 물 주세요. / 감사해요.
-AI: 여기. 차가워서 좋아. 목 마르지?
+AI: 여기요. 차가워서 좋아요. 목 마르죠?
 User: 감사해요. / 고마워요.
 
 **Outro:**
@@ -168,9 +168,9 @@ User: 감사해요. / 고마워요.
 
 **승 — 질문 [세트 4]**
 User: 긴장했어요? / 떨렸어요?
-AI: 조금 떨렸어. 무대 좋아.
+AI: 조금 떨렸어요. 무대 좋아요.
 User: 안 그래 보였어요. / 멋있었어요.
-AI: 원래 떨려도 웃어. 그게 내 비밀이야.
+AI: 원래 떨려도 웃어요. 그게 제 비밀이에요.
 
 **Outro:**
 > She shrugs, but her eyes hold something almost proud.
@@ -178,7 +178,7 @@ AI: 원래 떨려도 웃어. 그게 내 비밀이야.
 
 ---
 
-### sim3: 공연 후
+## sim3: 공연 후
 
 **📍 장소:** 무대 뒤편
 
@@ -189,9 +189,9 @@ The show is completely over now.
 The stage is dark, and she's sitting on an equipment box, looking at the empty seats.
 
 **기 — 느낌 [세트 5]**
-AI: 어땠어? 무대 좋았지?
+AI: 어떠셨어요? 무대 좋았죠?
 User: 너무 좋았어요. / 최고였어요.
-AI: 나도 행복했어. 최고였다. 다음에도 올 거야?
+AI: 저도 행복했어요. 최고였어요. 다음에도 오실 거예요?
 User: 또 올게요. / 기대돼요.
 
 **Outro:**
@@ -200,9 +200,9 @@ User: 또 올게요. / 기대돼요.
 
 **승 — 마무리 [세트 6]**
 User: 다음 공연 있어요? / 언제 또 해요?
-AI: 곧 있어. 기대돼.
+AI: 곧 있어요. 기대돼요.
 User: 기대돼요. / 꼭 갈게요.
-AI: 꼭 와. 더 좋을 거야.
+AI: 꼭 오세요. 더 좋을 거예요.
 
 **Outro:**
 > She smiles at the empty seats, already looking forward to next time.
@@ -219,7 +219,7 @@ AI: 꼭 와. 더 좋을 거야.
 
 ---
 
-### sim1: 방송 시작
+## sim1: 방송 시작
 
 **📍 장소:** 라이브 방송
 
@@ -230,9 +230,9 @@ She just went live.
 The camera is slightly tilted — intentionally, you think.
 
 **기 — 시작 [세트 1]**
-AI: 지금 봐? 잘 됐다.
+AI: 지금 보세요? 잘 됐어요.
 User: 네, 봐요. / 기다렸어요.
-AI: 오늘 기분 좋다. 너는?
+AI: 오늘 기분 좋아요. 여러분은요?
 User: 기다렸어요. / 저도 좋아요.
 
 **Outro:**
@@ -241,9 +241,9 @@ User: 기다렸어요. / 저도 좋아요.
 
 **승 — 인사 [세트 2]**
 User: 안녕하세요. / 하늘 씨!
-AI: 안녕. 반가워.
+AI: 안녕하세요. 반가워요.
 User: 오늘 예뻐요. / 분위기 좋아요.
-AI: 고마워. 기분 좋다. 뭐 하고 싶어?
+AI: 고마워요. 기분 좋아요. 뭐 하고 싶어요?
 
 **Outro:**
 > She looks into the camera with a calm, genuine expression.
@@ -251,7 +251,7 @@ AI: 고마워. 기분 좋다. 뭐 하고 싶어?
 
 ---
 
-### sim2: 방송 중
+## sim2: 방송 중
 
 **📍 장소:** 라이브 방송
 
@@ -262,9 +262,9 @@ She's reading comments now.
 She picks yours out without hesitation.
 
 **기 — 질문 [세트 3]**
-AI: 질문 있어? 뭐든 물어봐.
+AI: 질문 있어요? 뭐든 물어봐요.
 User: 취미가 뭐예요? / 평소에 뭐 해요?
-AI: 사진 찍어. 예쁜 거 찍어. 너는?
+AI: 사진 찍어요. 예쁜 거 찍어요. 여러분은요?
 User: 저도요. / 보여줘요.
 
 **Outro:**
@@ -273,9 +273,9 @@ User: 저도요. / 보여줘요.
 
 **승 — 노래 [세트 4]**
 User: 노래 해줘요. / 노래 듣고 싶어요.
-AI: 조금 있다가 할게.
+AI: 조금 있다가 할게요.
 User: 기다릴게요. / 좋아요.
-AI: 금방 해 줄게. 기다려.
+AI: 금방 해 줄게요. 기다려요.
 
 **Outro:**
 > She hums something soft, a quiet melody.
@@ -283,7 +283,7 @@ AI: 금방 해 줄게. 기다려.
 
 ---
 
-### sim3: 방송 마무리
+## sim3: 방송 마무리
 
 **📍 장소:** 라이브 방송
 
@@ -294,9 +294,9 @@ The stream is winding down.
 She's looking at something off-screen with her head tilted.
 
 **기 — 끝 [세트 5]**
-AI: 이제 끝나. 아쉽다.
+AI: 이제 끝나요. 아쉬워요.
 User: 벌써요? / 아쉬워요.
-AI: 또 할게. 걱정 마. 언제 또 볼까?
+AI: 또 할게요. 걱정 마세요. 언제 또 볼까요?
 User: 기다릴게요. / 꼭 해줘요.
 
 **Outro:**
@@ -305,9 +305,9 @@ User: 기다릴게요. / 꼭 해줘요.
 
 **승 — 인사 [세트 6]**
 User: 오늘 재밌었어요. / 행복했어요.
-AI: 나도 재밌었어. 행복했다. 다음에 또 하자.
+AI: 저도 재밌었어요. 행복했어요. 다음에 또 해요.
 User: 또 해요. / 기다릴게요.
-AI: 꼭 할게. 또 보자.
+AI: 꼭 할게요. 또 봐요.
 
 **Outro:**
 > The stream ends, but her warm smile stays with you.

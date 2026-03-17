@@ -12,7 +12,7 @@ Deep breath... say hi!
 
 ---
 
-### sim1: Nice to Meet You
+## sim1: Nice to Meet You
 
 **Goal:** To introduce yourself and share where you're from.
 
@@ -57,14 +57,14 @@ User: 네, 자주요! / 가끔요!
 
 ---
 
-### sim2: Getting Closer
+## sim2: Getting Closer
 
 **Goal:** To discover shared hobbies and become friends.
 
 **📍 장소:** 밖 (동일)
 
 **전 — 취미 [세트 4]**
-User: 민지 씨, 취미 뭐예요?
+User: 민지 씨, 취미 뭐예요? / 뭐 좋아해요?
 AI: 저요? 쇼핑이랑 맛집이요!
 User: 저도요! / 오, 좋아요!
 AI: 진짜요? 우리 진짜 잘 맞아요!
@@ -98,7 +98,7 @@ User: 응, 좋아해! / 진짜 좋아해!
 
 ---
 
-### sim3: Let's Hang Out
+## sim3: Let's Hang Out
 
 **Goal:** To make casual weekend plans and exchange KakaoTalk IDs to stay in touch.
 
@@ -116,7 +116,7 @@ User: 좋아! / 가자!
 >
 
 **결 — 연락 [세트 8]**
-User: 카톡 있어?
+User: 카톡 있어? / 카톡 해!
 AI: 응, 있어! 아이디 알려줘!
 User: 여기! / 보낼게!
 AI: 저장했어! 연락할게!
@@ -230,7 +230,7 @@ AI: 오늘 진짜 재밌었어! 또 오자!
 User: 응, 또 오자! / 나도 재밌었어!
 
 AI: 다음엔 카페도 가자! 내가 맛집 알아!
-User: 좋아! 기대돼!
+User: 좋아! 기대돼! / 나도 기대돼!
 
 **Outro:**
 > Shopping buddy secured! 🛍️
@@ -337,10 +337,10 @@ User: 금방 가! / 나도 배고파!
 
 ### 결 — 도착 [세트 6]
 
-User: 민지야! 어디야?
+User: 민지야! 어디야? / 다 왔어!
 AI: 여기! 이쪽!
 
-User: 아, 봤어! 가자!
+User: 아, 봤어! 가자! / 여기야! 가자!
 AI: 가자가자! 배고파 죽겠어!
 
 **Outro:**
@@ -449,9 +449,9 @@ User: 라면! / 김밥!
 ### 결 — 잘 자 [세트 6]
 
 AI: 나 이제 잘 거야! 오늘 진짜 재밌었어!
-User: 나도! 잘 자!
+User: 나도! 잘 자! / 좋은 꿈 꿔!
 
-User: 내일 또 카톡 해!
+User: 내일 또 카톡 해! / 내일 연락해!
 AI: 당연하지! 잘 자!
 
 **Outro:**

@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 주문
+## sim1: 주문
 
 **Goal:** To order bread and a drink at a Yeonnam-dong bakery.
 
@@ -114,7 +114,7 @@ AI: 또 오세요. 감사합니다.
 
 ---
 
-### sim1: 길 묻기
+## sim1: 길 묻기
 
 **Goal:** To ask for directions to the park.
 
@@ -208,7 +208,7 @@ AI: 즐거운 시간 되세요.
 **Outro:**
 > The market is busy and warm.
 > Taeo's neighborhood always has something new.
-> 💬 Taeo texted: "그 시장, 저녁 분위기가 좋아. 느끼해봐."
+> 💬 Taeo texted: "그 시장, 저녁 분위기가 좋아. 느껴봐."
 >
 
 ---
@@ -222,7 +222,7 @@ AI: 즐거운 시간 되세요.
 
 ---
 
-### sim1: 구경
+## sim1: 구경
 
 **Goal:** To browse items and ask about prices at the flea market.
 
@@ -330,7 +330,7 @@ AI: 기다릴게요. 또 오세요.
 
 ---
 
-### sim1: 버스 타기
+## sim1: 버스 타기
 
 **Goal:** To get on the right bus and ask about the stop.
 

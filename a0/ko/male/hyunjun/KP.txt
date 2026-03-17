@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: First Sign
+## sim1: First Sign
 
 **Goal:** To stand in front of Hyunjun at the fan sign and get through the moment without freezing.
 
@@ -21,9 +21,9 @@ Pen in hand. Eyes down.
 You're next in line.
 
 **기 — 첫 만남 [세트 1]**
-User: 안녕하세요!
+User: 안녕하세요! / 반갑습니다!
 AI: 안녕하세요. 반가워요.
-User: 반가워요!
+User: 반가워요! / 저도요!
 AI: 여기 앉으세요.
 
 **Outro:**
@@ -32,7 +32,7 @@ AI: 여기 앉으세요.
 >
 
 **승 — 사인 [세트 2]**
-User: 사인 해주세요!
+User: 사인 해주세요! / 사인 부탁해요!
 AI: 이름 알려주세요.
 User: ___이에요!
 AI: 좋아요. 써줄게요.
@@ -44,7 +44,7 @@ AI: 좋아요. 써줄게요.
 
 ---
 
-### sim2: He Noticed
+## sim2: He Noticed
 
 **Goal:** To find out Hyunjun actually recognizes you from before.
 
@@ -54,7 +54,7 @@ AI: 좋아요. 써줄게요.
 AI: 전에도 왔어요?
 User: 네! / 항상 와요!
 AI: 알아요. 기억해요.
-User: 기억해요?
+User: 기억해요? / 진짜요?!
 
 **Outro:**
 > He knew before you asked.
@@ -63,9 +63,9 @@ User: 기억해요?
 
 **전 — 대화 [세트 4]**
 AI: 좋아해요? 고마워요.
-User: 네, 좋아해요!
+User: 네, 좋아해요! / 많이 좋아해요!
 AI: 저도 고마워요. 진심이에요.
-User: 앞으로도 올게요!
+User: 앞으로도 올게요! / 계속 올게요!
 
 **Outro:**
 > "진심이에요." That's Hyunjun for "I mean it."
@@ -74,16 +74,16 @@ User: 앞으로도 올게요!
 
 ---
 
-### sim3: Goodbye (For Now)
+## sim3: Goodbye (For Now)
 
 **Goal:** To give Hyunjun your letter and say a goodbye that lands.
 
 **📍 장소:** 팬미팅 현장 (동일)
 
 **전 — 선물 [세트 5]**
-User: 이거요.
+User: 이거요. / 받아주세요!
 AI: 뭐예요? 보여주세요.
-User: 편지예요!
+User: 편지예요! / 선물이에요!
 AI: 고마워요. 잘 읽을게요.
 
 **Outro:**
@@ -92,9 +92,9 @@ AI: 고마워요. 잘 읽을게요.
 
 **결 — 작별 [세트 6]**
 AI: 조심히 가세요. 고마워요.
-User: 네, 감사해요!
+User: 네, 감사해요! / 또 만나요!
 AI: 또 봐요. 꼭 오세요.
-User: 꼭이요!
+User: 꼭이요! / 약속이에요!
 
 **Outro:**
 > "또 봐요." He said it first.
@@ -130,7 +130,7 @@ AI: 왔어요? 고마워요.
 User: 네! / 왔어요!
 
 AI: 수고했어요. 기다렸어요?
-User: 현준 씨도요!
+User: 현준 씨도요! / 화이팅이에요!
 
 **Outro:**
 > He said "수고했어요" to a fan waiting in line.
@@ -139,10 +139,10 @@ User: 현준 씨도요!
 
 ### 승 — 기다림 [세트 2]
 
-User: 떨려요?
+User: 떨려요? / 괜찮아요?
 AI: 괜찮아요. 안 떨려요.
 
-User: 잘 할 거예요!
+User: 잘 할 거예요! / 응원해요!
 AI: 알아요. 고마워요.
 
 **Outro:**
@@ -164,7 +164,7 @@ AI: 왔어요? 보여요.
 User: 네! / 여기요!
 
 AI: 다행이에요. 즐기세요.
-User: 최고예요!
+User: 최고예요! / 멋있어요!
 
 **Outro:**
 > He found you in the crowd.
@@ -173,10 +173,10 @@ User: 최고예요!
 
 ### 전 — 앵콜 [세트 4]
 
-User: 앵콜! 앵콜!
+User: 앵콜! 앵콜! / 한 번 더요!
 AI: 알겠어요. 하나 더 할게요.
 
-User: 한 곡 더요!
+User: 한 곡 더요! / 더 듣고 싶어요!
 AI: 좋아요. 들으세요.
 
 **Outro:**
@@ -194,10 +194,10 @@ AI: 좋아요. 들으세요.
 
 ### 전 — 끝 [세트 5]
 
-User: 진짜 좋았어요!
+User: 진짜 좋았어요! / 너무 좋았어요!
 AI: 고마워요. 즐거웠어요?
 
-User: 수고했어요!
+User: 수고했어요! / 고마워요!
 AI: 감사해요. 힘이 돼요.
 
 **Outro:**
@@ -208,10 +208,10 @@ AI: 감사해요. 힘이 돼요.
 ### 결 — 인사 [세트 6]
 
 AI: 조심히 가세요. 늦었어요.
-User: 네, 감사해요!
+User: 네, 감사해요! / 잘 갈게요!
 
 AI: 또 오세요. 기다릴게요.
-User: 꼭이요!
+User: 꼭이요! / 네, 갈게요!
 
 **Outro:**
 > "또 오세요." Quiet. Direct.
@@ -246,7 +246,7 @@ AI: 왔어요? 반가워요.
 User: 네! / 왔어요!
 
 AI: 고마워요. 많이 왔어요.
-User: 수고했어요!
+User: 수고했어요! / 보고 싶었어요!
 
 **Outro:**
 > He found your comment in the flood.
@@ -259,7 +259,7 @@ AI: 오늘 뭐 했어요?
 User: 기다렸어요! / 라이브 기다렸어요!
 
 AI: 고마워요. 기다렸어요?
-User: 사랑해요!
+User: 사랑해요! / 최고예요!
 
 **Outro:**
 > Love sent. He received it with a small nod.
@@ -280,7 +280,7 @@ AI: 편지 봤어요. 고마워요.
 User: 진짜요?! / 읽었어요?
 
 AI: 네, 다 읽었어요.
-User: 감사해요!
+User: 감사해요! / 기뻐요!
 
 **Outro:**
 > "봤어요." He reads every message. Remembers every name.
@@ -292,7 +292,7 @@ AI: 뭐가 좋았어요? 말해주세요.
 User: 다 좋아요! / 다 좋았어요!
 
 AI: 고마워요. 힘이 돼요.
-User: 항상 응원할게요!
+User: 항상 응원할게요! / 화이팅이에요!
 
 **Outro:**
 > "힘이 돼요." = "It gives me strength."
@@ -309,10 +309,10 @@ User: 항상 응원할게요!
 
 ### 전 — 메시지 [세트 5]
 
-User: 오늘 라이브 봤어요!
+User: 오늘 라이브 봤어요! / 잘 봤어요!
 AI: 고마워요. 재미있었어요?
 
-User: 진짜 좋았어요!
+User: 진짜 좋았어요! / 재밌었어요!
 AI: 다행이에요. 또 할게요.
 
 **Outro:**
@@ -323,10 +323,10 @@ AI: 다행이에요. 또 할게요.
 ### 결 — 잘 자 [세트 6]
 
 AI: 이제 자세요. 늦었어요.
-User: 잘 자요!
+User: 잘 자요! / 푹 쉬세요!
 
 AI: 잘 자요. 좋은 꿈 꿔요.
-User: 좋은 꿈 꿔요!
+User: 좋은 꿈 꿔요! / 내일 또 봐요!
 
 **Outro:**
 > Goodnight exchanged.

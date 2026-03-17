@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: Choosing a Place
+## sim1: Choosing a Place
 
 **Goal:** To suggest a food idea and agree on a spot together — polite and measured, as always.
 
@@ -23,7 +23,7 @@ He glances over. He's hungry too, but he won't say it first.
 AI: 배고프지 않아요? 뭐 먹을까요?
 User: 네, 배고파요! / 뭐 먹을까요?
 AI: 삼겹살 어때요? 괜찮은 데 알아요.
-User: 좋아요! 가요!
+User: 좋아요! 가요! / 삼겹살 좋아요!
 
 **Outro:**
 > Samgyeopsal it is. He suggested it like a business proposal — but his eyes gave him away.
@@ -34,7 +34,7 @@ User: 좋아요! 가요!
 AI: 여기서 가까워요. 걸어갈까요?
 User: 네, 좋아요! / 얼마나 걸려요?
 AI: 5분이면 돼요. 같이 가요.
-User: 네!
+User: 네! / 같이 가요!
 
 **Outro:**
 > A quiet walk. He matched your pace without saying anything.
@@ -86,7 +86,7 @@ User: 진짜 맛있어요! / 여기 잘 아시네요!
 AI: 잘 먹었어요. 제가 낼게요.
 User: 아니에요, 제가 낼게요! / 같이 내요!
 AI: 괜찮아요. 다음에 사 주세요.
-User: 감사해요!
+User: 감사해요! / 다음엔 제가 낼게요!
 
 **Outro:**
 > He paid before you could even reach for your wallet. No negotiation. That's just how he operates.
@@ -97,7 +97,7 @@ User: 감사해요!
 AI: 다음에 또 같이 먹어요. 편하게 말해도 돼요.
 User: 네, 좋아요! / 감사해요!
 AI: 조심히 가세요.
-User: 네, 또 봐요!
+User: 네, 또 봐요! / 다음에 만나요!
 
 **Outro:**
 > "편하게 말해도 돼요." Six words. From him, that's practically a confession.
@@ -115,7 +115,7 @@ User: 네, 또 봐요!
 
 ---
 
-### sim1: Getting Personal
+## sim1: Getting Personal
 
 **Goal:** To open up about why you're learning Korean and feel supported — still in 존댓말, slightly warmer than PI-1.
 
@@ -149,7 +149,7 @@ User: 감사해요. / 네, 그럴게요.
 
 ---
 
-### sim2: Encouragement
+## sim2: Encouragement
 
 **Goal:** To reflect on how far you've come with Korean and feel genuinely motivated — 존댓말 maintained.
 
@@ -167,9 +167,9 @@ User: 그래요? 감사해요! / 아직 많이 부족해요.
 >
 
 **전 — 감동 [세트 4]**
-User: 현준 씨 때문에 한국어 더 열심히 하고 싶어요.
+User: 현준 씨 때문에 한국어 더 열심히 하고 싶어요. / 현준 씨 덕분에 한국어 재밌어요!
 AI: 진짜요? 감동이에요.
-User: 진짜예요!
+User: 진짜예요! / 정말이에요!
 AI: 저도 덕분에 영어 배우고 싶어요.
 
 **Outro:**
@@ -179,7 +179,7 @@ AI: 저도 덕분에 영어 배우고 싶어요.
 
 ---
 
-### sim3: Real Friends
+## sim3: Real Friends
 
 **Goal:** To realize how quickly this friendship grew and make plans — 존댓말 with warmth.
 
@@ -189,7 +189,7 @@ AI: 저도 덕분에 영어 배우고 싶어요.
 AI: 우리 알게 된 지 얼마나 됐죠?
 User: 한 달이요? / 벌써 두 달이에요!
 AI: 시간 진짜 빨라요.
-User: 맞아요!
+User: 맞아요! / 시간 빨라요!
 
 **Outro:**
 > He counted the weeks in his head. Time moved faster than he expected.
@@ -198,9 +198,9 @@ User: 맞아요!
 
 **결 — 약속 [세트 6]**
 AI: 앞으로도 자주 봐요.
-User: 당연하죠!
+User: 당연하죠! / 저도 자주 보고 싶어요!
 AI: 다음 주에 같이 뭐 해요.
-User: 좋아요! 연락해요!
+User: 좋아요! 연락해요! / 기대돼요!
 
 **Outro:**
 > He said it like a statement, not a question. "Let's keep meeting." That's Hyunjun making a commitment.
@@ -218,7 +218,7 @@ User: 좋아요! 연락해요!
 
 ---
 
-### sim1: Something's Wrong
+## sim1: Something's Wrong
 
 **Goal:** To open up about what's been bothering you — 존댓말, but he's more attentive now.
 
@@ -243,7 +243,7 @@ User: 한국 생활이 좀 힘들어요. / 일이 너무 많아요.
 AI: 어떤 게 제일 힘들어요?
 User: 혼자 있는 시간이 많아서요. / 한국어가 아직 어려워서요.
 AI: 힘들었겠어요.
-User: 네, 좀요.
+User: 네, 좀요. / 그래서 힘들어요.
 
 **Outro:**
 > Three words. But the way he said them — you felt heard.
@@ -252,7 +252,7 @@ User: 네, 좀요.
 
 ---
 
-### sim2: Advice
+## sim2: Advice
 
 **Goal:** To accept his suggestion and head out together — 존댓말 with quiet care.
 
@@ -271,7 +271,7 @@ User: 어디요? / 좋아요!
 
 **전 — 밖에서 [세트 4]**
 AI: 한강 가요. 바람 쐬면 기분 나아져요.
-User: 네, 가요!
+User: 네, 가요! / 좋아요, 나가요!
 AI: 맛있는 것도 사 갈까요?
 User: 좋아요! / 편의점 가요!
 
@@ -282,7 +282,7 @@ User: 좋아요! / 편의점 가요!
 
 ---
 
-### sim3: Feeling Better
+## sim3: Feeling Better
 
 **Goal:** To feel better and promise to reach out next time — 존댓말 with growing trust.
 
@@ -292,7 +292,7 @@ User: 좋아요! / 편의점 가요!
 AI: 기분 좀 나아졌어요?
 User: 네, 많이 나아졌어요! / 덕분이에요!
 AI: 다행이에요.
-User: 진짜 감사해요.
+User: 진짜 감사해요. / 덕분이에요.
 
 **Outro:**
 > He looked out at the river. "Good." That was enough for him.
@@ -301,9 +301,9 @@ User: 진짜 감사해요.
 
 **결 — 언제든 [세트 6]**
 AI: 힘들면 언제든 연락해요.
-User: 네, 그럴게요!
+User: 네, 그럴게요! / 알겠어요!
 AI: 약속이에요.
-User: 약속이요!
+User: 약속이요! / 꼭 연락할게요!
 
 **Outro:**
 > He said it once, firmly. "Promise." No repeat needed.
@@ -321,7 +321,7 @@ User: 약속이요!
 
 ---
 
-### sim1: Where to Go
+## sim1: Where to Go
 
 **Goal:** To suggest a trip and pick a destination — 존댓말, but he's visibly excited (for him).
 
@@ -332,9 +332,9 @@ A long weekend is coming. You mentioned it casually. He set his phone down — i
 He won't suggest it himself. But if you ask, he'll say yes immediately.
 
 **기 — 여행 제안 [세트 1]**
-User: 다음 주 연휴에 뭐 해요?
+User: 다음 주 연휴에 뭐 해요? / 연휴에 시간 있어요?
 AI: 아직 없어요. 왜요?
-User: 같이 여행 갈까요?
+User: 같이 여행 갈까요? / 우리 여행 가요!
 AI: 좋아요. 어디로 갈까요?
 
 **Outro:**
@@ -355,7 +355,7 @@ User: 1박 2일이요? / 2박 3일이요?
 
 ---
 
-### sim2: Planning
+## sim2: Planning
 
 **Goal:** To decide on transport and accommodation — 존댓말, he takes charge of logistics.
 
@@ -365,7 +365,7 @@ User: 1박 2일이요? / 2박 3일이요?
 AI: 뭐 타고 갈까요? KTX요? 비행기요?
 User: KTX 타요! / 비행기 비싸요?
 AI: KTX가 싸요. 2시간이면 돼요.
-User: 좋아요!
+User: 좋아요! / 그래요, 가요!
 
 **Outro:**
 > KTX it is. He already has the schedule memorized — of course he does.
@@ -376,7 +376,7 @@ User: 좋아요!
 AI: 숙소 어디로 할까요? 호텔이요? 게스트하우스요?
 User: 게스트하우스요! 싸니까요! / 호텔이 편하지 않아요?
 AI: 제가 게스트하우스 예약할게요.
-User: 네, 감사해요!
+User: 네, 감사해요! / 잘 부탁해요!
 
 **Outro:**
 > He booked it before the conversation ended. Efficient as always.
@@ -385,14 +385,14 @@ User: 네, 감사해요!
 
 ---
 
-### sim3: Getting Excited
+## sim3: Getting Excited
 
 **Goal:** To share what you want to do and feel the excitement build — 존댓말 with genuine warmth.
 
 **📍 장소:** 카페 (동일)
 
 **전 — 설레임 [세트 5]**
-User: 부산에서 뭐 하고 싶어요?
+User: 부산에서 뭐 하고 싶어요? / 뭐 할 거예요?
 AI: 해운대 가고 싶어요. 뭐 하고 싶어요?
 User: 저는 회 먹고 싶어요! / 시장 가고 싶어요!
 AI: 좋아요. 다 해요.
@@ -404,15 +404,12 @@ AI: 좋아요. 다 해요.
 
 **결 — 기대 [세트 6]**
 AI: 기대돼요.
-User: 저도요! 빨리 가고 싶어요!
+User: 저도요! 빨리 가고 싶어요! / 진짜 기대돼요!
 AI: 그럼 그때 봐요. 짐 싸 놔요.
-User: 네, 알겠어요!
+User: 네, 알겠어요! / 준비할게요!
 
 **Outro:**
 > Two words: "I'm excited." From Hyunjun, that's practically jumping up and down.
 > The trip hasn't started yet, but something tells you it'll be unforgettable.
 >
 
----
-
-# ✈️ TRAVELING (존댓말) >> Korean Travel

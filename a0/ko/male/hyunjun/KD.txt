@@ -11,7 +11,7 @@
 
 ---
 
-### sim1: 첫 만남 (First Meeting)
+## sim1: 첫 만남 (First Meeting)
 
 **Goal:** To practice the first meeting scene — face the cold heir, and hold your ground.
 

@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 신촌 거리에서
+## sim1: 신촌 거리에서
 
 **📍 장소:** 신촌 거리
 
@@ -21,18 +21,18 @@ She bumps into you and looks up.
 
 **기 — 첫 만남 [세트 1]**
 AI: 앗, 죄송해요!
-User: 괜찮아요.
+User: 괜찮아요. / 아, 네.
 AI: 많이 놀랐죠?
-User: 아니에요.
+User: 아니에요. / 조금요.
 
 **Outro:**
 > She adjusts her bag nervously, still looking at you.
 >
 
 **승 — 대화 시작 [세트 2]**
-User: 자주 와요, 여기?
+User: 자주 와요, 여기? / 여기 자주 와요?
 AI: 네, 자주요.
-User: 저도요.
+User: 저도요. / 저도 자주요.
 AI: 그럼 또 봐요.
 
 **Outro:**
@@ -53,18 +53,18 @@ She spots you first.
 
 **승 — 반가운 재회 [세트 3]**
 AI: 또 만났네요.
-User: 진짜요?
+User: 진짜요? / 어, 정말요?
 AI: 동네가 좁죠.
-User: 그러네요.
+User: 그러네요. / 맞아요.
 
 **Outro:**
 > She's clearly happy to see you again.
 >
 
 **전 — 연락처 교환 [세트 4]**
-User: 연락해도 돼요?
+User: 연락해도 돼요? / 번호 줄 수 있어요?
 AI: 좋아요, 네.
-User: 번호 알려줘요.
+User: 번호 알려줘요. / 연락처 주세요.
 AI: 잠깐만요.
 
 **Outro:**
@@ -85,18 +85,18 @@ She greets you like an old friend.
 
 **전 — 편안한 만남 [세트 5]**
 AI: 또 왔어?
-User: 응, 산책하러.
+User: 응, 산책하러. / 응, 그냥 왔어.
 AI: 나도 자주 와.
-User: 몰랐어.
+User: 몰랐어. / 진짜?
 
 **Outro:**
 > She falls into step beside you naturally.
 >
 
 **결 — 편한 대화 [세트 6]**
-User: 오늘 뭐 했어?
+User: 오늘 뭐 했어? / 오늘 어땠어?
 AI: 수업 들었어.
-User: 힘들었겠다.
+User: 힘들었겠다. / 고생했어.
 AI: 좀 그랬어.
 
 **Outro:**
@@ -114,7 +114,7 @@ AI: 좀 그랬어.
 
 ---
 
-### sim1: 도서관에서
+## sim1: 도서관에서
 
 **📍 장소:** 연세대 도서관
 
@@ -126,18 +126,18 @@ She sits down across from you.
 
 **기 — 우연한 자리 [세트 1]**
 AI: 여기 자리 있어요?
-User: 네, 앉아요.
+User: 네, 앉아요. / 네, 여기요.
 AI: 감사해요.
-User: 같이 공부해요.
+User: 같이 공부해요. / 같이 해요.
 
 **Outro:**
 > She opens her book but keeps glancing up.
 >
 
 **승 — 설레는 분위기 [세트 2]**
-User: 시험 있어요?
+User: 시험 있어요? / 공부하러 왔어요?
 AI: 네, 내일요.
-User: 저도요.
+User: 저도요. / 저도 내일이에요.
 AI: 같이 해요, 그럼.
 
 **Outro:**
@@ -158,18 +158,18 @@ She seems nervous about something.
 
 **승 — 할 말이 있어요 [세트 3]**
 AI: 있잖아요.
-User: 네?
+User: 네? / 왜요?
 AI: 드릴 말 있어요.
-User: 말해요.
+User: 말해요. / 들을게요.
 
 **Outro:**
 > She takes a deep breath and looks at you.
 >
 
 **전 — 고백 [세트 4]**
-User: 뭔데요?
+User: 뭔데요? / 무슨 말이에요?
 AI: 저, 좋아해요.
-User: 진짜요?
+User: 진짜요? / 정말요?
 AI: 네, 진짜요.
 
 **Outro:**
@@ -190,18 +190,18 @@ She's waiting for you at the school gate.
 
 **전 — 다음 날 [세트 5]**
 AI: 어젯밤에 생각했어.
-User: 나도.
+User: 나도. / 나도 그랬어.
 AI: 어떻게 생각해?
-User: 나도 좋아해.
+User: 나도 좋아해. / 나도 좋아.
 
 **Outro:**
 > She breaks into a wide smile and looks down.
 >
 
 **결 — 새로운 시작 [세트 6]**
-User: 오늘 뭐 해?
+User: 오늘 뭐 해? / 오늘 시간 있어?
 AI: 너랑 있고 싶어.
-User: 나도.
+User: 나도. / 나도 그래.
 AI: 그럼 가자.
 
 **Outro:**
@@ -219,7 +219,7 @@ AI: 그럼 가자.
 
 ---
 
-### sim1: 학교 복도에서
+## sim1: 학교 복도에서
 
 **📍 장소:** 학교 복도
 
@@ -231,18 +231,18 @@ She stops when she sees you in the hallway.
 
 **기 — 어색한 재회 [세트 1]**
 AI: 안녕하세요.
-User: 안녕하세요.
+User: 안녕하세요. / 오랜만이에요.
 AI: 잘 지냈어요?
-User: 네, 잘 지냈어요.
+User: 네, 잘 지냈어요. / 네, 괜찮았어요.
 
 **Outro:**
 > She stands still, clearly wanting to say more.
 >
 
 **승 — 대화 시도 [세트 2]**
-User: 시간 있어요?
+User: 시간 있어요? / 잠깐 돼요?
 AI: 네, 있어요.
-User: 얘기할게요.
+User: 얘기할게요. / 할 말 있어요.
 AI: 저도요.
 
 **Outro:**
@@ -263,18 +263,18 @@ She's the first one to speak honestly.
 
 **승 — 솔직한 대화 [세트 3]**
 AI: 미안해요, 그때.
-User: 저도요.
+User: 저도요. / 저도 미안해요.
 AI: 많이 서운했죠?
-User: 조금요.
+User: 조금요. / 네, 좀요.
 
 **Outro:**
 > She exhales slowly, like she's been holding that in for a while.
 >
 
 **전 — 화해 [세트 4]**
-User: 괜찮아요, 이제.
+User: 괜찮아요, 이제. / 다 괜찮아요.
 AI: 다행이에요.
-User: 다시 친하게 지내요.
+User: 다시 친하게 지내요. / 다시 잘 지내요.
 AI: 네, 그래요.
 
 **Outro:**
@@ -295,18 +295,18 @@ Formality falls away completely.
 
 **전 — 완전한 화해 [세트 5]**
 AI: 오늘 고마워.
-User: 나도.
+User: 나도. / 나도 고마워.
 AI: 많이 보고 싶었어.
-User: 나도 그랬어.
+User: 나도 그랬어. / 나도 보고 싶었어.
 
 **Outro:**
 > She leans against the door with a soft smile.
 >
 
 **결 — 새 출발 [세트 6]**
-User: 이제 자주 봐.
+User: 이제 자주 봐. / 이제 자주 만나.
 AI: 당연하지.
-User: 약속해.
+User: 약속해. / 꼭이야.
 AI: 응, 약속할게.
 
 **Outro:**

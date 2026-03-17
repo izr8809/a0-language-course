@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 처음 만남
+## sim1: 처음 만남
 
 **Goal:** To meet Taeo at the fan sign and get through the moment without forgetting how to speak.
 
@@ -22,9 +22,9 @@ Like he's been waiting.
 
 **기 — 첫 만남 [세트 1]**
 AI: 와줬어요. 고마워요.
-User: 네! 왔어요!
+User: 네! 왔어요! / 안녕하세요!
 AI: 오늘 날씨 좋아요.
-User: 맞아요!
+User: 맞아요! / 네, 좋아요!
 
 **Outro:**
 > He smiled when he saw you.
@@ -32,7 +32,7 @@ User: 맞아요!
 >
 
 **승 — 사인 [세트 2]**
-User: 사인 해주세요!
+User: 사인 해주세요! / 사인 부탁해요!
 AI: 이름이 뭐예요?
 User: ___이에요!
 AI: 예쁜 이름이에요.
@@ -44,7 +44,7 @@ AI: 예쁜 이름이에요.
 
 ---
 
-### sim2: 잠깐 더
+## sim2: 잠깐 더
 
 **Goal:** To keep the conversation going just a little longer than you expected.
 
@@ -52,9 +52,9 @@ AI: 예쁜 이름이에요.
 
 **승 — 기억 [세트 3]**
 AI: 자주 와요?
-User: 네! 항상 와요!
+User: 네! 항상 와요! / 맨날 와요!
 AI: 알아요. 얼굴 기억해요.
-User: 기억해요?
+User: 기억해요? / 진짜요?!
 
 **Outro:**
 > He knew before you asked.
@@ -63,9 +63,9 @@ User: 기억해요?
 
 **전 — 대화 [세트 4]**
 AI: 오늘 하루 어땠어요?
-User: 너무 좋아요!
+User: 너무 좋아요! / 최고예요!
 AI: 저도 좋아요. 진짜요.
-User: 앞으로도 올게요!
+User: 앞으로도 올게요! / 또 올게요!
 
 **Outro:**
 > "Me too. Really." Simple. Real.
@@ -74,16 +74,16 @@ User: 앞으로도 올게요!
 
 ---
 
-### sim3: 작별 인사
+## sim3: 작별 인사
 
 **Goal:** To give Taeo your letter and say goodbye without your voice shaking.
 
 **📍 장소:** 팬미팅 현장 (동일)
 
 **전 — 선물 [세트 5]**
-User: 이거요.
+User: 이거요. / 이거 드릴게요.
 AI: 이거 뭐예요?
-User: 편지예요!
+User: 편지예요! / 마음이에요!
 AI: 소중히 읽을게요.
 
 **Outro:**
@@ -93,9 +93,9 @@ AI: 소중히 읽을게요.
 
 **결 — 작별 [세트 6]**
 AI: 비 오는 날 또 와요.
-User: 네, 올게요!
+User: 네, 올게요! / 꼭 갈게요!
 AI: 기다릴게요.
-User: 꼭이요!
+User: 꼭이요! / 약속이요!
 
 **Outro:**
 > "기다릴게요." He said it first.
@@ -128,7 +128,7 @@ Then the lights change.
 ### 기 — 공연 전 [세트 1]
 
 AI: 안녕하세요. 왔어요?
-User: 네! 왔어요!
+User: 네! 왔어요! / 네, 안녕하세요!
 
 AI: 오늘 하늘 봤어요? 예뻐요.
 User: 아니요! / 못 봤어요!
@@ -141,10 +141,10 @@ User: 아니요! / 못 봤어요!
 ### 승 — 기다림 [세트 2]
 
 AI: 오늘 느낌 달라요!
-User: 네, 많이요!
+User: 네, 많이요! / 진짜 달라요!
 
 AI: 태오 무대는 느낌이 달라요.
-User: 빨리 보고 싶어요!
+User: 빨리 보고 싶어요! / 기대돼요!
 
 **Outro:**
 > The lights just went dark.
@@ -162,7 +162,7 @@ User: 빨리 보고 싶어요!
 ### 승 — 공연 중 [세트 3]
 
 AI: 태오 나왔어요!
-User: 와, 멋있어요!
+User: 와, 멋있어요! / 너무 멋져요!
 
 AI: 이쪽 봤어요! 눈 마주쳤어요!
 User: 진짜요?! / 설레요!
@@ -175,10 +175,10 @@ User: 진짜요?! / 설레요!
 ### 전 — 앵콜 [세트 4]
 
 AI: 앵콜 해요! 앵콜!
-User: 다시 나올까요?
+User: 다시 나올까요? / 또 나와요?
 
 AI: 진짜 다시 나왔어요!
-User: 최고예요!
+User: 최고예요! / 너무 좋아요!
 
 **Outro:**
 > Encore delivered. The crowd went wild.
@@ -195,10 +195,10 @@ User: 최고예요!
 
 ### 전 — 끝 [세트 5]
 
-User: 진짜 좋았어요!
+User: 진짜 좋았어요! / 최고였어요!
 AI: 맞아요. 꿈 같았어요.
 
-User: 태오 봤어요!
+User: 태오 봤어요! / 눈 마주쳤어요!
 AI: 나도 봤어요. 눈이 예뻤어요.
 
 **Outro:**
@@ -209,10 +209,10 @@ AI: 나도 봤어요. 눈이 예뻤어요.
 ### 결 — 인사 [세트 6]
 
 AI: 비 올 뻔했는데, 안 왔어요.
-User: 네, 다행이에요!
+User: 네, 다행이에요! / 맞아요, 좋았어요!
 
 AI: 다음엔 비 오는 날 봐요.
-User: 네, 꼭이요!
+User: 네, 꼭이요! / 좋아요!
 
 **Outro:**
 > Concert night. You'll remember this.
@@ -247,7 +247,7 @@ AI: 왔어요? 반가워요.
 User: 네! / 왔어요!
 
 AI: 오늘 달이 예뻐요.
-User: 진짜요?!
+User: 진짜요?! / 어디요?!
 
 **Outro:**
 > He found your message in a flood of comments.
@@ -257,10 +257,10 @@ User: 진짜요?!
 ### 승 — 대화 [세트 2]
 
 AI: 뭐 하다 왔어요?
-User: 기다렸어요!
+User: 기다렸어요! / 맨날 기다려요!
 
 AI: 고마워요. 기뻐요.
-User: 사랑해요!
+User: 사랑해요! / 좋아해요!
 
 **Outro:**
 > Love sent. He received it quietly.
@@ -281,7 +281,7 @@ AI: 편지 읽었어요.
 User: 진짜요?! / 읽었어요?
 
 AI: 마음이 좋아요. 고마워요.
-User: 진짜요?
+User: 진짜요? / 정말요?
 
 **Outro:**
 > "I feel good. Thank you." Simple words, but he meant every one.
@@ -291,10 +291,10 @@ User: 진짜요?
 ### 전 — 질문 [세트 4]
 
 AI: 뭐가 좋았어요?
-User: 다 좋아요!
+User: 다 좋아요! / 전부 좋아요!
 
 AI: 고마워요. 마음이 따뜻해요.
-User: 항상 응원할게요!
+User: 항상 응원할게요! / 계속 응원해요!
 
 **Outro:**
 > "It gives me strength." Soft. Real.
@@ -311,10 +311,10 @@ User: 항상 응원할게요!
 
 ### 전 — 메시지 [세트 5]
 
-User: 오늘 라이브 좋았어요!
+User: 오늘 라이브 좋았어요! / 재밌었어요!
 AI: 저도 좋았어요.
 
-User: 또 해줘요!
+User: 또 해줘요! / 자주 해줘요!
 AI: 비 오는 날 할게요.
 
 **Outro:**
@@ -325,10 +325,10 @@ AI: 비 오는 날 할게요.
 ### 결 — 잘 자 [세트 6]
 
 AI: 이제 자요. 늦었어요.
-User: 잘 자요!
+User: 잘 자요! / 좋은 밤이에요!
 
 AI: 좋은 꿈 꿔요.
-User: 태오도요!
+User: 태오도요! / 좋은 꿈 꿔요!
 
 **Outro:**
 > Goodnight exchanged.

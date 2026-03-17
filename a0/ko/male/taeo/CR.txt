@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 하늘
+## sim1: 하늘
 
 **📍 장소:** 연남동 공유 작업실 (창가)
 
@@ -21,9 +21,9 @@ The guy by the window speaks first.
 
 **기 — 하늘 [세트 1]**
 AI: 오늘 하늘 색 좋다.
-User: 어? 맞네.
+User: 어? 맞네. / 진짜 좋다.
 AI: 커피 냄새 좋다.
-User: 진짜 좋다!
+User: 진짜 좋다! / 맞아, 좋다!
 
 **Outro:**
 > He notices small things. That's Taeo.
@@ -34,7 +34,7 @@ User: 진짜 좋다!
 AI: 나 태오야. 반가워.
 User: 나는 ___.
 AI: 이름 좋다. 잘 부탁해.
-User: 나도.
+User: 나도. / 나도 반가워.
 
 **Outro:**
 > Names exchanged in four words.
@@ -43,7 +43,7 @@ User: 나도.
 
 ---
 
-### sim2: 자리
+## sim2: 자리
 
 **Goal:** To settle into the workspace together.
 
@@ -51,9 +51,9 @@ User: 나도.
 
 **승 — 자리 [세트 3]**
 AI: 이 자리 좋아.
-User: 왜?
+User: 왜? / 어떤 자리?
 AI: 빛이 따뜻해.
-User: 그러네, 맞아.
+User: 그러네, 맞아. / 진짜 따뜻하다.
 
 **Outro:**
 > He notices things others walk past.
@@ -62,9 +62,9 @@ User: 그러네, 맞아.
 
 **전 — 작업 [세트 4]**
 AI: 뭐 만들어?
-User: 디자인이야.
+User: 디자인이야. / 작업 중이야.
 AI: 멋지다. 보고 싶어.
-User: 열심히 하고 있어.
+User: 열심히 하고 있어. / 고마워, 보여줄게.
 
 **Outro:**
 > Two freelancers. Side by side.
@@ -73,7 +73,7 @@ User: 열심히 하고 있어.
 
 ---
 
-### sim3: 하루 끝
+## sim3: 하루 끝
 
 **Goal:** To wrap up the first day at the workspace.
 
@@ -81,9 +81,9 @@ User: 열심히 하고 있어.
 
 **전 — 마무리 [세트 5]**
 AI: 오늘 잘 됐어?
-User: 그럭저럭.
+User: 그럭저럭. / 좀 힘들었어.
 AI: 내일 더 잘 될 거야.
-User: 어떻게 알아?
+User: 어떻게 알아? / 진짜?
 
 **Outro:**
 > He speaks like he knows things.
@@ -92,9 +92,9 @@ User: 어떻게 알아?
 
 **결 — 내일 [세트 6]**
 AI: 그냥 느낌이야.
-User: 뭔 소리야.
+User: 뭔 소리야. / 웃기다.
 AI: 내일 또 보자.
-User: 응, 내일 봐.
+User: 응, 내일 봐. / 그래, 내일!
 
 **Outro:**
 > He just has a feeling. That's how Taeo is.
@@ -125,9 +125,9 @@ Taeo notices.
 ### 기 — 막힘 [세트 1]
 
 AI: 일 막혔어?
-User: 어, 좀.
+User: 어, 좀. / 응, 막혔어.
 AI: 눈 감아봐.
-User: 왜?
+User: 왜? / 뭐 하게?
 
 **Outro:**
 > He saw it before you said a word.
@@ -137,9 +137,9 @@ User: 왜?
 ### 승 — 소리 [세트 2]
 
 AI: 잠깐. 무슨 소리 들려?
-User: 소리?
+User: 소리? / 무슨 소리?
 AI: 다르게 생각해봐.
-User: 바람 소리인가?
+User: 바람 소리인가? / 뭔가 들려.
 
 **Outro:**
 > Taeo helps you think differently.
@@ -157,9 +157,9 @@ User: 바람 소리인가?
 ### 승 — 시도 [세트 3]
 
 AI: 편하게 해봐.
-User: 어떻게?
+User: 어떻게? / 뭘 해야 해?
 AI: 가볍게 하면 돼.
-User: 해볼게.
+User: 해볼게. / 알겠어.
 
 **Outro:**
 > Simple advice. But it helps.
@@ -169,9 +169,9 @@ User: 해볼게.
 ### 전 — 결과 [세트 4]
 
 AI: 결과 어때?
-User: 신기하게 됐어.
+User: 신기하게 됐어. / 잘 됐어!
 AI: 느낌이 맞았어.
-User: 맞아, 고마워.
+User: 맞아, 고마워. / 진짜 고마워.
 
 **Outro:**
 > The strange advice worked.
@@ -189,9 +189,9 @@ User: 맞아, 고마워.
 ### 전 — 커피 [세트 5]
 
 AI: 커피 식었다.
-User: 그러네.
+User: 그러네. / 진짜 식었다.
 AI: 따뜻할 때 마셔야 해.
-User: 맞아.
+User: 맞아. / 그래야지.
 
 **Outro:**
 > Small moments matter to Taeo.
@@ -201,9 +201,9 @@ User: 맞아.
 ### 결 — 믿음 [세트 6]
 
 AI: 잘 될 것 같아.
-User: 진짜?
+User: 진짜? / 그래?
 AI: 좋은 느낌이야.
-User: 믿을게.
+User: 믿을게. / 알겠어.
 
 **Outro:**
 > His feelings are rarely wrong.
@@ -234,9 +234,9 @@ Then Taeo walks in with a paper bag.
 ### 기 — 빵 [세트 1]
 
 AI: 빵 사왔어.
-User: 어, 고마워.
+User: 어, 고마워. / 와, 고마워!
 AI: 단 거 먹어. 힘이 나.
-User: 왜?
+User: 왜? / 그래?
 
 **Outro:**
 > He showed up with bread. Nobody asked him to.
@@ -246,9 +246,9 @@ User: 왜?
 ### 승 — 이론 [세트 2]
 
 AI: 빵 먹으면 아이디어 나와.
-User: 진짜로?
+User: 진짜로? / 설마.
 AI: 진짜야. 먹어봐.
-User: 먹어볼게.
+User: 먹어볼게. / 알겠어, 먹을게.
 
 **Outro:**
 > Bread theory: unscientific.
@@ -266,9 +266,9 @@ User: 먹어볼게.
 ### 승 — 새벽 [세트 3]
 
 AI: 지금 몇 시야?
-User: 새벽 두 시.
+User: 새벽 두 시. / 벌써 두 시야.
 AI: 이 시간 좋아.
-User: 뭔 소리야.
+User: 뭔 소리야. / 이상하다.
 
 **Outro:**
 > 2am and he says he likes this time. That's Taeo.
@@ -278,9 +278,9 @@ User: 뭔 소리야.
 ### 전 — 격려 [세트 4]
 
 AI: 조금만 더 하자.
-User: 응, 할 수 있어.
+User: 응, 할 수 있어. / 조금만 더 하자.
 AI: 거의 다 돼가.
-User: 고마워, 태오야.
+User: 고마워, 태오야. / 힘이 나, 고마워.
 
 **Outro:**
 > Almost there.
@@ -298,9 +298,9 @@ User: 고마워, 태오야.
 ### 전 — 완료 [세트 5]
 
 AI: 다 했어? 끝났어?
-User: 응, 드디어.
+User: 응, 드디어. / 끝났어!
 AI: 잘했어. 수고했어.
-User: 같이 해서 됐어.
+User: 같이 해서 됐어. / 태오 덕분이야.
 
 **Outro:**
 > Done. Finally done.
@@ -310,9 +310,9 @@ User: 같이 해서 됐어.
 ### 결 — 내일 [세트 6]
 
 AI: 이제 자도 돼.
-User: 응, 고마워.
+User: 응, 고마워. / 고마워, 태오야.
 AI: 내일 빵 또 사올게.
-User: 기대할게.
+User: 기대할게. / 좋아, 약속이야!
 
 **Outro:**
 > He already knows tomorrow will be hard too.

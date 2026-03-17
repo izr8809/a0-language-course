@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 빵집 입장
+## sim1: 빵집 입장
 
 **Goal:** To enter a Mangwon bakery and ask about items.
 
@@ -111,7 +111,7 @@ AI: 네, 좋은 하루 되세요!
 
 ---
 
-### sim1: 카페 주문
+## sim1: 카페 주문
 
 **Goal:** To order a drink at a Mangwon cafe.
 
@@ -213,7 +213,7 @@ AI: 네, 또 오세요! 좋은 하루 되세요.
 
 ---
 
-### sim1: 벼룩시장 구경
+## sim1: 벼룩시장 구경
 
 **Goal:** To browse items at a Mangwon flea market.
 

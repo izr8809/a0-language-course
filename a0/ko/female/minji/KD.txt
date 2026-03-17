@@ -11,7 +11,7 @@
 
 ---
 
-### sim1: Surprise!
+## sim1: Surprise!
 
 **Goal:** To react with excitement and envy to a friend's amazing concert experience and ask to see photos
 
@@ -42,7 +42,7 @@ User: 와! 대박! / 미쳤다!
 > And wait — she's got even bigger news to share!
 >
 
-### sim2: Reacting to News
+## sim2: Reacting to News
 
 **Goal:** To react with excitement and disbelief to a friend's surprising relationship news and express genuine curiosity about the details.
 
@@ -70,7 +70,7 @@ User: 대박이다! / 미쳤다!
 > But not everything today is good news...
 >
 
-### sim3: Bad News
+## sim3: Bad News
 
 **Goal:** To respond with shock and comfort to a friend who lost their phone and offer reassuring words.
 
@@ -89,9 +89,9 @@ User: 어떡해! / 미쳤어!
 
 **결 — 위로 [세트 6]**
 AI: 어떡하지...
-User: 괜찮아! 찾을 수 있어!
+User: 괜찮아! 찾을 수 있어! / 걱정하지 마!
 AI: 고마워.
-User: 응!
+User: 응! / 힘내!
 
 **Outro:**
 > A concert, a confession, and a lost phone — all in one day! 😅
@@ -166,7 +166,7 @@ User: 나? 드라마 봐! / 운동 시작했어!
 AI: 오, 진짜? 나도 하고 싶어!
 User: 같이 하자! / 다음에 알려줄게!
 AI: 좋아! 약속이야!
-User: 응, 약속!
+User: 응, 약속! / 꼭이야!
 
 **Outro:**
 > Plans made! 🤝
@@ -194,9 +194,9 @@ User: 당연하지! / 언제든지!
 ### 결 — 또 봐 [세트 6]
 
 AI: 나 이제 가볼게! 오늘 진짜 고마웠어!
-User: 응, 조심히 가!
+User: 응, 조심히 가! / 잘 가!
 AI: 다음에 또 만나!
-User: 응, 또 봐!
+User: 응, 또 봐! / 다음에 보자!
 
 **Outro:**
 > You turned her bad day around! 🌟
@@ -299,9 +299,9 @@ User: 용기 낼게! / 내일 해볼게!
 ### 결 — 결과 알려줘! [세트 6]
 
 AI: 결과 알려줘! 기다릴게!
-User: 응, 알려줄게!
+User: 응, 알려줄게! / 기다려!
 AI: 화이팅! 응원할게!
-User: 고마워!
+User: 고마워! / 응!
 
 **Outro:**
 > Bestie on standby! 📱
@@ -376,7 +376,7 @@ AI: 오, 마라탕! 좋아!
 AI: 그럼 오늘 갈 거야?
 User: 응, 오늘 가자! / 지금 갈까?
 AI: 수업 끝나고 가자!
-User: 그래! 기대돼!
+User: 그래! 기대돼! / 좋아! 빨리 가자!
 
 **Outro:**
 > Plans locked! ⏰
@@ -404,9 +404,9 @@ User: 약속할게! / 바로 할게!
 ### 결 — 우리 사이 [세트 6]
 
 AI: 우리 싸워도 금방 풀리지?
-User: 응, 그렇지!
+User: 응, 그렇지! / 당연하지!
 AI: 읽씹하면 나 진짜 화난다!
-User: 알겠어! 안 할게!
+User: 알겠어! 안 할게! / 약속할게!
 
 **Outro:**
 > Friendship restored! 🤙

@@ -1,6 +1,6 @@
 # 👔 CAREER (격식체) >> Korean Work Life
 
-# CR-4: 회의 준비 됐어요?
+# CR-1: 회의 준비 됐어요?
 
 - 대분류: Career
 - 중분류: Meetings
@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: Before the Meeting
+## sim1: Before the Meeting
 
 **Goal:** To confirm meeting preparations with your coworker and secure the conference room booking.
 
@@ -42,7 +42,7 @@ User: 네, 알겠습니다.
 
 ---
 
-### sim2: During the Meeting
+## sim2: During the Meeting
 
 **Goal:** To share your opinion confidently in a meeting and ask a clear question about the deadline.
 
@@ -75,7 +75,7 @@ AI: 다음 주 금요일까지요!
 
 ---
 
-### sim3: After the Meeting
+## sim3: After the Meeting
 
 **Goal:** To wrap up the meeting professionally, volunteer for the minutes, and say a polished goodbye.
 
@@ -105,7 +105,7 @@ User: 감사합니다!
 
 ---
 
-# CR-5: 식사하셨어요?
+# CR-2: 식사하셨어요?
 
 - 대분류: Career
 - 중분류: Workplace Socializing
@@ -114,7 +114,7 @@ User: 감사합니다!
 
 ---
 
-### sim1: Lunch Break
+## sim1: Lunch Break
 
 **Goal:** To accept a lunch invitation from a coworker and pick a restaurant together.
 
@@ -125,7 +125,7 @@ User: 감사합니다!
 
 **기 — 점심 [세트 1]**
 AI: 식사하셨어요?
-User: 아직이요. / 네, 했습니다.
+User: 아직입니다. / 네, 했습니다.
 AI: 같이 먹을래요?
 User: 네, 좋습니다! / 감사합니다!
 
@@ -136,9 +136,9 @@ User: 네, 좋습니다! / 감사합니다!
 
 **승 — 메뉴 [세트 2]**
 AI: 뭐 먹을까요? 근처에 맛있는 데 있어요!
-User: 아무거나 좋습니다! / 뭐가 맛있어요?
+User: 아무거나 좋습니다! / 뭐가 맛있습니까?
 AI: 여기 김치찌개가 유명해요!
-User: 좋습니다! 가요!
+User: 좋습니다! 갑시다!
 
 **Outro:**
 > Kimchi jjigae it is! 🌶️ The ultimate Korean office lunch.
@@ -147,7 +147,7 @@ User: 좋습니다! 가요!
 
 ---
 
-### sim2: At Lunch
+## sim2: At Lunch
 
 **Goal:** To navigate the menu, handle the spice question, and have a real conversation with your coworker.
 
@@ -155,7 +155,7 @@ User: 좋습니다! 가요!
 
 **승 — 식사 중 [세트 3]**
 AI: 한국 음식 괜찮아요? 매운 거 잘 먹어요?
-User: 네, 괜찮습니다! / 좀 매운 건 힘들어요.
+User: 네, 괜찮습니다! / 좀 매운 건 힘듭니다.
 AI: 그러면 된장찌개 어때요? 안 매워요!
 User: 좋습니다!
 
@@ -166,7 +166,7 @@ User: 좋습니다!
 
 **전 — 대화 [세트 4]**
 AI: 한국 생활 어때요? 적응 잘 되고 있어요?
-User: 네, 점점 적응하고 있습니다. / 좀 힘들 때도 있어요.
+User: 네, 점점 적응하고 있습니다. / 좀 힘들 때도 있습니다.
 AI: 힘들면 말해요! 도와줄게요!
 User: 감사합니다.
 
@@ -177,7 +177,7 @@ User: 감사합니다.
 
 ---
 
-### sim3: Going Back
+## sim3: Going Back
 
 **Goal:** To handle the bill gracefully and head back to the office on good terms.
 
@@ -207,7 +207,7 @@ User: 네, 올라가요!
 
 ---
 
-# CR-6: 내일 쉬어도 될까요?
+# CR-3: 내일 쉬어도 될까요?
 
 - 대분류: Career
 - 중분류: Requesting Leave
@@ -216,7 +216,7 @@ User: 네, 올라가요!
 
 ---
 
-### sim1: Asking for Leave
+## sim1: Asking for Leave
 
 **Goal:** To politely request a day off from your manager and explain the reason clearly.
 
@@ -249,7 +249,7 @@ User: 네, 미리 정리해 놓겠습니다.
 
 ---
 
-### sim2: Confirmation
+## sim2: Confirmation
 
 **Goal:** To receive approval for your leave and confirm the handover plan with your manager.
 
@@ -279,7 +279,7 @@ AI: 아니요, 됐어요! 수고했어요!
 
 ---
 
-### sim3: The Day After
+## sim3: The Day After
 
 **Goal:** To return to work after your day off, check in with your manager, and ease back into the routine.
 

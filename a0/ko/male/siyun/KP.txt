@@ -1,4 +1,4 @@
-# 🎵 KPOP (반말)
+# 🎵 KPOP (존댓말)
 
 # KP-1: 이름 알아
 
@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: First Encounter
+## sim1: First Encounter
 
 **Goal:** To greet Siyun at the fan sign, get his autograph, and say your name.
 
@@ -18,13 +18,13 @@
 **intro_text:**
 He's already holding his pen.
 He looks at the long line behind you.
-"빨리 와." Your turn.
+"빨리 오세요." Your turn.
 
 **기 — 첫 만남 [세트 1]**
-User: 안녕하세요!
-AI: 어. 안녕. 밥 먹었어?
-User: 반가워요!
-AI: 줄 길었지? 힘들었어?
+User: 안녕하세요! / 와, 시윤이다!
+AI: 어, 안녕하세요. 밥 먹었어요?
+User: 반가워요! / 만나서 좋아요!
+AI: 줄 길었죠? 힘들었어요?
 
 **Outro:**
 > First thing he asked a fan: "Have you eaten?" 🧊
@@ -32,10 +32,10 @@ AI: 줄 길었지? 힘들었어?
 >
 
 **승 — 사인 [세트 2]**
-User: 사인 해주세요!
-AI: 이름 뭐야?
+User: 사인 해주세요! / 사인 부탁해요!
+AI: 이름 뭐예요?
 User: ___이에요!
-AI: 알았어. 잠깐만.
+AI: 알았어요. 잠깐만요.
 
 **Outro:**
 > He took his time writing your name.
@@ -44,17 +44,17 @@ AI: 알았어. 잠깐만.
 
 ---
 
-### sim2: He Knows You
+## sim2: He Knows You
 
 **Goal:** To have a short conversation and find out Siyun actually remembers you.
 
 **📍 장소:** 팬미팅 현장 (동일)
 
 **승 — 기억 [세트 3]**
-AI: 또 왔어? 멀리서 왔지?
+AI: 또 왔어요? 멀리서 왔죠?
 User: 네! / 항상 와요!
-AI: 무리하지 마. 건강이 먼저야.
-User: 기억해요?
+AI: 무리하지 마세요. 건강이 먼저예요.
+User: 기억해요? / 저 알아요?
 
 **Outro:**
 > He told you not to overdo it. He remembers you. 👀
@@ -62,40 +62,40 @@ User: 기억해요?
 >
 
 **전 — 대화 [세트 4]**
-AI: 좋아해?
-User: 네, 좋아해요!
-AI: 고마워. 밥 잘 먹어.
-User: 앞으로도 올게요!
+AI: 좋아해요?
+User: 네, 좋아해요! / 네, 많이요!
+AI: 고마워요. 밥 잘 먹어요.
+User: 앞으로도 올게요! / 계속 응원할게요!
 
 **Outro:**
-> "고마워. 밥 잘 먹어." = Thank you. Eat well. 🥹
+> "고마워요. 밥 잘 먹어요." = Thank you. Eat well. 🥹
 > That's Siyun for "I care about you."
 >
 
 ---
 
-### sim3: Goodbye (For Now)
+## sim3: Goodbye (For Now)
 
 **Goal:** To give Siyun your letter and say a goodbye that means something.
 
 **📍 장소:** 팬미팅 현장 (동일)
 
 **전 — 선물 [세트 5]**
-User: 이거요.
-AI: 뭐야? 선물이야?
-User: 편지예요!
-AI: 고마워. 잘 읽을게.
+User: 이거요. / 받아 주세요.
+AI: 뭐예요? 선물이에요?
+User: 편지예요! / 직접 썼어요!
+AI: 고마워요. 잘 읽을게요.
 
 **Outro:**
 > He took it with both hands. 💌
-> "잘 읽을게." He means it.
+> "잘 읽을게요." He means it.
 >
 
 **결 — 작별 [세트 6]**
-AI: 조심히 가. 뛰지 마.
-User: 네, 감사해요!
-AI: 다음에도 와. 밥 먹고 와.
-User: 꼭이요!
+AI: 조심히 가세요. 뛰지 마세요.
+User: 네, 감사해요! / 조심히 가세요!
+AI: 다음에도 오세요. 밥 먹고 오세요.
+User: 꼭이요! / 또 올게요!
 
 **Outro:**
 > "Come again. Eat first." His goodbye is always a command. ✨
@@ -130,7 +130,7 @@ AI: 안녕하세요! 시윤 팬이에요?
 User: 네! / 네, 좋아해요!
 
 AI: 저도요! 걱정 많이 해줘요!
-User: 맞아요!
+User: 맞아요! / 진짜요!
 
 **Outro:**
 > New fan friend found! 🎪
@@ -143,7 +143,7 @@ AI: 떨려요?
 User: 네, 많이요! / 진짜 떨려요!
 
 AI: 시윤이 팬한테 밥 먹었냐고 물어봐요!
-User: 빨리 보고 싶어요!
+User: 빨리 보고 싶어요! / 기대돼요!
 
 **Outro:**
 > The lights just went dark. 🌑
@@ -194,10 +194,10 @@ User: 최고예요! / 와, 대박!
 
 ### 전 — 끝 [세트 5]
 
-User: 진짜 좋았어요!
+User: 진짜 좋았어요! / 최고였어요!
 AI: 맞아요! 시윤 진짜 멋있었어요!
 
-User: 시윤이 봤어요!
+User: 시윤이 봤어요! / 눈 마주쳤어요!
 AI: 나도 봤어요! 걱정해주는 거 최고예요!
 
 **Outro:**
@@ -208,10 +208,10 @@ AI: 나도 봤어요! 걱정해주는 거 최고예요!
 ### 결 — 인사 [세트 6]
 
 AI: 오늘 재밌었어요!
-User: 네, 저도요!
+User: 네, 저도요! / 진짜 좋았어요!
 
 AI: 다음에 또 봐요!
-User: 네, 꼭이요!
+User: 네, 꼭이요! / 약속이에요!
 
 **Outro:**
 > Concert buddy confirmed. 🎫
@@ -242,11 +242,11 @@ Type now — he's reading.
 
 ### 기 — 라이브 방송 [세트 1]
 
-AI: 왔어? 늦었어.
+AI: 왔어요? 늦었어요.
 User: 네! / 왔어요!
 
-AI: 그래. 밥 먹었어?
-User: 수고했어요!
+AI: 그래요. 밥 먹었어요?
+User: 수고했어요! / 고생했어요!
 
 **Outro:**
 > He found your message in a flood of comments. 💬
@@ -255,11 +255,11 @@ User: 수고했어요!
 
 ### 승 — 대화 [세트 2]
 
-AI: 오늘 뭐 했어?
+AI: 오늘 뭐 했어요?
 User: 기다렸어요! / 라이브 기다렸어요!
 
-AI: 기다리지 마. 할 거 해.
-User: 사랑해요!
+AI: 기다리지 마세요. 할 거 하세요.
+User: 사랑해요! / 최고예요!
 
 **Outro:**
 > "Don't wait around. Do your stuff." 💖
@@ -276,27 +276,27 @@ User: 사랑해요!
 
 ### 승 — 답장 [세트 3]
 
-AI: 메시지 봤어.
+AI: 메시지 봤어요.
 User: 진짜요?! / 읽었어요?
 
-AI: 응. 고마워.
-User: 감사해요!
+AI: 네. 고마워요.
+User: 감사해요! / 고마워요!
 
 **Outro:**
-> "봤어. 고마워." He read it. He said thanks. 🧊
+> "봤어요. 고마워요." He read it. He said thanks. 🧊
 > For Siyun, that's a love letter.
 >
 
 ### 전 — 질문 [세트 4]
 
-AI: 뭐가 좋았어?
+AI: 뭐가 좋았어요?
 User: 다 좋아요! / 다 좋았어요!
 
-AI: 그래? 고마워. 무리하지 마.
-User: 항상 응원할게요!
+AI: 그래요? 고마워요. 무리하지 마세요.
+User: 항상 응원할게요! / 계속 볼게요!
 
 **Outro:**
-> "고마워. 무리하지 마." Thank you. Don't overdo it. 🌟
+> "고마워요. 무리하지 마세요." Thank you. Don't overdo it. 🌟
 > He can't just say thanks. He has to add a warning.
 >
 
@@ -310,11 +310,11 @@ User: 항상 응원할게요!
 
 ### 전 — 메시지 [세트 5]
 
-User: 오늘 영상 봤어요!
-AI: 그래? 늦게까지 보지 마.
+User: 오늘 영상 봤어요! / 영상 잘 봤어요!
+AI: 그래요? 늦게까지 보지 마세요.
 
-User: 진짜 좋았어요!
-AI: 고마워. 일찍 자.
+User: 진짜 좋았어요! / 너무 멋있었어요!
+AI: 고마워요. 일찍 자요.
 
 **Outro:**
 > "Don't stay up late. Sleep early." 📩
@@ -323,14 +323,14 @@ AI: 고마워. 일찍 자.
 
 ### 결 — 잘 자 [세트 6]
 
-AI: 이제 자. 늦었어.
-User: 잘 자요!
+AI: 이제 자요. 늦었어요.
+User: 잘 자요! / 푹 쉬세요!
 
-AI: 응. 내일 밥 먹어.
-User: 좋은 꿈 꿔요!
+AI: 네. 내일 밥 먹어요.
+User: 좋은 꿈 꿔요! / 내일 봐요!
 
 **Outro:**
-> "자. 늦었어." Go to sleep. It's late. 🌙
+> "자요. 늦었어요." Go to sleep. It's late. 🌙
 > His goodnight comes with tomorrow's breakfast reminder.
 > Next up: Time to put on your professional face.
 >

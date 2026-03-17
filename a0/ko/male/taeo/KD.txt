@@ -11,7 +11,7 @@
 
 ---
 
-### sim1: 첫 만남 (First Meeting)
+## sim1: 첫 만남 (First Meeting)
 
 **Goal:** To practice the first meeting scene — a rainy day, one umbrella.
 
@@ -23,9 +23,9 @@ He has an umbrella. You don't.
 
 **기 — 비 [세트 1]**
 AI: 비 많이 오네.
-User: 우산 없어.
+User: 우산 없어. / 어떡하지.
 AI: 같이 가자. 내 거 써.
-User: 괜찮아?
+User: 괜찮아? / 진짜?
 
 **Outro:**
 > He offered without thinking.
@@ -34,9 +34,9 @@ User: 괜찮아?
 
 **승 — 우산 [세트 2]**
 AI: 비 오면 좋아. 조용하잖아.
-User: 솔직해?
+User: 솔직해? / 진심이야?
 AI: 비 오면 편해. 그냥 좋아.
-User: 맞네.
+User: 맞네. / 나도 좋아.
 
 **Outro:**
 > He likes the rain. He said it simply.
@@ -45,7 +45,7 @@ User: 맞네.
 
 ---
 
-### sim2: 걷는 중 (Walking Together)
+## sim2: 걷는 중 (Walking Together)
 
 **Goal:** To practice the walking scene — quiet, close, under one umbrella.
 
@@ -53,9 +53,9 @@ User: 맞네.
 
 **승 — 걷기 [세트 3]**
 AI: 천천히 걷자.
-User: 왜?
+User: 왜? / 천천히?
 AI: 비 소리 좋잖아.
-User: 그러네.
+User: 그러네. / 맞아, 좋다.
 
 **Outro:**
 > He slowed down for the rain.
@@ -66,7 +66,7 @@ User: 그러네.
 AI: 나 태오야. 너는?
 User: 나는 ___.
 AI: 좋은 이름이다.
-User: 잘 됐어?
+User: 잘 됐어? / 고마워.
 
 **Outro:**
 > "Good name." He said it like he meant it.
@@ -75,16 +75,16 @@ User: 잘 됐어?
 
 ---
 
-### sim3: 비 그친 후 (After the Rain)
+## sim3: 비 그친 후 (After the Rain)
 
 **Goal:** To close the first scene — the rain stops, but neither of you moves.
 
 **📍 장소:** 연남동 골목 (비 그침)
 
 **전 — 멈춤 [세트 5]**
-User: 비 그쳤어.
+User: 비 그쳤어. / 비 멈췄다.
 AI: 아직 안 그쳤어.
-User: 그쳤는데.
+User: 그쳤는데. / 안 와.
 AI: 조금만 더 걷자.
 
 **Outro:**
@@ -93,9 +93,9 @@ AI: 조금만 더 걷자.
 >
 
 **결 — 다음에 [세트 6]**
-User: 고마워.
+User: 고마워. / 오늘 좋았어.
 AI: 비한테 고마워해.
-User: 또 봐.
+User: 또 봐. / 다음에 또.
 AI: 비 오면 또 보자.
 
 **Outro:**
@@ -127,9 +127,9 @@ He's been watching. Not saying anything. Yet.
 ### 기 — 알아챔 [세트 1]
 
 AI: 오늘 기분 달라.
-User: 뭐가?
+User: 뭐가? / 뭐가 달라?
 AI: 네 표정이야.
-User: 무슨 표정?
+User: 무슨 표정? / 내 표정?
 
 **Outro:**
 > He noticed right away.
@@ -138,9 +138,9 @@ User: 무슨 표정?
 
 ### 승 — 물어봄 [세트 2]
 
-User: 괜찮아 보여?
+User: 괜찮아 보여? / 티 나?
 AI: 아니. 안 괜찮아 보여.
-User: 어떻게 알아?
+User: 어떻게 알아? / 진짜?
 AI: 보면 알아. 원래 그래.
 
 **Outro:**
@@ -159,9 +159,9 @@ AI: 보면 알아. 원래 그래.
 ### 승 — 옆에 [세트 3]
 
 AI: 옆에 있을게.
-User: 왜?
+User: 왜? / 왜 있어?
 AI: 그냥 있고 싶어.
-User: 고마워.
+User: 고마워. / 좋아, 고마워.
 
 **Outro:**
 > No big reason. Just here.
@@ -171,9 +171,9 @@ User: 고마워.
 ### 전 — 바람 [세트 4]
 
 AI: 바람 좋다. 나가자.
-User: 바람?
+User: 바람? / 밖에?
 AI: 기분 나아질 거야.
-User: 해볼게.
+User: 해볼게. / 나가자.
 
 **Outro:**
 > He said fresh air would help.
@@ -190,9 +190,9 @@ User: 해볼게.
 
 ### 전 — 조용히 [세트 5]
 
-User: 말 안 해도 돼?
+User: 말 안 해도 돼? / 조용해도 돼?
 AI: 말 안 해도 돼.
-User: 그래도 돼?
+User: 그래도 돼? / 괜찮아?
 AI: 나는 다 괜찮아.
 
 **Outro:**
@@ -202,9 +202,9 @@ AI: 나는 다 괜찮아.
 
 ### 결 — 알아줌 [세트 6]
 
-User: 알아줘서 고마워.
+User: 알아줘서 고마워. / 고마워, 진짜.
 AI: 원래 알아. 다 봐.
-User: 항상?
+User: 항상? / 계속?
 AI: 항상 그랬어.
 
 **Outro:**
@@ -235,9 +235,9 @@ Something's been sitting with him all day.
 
 ### 기 — 이상해 [세트 1]
 
-User: 왜 말 없어?
+User: 왜 말 없어? / 무슨 생각해?
 AI: 생각 중이야.
-User: 뭔 생각?
+User: 뭔 생각? / 무슨 생각?
 AI: 너 생각이야.
 
 **Outro:**
@@ -247,9 +247,9 @@ AI: 너 생각이야.
 
 ### 승 — 근처까지 [세트 2]
 
-User: 할 말 있어?
+User: 할 말 있어? / 뭔가 있지?
 AI: 있어. 말하고 싶어.
-User: 말해.
+User: 말해. / 해봐.
 AI: 아직 준비 안 됐어.
 
 **Outro:**
@@ -268,9 +268,9 @@ AI: 아직 준비 안 됐어.
 ### 승 — 고백 [세트 3]
 
 AI: 좋아해.
-User: 뭐가?
+User: 뭐가? / 뭐를?
 AI: 너를 좋아해.
-User: 진짜?
+User: 진짜? / 정말?
 
 **Outro:**
 > "I like you." Simple and direct.
@@ -279,9 +279,9 @@ User: 진짜?
 
 ### 전 — 확인 [세트 4]
 
-User: 좋아해? 진짜?
+User: 좋아해? 진짜? / 나를? 진짜?
 AI: 좋아해. 처음부터.
-User: 진짜?
+User: 진짜? / 언제부터?
 AI: 진짜야. 계속 생각나.
 
 **Outro:**
@@ -299,9 +299,9 @@ AI: 진짜야. 계속 생각나.
 
 ### 전 — 나도 [세트 5]
 
-User: 나도 좋아해.
+User: 나도 좋아해. / 나도 그래.
 AI: 알았어. 느꼈어.
-User: 알았어?
+User: 알았어? / 느꼈어?
 AI: 그냥 알아. 느낌이 그래.
 
 **Outro:**
@@ -311,9 +311,9 @@ AI: 그냥 알아. 느낌이 그래.
 
 ### 결 — 우리 [세트 6]
 
-User: 우리 사귀는 거야?
+User: 우리 사귀는 거야? / 우리 뭐야?
 AI: 같이 있자. 계속.
-User: 계속?
+User: 계속? / 진짜?
 AI: 우리 잘 맞잖아.
 
 **Outro:**
@@ -344,9 +344,9 @@ Something feels wrong tonight.
 
 ### 기 — 말다툼 [세트 1]
 
-User: 그냥 가.
+User: 그냥 가. / 됐어.
 AI: 기분이 이상해.
-User: 뭔 소리야.
+User: 뭔 소리야. / 무슨 말이야.
 AI: 마음이 안 좋아.
 
 **Outro:**
@@ -356,9 +356,9 @@ AI: 마음이 안 좋아.
 
 ### 승 — 이별 [세트 2]
 
-User: 이제 그만하자.
+User: 이제 그만하자. / 끝내자.
 AI: 가지 마. 제발.
-User: 태오야.
+User: 태오야. / 태오...
 AI: 가지 마. 여기 있어.
 
 **Outro:**
@@ -376,9 +376,9 @@ AI: 가지 마. 여기 있어.
 
 ### 승 — 시간이 지나고 [세트 3]
 
-User: 잘 지내?
+User: 잘 지내? / 어떻게 지내?
 AI: 기분 안 좋아.
-User: 진짜?
+User: 진짜? / 괜찮아?
 AI: 힘든 날이야.
 
 **Outro:**
@@ -388,9 +388,9 @@ AI: 힘든 날이야.
 
 ### 전 — 미안해 [세트 4]
 
-User: 미안해.
+User: 미안해. / 미안, 태오야.
 AI: 기분 좋아졌어.
-User: 진짜?
+User: 진짜? / 다행이다.
 AI: 네가 왔어. 그래서 좋아.
 
 **Outro:**
@@ -409,9 +409,9 @@ AI: 네가 왔어. 그래서 좋아.
 ### 전 — 돌아옴 [세트 5]
 
 AI: 나야. 왔어.
-User: 왔어.
+User: 왔어. / 들어와.
 AI: 기분이 다시 좋아.
-User: 들어와.
+User: 들어와. / 보고 싶었어.
 
 **Outro:**
 > "I feel good again." He came back.
@@ -420,9 +420,9 @@ User: 들어와.
 
 ### 결 — 다시 시작 [세트 6]
 
-User: 다시 할 수 있어?
+User: 다시 할 수 있어? / 다시 시작하자.
 AI: 다시 하자. 같이.
-User: 같이?
+User: 같이? / 우리?
 AI: 우리 잘 맞잖아.
 
 **Outro:**

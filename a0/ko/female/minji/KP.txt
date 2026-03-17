@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: Meeting Your Idol
+## sim1: Meeting Your Idol
 
 **Goal:** To greet your idol confidently, answer her questions, and show genuine care with a classic Korean expression.
 
@@ -20,7 +20,7 @@ This is it. She's right there.
 Don't forget how to speak...
 
 **기 — 만남 [세트 1]**
-User: 안녕하세요!
+User: 안녕하세요! / 반가워요!
 AI: 안녕! 반가워요! 어디에서 왔어요?
 User: ___에서 왔어요!
 AI: 와, 멀리서 왔네요!
@@ -31,9 +31,9 @@ AI: 와, 멀리서 왔네요!
 >
 
 **승 — 인사 [세트 2]**
-User: 밥 먹었어요?
+User: 밥 먹었어요? / 언니 밥 먹었어?
 AI: 네! 먹었어요! 고마워요!
-User: 오늘 너무 멋있어요!
+User: 오늘 너무 멋있어요! / 오늘 너무 예뻐요!
 AI: 진짜요? 고마워요!
 
 **Outro:**
@@ -43,7 +43,7 @@ AI: 진짜요? 고마워요!
 
 ---
 
-### sim2: Chatting with Idol
+## sim2: Chatting with Idol
 
 **Goal:** To humbly accept a compliment about your Korean and share your favorite song with your idol.
 
@@ -53,7 +53,7 @@ AI: 진짜요? 고마워요!
 AI: 한국어 잘하네요!
 User: 아니에요! / 아직 많이 못해요.
 AI: 아니에요, 진짜 잘해요!
-User: 감사해요!
+User: 감사해요! / 고마워요!
 
 **Outro:**
 > She noticed your Korean! 🇰🇷
@@ -64,7 +64,7 @@ User: 감사해요!
 AI: 우리 노래 중에 뭐 제일 좋아해요?
 User: 다 좋아해요! / ___이요!
 AI: 진짜요? 감사해요!
-User: 오늘 불러주세요!
+User: 오늘 불러주세요! / 듣고 싶어요!
 
 **Outro:**
 > Request accepted! 🎶
@@ -73,16 +73,16 @@ User: 오늘 불러주세요!
 
 ---
 
-### sim3: Goodbye
+## sim3: Goodbye
 
 **Goal:** To give your idol a heartfelt gift and say a memorable goodbye without crying
 
 **📍 장소:** 팬미팅 현장 (동일)
 
 **전 — 선물 [세트 5]**
-User: 이거 선물이에요!
+User: 이거 선물이에요! / 이거 받아주세요!
 AI: 와, 뭐예요? 감사해요!
-User: 편지예요!
+User: 편지예요! / 직접 썼어요!
 AI: 꼭 읽을게요!
 
 **Outro:**
@@ -92,9 +92,9 @@ AI: 꼭 읽을게요!
 
 **결 — 인사 [세트 6]**
 AI: 다음에 또 만나요!
-User: 네, 꼭이요!
+User: 네, 꼭이요! / 약속해요!
 AI: 사랑해요!
-User: 저도 사랑해요!
+User: 저도 사랑해요! / 사랑해요!
 
 **Outro:**
 > Best moment of your life! ✨
@@ -197,9 +197,9 @@ User: 네, 꼭이요! / 연락해요!
 ### 결 — 인사 [세트 6]
 
 AI: 오늘 진짜 재밌었어요!
-User: 저도요! 고마워요!
+User: 저도요! 고마워요! / 저도 재밌었어요!
 AI: 우리 다음에도 만나요!
-User: 네, 꼭요!
+User: 네, 꼭요! / 연락할게요!
 
 **Outro:**
 > Music show buddy secured! 🎫
@@ -302,9 +302,9 @@ User: 당연하죠! / 매년 함께할게요!
 ### 결 — 잘 자요 [세트 6]
 
 AI: 이제 잘 거예요! 오늘 정말 감사해요!
-User: 생일 축하해요!
+User: 생일 축하해요! / 해피 버스데이!
 AI: 잘 자요! 좋은 꿈 꿔요!
-User: 잘 자요!
+User: 잘 자요! / 좋은 꿈 꿔요!
 
 **Outro:**
 > Happy birthday! 🌙

@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 오전
+## sim1: 오전
 
 **📍 장소:** 사무실 (출근 첫 날)
 
@@ -32,7 +32,7 @@ User: 네, 알겠습니다.
 
 **승 — 셋팅 [세트 2]**
 AI: 노트북 셋팅 됐는지 확인해봐요.
-User: 네, 됐습니다. / 아직 안 됐어요.
+User: 네, 됐습니다. / 아직 안 됐습니다.
 AI: 되면 저한테 한번 알려줘요.
 User: 네, 알겠습니다.
 
@@ -112,7 +112,7 @@ User: 네, 알겠습니다.
 
 ---
 
-### sim1: 업무 지시
+## sim1: 업무 지시
 
 **Goal:** To receive and confirm your first real assignment from the team lead.
 
@@ -217,7 +217,7 @@ User: 네, 알겠습니다.
 
 ---
 
-### sim1: 야근 시작
+## sim1: 야근 시작
 
 **Goal:** To stay focused during overtime while your team lead quietly keeps watch.
 
@@ -242,9 +242,9 @@ User: 네, 감사합니다.
 ### 승 — 막힘 [세트 2]
 
 AI: 이 부분 막히는 거 있어요?
-User: 네, 이 부분이 잘 모르겠어요.
+User: 네, 이 부분이 잘 모르겠습니다.
 AI: 이렇게 하면 돼요. 이 순서대로요.
-User: 감사합니다. 이해됐어요.
+User: 감사합니다. 이해됐습니다.
 
 **Outro:**
 > He looked at your screen for three seconds.
@@ -289,7 +289,7 @@ AI: …다행이에요.
 
 ### 전 — 귀가 [세트 5]
 
-User: 이제 다 됐어요. 수고하셨어요.
+User: 이제 다 됐습니다. 수고하셨습니다.
 AI: 수고했어요. 잘 마무리했네요.
 User: 감사합니다.
 AI: 택시 불러드릴까요?

@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 출근
+## sim1: 출근
 
 **📍 장소:** 성수 브랜드 에이전시 (로비)
 
@@ -20,9 +20,9 @@ First day at the Seongsu brand agency.
 Someone's already there, coffee in hand, checking the clock.
 
 **기 — 도착 [세트 1]**
-User: 안녕하세요! 저 인턴이에요.
+User: 안녕하세요! 저 인턴입니다. / 안녕하세요! 오늘부터 왔습니다.
 AI: 늦었어. 빨리 와.
-User: 네! 잘 부탁해요.
+User: 네! 잘 부탁드립니다. / 알겠습니다!
 AI: 따라와. 뛰지 마.
 
 **Outro:**
@@ -32,9 +32,9 @@ AI: 따라와. 뛰지 마.
 
 **승 — 자리 [세트 2]**
 AI: 여기 앉아. 이 자리야.
-User: 제 자리예요?
+User: 제 자리예요? / 여기 앉으면 돼요?
 AI: 응. 짐 여기 놔.
-User: 감사해요!
+User: 감사합니다! / 네, 알겠습니다!
 
 **Outro:**
 > She pointed at the desk. It was already clean.
@@ -43,16 +43,16 @@ User: 감사해요!
 
 ---
 
-### sim2: 오전
+## sim2: 오전
 
 **📍 장소:** 성수 브랜드 에이전시 (사무실)
 
 **Goal:** To get settled at your new desk and ask basic questions about the office.
 
 **승 — 컴퓨터 [세트 3]**
-User: 이 컴퓨터 써도 돼요?
+User: 이 컴퓨터 써도 돼요? / 이거 제 컴퓨터예요?
 AI: 비밀번호 0000이야. 외워.
-User: 감사합니다!
+User: 감사합니다! / 네, 알겠습니다!
 AI: 모르면 물어봐. 혼자 하지 마.
 
 **Outro:**
@@ -61,9 +61,9 @@ AI: 모르면 물어봐. 혼자 하지 마.
 
 **전 — 점심 [세트 4]**
 AI: 밥 먹었어? 안 먹었지?
-User: 아직이요.
+User: 아직입니다. / 아직 안 먹었어요.
 AI: 가자. 빨리.
-User: 네!
+User: 네! / 같이 가요!
 
 **Outro:**
 > She didn't ask if you wanted to eat. She told you it was time.
@@ -72,16 +72,16 @@ User: 네!
 
 ---
 
-### sim3: 오후
+## sim3: 오후
 
 **📍 장소:** 성수 브랜드 에이전시 (퇴근 전)
 
 **Goal:** To wrap up your first day at the agency and say goodbye to your senior.
 
 **전 — 마무리 [세트 5]**
-User: 언니, 이제 가요?
+User: 언니, 이제 가요? / 퇴근해요?
 AI: 가. 늦게까지 있지 마.
-User: 오늘 감사했어요!
+User: 오늘 감사했습니다! / 수고하셨습니다!
 AI: 내일 9시야. 늦지 마.
 
 **Outro:**
@@ -90,9 +90,9 @@ AI: 내일 9시야. 늦지 마.
 >
 
 **결 — 인사 [세트 6]**
-User: 내일 봬요!
+User: 내일 봬요! / 내일 만나요!
 AI: 조심히 가. 뛰지 마.
-User: 안녕히 계세요!
+User: 안녕히 계세요! / 잘 가세요!
 AI: 밥 먹고 자.
 
 **Outro:**
@@ -124,10 +124,10 @@ No context. No deadline mentioned. But you know — it's today.
 ### 기 — 업무 [세트 1]
 
 AI: 이거 만들어. 오늘까지야.
-User: 제가요? / 네, 알겠어요!
+User: 제가요? / 네, 알겠습니다!
 
 AI: 어렵지 않아. 모르면 물어봐.
-User: 네, 해볼게요!
+User: 네, 해볼게요! / 알겠습니다!
 
 **Outro:**
 > She gave you the task. No hand-holding — but "물어봐" means the door is open.
@@ -135,10 +135,10 @@ User: 네, 해볼게요!
 
 ### 승 — 질문 [세트 2]
 
-User: 언니, 이 부분 어떻게 해요?
+User: 언니, 이 부분 어떻게 합니까? / 언니, 이거 모르겠어요.
 AI: 어디? 보여줘.
 
-User: 여기요.
+User: 여기요. / 이 부분이요.
 AI: 이렇게 해. 간단하지?
 
 **Outro:**
@@ -156,10 +156,10 @@ AI: 이렇게 해. 간단하지?
 
 ### 승 — 제출 [세트 3]
 
-User: 언니, 다 했어요.
+User: 언니, 다 했습니다. / 언니, 끝났어요!
 AI: 벌써? 봐볼게.
 
-User: 괜찮아요?
+User: 괜찮아요? / 어때요?
 AI: 기다려. 보는 중이야.
 
 **Outro:**
@@ -170,10 +170,10 @@ AI: 기다려. 보는 중이야.
 ### 전 — 수정 [세트 4]
 
 AI: 여기 바꿔. 색깔 너무 많아.
-User: 여기요?
+User: 여기요? / 이 부분이요?
 
 AI: 응. 나머지 괜찮아.
-User: 알겠어요!
+User: 알겠습니다! / 네, 바꿀게요!
 
 **Outro:**
 > One correction. "나머지 괜찮아" — the rest is fine.
@@ -191,10 +191,10 @@ User: 알겠어요!
 ### 전 — 발표 전 [세트 5]
 
 AI: 긴장하지 마. 네가 만든 거야.
-User: 떨려요.
+User: 떨려요. / 긴장돼요.
 
 AI: 괜찮아. 잘 할 수 있어.
-User: 감사해요!
+User: 감사합니다! / 네, 해볼게요!
 
 **Outro:**
 > "긴장하지 마." Don't be nervous. She said it like a fact, not a wish.
@@ -203,9 +203,9 @@ User: 감사해요!
 ### 결 — 끝나고 [세트 6]
 
 AI: 잘 했어. 수고했어.
-User: 진짜요?
+User: 진짜요? / 정말요?
 
-User: 감사합니다!
+User: 감사합니다! / 고마워요, 언니!
 AI: 그래. 오늘 밥은 내가 살게.
 
 **Outro:**
@@ -236,10 +236,10 @@ You're still working. So is she.
 
 ### 기 — 야근 [세트 1]
 
-User: 언니도 아직 있어요?
+User: 언니도 아직 있어요? / 아직 안 갔어요?
 AI: 응. 너도 아직이야?
 
-User: 아직이에요..
+User: 아직입니다. / 네, 아직이요.
 AI: 천천히 해. 급하지 마.
 
 **Outro:**
@@ -250,10 +250,10 @@ AI: 천천히 해. 급하지 마.
 ### 승 — 밤 [세트 2]
 
 AI: 밥 먹었어? 또 안 먹었지?
-User: 조금요.
+User: 조금요. / 좀 먹었어요.
 
 AI: 조금이 뭐야. 가자.
-User: 어디 가요?
+User: 어디 가요? / 뭐 먹으러요?
 
 **Outro:**
 > "What do you mean, 'a little'?" She grabbed her bag before you could answer.
@@ -269,10 +269,10 @@ User: 어디 가요?
 
 ### 승 — 선택 [세트 3]
 
-User: 뭐 살 거예요?
+User: 뭐 살 거예요? / 뭐 먹을 거예요?
 AI: 너 먼저 골라. 뭐 먹고 싶어?
 
-User: 이거 괜찮아요?
+User: 이거 괜찮아요? / 이거 어때요?
 AI: 그래. 이것도 가져.
 
 **Outro:**
@@ -283,10 +283,10 @@ AI: 그래. 이것도 가져.
 ### 전 — 계산 [세트 4]
 
 AI: 이거 줘. 내가 살게.
-User: 제가 살게요!
+User: 제가 살게요! / 제가 낼게요!
 
 AI: 됐어. 다음에 사.
-User: …감사해요.
+User: …감사합니다. / 고마워요, 언니.
 
 **Outro:**
 > She paid and walked out. "다음에 사."
@@ -303,10 +303,10 @@ User: …감사해요.
 
 ### 전 — 돌아가기 [세트 5]
 
-User: 언니, 야근 힘들지 않아요?
+User: 언니, 야근 힘들지 않아요? / 힘들지 않아요?
 AI: 힘들지. 근데 하면 돼.
 
-User: 저는 힘들어요.
+User: 저는 힘듭니다. / 저는 힘들어요.
 AI: 알아. 나도 여기 있어.
 
 **Outro:**
@@ -317,10 +317,10 @@ AI: 알아. 나도 여기 있어.
 ### 결 — 마무리 [세트 6]
 
 AI: 끝나면 같이 가자.
-User: 언니는요?
+User: 언니는요? / 언니도 가요?
 
 AI: 나도 갈 거야. 기다려.
-User: 같이 가요!
+User: 같이 가요! / 네, 기다릴게요!
 
 **Outro:**
 > She said "기다려" — wait for me. 🌙

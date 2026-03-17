@@ -9,7 +9,7 @@
 
 ---
 
-### sim1: 하늘
+## sim1: 하늘
 
 **📍 장소:** 연남동 공유 작업실 (창가)
 
@@ -43,7 +43,7 @@ User: 응, 여기 빛이 좋더라고.
 
 ---
 
-### sim2: 자리
+## sim2: 자리
 
 **Goal:** To settle into the workspace and start working side by side.
 
@@ -73,7 +73,7 @@ User: 어, 좀 더 되면 보여줄게.
 
 ---
 
-### sim3: 하루 끝
+## sim3: 하루 끝
 
 **Goal:** To wrap up the first day at the workspace.
 

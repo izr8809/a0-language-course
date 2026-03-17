@@ -11,7 +11,7 @@
 
 ---
 
-### sim1: 첫 인사
+## sim1: 첫 인사
 
 **📍 장소:** 신촌 카페
 
@@ -23,18 +23,18 @@ A cheerful coworker rushes over to greet you.
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 저 유나예요. 오늘부터 같이 일해요?
-User: 안녕하세요! / 잘 부탁해요!
+User: 안녕하세요! / 잘 부탁드립니다!
 AI: 저도요! 같이 일해요. 준비됐어요?
-User: 네! / 잘 부탁해요!
+User: 네! / 잘 부탁드립니다!
 
 **Outro:**
 > She hands you an apron before you even ask.
 >
 
 **승 — 자기소개 [세트 2]**
-User: 여기 처음이에요. / 긴장돼요.
+User: 여기 처음입니다. / 긴장됩니다.
 AI: 저도 얼마 안 됐어요. 걱정 마세요!
-User: 다행이에요. / 좋았어요.
+User: 다행입니다. / 좋았습니다.
 AI: 같이 잘 해요! 뭐부터 알려줄까요?
 
 **Outro:**
@@ -66,7 +66,7 @@ User: 해볼게요. / 열심히 할게요.
 **전 — 주문 연습 [세트 4]**
 User: 이건 뭐예요? / 인기 메뉴가 뭐예요?
 AI: 라떼예요. 많이 팔려요.
-User: 알겠어요. / 감사해요.
+User: 알겠습니다. / 감사합니다.
 AI: 잘 할 거예요. 한번 만들어 볼래요?
 
 **Outro:**
@@ -87,7 +87,7 @@ Yuna plops down next to you and leans in.
 
 **전 — 반말 제안 [세트 5]**
 AI: 저 반말해도 돼요?
-User: 네, 좋아요! / 편하게 해요.
+User: 네, 좋습니다! / 편하게 합시다.
 AI: 고마워! 편하다. 첫날 어때?
 User: 나도. / 좋다.
 
@@ -116,7 +116,7 @@ AI: 잘 됐다! 내일도 같이 하자!
 
 ---
 
-### sim1: 주문 받기
+## sim1: 주문 받기
 
 **📍 장소:** 신촌 카페 카운터
 
@@ -130,7 +130,7 @@ Yuna waves you over to the counter.
 AI: 손님 많아요! 와요.
 User: 네, 가요! / 갈게요!
 AI: 여기 서요. 주문 받아봐요!
-User: 알겠어요. / 네!
+User: 알겠습니다. / 네!
 
 **Outro:**
 > She's already taking an order before you even arrive.
@@ -139,7 +139,7 @@ User: 알겠어요. / 네!
 **승 — 주문 확인 [세트 2]**
 User: 이거 맞아요? / 잘 됐어요?
 AI: 맞아요! 잘했어요.
-User: 다행이에요. / 감사해요.
+User: 다행입니다. / 감사합니다.
 AI: 잘 하고 있어요. 다음 손님도 해봐요!
 
 **Outro:**
@@ -160,7 +160,7 @@ Yuna drops into a chair next to you with a sigh.
 
 **승 — 피로 표현 [세트 3]**
 AI: 힘드셨죠? 쉬어요.
-User: 바쁘네요, 여기. / 힘들었어요.
+User: 바쁘군요, 여기. / 힘들었습니다.
 AI: 주말엔 더요. 괜찮아요?
 User: 그렇군요. / 대단하네요.
 
@@ -171,7 +171,7 @@ User: 그렇군요. / 대단하네요.
 **전 — 카페 얘기 [세트 4]**
 User: 여기 얼마나 됐어요? / 여기 오래 됐어요?
 AI: 두 달요. 재밌어요.
-User: 좋겠어요. / 저도 좋아요.
+User: 좋겠습니다. / 저도 좋습니다.
 AI: 같이 하면 더요. 오래 하실 거예요?
 
 **Outro:**
@@ -192,7 +192,7 @@ Yuna stretches and turns to you.
 
 **전 — 반말 전환 [세트 5]**
 AI: 말 편하게 해도 돼요?
-User: 네, 좋아요! / 그래요.
+User: 네, 좋습니다! / 그래요.
 AI: 잘 했어, 오늘. 힘들지 않았어?
 User: 너도. / 고마워.
 
@@ -221,7 +221,7 @@ AI: 고마워! 내일도 올 거지?
 
 ---
 
-### sim1: 마감 청소
+## sim1: 마감 청소
 
 **📍 장소:** 신촌 카페
 
@@ -233,18 +233,18 @@ You and Yuna are the last ones left.
 
 **기 — 청소 시작 [세트 1]**
 AI: 청소 시작해요!
-User: 제가 뭐 해요? / 어디부터 해요?
+User: 제가 뭐 합니까? / 어디부터 합니까?
 AI: 테이블 닦아요. 여기부터 해요!
-User: 알겠어요. / 네!
+User: 알겠습니다. / 네!
 
 **Outro:**
 > She ties her hair back and grabs the mop right away.
 >
 
 **승 — 역할 분담 [세트 2]**
-User: 다 닦았어요. / 끝났어요.
+User: 다 닦았습니다. / 끝났습니다.
 AI: 빠르다! 고마워요. 잘하네요!
-User: 뭐 더 있어요? / 또 뭐 해요?
+User: 뭐 더 있습니까? / 또 뭐 합니까?
 AI: 바닥만요. 금방 끝나요!
 
 **Outro:**
@@ -265,9 +265,9 @@ Yuna grabs her bag and turns to you.
 
 **승 — 퇴근 준비 [세트 3]**
 AI: 다 끝났어요! 수고했어요.
-User: 드디어요. / 힘들었어요.
+User: 드디어입니다. / 힘들었습니다.
 AI: 오늘 어땠어요?
-User: 재밌었어요. / 좋았어요.
+User: 재밌었습니다. / 좋았습니다.
 
 **Outro:**
 > She claps her hands together and looks satisfied.
@@ -276,7 +276,7 @@ User: 재밌었어요. / 좋았어요.
 **전 — 퇴근 대화 [세트 4]**
 User: 집 어디예요? / 여기 가까워요?
 AI: 신촌이요. 가까워요.
-User: 좋겠어요. / 같이 가요!
+User: 좋겠습니다. / 같이 갑시다!
 AI: 같이 나가요!
 
 **Outro:**
