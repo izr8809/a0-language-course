@@ -22,9 +22,9 @@ He's stirring his coffee slowly.
 You tell him something happened. He stops stirring.
 
 **기 — 놀람 [세트 1]**
-User: 나 어제 BTS 콘서트 갔다 왔어!
+User: 나 어제 BTS 콘서트 갔다 왔어! / 나 어제 완전 대박인 일 있었어!
 AI: …진짜라고? 어떻게 됐어?
-User: 응, 진짜야! 완전 좋았어!
+User: 응, 진짜야! 완전 좋았어! / 응, 자리도 진짜 좋았어!
 AI: …어, 그렇구나. 좋았겠다.
 
 **Outro:**
@@ -33,9 +33,9 @@ AI: …어, 그렇구나. 좋았겠다.
 >
 
 **승 — 부러움 [세트 2]**
-User: 사진 찍어왔어. 한번 봐봐.
+User: 사진 찍어왔어. 한번 봐봐. / 영상도 찍었어. 볼래?
 AI: …어, 봐도 돼.
-User: 여기! 이거 봐봐, 대박이지?
+User: 여기! 이거 봐봐, 대박이지? / 이거 진짜 가까이서 찍은 거야!
 AI: 진짜 대박이네. 좋았겠다.
 
 **Outro:**
@@ -45,7 +45,7 @@ AI: 진짜 대박이네. 좋았겠다.
 
 ---
 
-### sim2: Reacting to News
+## sim2: Reacting to News
 
 **Goal:** To quietly process and react to surprising relationship news.
 
@@ -75,7 +75,7 @@ AI: …그렇구나. 오래 기다렸네.
 
 ---
 
-### sim3: Bad News
+## sim3: Bad News
 
 **Goal:** To respond with quiet but genuine empathy when a friend has bad news.
 
@@ -114,7 +114,7 @@ AI: 응. 잘 될 거야.
 
 ---
 
-## sim1: Frustration
+### sim1: Frustration
 
 **Goal:** To voice frustration and offer genuine comfort.
 
@@ -219,7 +219,7 @@ AI: 응. 너도 연락하고 지내.
 
 ---
 
-## sim1: Missing You
+### sim1: Missing You
 
 **Goal:** To reach out first and actually get him outside.
 
@@ -324,7 +324,7 @@ AI: 너도 조심해서 가.
 
 ---
 
-## sim1: Argument
+### sim1: Argument
 
 **Goal:** To apologize and defuse a situation before it escalates.
 

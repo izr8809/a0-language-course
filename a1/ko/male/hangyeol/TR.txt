@@ -31,9 +31,9 @@ User: 기본 사이즈로 주세요.
 >
 
 **승 — 추가 [세트 2]**
-User: 혹시 쿠키 같은 것도 있어요?
+User: 혹시 쿠키 같은 것도 있어요? / 디저트도 있나요?
 AI: 네, 버터 쿠키랑 초코 쿠키 있어요.
-User: 버터 쿠키 하나 주세요.
+User: 버터 쿠키 하나 주세요. / 초코 쿠키 하나 주세요.
 AI: 알겠어요. 같이 준비해 드릴게요.
 
 **Outro:**
@@ -43,7 +43,7 @@ AI: 알겠어요. 같이 준비해 드릴게요.
 
 ---
 
-### sim2: Paying
+## sim2: Paying
 
 **Goal:** To pay for your order and give your name for pickup.
 
@@ -73,7 +73,7 @@ AI: 네, 나오면 바로 불러 드릴게요.
 
 ---
 
-### sim3: Getting the Drink
+## sim3: Getting the Drink
 
 **Goal:** To pick up your order and find a good seat.
 
@@ -94,7 +94,7 @@ AI: 네, 여기 있어요. 맛있게 드세요.
 User: 저기요, 창가 자리 있는 거 맞죠?
 AI: 네, 안쪽 창가에 자리 있어요.
 User: 감사합니다, 잘 마실게요!
-AI: 네, 편하게 계세요.
+AI: 네, 편하게 계세요. 더 필요하시면 말씀해 주세요.
 
 **Outro:**
 > Mission accomplished! ☕🪑
@@ -146,7 +146,7 @@ AI: 네, 잠시만 기다려 주세요.
 
 ---
 
-### sim2: 음식 조절
+## sim2: 음식 조절
 
 **Goal:** To ask for a refill and check if the spice is okay.
 
@@ -156,7 +156,7 @@ AI: 네, 잠시만 기다려 주세요.
 User: 저기요! 어묵 좀 더 주실 수 있어요?
 AI: 네, 어떤 거 더 드릴까요?
 User: 이거랑 어묵 조금 더 주세요.
-AI: 네, 잠시만요. 바로 드릴게요.
+AI: 네, 바로 드릴게요. 더 필요한 거 있으세요?
 
 **Outro:**
 > Refill unlocked! 🥢
@@ -176,7 +176,7 @@ AI: 네, 맛있게 드세요.
 
 ---
 
-### sim3: 계산하기
+## sim3: 계산하기
 
 **Goal:** To pay the bill and say a proper farewell at the pojangmacha.
 
@@ -249,7 +249,7 @@ User: 고마워, 기다려줘서!
 
 ---
 
-### sim2: 버스 안
+## sim2: 버스 안
 
 **Goal:** To check the stop with another passenger and prepare to get off.
 
@@ -279,7 +279,7 @@ User: 오케이, 먼저 갈게!
 
 ---
 
-### sim3: 도착
+## sim3: 도착
 
 **Goal:** To get off the bus safely and thank the driver.
 
@@ -352,7 +352,7 @@ AI: 저쪽에 물어보시면 잘 알 것 같아요.
 
 ---
 
-### sim2: 한결에게 연락
+## sim2: 한결에게 연락
 
 **Goal:** To contact Hangyeol and share your location so he can find you.
 
@@ -382,7 +382,7 @@ User: 알겠어, 기다릴게. 빨리 와!
 
 ---
 
-### sim3: 한결과 만남
+## sim3: 한결과 만남
 
 **Goal:** To stay calm while waiting and reunite with Hangyeol at last.
 

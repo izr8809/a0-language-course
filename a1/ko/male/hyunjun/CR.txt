@@ -43,7 +43,7 @@ User: 네, 알겠습니다.
 
 ---
 
-### sim2: 점심
+## sim2: 점심
 
 **📍 장소:** 구내식당
 
@@ -73,7 +73,7 @@ User: 알겠습니다.
 
 ---
 
-### sim3: 퇴근
+## sim3: 퇴근
 
 **📍 장소:** 사무실 (퇴근)
 
@@ -112,7 +112,7 @@ User: 네, 알겠습니다.
 
 ---
 
-## sim1: 업무 지시
+### sim1: 업무 지시
 
 **Goal:** To receive and confirm your first real assignment from the team lead.
 
@@ -136,9 +136,9 @@ User: 네, 하겠습니다.
 
 ### 승 — 확인 [세트 2]
 
-User: 이 방향으로 하면 맞나요?
+User: 이 방향으로 하면 맞나요? / 이렇게 정리하면 될까요?
 AI: 아니요, 다시 확인해봐요.
-User: 네, 다시 해올게요.
+User: 네, 다시 해올게요. / 알겠습니다, 수정하겠습니다.
 AI: 네, 그렇게 해요.
 
 **Outro:**
@@ -217,7 +217,7 @@ User: 네, 알겠습니다.
 
 ---
 
-## sim1: 야근 시작
+### sim1: 야근 시작
 
 **Goal:** To stay focused during overtime while your team lead quietly keeps watch.
 
@@ -304,7 +304,7 @@ AI: 택시 불러드릴까요?
 User: 괜찮아요. 제가 부를게요.
 AI: 그래요. 조심히 들어가요.
 User: 감사합니다. 들어가세요.
-AI: 네, 잘 가요.
+AI: 네, 잘 가요. 내일 봐요.
 
 **Outro:**
 > He waited until your taxi arrived.

@@ -270,7 +270,7 @@ User: 괜찮아, 말해.
 User: 그래서 할 말이 뭔데?
 AI: 나 너 좋아해! 진짜로, 많이.
 User: …뭐? 진짜야?
-AI: 응, 진짜야. 좋다고, 너.
+AI: 응, 진짜야. 너는 어때?
 
 **Outro:**
 > He said it out loud. In the middle of the park. 💕

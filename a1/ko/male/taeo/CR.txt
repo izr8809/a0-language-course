@@ -22,7 +22,7 @@ The guy by the window speaks before you even sit down.
 **기 — 하늘 [세트 1]**
 AI: 오늘 하늘 색 진짜 좋지 않아?
 User: 어, 그러네. 파랗다.
-AI: 파란 맛이야. 달콤한 파란 맛.
+AI: 파란 맛이야, 달콤한 파란 맛. 느껴져?
 User: 달콤한 파란 맛이 뭐야.
 
 **Outro:**
@@ -91,9 +91,9 @@ User: 어떻게 그렇게 확신해?
 >
 
 **결 — 내일 [세트 6]**
-AI: 하늘이 말해줬어. 오늘 색이 그랬거든.
+AI: 하늘이 말해줬어, 오늘 색이 그랬거든.
 User: 뭔 소리야, 진짜.
-AI: 내일 봐. 잘 될 거야.
+AI: 내일 봐. 잘 될 거야, 알지?
 User: 알겠어, 내일 봐.
 
 **Outro:**
@@ -126,7 +126,7 @@ Taeo notices before you say anything.
 
 AI: 막혔어? 표정이 그렇게 보여.
 User: 어, 좀 막혔어. 어떻게 알았어?
-AI: 눈 감아봐. 잠깐만 눈 감아봐.
+AI: 잠깐만 눈 감아봐.
 User: 갑자기 왜?
 
 **Outro:**

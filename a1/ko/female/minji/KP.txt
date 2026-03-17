@@ -42,7 +42,7 @@ AI: 기대할게요! 감사해요!
 
 ---
 
-### sim2: Fan Event
+## sim2: Fan Event
 
 **Goal:** To cheer for your idol during her birthday live and react to her heartfelt birthday wish.
 
@@ -72,7 +72,7 @@ User: 감동이에요! / 저도요!
 
 ---
 
-### sim3: Ending
+## sim3: Ending
 
 **Goal:** To celebrate the end of a perfect birthday live and exchange a sweet goodnight with your idol.
 
@@ -121,9 +121,9 @@ User: 저도 사랑해요!
 Her new song is on repeat. But what does it actually mean?
 
 **기 — 가사 [세트 1]**
-User: 이 노래 뭐라고 하는 거야?
+User: 이 노래 뭐라고 하는 거야? / 이 가사 무슨 뜻이야?
 AI: 어떤 부분?
-User: "보고 싶다" 이 부분!
+User: "보고 싶다" 이 부분! / "보고 싶다"가 뭐야?
 AI: "I miss you"라는 뜻이야!
 
 **Outro:**
@@ -144,7 +144,7 @@ AI: 응! 한국어 가사 재밌지?
 
 ---
 
-### sim2: Singing Along
+## sim2: Singing Along
 
 **Goal:** To try singing along to a Korean song and get encouragement from your friend.
 
@@ -174,7 +174,7 @@ User: 고마워!
 
 ---
 
-### sim3: New Song
+## sim3: New Song
 
 **Goal:** To bond over a new release, discuss the emotional lyrics, and plan to listen together.
 
@@ -246,7 +246,7 @@ AI: 미쳤다! 대박! 뭐라고 했대?
 
 ---
 
-### sim2: The Details
+## sim2: The Details
 
 **Goal:** To share her reaction, talk about the gift exchange, and make plans to go together next time.
 
@@ -276,7 +276,7 @@ User: 응, 꼭 읽을 거라고 했어!
 
 ---
 
-### sim3: After
+## sim3: After
 
 **Goal:** To still be buzzing from the experience, show off photos, and make a firm promise to go together.
 

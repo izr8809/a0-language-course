@@ -34,7 +34,7 @@ AI: …그래? 별로 신경 안 썼어.
 User: 오늘 회의 있다고 들었는데, 맞죠?
 AI: 어. 10시에 회의실이야.
 User: 알겠어요. 준비하고 있을게요.
-AI: 늦으면 안 돼. 먼저 가 있을게.
+AI: 늦으면 안 돼. 먼저 갈게.
 
 **Outro:**
 > "I'll go first." His way of saying "come join me." 📋
@@ -43,7 +43,7 @@ AI: 늦으면 안 돼. 먼저 가 있을게.
 
 ---
 
-### sim2: During the Day
+## sim2: During the Day
 
 **Goal:** To handle brief midday interactions with quiet efficiency.
 
@@ -51,7 +51,7 @@ AI: 늦으면 안 돼. 먼저 가 있을게.
 
 **승 — 동료 [세트 3]**
 User: 점심 아직 안 먹었죠? 같이 먹을까요?
-AI: …어, 뭐 먹을 건데. 고를게.
+AI: …어, 뭐 먹을 건데?
 User: 근처에 새로 생긴 데 있던데, 어때요?
 AI: …뭐, 한번 가보자.
 
@@ -73,7 +73,7 @@ AI: 여기 이렇게 고치면 돼.
 
 ---
 
-### sim3: Leaving
+## sim3: Leaving
 
 **Goal:** To close out the day with the right words and a quiet exit.
 
@@ -92,9 +92,9 @@ AI: 어, 가. 바람 불어.
 
 **결 — 인사 [세트 6]**
 User: 내일 또 봐요. 좋은 저녁 보내세요!
-AI: 어. 너도.
+AI: 어. 내일 일찍 오지?
 User: 잘 가요, 안녕히 계세요!
-AI: …응, 잘 가.
+AI: …응, 조심해서 가.
 
 **Outro:**
 > He watched you leave. Then looked back at his screen. 🌙
@@ -112,7 +112,7 @@ AI: …응, 잘 가.
 
 ---
 
-## sim1: Getting Instructions
+### sim1: Getting Instructions
 
 **Goal:** To receive and confirm work instructions without making it complicated.
 
@@ -139,7 +139,7 @@ AI: 어, 오늘까지. 늦으면 알려줘.
 User: 다 했어요. 확인해 주실 수 있어요?
 AI: …어, 잠깐 봐도 돼?
 User: 네, 보세요. 어떤가요?
-AI: 어, 됐어. 잘 했네.
+AI: 어, 잘 했네.
 
 **Outro:**
 > "Did well." Not just "fine." That's the upgrade. 🔍
@@ -217,7 +217,7 @@ AI: 조심해서 가.
 
 ---
 
-## sim1: I Don't Understand
+### sim1: I Don't Understand
 
 **Goal:** To ask for clarification without making it awkward.
 
@@ -262,7 +262,7 @@ AI: 됐어. 모르면 또 물어봐.
 User: 잠깐 물어봐도 될까요?
 AI: 뭔데. 말해봐.
 User: 이 부분을 어떻게 처리해야 할지 모르겠어요.
-AI: 이렇게 하면 돼. 이 순서대로.
+AI: 이 순서대로 하면 돼.
 
 **Outro:**
 > He showed you step by step. Didn't make you feel dumb. 🤝
@@ -304,7 +304,7 @@ AI: 알겠어. 모레까지 해줘.
 User: 감사해요. 정말 열심히 마무리할게요.
 AI: 그래. 걱정 마, 할 수 있어.
 User: 네, 수고하세요. 감사합니다!
-AI: …어, 너도.
+AI: …어, 너도. 내일 봐.
 
 **Outro:**
 > "You can do it." He said it quietly. 🏢

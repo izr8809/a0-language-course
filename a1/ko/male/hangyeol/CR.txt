@@ -21,9 +21,9 @@ Someone's already outside, practically vibrating with energy.
 
 **기 — 첫 만남 [세트 1]**
 AI: 저도 오늘 첫날이에요, 진짜 신기하죠?
-User: 저도 첫날이에요!
+User: 저도 첫날이에요! / 네, 진짜 신기해요!
 AI: 진짜요?! 우리 같이 잘 해봐요!
-User: 잘 부탁해요!
+User: 잘 부탁해요! / 같이 열심히 해요!
 
 **Outro:**
 > He spotted you from across the street.
@@ -43,7 +43,7 @@ User: 저도요!
 
 ---
 
-### sim2: 오전
+## sim2: 오전
 
 **📍 장소:** 건대 카페 (바 안)
 
@@ -73,7 +73,7 @@ User: 좋아요!
 
 ---
 
-### sim3: 오픈
+## sim3: 오픈
 
 **📍 장소:** 건대 카페 (카운터)
 
@@ -112,7 +112,7 @@ User: 진짜요?
 
 ---
 
-## sim1: 피크 타임
+### sim1: 피크 타임
 
 **Goal:** To survive the lunch rush and catch each other's mistakes in real time.
 
@@ -221,7 +221,7 @@ User: 좋아요!
 
 ---
 
-## sim1: 마감
+### sim1: 마감
 
 **Goal:** To close the café and shift from work mode into something more relaxed.
 

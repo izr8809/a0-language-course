@@ -1,4 +1,4 @@
-# 👔 CAREER (반말)
+# 👔 CAREER (격식체)
 
 ---
 
@@ -22,20 +22,28 @@ A new client is coming to discuss a photography project.
 Haneul is rearranging her desk without any clear reason.
 
 **기 — 대기 [세트 1]**
-AI: 오늘 클라이언트 오는 거 알고 있지?
-User: 네, 알아요. 몇 시에 오는 거예요?
-AI: 두 시에 와. 포트폴리오 챙겨 둬.
-User: 알겠어요. 미리 정리해 놓을게요.
+AI: 오늘 클라이언트 오시는 거 알고 계시죠?
+User:
+A: 네, 알고 있어요. 몇 시에 오시는 거예요?
+B: 네, 들었어요. 시간이 언제인지 알 수 있을까요?
+AI: 두 시에 오세요. 포트폴리오 챙겨두시겠어요?
+User:
+A: 알겠어요. 미리 정리해놓을게요.
+B: 네, 지금 바로 준비하겠습니다.
 
 **Outro:**
 > She's already rearranged her desk twice this morning.
 >
 
 **승 — 준비 [세트 2]**
-AI: 이 사진 좀 더 앞으로 빼.
-User: 여기 이렇게 놓으면 될까요?
-AI: 응, 빛 잘 받아야 하니까.
-User: 맞아요. 여기가 훨씬 낫겠어요.
+AI: 이 사진 좀 더 앞으로 빼주실래요?
+User:
+A: 여기 이렇게 놓으면 될까요?
+B: 이 위치가 괜찮을까요?
+AI: 네, 빛을 잘 받아야 하니까요.
+User:
+A: 맞아요. 여기가 훨씬 나을 것 같아요.
+B: 확실히 이쪽이 더 잘 보이네요.
 
 **Outro:**
 > She tilts her head and studies the light for a moment.
@@ -54,20 +62,28 @@ The client arrives right on time.
 Haneul pours coffee before asking anything.
 
 **전 — 소개 [세트 1]**
-AI: 어떤 작업 원하는지 물어봤어?
-User: 브랜드 사진이래요. 따뜻한 느낌으로요.
-AI: 따뜻한 거, 알겠어.
-User: 자연스러운 분위기가 좋다고 했어요.
+AI: 어떤 작업 원하시는지 여쭤보셨어요?
+User:
+A: 브랜드 사진이래요. 따뜻한 느낌으로요.
+B: 브랜드 촬영인데, 따뜻한 분위기를 원하신대요.
+AI: 따뜻한 느낌이요, 알겠어요.
+User:
+A: 자연스러운 분위기가 좋다고 하셨어요.
+B: 연출된 느낌보다 자연스러운 걸 선호하신대요.
 
 **Outro:**
 > She nods slowly. Already imagining the shots.
 >
 
 **결 — 방향 [세트 2]**
-AI: 어디서 찍을지 생각해봤어?
-User: 여기 작업실에서 하면 어때요?
-AI: 좋겠다, 빛 잘 들어오니까.
-User: 오전이 제일 예쁠 것 같아요.
+AI: 어디서 찍을지 생각해보셨어요?
+User:
+A: 여기 작업실에서 하면 어떨까요?
+B: 이 공간이 분위기에 맞을 것 같은데 어떠세요?
+AI: 좋겠네요, 빛이 잘 들어오니까요.
+User:
+A: 오전이 제일 예쁠 것 같아요.
+B: 오전 시간대가 가장 좋을 것 같은데요.
 
 **Outro:**
 > She walks to the window and squints at the morning light.
@@ -86,20 +102,28 @@ The coffee is getting cold.
 Haneul is scribbling something in a small notebook.
 
 **기 — 일정 [세트 1]**
-AI: 언제까지 필요한지 물어봤어?
-User: 다음 주 금요일까지 줄 수 있어요?
-AI: 충분해. 할 수 있어.
-User: 정말 다행이에요. 감사해요.
+AI: 언제까지 필요하신지 여쭤보셨어요?
+User:
+A: 다음 주 금요일까지 드릴 수 있을까요?
+B: 일주일 정도면 가능할까요?
+AI: 충분해요, 할 수 있겠어요.
+User:
+A: 정말 다행이에요. 감사합니다.
+B: 안심이 돼요. 잘 부탁드립니다.
 
 **Outro:**
 > She circles a date on her notebook page.
 >
 
 **승 — 계약 [세트 2]**
-AI: 수정은 두 번까지 가능하다고 해.
-User: 네, 충분해요. 계약서는 어떻게 해요?
-AI: 메일로 보낼게. 확인해 줘.
-User: 알겠어요. 기대하고 있을게요.
+AI: 수정은 두 번까지 가능하다고 말씀드릴까요?
+User:
+A: 네, 충분해요. 계약서는 어떻게 하면 될까요?
+B: 좋아요. 계약 절차는 어떻게 진행되나요?
+AI: 메일로 보내드릴게요, 확인해주시겠어요?
+User:
+A: 알겠어요. 기대하고 있겠습니다.
+B: 네, 확인하고 바로 연락드릴게요.
 
 **Outro:**
 > She closes her notebook and smiles at nothing in particular.
@@ -129,20 +153,28 @@ A week has passed. She edited 200 photos down to 20.
 Sends the link before breakfast.
 
 **기 — 발송 [세트 1]**
-AI: 초안 사진 방금 보냈는데 확인해봐.
-User: 지금 열어보고 있어요. 예쁘다!
-AI: 마음에 드는 거 있으면 말해줘.
-User: 세 번째 사진이 제일 좋은 것 같아요.
+AI: 초안 사진 방금 보내드렸는데, 확인해보시겠어요?
+User:
+A: 지금 열어보고 있어요. 정말 예쁘네요!
+B: 바로 확인해볼게요. 기대돼요.
+AI: 마음에 드시는 거 있으면 말씀해주세요.
+User:
+A: 세 번째 사진이 제일 좋은 것 같아요.
+B: 전체적으로 다 좋은데, 세 번째가 특히 마음에 들어요.
 
 **Outro:**
 > She already knew which ones were the strongest.
 >
 
 **승 — 반응 [세트 2]**
-AI: 전체적인 분위기는 어때?
-User: 딱 원하던 느낌이에요. 마음에 들어요.
-AI: 잘됐다. 수정할 거 있으면 말해.
-User: 한 장만 좀 밝게 해주실 수 있을까요?
+AI: 전체적인 분위기는 어떠세요?
+User:
+A: 딱 원하던 느낌이에요. 마음에 들어요.
+B: 기대 이상이에요. 정말 좋아요.
+AI: 다행이에요, 수정할 부분 있으시면 말씀해주세요.
+User:
+A: 한 장만 좀 밝게 해주실 수 있을까요?
+B: 하나만 밝기를 살짝 올려주시면 좋겠어요.
 
 **Outro:**
 > She opens the file immediately. One adjustment. Done.
@@ -161,20 +193,28 @@ The client sends a long message with detailed notes.
 Haneul reads it standing up, still holding her coffee.
 
 **전 — 내용 [세트 1]**
-AI: 피드백 왔는데 같이 한번 봐.
-User: 어떤 내용이에요?
-AI: 배경이 너무 복잡하다고 하네.
-User: 아, 그 사진 알겠어요.
+AI: 피드백이 왔는데, 같이 한번 볼까요?
+User:
+A: 어떤 내용이에요?
+B: 무슨 피드백인지 알려주실 수 있을까요?
+AI: 배경이 너무 복잡하다고 하시네요.
+User:
+A: 아, 그 사진 어떤 건지 알겠어요.
+B: 그 부분 저도 좀 걱정됐었어요.
 
 **Outro:**
 > She pulls up the photo and stares at it for a long time.
 >
 
 **결 — 수정 방향 [세트 2]**
-AI: 다시 찍을지 편집으로 할지 봐야겠어.
-User: 편집으로 해결이 될까요?
-AI: 가능해, 배경만 정리하면 되니까.
-User: 그럼 번거롭겠지만 부탁드릴게요.
+AI: 다시 찍을지 편집으로 할지 봐야 할 것 같아요.
+User:
+A: 편집으로 해결이 될까요?
+B: 재촬영 없이도 가능할까요?
+AI: 가능해요, 배경만 정리하면 되니까요.
+User:
+A: 그럼 번거로우시겠지만 부탁드릴게요.
+B: 감사합니다, 잘 부탁드려요.
 
 **Outro:**
 > She taps the screen twice and gets to work.
@@ -193,20 +233,28 @@ She sends the revised version the next morning.
 Earlier than expected, as usual.
 
 **기 — 전달 [세트 1]**
-AI: 수정한 사진 다시 보냈어. 확인해봐.
-User: 지금 확인해볼게요. 잠깐만요.
-AI: 배경 정리하고 밝기도 조금 손봤어.
-User: 훨씬 깔끔해졌어요. 정말 감사해요.
+AI: 수정한 사진 다시 보내드렸어요, 확인해보시겠어요?
+User:
+A: 지금 확인해볼게요. 잠깐만요.
+B: 바로 열어볼게요. 감사합니다.
+AI: 배경 정리하고 밝기도 조금 조정했어요.
+User:
+A: 훨씬 깔끔해졌어요. 정말 감사합니다.
+B: 완전히 달라졌네요. 감사해요.
 
 **Outro:**
 > She types "다행" and sets the phone face down.
 >
 
 **승 — 최종 확인 [세트 2]**
-AI: 이제 괜찮아?
-User: 네, 완전히 좋아요. 마음에 들어요.
-AI: 잘됐다. 다음 단계로 넘어가자.
-User: 네, 납품은 언제쯤 가능해요?
+AI: 이제 괜찮으세요?
+User:
+A: 네, 완전히 좋아요. 마음에 들어요.
+B: 네, 완벽해요. 더 수정할 건 없어요.
+AI: 다행이에요, 다음 단계로 넘어갈까요?
+User:
+A: 네, 납품은 언제쯤 가능하세요?
+B: 좋아요, 최종 파일은 언제 받을 수 있을까요?
 
 **Outro:**
 > She checks her calendar. Already planned ahead.
@@ -236,20 +284,28 @@ The last edits are done. She's organizing folders.
 The naming system makes sense only to her.
 
 **기 — 정리 [세트 1]**
-AI: 최종 파일 정리 중인데 거의 다 됐어.
-User: 파일 형식은 어떻게 드릴 거예요?
-AI: JPEG랑 PNG 둘 다 줄게.
-User: 완벽해요. 정말 감사해요.
+AI: 최종 파일 정리 중인데, 거의 다 됐어요.
+User:
+A: 파일 형식은 어떻게 주시는 건가요?
+B: 어떤 형식으로 보내주시나요?
+AI: JPEG랑 PNG 둘 다 드릴게요.
+User:
+A: 완벽해요. 정말 감사합니다.
+B: 둘 다 주시는 거예요? 감사해요.
 
 **Outro:**
 > She double-checks the folder name and nods once.
 >
 
 **승 — 수량 확인 [세트 2]**
-AI: 총 스물다섯 장인데 괜찮아?
-User: 충분해요. 기대보다 훨씬 많네요.
-AI: 잘 나온 게 많아서 다 드리는 거야.
-User: 정말 감사해요. 최고예요.
+AI: 총 스물다섯 장인데 괜찮으세요?
+User:
+A: 충분해요. 기대보다 훨씬 많네요.
+B: 이렇게 많이 주시는 건가요? 감사해요.
+AI: 잘 나온 게 많아서 다 드리는 거예요.
+User:
+A: 정말 감사해요. 최고예요.
+B: 하늘 씨 덕분이에요. 정말 감사합니다.
 
 **Outro:**
 > She almost says something but just shrugs instead.
@@ -268,20 +324,28 @@ She shares the Google Drive link.
 Writes a short note, deletes half of it, sends it anyway.
 
 **전 — 전송 [세트 1]**
-AI: 드라이브 링크 이메일로 방금 보냈어.
-User: 받았어요. 지금 바로 확인해볼게요.
-AI: 폴더 구조대로 열어보면 돼.
-User: 깔끔하게 정리돼 있네요. 감사해요.
+AI: 드라이브 링크 이메일로 방금 보내드렸어요.
+User:
+A: 받았어요. 지금 바로 확인해볼게요.
+B: 확인했습니다. 바로 열어볼게요.
+AI: 폴더 구조대로 열어보시면 돼요.
+User:
+A: 깔끔하게 정리돼 있네요. 감사해요.
+B: 정리가 잘 되어 있어서 보기 편하네요. 감사합니다.
 
 **Outro:**
 > She refreshes her email twice to make sure it was received.
 >
 
 **결 — 완료 확인 [세트 2]**
-AI: 파일 다 잘 열려?
-User: 네, 다 잘 돼요. 문제없어요.
-AI: 다행이다. 필요한 거 있으면 말해.
-User: 네, 정말 수고하셨어요.
+AI: 파일 다 잘 열리세요?
+User:
+A: 네, 다 잘 돼요. 문제없어요.
+B: 전부 확인했는데 이상 없어요.
+AI: 다행이에요, 필요하신 거 있으면 말씀해주세요.
+User:
+A: 네, 정말 수고하셨어요.
+B: 감사합니다. 정말 잘 해주셨어요.
 
 **Outro:**
 > She closes the laptop and looks out the window again.
@@ -300,20 +364,28 @@ The invoice was sent yesterday.
 She checks her bank account while making coffee.
 
 **기 — 정산 [세트 1]**
-AI: 세금계산서 발행했는데 확인해봐.
-User: 네, 받았어요. 바로 처리할게요.
-AI: 고마워. 이번 작업 재밌었어.
-User: 저도요. 또 부탁드려도 될까요?
+AI: 세금계산서 발행했는데, 확인해보시겠어요?
+User:
+A: 네, 받았어요. 바로 처리할게요.
+B: 확인했습니다. 오늘 중으로 처리하겠습니다.
+AI: 감사해요, 이번 작업 즐거웠어요.
+User:
+A: 저도요. 또 부탁드려도 될까요?
+B: 저도 정말 좋았어요. 다음에도 함께 하고 싶어요.
 
 **Outro:**
 > She smiles at the cup warming her hands.
 >
 
 **승 — 마무리 [세트 2]**
-AI: 물론이지. 언제든지 연락해.
-User: 다음 프로젝트도 꼭 같이 해요.
-AI: 기대된다. 연락 줘.
-User: 감사합니다. 정말 좋은 작업이었어요.
+AI: 물론이죠, 언제든지 연락 주세요.
+User:
+A: 다음 프로젝트도 꼭 같이 해요.
+B: 다음에도 하늘 씨랑 작업하고 싶어요.
+AI: 기대되네요, 연락 주세요.
+User:
+A: 감사합니다. 정말 좋은 작업이었어요.
+B: 감사합니다. 또 뵙겠습니다.
 
 **Outro:**
 > She opens a new page. Writes: "다음엔 뭘 찍지?"

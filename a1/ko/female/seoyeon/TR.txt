@@ -112,7 +112,7 @@ She doesn't ask if you're hungry. She already knew.
 User: 여기서 자주 먹어요?
 AI: 가끔. 야식 먹고 싶을 때.
 User: 오늘 야식이 먹고 싶었어요?
-AI: ...어.
+AI: ...어. 뭐 먹을래?
 
 ### 승 — 주문 [세트 2]
 User: 사장님, 뭐가 제일 맛있어요?

@@ -33,7 +33,7 @@ AI: 멤버들이랑 케이크 먹었어요!
 User: 선물 보냈어요! 받았어요?
 AI: 아직 못 받았어요! 뭔데요?
 User: 비밀이에요! / 편지랑 선물이요!
-AI: 기대할게요! 감사해요!
+AI: 뭔지 진짜 궁금해요! 힌트 주세요!
 
 **Outro:**
 > Gift successfully sent! 🎁 Alert: He just started a surprise live stream!
@@ -296,7 +296,7 @@ User: 여기! 봐봐!
 **결 — 기대 [세트 6]**
 AI: 진짜 좋겠다!
 User: 다음에 꼭 같이 가자!
-AI: 응! 약속!
+AI: 응! 약속! 언제 갈까?
 User: 약속!
 
 **Outro:**

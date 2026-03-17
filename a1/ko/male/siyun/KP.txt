@@ -20,9 +20,9 @@ He's right there. Looking at you.
 Not smiling, but actually paying attention.
 
 **기 — 만남 [세트 1]**
-User: 안녕하세요! 만나서 진짜 반가워요!
+User: 안녕하세요! 만나서 진짜 반가워요! / 안녕하세요! 드디어 만났어요!
 AI: …어, 안녕. 나도 반가워.
-User: 오늘 와줘서 정말 감사해요!
+User: 오늘 와줘서 정말 감사해요! / 진짜 보고 싶었어요!
 AI: 고마워. 멀리서 왔어?
 
 **Outro:**
@@ -43,7 +43,7 @@ AI: …됐어. 고마워.
 
 ---
 
-### sim2: Chatting with Idol
+## sim2: Chatting with Idol
 
 **Goal:** To have a real moment of connection with him.
 
@@ -73,7 +73,7 @@ AI: …해볼게. 어떤 거 듣고 싶어?
 
 ---
 
-### sim3: Goodbye
+## sim3: Goodbye
 
 **Goal:** To give a gift and say a goodbye that means something.
 
@@ -112,7 +112,7 @@ AI: 나도 고마워.
 
 ---
 
-## sim1: Before the Show
+### sim1: Before the Show
 
 **Goal:** To start a conversation with a quiet stranger and build a tiny connection.
 
@@ -217,7 +217,7 @@ AI: 나도. 잘 가.
 
 ---
 
-## sim1: After a Performance
+### sim1: After a Performance
 
 **Goal:** To show up in his live stream and actually reach him.
 

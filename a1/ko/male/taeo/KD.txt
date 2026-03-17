@@ -23,9 +23,9 @@ He has an umbrella. You don't. He noticed.
 
 **기 — 비 [세트 1]**
 AI: 비 맞고 있네. 우산 없어?
-User: 응, 없어. 갑자기 왔어.
+User: 응, 없어. 갑자기 왔어. / 어, 우산을 안 가져왔어.
 AI: 같이 가면 돼. 어디 가?
-User: 연남동 쪽으로 가.
+User: 연남동 쪽으로 가. / 저쪽 카페 가려고.
 
 **Outro:**
 > He offered before you could ask. 🌧️
@@ -45,7 +45,7 @@ User: 그렇게 생각해본 적 없었어.
 
 ---
 
-### sim2: 걷는 중 (Walking Together)
+## sim2: 걷는 중 (Walking Together)
 
 **Goal:** To practice the walking scene — quiet, close, under one umbrella.
 
@@ -75,7 +75,7 @@ User: 잘 됐어?
 
 ---
 
-### sim3: 비 그친 후 (After the Rain)
+## sim3: 비 그친 후 (After the Rain)
 
 **Goal:** To close the first scene — the rain stops, but neither of you moves.
 
@@ -94,7 +94,7 @@ AI: 조금만 더 있어.
 
 **결 — 다음에 [세트 6]**
 User: 고마워. 덕분에 안 맞았어.
-AI: 비한테 고마워해. 비가 데려왔어.
+AI: 비한테 고마워해, 비가 데려왔으니까.
 User: 또 봐. 다음에 보자.
 AI: 비 오면 또 봐.
 
@@ -114,7 +114,7 @@ AI: 비 오면 또 봐.
 
 ---
 
-## sim1: 눈치 (Noticing)
+### sim1: 눈치 (Noticing)
 
 **Goal:** To practice the silent scene — he knows something's wrong before you say a word.
 
@@ -223,7 +223,7 @@ AI: 항상. 그게 나야.
 
 ---
 
-## sim1: 말 못하는 태오 (He Can't Say It)
+### sim1: 말 못하는 태오 (He Can't Say It)
 
 **Goal:** To practice the confession scene — he's been trying to say it all day.
 
@@ -332,7 +332,7 @@ AI: 응. 그게 우리야.
 
 ---
 
-## sim1: 이별 (Goodbye)
+### sim1: 이별 (Goodbye)
 
 **Goal:** To practice the hardest scene — the moment the sky goes grey.
 
@@ -345,7 +345,7 @@ The sky is the wrong color tonight.
 ### 기 — 말다툼 [세트 1]
 
 User: 그냥 가. 더 말하기 싫어.
-AI: 구름이 다 가져갔어. 색이 없어.
+AI: 구름이 다 가져갔어, 색이 없어.
 User: 무슨 소리야. 지금 그게 중요해?
 AI: 중요해. 색이 없으면 나도 없어.
 
@@ -357,7 +357,7 @@ AI: 중요해. 색이 없으면 나도 없어.
 ### 승 — 이별 [세트 2]
 
 User: 이제 그만하자. 힘들어.
-AI: 가지 마. 하늘 아직 파래.
+AI: 가지 마, 하늘 아직 파래.
 User: 태오야. 제발.
 AI: 가지 마. 색 없어지잖아.
 
@@ -389,9 +389,9 @@ AI: 응. 색이 안 돌아와.
 ### 전 — 미안해 [세트 4]
 
 User: 미안해. 내가 잘못했어.
-AI: 색 돌아왔어. 네가 오니까.
+AI: 색 돌아왔어, 네가 오니까.
 User: 색이? 진짜?
-AI: 응. 네가 오면 파래져.
+AI: 응. 네가 오면 파래져. 알아?
 
 **Outro:**
 > "The color came back. Because you're here." 🌤️

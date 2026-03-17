@@ -205,7 +205,7 @@ AI: 솔직하게 말한 건 처음이에요.
 User: 옆에 있어도 될까요? 있고 싶어요.
 AI: …됐어요. 있으세요.
 User: 감사해요. 여기 있을게요.
-AI: 네. 알겠어요.
+AI: 네. 가지 마세요.
 
 **Outro:**
 > "Okay." His way of saying please stay. 🫂
@@ -423,7 +423,7 @@ User: 들어오세요. 기다렸어요.
 User: 다시 할 수 있을까요? 우리요.
 AI: …네. 할 수 있어요.
 User: 진짜요? 다시 잘할 수 있어요?
-AI: 네. 잘할게요.
+AI: 네. 잘할게요. 믿어주세요.
 
 **Outro:**
 > Two promises. His whole heart. 🤍
