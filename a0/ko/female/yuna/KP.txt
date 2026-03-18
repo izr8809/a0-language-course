@@ -53,7 +53,7 @@ Yuna hops up from her seat and calls you over for photos.
 
 **승 — 준비 [세트 3]**
 AI: 사진 찍어요!
-User: 네, 찍어요. / 좋아요!
+User: 네. / 좋아요!
 AI: 가까이 와요!
 User: 알겠어요. / 네, 갈게요.
 
@@ -87,7 +87,7 @@ Yuna catches your eye and suddenly switches to casual speech.
 AI: 잠깐, 반말 해도 돼?
 User: 응, 해. / 응, 좋아.
 AI: 고마워!
-User: 괜찮아. / 편하게 해.
+User: 그래! / 편하게 해.
 
 **Outro:**
 > She leans over and whispers something just for you.
@@ -137,7 +137,7 @@ User: 저도요. / 저도 반가워요.
 **승 — 기대 [세트 2]**
 User: 노래 해요? / 노래 불러요?
 AI: 네, 할게요!
-User: 기대해요. / 기대돼요!
+User: 좋아요!. / 기대돼요!
 AI: 잘 할게요!
 
 **Outro:**
@@ -263,7 +263,7 @@ She suddenly points at the screen and calls on you.
 
 **승 — 질문 [세트 3]**
 AI: 질문 있어요?
-User: 네, 있어요. / 네, 하나요.
+User: 네, 있어요. / 하나요.
 AI: 뭐예요?
 User: 좋아하는 노래요. / 좋아하는 음식이요.
 
@@ -272,10 +272,10 @@ User: 좋아하는 노래요. / 좋아하는 음식이요.
 >
 
 **전 — 노래 [세트 4]**
-User: 불러줘요. / 들려줘요.
-AI: 네, 불러요!
+User: 불러줘요. / 알려줘요.
+AI: 네, 알겠어요!
 User: 좋아요. / 듣고 싶어요.
-AI: 들어요!
+AI: 들어줘요!
 
 **Outro:**
 > She starts humming softly and the chat explodes with hearts. 🎵
@@ -297,14 +297,14 @@ Yuna leans into the camera and switches to casual speech out of nowhere.
 AI: 반말 해도 돼?
 User: 응, 해. / 응, 좋아.
 AI: 편하다!
-User: 나도. / 나도 편해.
+User: 좋아. / 나도 편해.
 
 **Outro:**
 > She smiles straight into the camera like she's talking only to you.
 >
 
 **결 — 마무리 [세트 6]**
-User: 내일도 와? / 내일도 해?
+User: 내일도 와? / 또 와?
 AI: 응, 올게!
 User: 기다릴게. / 꼭 해.
 AI: 알았어!

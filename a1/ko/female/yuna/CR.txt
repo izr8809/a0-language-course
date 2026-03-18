@@ -22,20 +22,20 @@ It's Saturday morning and the café opens in 10 minutes.
 Yuna is already running around setting everything up.
 
 **기 — 오늘 하루 예고 [세트 1]**
-AI: 오늘 주말이라 엄청 바쁠 것 같아요!
-User: 그렇습니까? 얼마나 바빠질 것 같습니까?
-AI: 줄이 문 밖까지 설 수도 있어요.
-User: 알겠습니다, 최선을 다해서 해보겠습니다.
+AI: 오늘 주말이라 바쁠 거예요!
+User: 그래요? / 많이요?
+AI: 네, 줄이 문 밖까지 설 수도 있어요.
+User: 알겠어요! / 열심히 할게요!
 
 **Outro:**
 > She checks the espresso machine one more time with wide eyes.
 >
 
 **승 — 역할 분담 [세트 2]**
-User: 저는 오늘 뭘 맡으면 되겠습니까?
-AI: 음료 만드는 거 담당해줄 수 있어요?
-User: 네, 제가 할 수 있을 것 같습니다.
-AI: 잘 부탁해요! 같이 열심히 해봐요.
+User: 저는 뭐 하면 돼요? / 뭐 도와줄까요?
+AI: 음료 만드는 거 해줄 수 있어요?
+User: 네, 할 수 있어요! / 네, 할게요!
+AI: 고마워요! 같이 힘내요!
 
 ---
 
@@ -50,20 +50,20 @@ It's noon and the line stretches to the door.
 Yuna is calling out orders and moving fast.
 
 **기 — 주문 폭주 [세트 1]**
-AI: 주문이 너무 많이 밀렸어요, 서둘러요!
-User: 네, 최대한 빨리 만들어 보겠습니다.
-AI: 아이스 아메리카노 세 잔이 지금 급해요.
-User: 알겠습니다, 바로 만들기 시작하겠습니다.
+AI: 주문이 많이 밀렸어요, 서둘러요!
+User: 네, 빨리 만들게요! / 네, 알겠어요!
+AI: 아이스 아메리카노 세 잔 먼저요!
+User: 알겠어요! / 바로 만들게요!
 
 **Outro:**
 > She passes cups over the counter without even looking up.
 >
 
 **승 — 팀워크 [세트 2]**
-User: 잠깐, 저 주문을 제대로 들은 거 맞습니까?
-AI: 라떼 두 잔에 녹차 한 잔이었어요!
-User: 감사합니다, 덕분에 실수 안 했습니다.
-AI: 잘 하고 있어요, 조금만 더 힘내봐요!
+User: 잠깐, 주문 맞아요? / 다음 주문 뭐예요?
+AI: 라떼 두 잔에 녹차 한 잔이에요!
+User: 고마워요! / 알겠어요!
+AI: 잘 하고 있어요.
 
 ---
 
@@ -78,20 +78,20 @@ The café finally closes. Yuna leans against the counter with a sigh.
 She suddenly drops the formal tone — you two are way past that now.
 
 **기 — 마감 청소 [세트 1]**
-AI: 오늘 진짜 힘든 하루였지, 괜찮아?
-User: 응, 많이 피곤하지만 그래도 괜찮아.
-AI: 같이 청소하면 금방 끝날 것 같아.
-User: 맞아, 같이 하면 훨씬 더 빠를 거야.
+AI: 오늘 진짜 힘들었지.
+User: 응, 피곤해. / 괜찮아.
+AI: 같이 청소하면 금방 끝나!
+User: 맞아! / 같이 하자!
 
 **Outro:**
 > She wipes down the counter with surprising energy for someone so tired.
 >
 
 **승 — 하루 마무리 [세트 2]**
-User: 오늘 나 꽤 잘한 것 같지 않아?
-AI: 진짜 잘했어, 네 덕분에 잘 버텼어!
-User: 다음 주도 이렇게 바쁠까?
-AI: 모르겠어, 그냥 같이 또 열심히 해보자.
+User: 오늘 나 잘한 것 같아? / 어땠어?
+AI: 진짜 잘했어.
+User: 고마워! / 다행이다!
+AI: 다음 주도 같이 힘내자!
 
 ---
 
@@ -115,20 +115,20 @@ A customer is waiting at the counter.
 Yuna stares at the cup she just made and goes pale.
 
 **기 — 실수 확인 [세트 1]**
-AI: 저 음료를 잘못 만든 것 같아요, 어떡하죠!
-User: 어떻게 잘못 만들었습니까, 뭐가 문제입니까?
-AI: 뜨거운 걸로 줘야 하는데 차갑게 만들었어요.
-User: 아, 그러면 빨리 다시 만들어야 할 것 같습니다.
+AI: 저 음료 잘못 만든 것 같아요!
+User: 어떻게요? / 뭐가 잘못됐어요?
+AI: 핫으로 줘야 하는데 아이스로 만들었어요.
+User: 빨리 다시 만들어요! / 괜찮아요, 다시 해요!
 
 **Outro:**
 > She quickly pours out the drink and starts making a new one.
 >
 
 **승 — 손님 상황 [세트 2]**
-User: 손님이 많이 기다리고 있는 거 아닙니까?
-AI: 네, 그래서 지금 엄청 긴장되고 있어요.
-User: 빨리 만들면 괜찮을 겁니다, 너무 걱정 마십시오.
-AI: 고마워요, 서두르다가 또 실수할 뻔했어요.
+User: 손님 많이 기다려요? / 급해요?
+AI: 네, 그래서 지금 긴장돼요.
+User: 빨리 만들면 괜찮아요! / 걱정 마세요!
+AI: 고마워요, 서두를게요!
 
 ---
 
@@ -143,20 +143,20 @@ Yuna brings the corrected drink to the counter.
 Her cheeks are still flushed.
 
 **기 — 수정 과정 [세트 1]**
-AI: 손님한테 솔직하게 죄송하다고 해야 할 것 같아요.
-User: 맞습니다, 솔직하게 말하는 게 제일 좋을 것 같습니다.
-AI: 음료 새로 만들어드렸다고 직접 설명할게요.
-User: 네, 그러면 손님도 이해해줄 거라고 생각합니다.
+AI: 손님한테 죄송하다고 해야 할 것 같아요.
+User: 솔직하게 말해요. / 그게 좋아요.
+AI: 새로 만들었다고 설명할게요.
+User: 네, 손님도 이해할 거예요! / 잘 될 거예요!
 
 **Outro:**
 > The customer nods slowly and accepts the new drink.
 >
 
 **승 — 정리 후 [세트 2]**
-User: 손님이 이해해줘서 진짜 다행이었습니다, 그렇지 않습니까?
-AI: 네, 정말 다행이었어요, 식은땀이 너무 났어요.
-User: 앞으로는 주문을 다시 한 번 확인하는 게 좋을 것 같습니다.
-AI: 맞아요, 앞으로는 꼭 확인하고 나서 만들게요.
+User: 손님이 이해해줘서 다행이에요! / 잘됐어요!
+AI: 네, 정말 다행이에요!
+User: 앞으로 주문 다시 확인해요! / 다음엔 확인해요!
+AI: 맞아요, 꼭 확인하고 만들게요!
 
 ---
 
@@ -171,20 +171,20 @@ It's break time. Yuna is sitting quietly, still stuck in her head.
 She glances up and the formality just fades away.
 
 **기 — 자책 [세트 1]**
-AI: 아직도 아까 실수 때문에 속상해 보여.
-User: 응, 더 꼼꼼하게 확인했어야 했는데.
-AI: 처음에는 누구든지 실수할 수 있어, 너무 자책하지 마.
-User: 그래도 손님한테 불편을 드린 것 같아서 마음에 걸려.
+AI: 아직도 아까 실수 때문에 속상해?
+User: 응, 조금. / 좀 그래.
+AI: 괜찮아, 누구나 실수해.
+User: 고마워. / 그래도 미안해.
 
 **Outro:**
 > She sighs and stares at her hands on the table.
 >
 
 **승 — 위로와 다짐 [세트 2]**
-User: 다음에는 내가 더 잘할 수 있을까?
-AI: 당연하지, 이번 경험이 정말 좋은 교훈이 됐을 거야.
-User: 그렇게 생각하니까 조금 마음이 나아진 것 같아.
-AI: 맞아, 실수를 통해서 더 많이 성장하는 거야.
+User: 다음엔 더 잘할 수 있을까? / 괜찮을까?
+AI: 당연하지, 이번에 많이 배웠잖아!
+User: 그렇게 생각하니까 좀 나아. / 고마워.
+AI: 맞아, 실수하면서 더 잘하는 거야.
 
 ---
 
@@ -208,20 +208,20 @@ Yuna arrives for her last shift. She lingers at the entrance for a moment.
 The apron feels different when you know it's the last time.
 
 **기 — 마지막 날 실감 [세트 1]**
-AI: 오늘이 진짜 마지막 날이에요, 실감이 나요?
-User: 아직 잘 모르겠습니다, 좀 이상한 느낌입니다.
-AI: 여기서 일한 게 꽤 오랜 시간이 됐잖아요.
-User: 맞습니다, 벌써 6개월이나 지났다는 게 믿기지 않습니다.
+AI: 오늘이 마지막 날이에요, 실감 나요?
+User: 아직 모르겠어요. / 이상해요.
+AI: 벌써 6개월이에요, 아쉬워요.
+User: 저도요. / 맞아요.
 
 **Outro:**
 > She looks around the café slowly, as if committing it to memory.
 >
 
 **승 — 감정 나누기 [세트 2]**
-User: 마지막이라고 생각하니까 좀 슬프지 않습니까?
-AI: 네, 저도 아쉬운 마음이 정말 많이 들어요.
-User: 그래도 새로운 시작이기도 하지 않습니까.
-AI: 맞아요, 새로운 곳에서도 분명 잘할 수 있을 거예요.
+User: 좋은 경험이었어요! / 많이 배웠어요!
+AI: 맞아요! 새로운 시작이에요!
+User: 응원해 주세요! / 감사해요!
+AI: 새로운 곳에서도 잘할 거예요!
 
 ---
 
@@ -236,20 +236,20 @@ It's a quiet afternoon, but it feels heavier than usual.
 Yuna is making each drink with extra attention today.
 
 **기 — 마지막으로 열심히 [세트 1]**
-AI: 오늘도 이렇게 열심히 하는 모습이 정말 멋있어요.
-User: 마지막 날이니까 더 잘하고 싶었습니다.
-AI: 그 마음이 음료에도 느껴지는 것 같아요.
-User: 정말입니까? 그런 말 들으니까 기분이 많이 좋습니다.
+AI: 오늘도 열심히 하는 모습 멋있어요!
+User: 마지막이니까요. / 잘하고 싶어요.
+AI: 그 마음이 느껴져요!
+User: 진짜요? / 고마워요!
 
 **Outro:**
 > She smiles softly and turns back to the espresso machine.
 >
 
 **승 — 동료들 인사 [세트 2]**
-User: 같이 일했던 분들한테 인사는 다 했습니까?
-AI: 아직 다 못했어요, 조금 있다가 할 거예요.
-User: 나중에 후회하지 않게 지금 해두는 게 좋을 것 같습니다.
-AI: 맞아요, 잠깐 시간 내서 지금 인사하고 올게요.
+User: 같이 일한 분들한테 인사했어요? / 인사 다 했어요?
+AI: 아직이요, 조금 있다가 할 거예요.
+User: 지금 해두는 게 좋아요! / 나중에 후회해요!
+AI: 맞아요, 지금 인사하고 올게요!
 
 ---
 
@@ -265,16 +265,16 @@ She looks up at you — and just like that, the formal tone is gone.
 
 **기 — 퇴근 전 [세트 1]**
 AI: 이제 진짜 끝났어, 어때?
-User: 음, 이상하게 시원하면서도 서운해.
-AI: 여기서 진짜 많이 성장한 것 같아.
-User: 응, 나도 그렇게 생각해, 좋은 경험이었어.
+User: 시원해. / 서운해.
+AI: 여기서 진짜 많이 성장했어.
+User: 응, 좋은 경험이었어. / 나도 그래.
 
 **Outro:**
 > She holds her bag tightly and smiles with watery eyes.
 >
 
 **승 — 마지막 인사 [세트 2]**
-User: 앞으로도 자주 연락하면서 지낼 수 있어?
-AI: 당연하지, 언제든지 연락해도 돼!
-User: 고마워, 여기서 일한 거 하나도 후회 없어.
-AI: 잘 가, 앞으로도 분명 잘 될 거야!
+User: 앞으로도 연락하자! / 가끔 봐!
+AI: 당연하지, 언제든 연락해!
+User: 고마워! / 너도 화이팅!
+AI: 잘 가, 앞으로도 잘 될 거야!

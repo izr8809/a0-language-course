@@ -20,10 +20,10 @@ First day at the café near Konkuk University.
 Someone's already outside, practically vibrating with energy.
 
 **기 — 첫 만남 [세트 1]**
-AI: 저도 오늘 첫날이에요, 진짜 신기하죠?
-User: 저도 첫날입니다! / 네, 진짜 신기합니다!
-AI: 진짜요?! 우리 같이 잘 해봐요!
-User: 잘 부탁드립니다! / 같이 열심히 합시다!
+AI: 안녕하세요! 저는 오늘 첫날이에요.
+User: 네, 저도 첫날이에요!
+AI: 아, 진짜요? 다행이에요! 우리 같이 열심히 해요!
+User: 잘 부탁해요! / 네, 파이팅!
 
 **Outro:**
 > He spotted you from across the street.
@@ -31,10 +31,10 @@ User: 잘 부탁드립니다! / 같이 열심히 합시다!
 >
 
 **승 — 인사 [세트 2]**
-AI: 저 한결이에요, 이름이 어떻게 돼요?
-User: 저 ___입니다.
-AI: 잘 부탁해요! 오늘 같이 열심히 해봐요!
-User: 저도요!
+AI: 저는 한결이에요. 이름이 뭐예요?
+User: 저는 ___예요. / ___라고 해요.
+AI: 만나서 반가워요! 오늘 즐겁게 일해요.
+User: 저도 반가워요! / 네, 좋아요!
 
 **Outro:**
 > He said your name out loud. Twice.
@@ -50,10 +50,10 @@ User: 저도요!
 **Goal:** To learn café basics together and try not to break anything.
 
 **승 — 장비 [세트 3]**
-AI: 이 기계 어떻게 쓰는지 혹시 알아요?
-User: 모르겠습니다. / 이렇게 하면 됩니다!
-AI: 아, 감사해요! 저도 처음이라서요.
-User: 같이 배웁시다!
+AI: 이 기계 알아요? 너무 어려워요.
+User: 저도 몰라요. / 제가 알려 줄게요!
+AI: 고마워요! 저도 처음이라서 어려워요.
+User: 같이 배워요! / 천천히 해요.
 
 **Outro:**
 > He asked you first. Not the manager. You.
@@ -61,10 +61,10 @@ User: 같이 배웁시다!
 >
 
 **전 — 연습 [세트 4]**
-AI: 커피 만들어 본 적 있어요?
-User: 아직 없습니다.
-AI: 저도요! 그럼 같이 처음으로 해봐요!
-User: 좋습니다!
+AI: 커피 잘 만들어요?
+User: 아니요, 처음이에요. / 조금 만들어요.
+AI: 저도 처음이에요! 같이 연습해요.
+User: 좋아요! / 네, 좋아요.
 
 **Outro:**
 > His first pour went everywhere.
@@ -80,9 +80,9 @@ User: 좋습니다!
 **Goal:** To open the café and survive your first customers together.
 
 **전 — 오픈 준비 [세트 5]**
-AI: 슬슬 오픈 시간이에요, 떨리지 않아요?
-User: 엄청 떨립니다.
-AI: 저도요! 그래도 같이 잘 할 수 있어요!
+AI: 이제 오픈 시간이에요. 조금 떨려요.
+User: 저도 많이 떨려요. / 저는 괜찮아요!
+AI: 우리 같이 잘할 거예요!
 User: 네, 파이팅!
 
 **Outro:**
@@ -91,10 +91,10 @@ User: 네, 파이팅!
 >
 
 **결 — 첫 손님 [세트 6]**
-AI: 손님 오셨어요! 빨리 준비해요!
+AI: 손님 와요! 빨리 준비해요!
 User: 네!
-AI: 잘 했어요! 진짜 잘 하셨어요!
-User: 진짜요?
+AI: 우리 진짜 잘했어요! 다행이에요.
+User: 다행이에요! / 네, 잘했어요!
 
 **Outro:**
 > First customer: done. ☕
@@ -124,10 +124,10 @@ Hangyeol's moving fast. Maybe a little too fast.
 
 ### 기 — 바빠요 [세트 1]
 
-AI: 대박, 오늘 엄청 바쁘네요!
-User: 빨리 합시다!
-AI: 네! 저 할 수 있어요, 걱정 마세요!
-User: 파이팅!
+AI: 오늘 손님이 진짜 많아요!
+User: 빨리 일해요! / 너무 바빠요!
+AI: 네! 제가 빨리 할게요!
+User: 좋아요! / 파이팅!
 
 **Outro:**
 > Golden retriever mode: fully activated.
@@ -136,10 +136,10 @@ User: 파이팅!
 
 ### 승 — 실수 [세트 2]
 
-AI: 잠깐, 저 방금 실수한 것 같아요...
-User: 괜찮습니까?
-AI: 죄송해요, 어떻게 하면 좋을까요?
-User: 제가 하겠습니다! / 같이 합시다!
+AI: 앗, 제가 실수했어요.
+User: 괜찮아요? / 무슨 일이에요?
+AI: 미안해요. 이거 제가 다시 할까요?
+User: 제가 할게요! / 같이 해요!
 
 **Outro:**
 > His ears went red instantly.
@@ -156,10 +156,10 @@ User: 제가 하겠습니다! / 같이 합시다!
 
 ### 승 — 도움 [세트 3]
 
-AI: 도와줘서 진짜 감사해요, 덕분에 살았어요!
-User: 다음엔 같이 합시다.
-AI: 네! 정말 다행이에요, 감사해요!
-User: 잘 하셨습니다!
+AI: 도와줘서 정말 고마워요!
+User: 아니에요. / 같이 힘내요!
+AI: 네! 정말 다행이에요. 고마워요.
+User: 이제 괜찮아요. / 수고했어요!
 
 **Outro:**
 > The mistake? Customers never noticed.
@@ -168,10 +168,10 @@ User: 잘 하셨습니다!
 
 ### 전 — 마무리 [세트 4]
 
-AI: 이제 거의 다 됐어요, 조금만 더요!
-User: 다 됐습니다!
-AI: 야호! 우리 진짜 잘 했어요!
-User: 수고하셨습니다!
+AI: 이제 거의 끝났어요. 조금만 더 파이팅!
+User: 다 끝났어요! / 야호!
+AI: 우리 오늘 진짜 열심히 했어요!
+User: 수고했어요! / 진짜 수고했어요!
 
 **Outro:**
 > He pumped his fist. Out loud. Twice.
@@ -188,10 +188,10 @@ User: 수고하셨습니다!
 
 ### 전 — 감사 [세트 5]
 
-AI: 아까 진짜 감사해요, 없었으면 큰일 날 뻔했어요.
-User: 아닙니다!
-AI: 아니에요, 진짜로요! 최고예요!
-User: 같이 한 거죠!
+AI: 아까 진짜 고마워요. 같이 일해서 정말 다행이에요.
+User: 아니에요! / 제가 더 고마워요!
+AI: 아니에요, 진짜 최고예요!
+User: 우리 같이 잘했어요! / 칭찬 고마워요!
 
 **Outro:**
 > He said "thank you" four times.
@@ -200,10 +200,10 @@ User: 같이 한 거죠!
 
 ### 결 — 쉬는 시간 [세트 6]
 
-AI: 다리 엄청 아프죠? 잠깐 앉아요!
-User: 진짜요!
-AI: 저도요! 잠깐이라도 쉬어야 해요!
-User: 좋습니다!
+AI: 다리 많이 아파요? 우리 잠깐 앉아요!
+User: 네, 다리 아파요. / 좋아요!
+AI: 저도 아파요! 잠깐 앉아서 쉬어요.
+User: 너무 좋아요! / 푹 쉬어요!
 
 **Outro:**
 > He sat down first. Scooted over. ☕
@@ -233,10 +233,10 @@ Music's low. The rush is long gone.
 
 ### 기 — 마감 [세트 1]
 
-AI: 드디어 마감이에요! 오늘 진짜 힘들었죠?
-User: 힘들었습니다!
-AI: 그죠? 근데 저는 엄청 재밌었어요!
-User: 맞습니다!
+AI: 드디어 마감이에요! 정말 힘들었어요.
+User: 네, 진짜 피곤해요.
+AI: 같이 일해서 아주 재밌었어요!
+User: 저도 좋았어요. / 저도 같이 일해서 기뻐요!
 
 **Outro:**
 > He mopped the floor like he was dancing.
@@ -245,10 +245,10 @@ User: 맞습니다!
 
 ### 승 — 배고파요 [세트 2]
 
-AI: 저 지금 엄청 배고픈데, 혹시 배 안 고파요?
-User: 배고픕니다!
-AI: 저도요! 같이 뭐 먹으러 가요!
-User: 뭐 먹고 싶으세요?
+AI: 저 지금 배고파요. 배 안 고파요?
+User: 진짜 배고파요! / 네, 밥 먹고 싶어요!
+AI: 그럼 우리 맛있는 거 먹으러 가요!
+User: 좋아요!
 
 **Outro:**
 > He stopped mopping mid-stroke.
@@ -265,10 +265,10 @@ User: 뭐 먹고 싶으세요?
 
 ### 승 — 제안 [세트 3]
 
-AI: 근처에 떡볶이 진짜 맛있는 데 알아요, 어때요?
-User: 좋습니다! / 맵습니다...
-AI: 제가 살게요! 꼭 같이 가야 해요!
-User: 정말요?
+AI: 근처에 맛있는 떡볶이 가게가 있어요. 어때요?
+User: 떡볶이 매워요? / 떡볶이 좋아요!
+AI: 안 매워요. 오늘은 제가 살게요!
+User: 진짜요? / 커피는 제가 살게요!
 
 **Outro:**
 > He grabbed your sleeve a little.
@@ -277,10 +277,10 @@ User: 정말요?
 
 ### 전 — 이동 [세트 4]
 
-AI: 제가 자주 가는 맛집이에요, 진짜 맛있어요!
-User: 진짜요?
-AI: 네! 빨리 가요, 배고파 죽겠어요!
-User: 좋습니다, 갑시다!
+AI: 제가 자주 가는 식당이에요. 진짜 맛있어요!
+User: 좋아요! / 가대돼요!
+AI: 네! 우리 빨리 가요. 너무 배고파요!
+User: 네, 식당에 가서 많이 먹어요!
 
 **Outro:**
 > He walked a step ahead every time.
@@ -297,10 +297,10 @@ User: 좋습니다, 갑시다!
 
 ### 전 — 반말 [세트 5]
 
-AI: 저 반말해도 괜찮아요? 편하게 하고 싶어서요.
-User: 어, 해! / 좋아!
-AI: 진짜? 야호! 나 사실 존댓말 좀 어색했어!
-User: 나도 반말 할게.
+AI: 같이 먹어서 정말 좋아요. 더 친해지고 싶어요.
+User: 좋아요! / 네, 같이 와서 정말 좋아요.
+AI: 진짜요? 혼자 밥 먹으면 조금 심심해요.
+User: 네, 저도 혼자 있으면 심심해요. / 우리 앞으로 같이 밥 먹어요!
 
 **Outro:**
 > He asked like it was a big deal.
@@ -309,10 +309,10 @@ User: 나도 반말 할게.
 
 ### 결 — 마무리 [세트 6]
 
-AI: 떡볶이 진짜 맛있지? 내가 말했잖아!
-User: 완전! / 진짜 맛있어!
-AI: 우리 자주 오자! 나 여기 엄청 좋아해!
-User: 나도!
+AI: 떡볶이 진짜 맛있어요. 많이 먹어요!
+User: 네, 아주 맛있어요! / 진짜 맛있어서 기분이 좋아요!
+AI: 우리 여기 자주 와요! 여기 진짜 좋아해요.
+User: 네, 또 와요! / 좋아요! 우리 자주 와요.
 
 **Outro:**
 > He talked with his mouth full. 🌶️

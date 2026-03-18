@@ -20,10 +20,10 @@ Lunch time in Korea. You've met a few times now, but you're still being polite.
 She's already bouncing. So many options... what should we eat?
 
 **기 — 뭐 먹을까요 [세트 1]**
-AI: 배고프지 않아요? 저 진짜 배고파요!
-User: 네, 저도요! / 뭐 먹을까요?
-AI: 삼겹살 어때요? 삼겹살 너무 좋아요!
-User: 좋아요! / 맛있는 데 알아요?
+AI: 배고프지 않아요?
+User: 네, 배고파요! / 뭐 먹을까요?
+AI: 삼겹살 어때요?
+User: 좋아요! / 어디로 가요?
 
 **Outro:**
 > Samgyeopsal it is! She's bouncing with excitement already.
@@ -31,10 +31,10 @@ User: 좋아요! / 맛있는 데 알아요?
 >
 
 **승 — 가는 길 [세트 2]**
-AI: 여기서 가까워요! 같이 걸어가요!
-User: 네, 좋아요! / 얼마나 걸려요?
-AI: 5분이면 돼요! 빨리빨리 가요!
-User: 네! / 네, 가요!
+AI: 여기서 가까워요! 같이 가요!
+User: 네! / 얼마나 걸려요?
+AI: 5분이면 돼요! 가요!
+User: 네, 가요! / 좋아요!
 
 **Outro:**
 > Just a short walk! She's skipping ahead, waving you to hurry up.
@@ -53,9 +53,9 @@ User: 네! / 네, 가요!
 We're here. The place is packed and smells incredible. She's already scanning the menu.
 
 **승 — 식당 [세트 3]**
-AI: 여기예요! 어때요? 귀엽지 않아요?
-User: 와, 좋아요! / 사람 많아요!
-AI: 뭐 시킬까요? 메뉴판 같이 봐요!
+AI: 여기예요! 어때요?
+User: 좋아요! / 사람 많아요!
+AI: 뭐 시킬까요? 메뉴판 봐요!
 User: 삼겹살 2인분이요! / 된장찌개도요!
 
 **Outro:**
@@ -64,10 +64,10 @@ User: 삼겹살 2인분이요! / 된장찌개도요!
 >
 
 **전 — 말 놓기 [세트 4]**
-AI: 고기 제가 구울게요! 잘 구울 수 있어요!
+AI: 제가 구울게요!
 User: 감사해요! / 잘 굽네요!
-AI: 아, 우리 말 놓을까요? 그러고 싶어요!
-User: 좋아! / 응, 그래!
+AI: 우리 말 놓을까요?
+User: 좋아요! / 네!
 
 **Outro:**
 > She asked so sweetly — how could you say no?
@@ -83,10 +83,10 @@ User: 좋아! / 응, 그래!
 **📍 장소:** 삼겹살 식당 안 → 식당 밖 길거리
 
 **전 — 식사 후 [세트 5]**
-AI: 와, 진짜 맛있어! 내가 낼까?
+AI: 진짜 맛있었어! 내가 낼까?
 User: 아니야, 내가 낼게! / 같이 내자!
-AI: 진짜?! 고마워! 다음엔 내가 꼭 쏠게!
-User: 알겠어! / 좋아!
+AI: 진짜? 고마워! 다음엔 내가 살게!
+User: 알겠어! / 그래!
 
 **Outro:**
 > She's so thankful, she can't stop smiling! Where to next?
@@ -94,10 +94,10 @@ User: 알겠어! / 좋아!
 >
 
 **결 — 다음에 [세트 6]**
-AI: 배불러! 너무 행복해! 이제 뭐 할까?
+AI: 배불러! 이제 뭐 할까?
 User: 카페 갈까? / 좀 걸을까?
-AI: 좋아좋아, 가자!
-User: 가자! / 좋아, 가자!
+AI: 좋아, 가자!
+User: 가자! / 응! 좋아.
 
 **Outro:**
 > She's full and happy! Time for something sweet together.
@@ -125,10 +125,10 @@ User: 가자! / 좋아, 가자!
 A quiet café. A real conversation. This one goes deeper.
 
 **기 — 깊은 대화 [세트 1]**
-AI: 한국어 왜 배워? 궁금해!
+AI: 한국어 왜 배워?
 User: 한국 친구 사귀고 싶어서! / 드라마 알아듣고 싶어서!
-AI: 오, 진짜?! 지금도 진짜 잘하고 있어!
-User: 아직 멀었어. / 진짜? 고마워!
+AI: 진짜? 지금도 잘하고 있어!
+User: 아직 멀었어. / 고마워!
 
 **Outro:**
 > She means it — she's so proud of you! But how's life in Korea, really?
@@ -136,9 +136,9 @@ User: 아직 멀었어. / 진짜? 고마워!
 >
 
 **승 — 한국 생활 [세트 2]**
-AI: 한국에서 힘든 거 없어? 말해 봐!
-User: 가끔 외로워. / 말이 잘 안 통할 때.
-AI: 힘들면 나한테 말해! 같이 있어줄게!
+AI: 한국에서 힘든 거 없어?
+User: 가끔 외로워. / 말이 어려워.
+AI: 힘들면 나한테 말해!
 User: 고마워. / 응, 그럴게.
 
 **Outro:**
@@ -155,10 +155,10 @@ User: 고마워. / 응, 그럴게.
 **📍 장소:** 카페 (동일)
 
 **승 — 응원 [세트 3]**
-AI: 한국어 처음 배울 때 어땠어? 궁금해!
+AI: 한국어 처음 배울 때 어땠어?
 User: 진짜 어려웠어! / 하나도 몰랐어.
-AI: 근데 지금 이렇게 잘하잖아! 대단해!
-User: 그래? 고마워! / 아직 많이 부족해.
+AI: 근데 지금 잘하잖아!
+User: 고마워! / 아직 부족해.
 
 **Outro:**
 > She's genuinely amazed at how far you've come. Her eyes are sparkling!
@@ -166,10 +166,10 @@ User: 그래? 고마워! / 아직 많이 부족해.
 >
 
 **전 — 감동 [세트 4]**
-User: 너 때문에 한국어 더 열심히 하고 싶어. / 너랑 더 많이 이야기하고 싶어.
-AI: 진짜?! 감동이야! 너무 좋다!
+User: 너 때문에 더 열심히 하고 싶어. / 너랑 더 이야기하고 싶어.
+AI: 진짜? 감동이야!
 User: 진짜야! / 정말이야!
-AI: 나도 너 때문에 영어 배우고 싶어! 같이 하자!
+AI: 나도 너랑 더 이야기하고 싶어!
 
 **Outro:**
 > She's so touched she might cry happy tears! This friendship just leveled up.
@@ -185,10 +185,10 @@ AI: 나도 너 때문에 영어 배우고 싶어! 같이 하자!
 **📍 장소:** 카페 (동일)
 
 **전 — 진짜 친구 [세트 5]**
-AI: 우리 알게 된 지 얼마나 됐지? 벌써 오래된 것 같아!
+AI: 우리 알게 된 지 얼마나 됐지?
 User: 한 달? / 벌써 두 달!
-AI: 시간 진짜 빠르다! 너무 좋아!
-User: 맞아! / 시간 빠르다!
+AI: 시간 진짜 빠르다!
+User: 맞아! / 그러게!
 
 **Outro:**
 > Time flies when you're with someone this sweet! She's beaming.
@@ -196,10 +196,10 @@ User: 맞아! / 시간 빠르다!
 >
 
 **결 — 약속 [세트 6]**
-AI: 앞으로도 자주 보자! 약속!
-User: 당연하지! / 나도 그러고 싶어!
-AI: 다음 주에 뭐 하자! 기대돼!
-User: 좋아! 연락해! / 응! 기대된다!
+AI: 앞으로도 자주 보자!
+User: 당연하지! / 그래! 자주 보자.
+AI: 다음 주에 놀러 가자!
+User: 좋아! 연락해. / 기대된다!
 
 **Outro:**
 > Plans made! She's already counting the days until next week.
@@ -227,10 +227,10 @@ User: 좋아! 연락해! / 응! 기대된다!
 Something's been off lately. Your friend noticed. Time to talk.
 
 **기 — 고민 [세트 1]**
-AI: 요즘 좀 안 좋아 보여. 무슨 일 있어?
+AI: 요즘 안 좋아 보여. 무슨 일 있어?
 User: 좀 힘들어. / 고민이 있어.
-AI: 무슨 고민인데? 나한테 얘기해 봐!
-User: 한국 생활이 좀 힘들어. / 일이 너무 많아.
+AI: 무슨 고민이야? 나한테 말해 봐!
+User: 한국 생활이 힘들어. / 일이 너무 많아.
 
 **Outro:**
 > It's out there now. She's looking at you with those big worried eyes.
@@ -238,9 +238,9 @@ User: 한국 생활이 좀 힘들어. / 일이 너무 많아.
 >
 
 **승 — 들어주기 [세트 2]**
-AI: 어떤 게 제일 힘들어? 말해 봐!
+AI: 어떤 게 제일 힘들어?
 User: 혼자 있는 시간이 많아서. / 한국어가 아직 어려워서.
-AI: 힘들었겠다... 괜찮아!
+AI: 힘들었겠다.
 User: 응, 좀. / 많이 힘들었어.
 
 **Outro:**
@@ -257,10 +257,10 @@ User: 응, 좀. / 많이 힘들었어.
 **📍 장소:** 카페 → 한강
 
 **승 — 조언 [세트 3]**
-AI: 혼자 너무 고민하지 마! 나한테 말해!
+AI: 혼자 고민하지 마! 나한테 말해!
 User: 고마워. / 그럴게.
-AI: 기분 전환 필요하지 않아? 같이 나가자!
-User: 어디? / 좋아!
+AI: 기분 전환하러 가자!
+User: 어디로? / 좋아!
 
 **Outro:**
 > She jumped up right away! Fresh air will help for sure.
@@ -268,10 +268,10 @@ User: 어디? / 좋아!
 >
 
 **전 — 밖에서 [세트 4]**
-AI: 한강 가자! 바람 쐬면 기분 나아져! 진짜야!
-User: 그래, 가자! / 좋아, 나가자!
-AI: 맛있는 것도 사 갈까? 내가 사 줄게!
-User: 좋아! / 편의점 가자!
+AI: 한강 가자! 바람 쐬면 기분 나아져!
+User: 그래, 가자! / 한강 좋아!
+AI: 맛있는 것도 사 갈까?
+User: 그래! / 편의점 가자!
 
 **Outro:**
 > Snacks and the river — she knows exactly how to cheer you up!
@@ -287,10 +287,10 @@ User: 좋아! / 편의점 가자!
 **📍 장소:** 한강
 
 **전 — 기분 전환 [세트 5]**
-AI: 기분 좀 나아졌어? 나아졌지?!
+AI: 기분 좀 나아졌어?
 User: 응, 많이 나아졌어! / 덕분에!
-AI: 다행이다! 나도 기뻐!
-User: 진짜 고마워. / 덕분이야.
+AI: 다행이다!
+User: 진짜 고마워. / 너 덕분이야.
 
 **Outro:**
 > She's beaming now that you're feeling better! The Han River delivered.
@@ -298,10 +298,10 @@ User: 진짜 고마워. / 덕분이야.
 >
 
 **결 — 언제든 [세트 6]**
-AI: 힘들면 언제든 연락해! 꼭이야!
+AI: 힘들면 언제든 연락해!
 User: 응, 그럴게! / 고마워!
-AI: 약속이야! 꼭!
-User: 약속! / 응, 약속!
+AI: 약속이야!
+User: 약속! / 응! 약속이야.
 
 **Outro:**
 > Pinky promise! She held out her finger and wouldn't let go until you hooked it.
@@ -329,10 +329,10 @@ User: 약속! / 응, 약속!
 A long weekend is coming. Your friend has no plans. This is your moment.
 
 **기 — 여행 제안 [세트 1]**
-User: 다음 주 연휴에 뭐 해? / 연휴에 계획 있어?
-AI: 아직 없어! 왜왜?
-User: 같이 여행 갈까? / 우리 어디 갈까?
-AI: 진짜?! 좋아좋아! 어디 갈 거야?
+User: 다음 주 연휴에 바빠? / 연휴에 계획 있어?
+AI: 아니, 왜?
+User: 같이 여행 갈까? / 어디 놀러 갈까?
+AI: 진짜? 좋아! 어디 가고 싶어?
 
 **Outro:**
 > She's already jumping up and down! Road trip confirmed!
@@ -341,8 +341,8 @@ AI: 진짜?! 좋아좋아! 어디 갈 거야?
 
 **승 — 정하기 [세트 2]**
 User: 부산 어때? / 제주도 가고 싶어!
-AI: 좋아! 나도 가고 싶었어! 너무 신난다!
-AI: 며칠 갈까? 오래 가고 싶다!
+AI: 좋아! 나도 가고 싶었어!
+AI: 며칠 갈까?
 User: 1박 2일? / 2박 3일?
 
 **Outro:**
@@ -360,9 +360,9 @@ User: 1박 2일? / 2박 3일?
 
 **승 — 계획 [세트 3]**
 AI: 뭐 타고 갈까? KTX? 비행기?
-User: KTX 타자! / 비행기 비싸?
-AI: KTX가 싸! 2시간이면 돼! 금방이야!
-User: 좋아! / 기대된다!
+User: KTX 타자! / 비행기 타자!
+AI: KTX가 싸! 2시간이면 돼!
+User: 그래! / 기대된다!
 
 **Outro:**
 > KTX it is! Fast, cheap, and she loves train rides!
@@ -371,9 +371,9 @@ User: 좋아! / 기대된다!
 
 **전 — 숙소 [세트 4]**
 AI: 숙소 어디로 할까? 호텔? 게스트하우스?
-User: 게스트하우스! 싸니까! / 호텔이 편하지 않아?
-AI: 게스트하우스 예약할게! 내가 찾아볼게!
-User: 응, 고마워! / 좋아! 부탁해!
+User: 게스트하우스! / 호텔!
+AI: 내가 예약할게!
+User: 고마워! / 부탁해!
 
 **Outro:**
 > Accommodation sorted! She found a cute one already.
@@ -389,10 +389,10 @@ User: 응, 고마워! / 좋아! 부탁해!
 **📍 장소:** 카페 (동일)
 
 **전 — 설레임 [세트 5]**
-User: 부산에서 뭐 하고 싶어? / 부산 가면 뭐 할까?
-AI: 해운대 가고 싶어! 바다! 너는?
+User: 부산에서 뭐 하고 싶어? / 어디 가고 싶어?
+AI: 해운대 가고 싶어! 너는?
 User: 나는 회 먹고 싶어! / 시장 가고 싶어!
-AI: 좋아! 다 하자! 다 할 수 있어!
+AI: 좋아! 다 하자!
 
 **Outro:**
 > Beach, raw fish, market — she wants to do it all! So much energy!
@@ -400,9 +400,9 @@ AI: 좋아! 다 하자! 다 할 수 있어!
 >
 
 **결 — 기대 [세트 6]**
-AI: 기대된다! 너무 설레!
-User: 나도! 빨리 가고 싶어! / 나도 기대돼!
-AI: 그럼 그때 봐! 짐 싸 놔! 잊지 마!
+AI: 기대돼! 너무 설레!
+User: 너무 설레! / 빨리 가고 싶어!
+AI: 그럼 그때 봐! 짐 싸 놔!
 User: 알겠어! / 응, 준비할게!
 
 **Outro:**

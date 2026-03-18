@@ -20,20 +20,20 @@ Jia is holding a fan sign event in Gangnam.
 You've been waiting in line for hours. Now it's your turn.
 
 **기 — 첫 만남 [세트 1]**
-User: 드디어 만났어요. 정말 오래 기다렸어요. / 와, 드디어요. 너무 오래 기다렸어요.
-AI: 와줘서 고마워요. 많이 기다렸죠?
-User: 네. 그래도 행복해요, 지금. / 많이요. 근데 지금 너무 좋아요.
-AI: 저도 반가워요.
+User: 드디어 만났어요! 기뻐요. / 오래 기다렸어요! 행복해요.
+AI: 반가워요! 기다렸죠? 미안해요.
+User: 아니요. 기분이 좋아요! / 하나도 안 힘들어요.
+AI: 저도 오늘 행복해요!
 
 **Outro:**
 > She reaches for your album and opens it to the signing page.
 >
 
 **승 — 사인 [세트 2]**
-User: 사인해 주실 수 있어요? 여기다가요. / 여기에 사인 부탁드려도 될까요?
-AI: 물론이에요. 이름은요?
-User: ___이에요. 잘 부탁드려요.
-AI: 예쁘게 써줄게요.
+User: 여기에 사인해 주세요! / 이 앨범에 써 주세요.
+AI: 네! 하트도 그려 줄게요.
+User: 고마워요. 매일 볼 거예요! / 예쁘게 그려 주세요.
+AI: 완성했어요. 예쁘죠?
 
 ---
 
@@ -48,20 +48,20 @@ Jia is writing your name on the album.
 There's a brief moment to talk.
 
 **기 — 팬 대화 [세트 1]**
-User: 신곡 정말 많이 들었어요. 최고예요. / 새 노래 정말 좋았어요. 많이 들었어요.
-AI: 좋아해줘서 고마워요.
-User: 어떤 마음으로 만든 곡이에요? / 이 노래는 어떤 감정으로 만들었어요?
-AI: 진지한 감정을 담았어요.
+User: 새 노래가 좋아요. 매일 들어요! / 새 노래를 매일 듣고 싶어요.
+AI: 진짜요? 감동이에요.
+User: 노래가 신나요. / 노래가 예뻐요.
+AI: 열심히 했어요. 고마워요!
 
 **Outro:**
 > She hands the signed album back carefully with both hands.
 >
 
 **승 — 응원 [세트 2]**
-User: 힘들 때도 음악 덕분에 버텼어요. / 힘든 날에도 노래 듣고 힘을 냈어요.
-AI: 정말요? 그 말이 힘이 돼요.
-User: 앞으로도 계속 응원할게요. / 계속 팬으로 응원하고 있을게요.
-AI: 고마워요. 항상 잘 부탁해요.
+User: 힘들 때 노래를 들어요. 힘이 나요!
+AI: 저도 힘이 나요. 파이팅!
+User: 계속 응원할게요! / 항상 여기 있을게요.
+AI: 네! 멋있는 무대 보여줄게요.
 
 ---
 
@@ -76,20 +76,20 @@ The fan sign is almost over.
 She's wrapping up with the last fans.
 
 **기 — 인사 [세트 1]**
-User: 오늘 정말 꿈 같았어요. 감사해요. / 오늘 진짜 꿈만 같아요. 고마워요.
-AI: 행복해 보여서 저도 좋아요.
-User: 다음 팬미팅도 꼭 올게요. / 다음에도 꼭 보러 올게요.
-AI: 기다릴게요.
+User: 오늘이 꿈 같아요! / 오늘 행복해요.
+AI: 저도 오늘 즐거웠어요!
+User: 다음에 또 올게요! / 다음에도 오고 싶어요.
+AI: 약속해요. 다음에 또 만나요!
 
 **Outro:**
 > She gives a small, genuine smile as you step aside.
 >
 
 **승 — 작별 [세트 2]**
-User: 마지막으로 사진 한 장 찍어도 될까요? / 사진 한 장만 같이 찍어도 돼요?
-AI: 짧게요. 어서요.
-User: 감사해요! 행복한 하루 보내요. / 고마워요! 좋은 하루 되세요.
-AI: 건강하게 잘 지내요.
+User: 같이 사진 찍어요! / 사진 찍고 싶어요.
+AI: 네! 하나, 둘, 셋. 김치!
+User: 고마워요. 안 잊을 거예요! / 사진이 예뻐요.
+AI: 저도 안 잊을게요. 잘 가요!
 
 ---
 
@@ -113,20 +113,20 @@ You've won a backstage pass to Jia's concert in Gangnam.
 You find her in the hallway, preparing for the stage.
 
 **기 — 첫 만남 [세트 1]**
-User: 안녕하세요. 정말 영광이에요, 여기까지. / 안녕하세요. 여기 올 수 있어서 너무 좋아요.
-AI: 와줬군요. 잘 찾아왔어요.
-User: 콘서트 너무 기대돼요. 잘 보일게요. / 오늘 공연 정말 기대돼요. 열심히 응원할게요.
-AI: 오늘 잘 해볼게요.
+User: 여기 와서 신기해요! / 기분이 좋아요.
+AI: 와줘서 고마워요. 반가워요!
+User: 오늘 공연이 떨려요! / 무대 보고 싶어요.
+AI: 저도 두근두근해요!
 
 **Outro:**
 > A staff member rushes past. She doesn't flinch.
 >
 
 **승 — 준비 [세트 2]**
-User: 공연 전에 긴장되지 않아요? / 무대 전에 떨리지 않아요?
-AI: 무대 위에서는 괜찮아요.
-User: 그게 대단한 것 같아요. / 정말 멋있는 것 같아요.
-AI: 연습한 거예요.
+User: 떨리면 어떻게 해요? / 지금 긴장해요?
+AI: 무대에 가면 안 떨려요. 재미있어요!
+User: 멋있어요. 다치지 마요. / 무대가 기대돼요.
+AI: 응원 덕분이에요. 고마워요!
 
 ---
 
@@ -141,20 +141,20 @@ You're in her waiting room for a few minutes.
 She's getting final preparations done.
 
 **기 — 근황 [세트 1]**
-User: 요즘 어떻게 지내요? 많이 바빠 보여요. / 요즘 잘 지내요? 바쁜 것 같아요.
-AI: 스케줄이 좀 많아요.
-User: 그래도 무리하지 않았으면 해요. / 너무 무리하지 마세요. 건강이 중요해요.
-AI: 걱정해줘서 고마워요.
+User: 밥 잘 먹어요? / 잘 지내요?
+AI: 네! 맛있는 거 많이 먹어요.
+User: 무리하지 마요. / 건강이 중요해요.
+AI: 고마워요. 감동이에요!
 
 **Outro:**
 > She glances at the mirror one more time with quiet focus.
 >
 
 **승 — 신곡 [세트 2]**
-User: 다음 앨범 기대해도 돼요? / 새 앨범 나올 거예요? 기대돼요.
-AI: 곧 나와요. 기대해도 돼요.
-User: 어떤 느낌의 음악이에요? / 어떤 분위기의 노래예요?
-AI: 달라질 거예요. 기대해요.
+User: 새 앨범은 언제 나와요? / 새 노래 듣고 싶어요.
+AI: 비밀이에요. 곧 나와요!
+User: 기대돼요! / 어떤 노래예요?
+AI: 아주 신나는 노래예요. 기대해요!
 
 ---
 
@@ -169,20 +169,20 @@ The concert is about to begin.
 She's standing at the side of the stage, ready.
 
 **기 — 마음 준비 [세트 1]**
-User: 무대에 서는 기분이 어때요? / 무대 위에 서면 어떤 느낌이에요?
-AI: 좋아요. 지금이 제일 좋아요.
-User: 저도 항상 응원하고 있어요. / 저는 언제나 응원해요.
-AI: 알고 있어요. 고마워요.
+User: 무대에 가면 기분이 어때요? / 소리가 들려요. 떨려요.
+AI: 빨리 나가고 싶어요!
+User: 제가 크게 응원할게요! / 재미있게 볼게요.
+AI: 좋아요. 같이 신나게 놀아요!
 
 **Outro:**
 > The stage lights flicker on. She straightens up.
 >
 
 **승 — 출발 [세트 2]**
-User: 오늘 최고의 공연 보여줄 거죠? / 오늘 무대 진짜 기대돼요.
-AI: 당연하죠. 기대해도 돼요.
-User: 파이팅이에요! 잘 할 거예요. / 힘내요! 오늘 멋있을 거예요.
-AI: 들어가요. 곧 시작해요.
+User: 오늘 무대도 최고예요! / 빨리 보여 주세요.
+AI: 네! 완벽하게 할게요.
+User: 조심해요. 파이팅! / 재미있게 볼게요. 파이팅!
+AI: 네! 이따 만나요. 안녕!
 
 ---
 
@@ -206,20 +206,20 @@ Jia has just started her live broadcast.
 She's greeting fans online. You're watching.
 
 **기 — 인사 [세트 1]**
-User: 안녕하세요! 드디어 라이브 켜셨네요. / 안녕하세요! 라이브 기다리고 있었어요.
-AI: 왔군요. 반가워요.
-User: 오늘 뭐 얘기할 거예요? 궁금해요. / 오늘은 무슨 이야기 해줄 거예요?
-AI: 여러분이 보고 싶어서 켰어요.
+User: 방송 켜서 반가워요! / 기다렸어요. 왔어요.
+AI: 반가워요! 밥 먹었어요?
+User: 오늘 무슨 이야기 해요? / 재미있는 이야기 해요.
+AI: 얼굴 보고 싶어서 켰어요!
 
 **Outro:**
 > She adjusts the camera angle with a calm, deliberate motion.
 >
 
 **승 — 안부 [세트 2]**
-User: 요즘 잘 지내고 있어요? 많이 바빠요? / 요즘 어때요? 바쁜 날이 많아요?
-AI: 바쁜데 괜찮아요.
-User: 건강 챙기고 있어요? 걱정돼요. / 몸은 괜찮아요? 걱정이에요.
-AI: 챙기고 있어요. 걱정 말아요.
+User: 많이 바빴어요? / 피곤하지 않아요?
+AI: 조금 바빴어요. 지금은 좋아요!
+User: 밥 많이 먹어요! / 건강해야 해요.
+AI: 네! 매일 잘 먹어요.
 
 ---
 
@@ -234,20 +234,20 @@ The broadcast is in full swing.
 She's reading fan comments and responding.
 
 **기 — 질문 [세트 1]**
-User: 좋아하는 계절이 뭐예요? 궁금해요. / 어떤 계절을 제일 좋아해요?
-AI: 가을이에요. 강남 가을이 예뻐요.
-User: 같이 가을 산책 하고 싶어요. / 가을에 같이 걸어보고 싶어요.
-AI: 언젠가 같이 가봐요.
+User: 어떤 계절이 좋아요? / 제일 좋아하는 계절이 뭐예요?
+AI: 가을이요! 하늘이 예뻐요.
+User: 저도 가을이 좋아요! / 가을 날씨가 좋아요.
+AI: 맞아요. 걷기 좋아요!
 
 **Outro:**
 > She smiles quietly at something she reads on screen.
 >
 
 **승 — 소통 [세트 2]**
-User: 다음 활동 언제 시작해요? 기대돼요. / 다음 활동은 언제예요? 빨리 보고 싶어요.
-AI: 곧이에요. 조금만 기다려요.
-User: 기다릴게요. 언제든 응원할게요. / 기다리고 있을게요. 항상 응원해요.
-AI: 고마워요. 힘이 돼요.
+User: 티비에 언제 나와요? / 빨리 보고 싶어요.
+AI: 곧 나와요. 기다려요!
+User: 기대돼요! / 매일 응원할게요.
+AI: 고마워요. 힘이 나요!
 
 ---
 
@@ -262,17 +262,17 @@ The broadcast is coming to an end.
 She's wrapping things up before going offline.
 
 **기 — 마무리 인사 [세트 1]**
-User: 벌써 끝나는 거예요? 너무 아쉬워요. / 벌써 끝이에요? 아쉬워요.
-AI: 또 할게요. 걱정 말아요.
-User: 다음 방송도 꼭 볼게요. / 다음에도 꼭 들어올게요.
-AI: 기다리고 있을게요.
+User: 벌써 끝나요? 아쉬워요! / 더 보고 싶어요.
+AI: 저도 아쉬워요!
+User: 다음에도 방송해요! / 매일 보고 싶어요.
+AI: 네! 다음에 더 길게 할게요.
 
 **Outro:**
 > She waves at the camera, unhurried and deliberate.
 >
 
 **승 — 마지막 [세트 2]**
-User: 오늘 방송 정말 즐거웠어요. 감사해요. / 오늘 방송 너무 좋았어요. 고마워요.
-AI: 저도 즐거웠어요. 고마워요.
-User: 건강 챙기고, 또 봐요. / 몸 조심하고, 다음에 또 만나요.
-AI: 네. 또 봐요.
+User: 오늘 재미있었어요! / 즐거웠어요.
+AI: 저도 행복했어요. 사랑해요!
+User: 푹 쉬어요! / 내일도 파이팅!
+AI: 네! 예쁜 꿈 꿔요. 안녕!

@@ -34,7 +34,7 @@ User: 좋아요! 가요! / 삼겹살 좋아요!
 AI: 여기서 가까워요. 걸어갈까요?
 User: 네, 좋아요! / 얼마나 걸려요?
 AI: 5분이면 돼요. 같이 가요.
-User: 네! / 같이 가요!
+User: 가깝네요! / 같이 가요!
 
 **Outro:**
 > A quiet walk. He matched your pace without saying anything.
@@ -67,7 +67,7 @@ User: 삼겹살 2인분이요! / 된장찌개도요!
 AI: 제가 구울게요.
 User: 감사해요! / 잘 굽네요!
 AI: 맛있어요?
-User: 진짜 맛있어요! / 여기 잘 아시네요!
+User: 진짜 맛있어요! / 여기 괜찮네요!
 
 **Outro:**
 > He grilled every piece to perfection and said two words: "Eat more." That's Hyunjun's love language.
@@ -170,7 +170,7 @@ User: 그래요? 감사해요! / 아직 많이 부족해요.
 User: 현준 씨 때문에 한국어 더 열심히 하고 싶어요. / 현준 씨 덕분에 한국어 재밌어요!
 AI: 진짜요? 감동이에요.
 User: 진짜예요! / 정말이에요!
-AI: 저도 덕분에 영어 배우고 싶어요.
+AI: 저도 덕분에 뿌듯해요.
 
 **Outro:**
 > His ears went red. He looked away. "Me too," he said — barely above a whisper.

@@ -227,7 +227,7 @@ A quiet café. A real conversation. This one goes deeper.
 
 **기 — 깊은 대화 [세트 1]**
 AI: 한국어 왜 배워?
-User: 한국 친구 사귀고 싶어서! / 드라마 알고 싶어!
+User: 한국 친구 사귀고 싶어! / 드라마 알고 싶어!
 AI: 오, 진짜? 지금도 잘해!
 User: 아직 멀었어. / 진짜? 고마워!
 

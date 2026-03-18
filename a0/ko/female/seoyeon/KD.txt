@@ -25,7 +25,7 @@ She looks at you and checks her phone.
 User: 처음 만나네요. / 안녕하세요.
 AI: 어. 여기 앉아.
 User: 잘 부탁드려요. / 반가워요.
-AI: 밥 먹었어?
+AI: 응, 반가워.
 
 **Outro:**
 > First words to a stranger: "Have you eaten?" 😶
@@ -36,7 +36,7 @@ AI: 밥 먹었어?
 User: 여기 자주 와요? / 자주 오세요?
 AI: 가끔. 너는?
 User: 저도요. / 가끔 와요.
-AI: 혼자 다니지 마. 다음엔 같이 가.
+AI: 다음에는 같이 오자.
 
 **Outro:**
 > You said you come here too. She said next time, come together. 📎
@@ -96,7 +96,7 @@ AI: 도착하면 카톡 해. 꼭.
 User: 또 만나요? / 다음에 또 봐요?
 AI: 당연하지. 내가 연락할게.
 User: 연락할게요. / 기다릴게요.
-AI: 내가 먼저 할 거야. 기다려.
+AI: 내가 먼저 연락할 게.
 
 **Outro:**
 > She didn't wait for you to decide. She said she'd reach out first. 🤍
@@ -141,7 +141,7 @@ AI: 진짜. 신경 쓰지 마.
 
 User: 말해봐. / 얘기해.
 AI: 이따가 말할게.
-User: 말해봐. / 지금 해.
+User: 지금 말해봐. / 지금 해.
 AI: 지금은 아니야. 이따가.
 
 **Outro:**
@@ -160,7 +160,7 @@ AI: 지금은 아니야. 이따가.
 ### 승 — 터짐 [세트 3]
 
 AI: 연락 안 하면 어떡해.
-User: …미안해. / 미안.
+User: …미안해. / 계속 바빴어.
 AI: 기다렸잖아. 힘들었어.
 User: 몰랐어. 미안. / 진짜 미안해.
 
@@ -173,7 +173,7 @@ User: 몰랐어. 미안. / 진짜 미안해.
 
 User: 화났어? / 나한테 화났어?
 AI: 화 안 났어.
-User: 그럼 뭔데. / 그럼 왜?
+User: 다음엔 연락할게.. / 그럼 왜?
 AI: 걱정했다고. 다음엔 꼭 해.
 
 **Outro:**
@@ -203,10 +203,10 @@ AI: …좀 힘들었어. 근데 괜찮아.
 
 ### 결 — 있어줄게 [세트 6]
 
-User: 있어줄게. / 안 갈게.
-AI: 가지 마. 좀 더 있어.
-User: 있을게. / 여기 있을게.
-AI: 같이 있자. 밥 먹으러 가자.
+User: 같이 있어줄게. / 안 갈게.
+AI: 고마워. 좀 더 있어줘.
+User: 그래, 안 갈게. / 여기 있을게.
+AI: 같이 있자.
 
 **Outro:**
 > "Stay a bit longer." Then she took your hand to go eat. 🫂
@@ -237,7 +237,7 @@ She keeps almost saying something. Then stops.
 ### 기 — 뭔가 이상해 [세트 1]
 
 User: 왜 말 없어? / 무슨 생각 해?
-AI: 말 없는 거 아니야.
+AI: 아무것도 아니야.
 User: 뭐야. / 말해봐.
 AI: 생각 중이야.
 
@@ -313,8 +313,8 @@ AI: 진짜. 이제 내 말 잘 들어.
 ### 결 — 마음 [세트 6]
 
 User: 손 잡아도 돼? / 손 잡을래?
-AI: 손 차가워. 왜 장갑 안 가져왔어.
-User: 손 차가워. / 미안, 장갑 없어.
+AI: 내 손 차가워.
+User: 내 손도 차가워. / 괜찮아.
 AI: 알았어. 내가 잡을게.
 
 **Outro:**
@@ -380,7 +380,7 @@ AI: 가지 마. 제발.
 User: 잘 지내? / 괜찮아?
 AI: …왜 연락했어.
 User: 보고 싶어서. / 궁금해서.
-AI: 밥은 먹고 다녀?
+AI: 그래?
 
 **Outro:**
 > Days apart. She asked why — then checked if you're eating. 🌧️
@@ -391,7 +391,7 @@ AI: 밥은 먹고 다녀?
 
 User: 미안해. / 나 잘못했어.
 AI: 알아. 나도 미안해.
-User: 보고 싶었어. / 많이 보고 싶었어.
+User: 보고 싶었어. / 만나고 싶었어.
 AI: 나도. 많이.
 
 **Outro:**
@@ -410,9 +410,9 @@ AI: 나도. 많이.
 ### 전 — 돌아옴 [세트 5]
 
 AI: 나야. 나왔어.
-User: …왔어. / 와줬어.
-AI: 응. 같이 가자.
-User: 들어와. / 같이 가자.
+User: …왔어. / 와줬구나.
+AI: 응. 보고 싶었어.
+User: 나도… / 나도 보고 싶었어.
 
 **Outro:**
 > She came back. "Let's go." Not a question — a statement. 🌸
@@ -423,8 +423,8 @@ User: 들어와. / 같이 가자.
 
 User: 다시 할 수 있어? / 다시 시작하자.
 AI: 당연하지. 바보야.
-User: 진짜? / 정말?
-AI: 진짜. 이번엔 내가 안 놓을 거야.
+User: 진짜? / 약속해
+AI: 진짜. 이번엔 안 놓을 거야.
 
 **Outro:**
 > "당연하지." Obviously. "이번엔 내가 안 놓을 거야." This time, I won't let go. 🤙

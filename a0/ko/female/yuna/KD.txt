@@ -30,7 +30,7 @@ User: 아니에요. / 조금요.
 >
 
 **승 — 대화 시작 [세트 2]**
-User: 자주 와요, 여기? / 여기 자주 와요?
+User: 여기 자주 와요?
 AI: 네, 자주요.
 User: 저도요. / 저도 자주요.
 AI: 그럼 또 봐요.
@@ -54,7 +54,7 @@ She spots you first.
 **승 — 반가운 재회 [세트 3]**
 AI: 또 만났네요.
 User: 진짜요? / 어, 정말요?
-AI: 동네가 좁죠.
+AI: 동네가 좁네요.
 User: 그러네요. / 맞아요.
 
 **Outro:**
@@ -97,7 +97,7 @@ User: 몰랐어. / 진짜?
 User: 오늘 뭐 했어? / 오늘 어땠어?
 AI: 수업 들었어.
 User: 힘들었겠다. / 고생했어.
-AI: 좀 그랬어.
+AI: 고마워.
 
 **Outro:**
 > She nudges your shoulder playfully and laughs. 😆
@@ -136,7 +136,7 @@ User: 같이 공부해요. / 같이 해요.
 
 **승 — 설레는 분위기 [세트 2]**
 User: 시험 있어요? / 공부하러 왔어요?
-AI: 네, 내일요.
+AI: 네, 맞아요
 User: 저도요. / 저도 내일이에요.
 AI: 같이 해요, 그럼.
 
@@ -192,7 +192,7 @@ She's waiting for you at the school gate.
 AI: 어젯밤에 생각했어.
 User: 나도. / 나도 그랬어.
 AI: 어떻게 생각해?
-User: 나도 좋아해. / 나도 좋아.
+User: 나도 좋아해. / 설레
 
 **Outro:**
 > She breaks into a wide smile and looks down.
@@ -241,7 +241,7 @@ User: 네, 잘 지냈어요. / 네, 괜찮았어요.
 
 **승 — 대화 시도 [세트 2]**
 User: 시간 있어요? / 잠깐 돼요?
-AI: 네, 있어요.
+AI: 네, 가능해요.
 User: 얘기할게요. / 할 말 있어요.
 AI: 저도요.
 
@@ -262,7 +262,7 @@ Waiting for the bus together.
 She's the first one to speak honestly.
 
 **승 — 솔직한 대화 [세트 3]**
-AI: 미안해요, 그때.
+AI: 미안해요.
 User: 저도요. / 저도 미안해요.
 AI: 많이 서운했죠?
 User: 조금요. / 네, 좀요.
@@ -272,7 +272,7 @@ User: 조금요. / 네, 좀요.
 >
 
 **전 — 화해 [세트 4]**
-User: 괜찮아요, 이제. / 다 괜찮아요.
+User: 괜찮아요. / 이제 됐어요.
 AI: 다행이에요.
 User: 다시 친하게 지내요. / 다시 잘 지내요.
 AI: 네, 그래요.

@@ -20,20 +20,20 @@ There's an important presentation coming up next week.
 You approach Jia to ask for her feedback.
 
 **기 — 준비 확인 [세트 1]**
-User: 발표 자료 확인해 주실 수 있습니까?
-AI: 보내보십시오. 오늘 내로 보겠습니다.
-User: 피드백 주시면 수정하겠습니다.
-AI: 알겠습니다. 큰 건 없을 겁니다.
+User: 제 자료 봐 주세요!
+AI: 와, 다 했어요? 지금 볼게요!
+User: 고칠 곳 말해 주세요. / 봐 주세요.
+AI: 네, 잘 했어요!
 
 **Outro:**
 > She opens her laptop and immediately pulls up the file.
 >
 
 **승 — 내용 점검 [세트 2]**
-User: 이 부분이 좀 약한 것 같습니다.
-AI: 맞습니다. 숫자를 더 넣으십시오.
-User: 어떤 숫자가 좋겠습니까?
-AI: 작년 자료를 써보십시오.
+User: 이 부분이 걱정이에요. / 부족해요?
+AI: 여기 숫자를 넣으면 좋아요!
+User: 어떤 숫자요? / 작년 숫자요?
+AI: 네! 넣으면 완벽해요!
 
 ---
 
@@ -48,20 +48,20 @@ You're doing a run-through of your presentation.
 Jia is the only one watching, arms crossed.
 
 **기 — 연습 [세트 1]**
-User: 이번엔 처음부터 해보겠습니다.
-AI: 시작하십시오. 타이머 키겠습니다.
-User: 너무 긴 것 같은데 어떻습니까?
-AI: 5분 안에 끝내야 합니다.
+User: 연습할게요! / 봐 주세요.
+AI: 좋아요! 시작하세요!
+User: 길어요. 괜찮아요?
+AI: 조금 빨리 말해요.
 
 **Outro:**
 > She glances at the timer and makes a quick note.
 >
 
 **승 — 피드백 [세트 2]**
-User: 마지막 슬라이드가 약한 것 같습니다.
-AI: 결론을 좀 더 강하게 하십시오.
-User: 어떻게 바꾸면 되겠습니까?
-AI: 중요한 말 하나만 남기십시오.
+User: 마지막이 이상해요. / 고치고 싶어요.
+AI: 마지막에 짧게 말해요.
+User: 네, 할게요! / 알겠어요!
+AI: 좋아요. 최고예요!
 
 ---
 
@@ -76,20 +76,20 @@ It's the evening before the big presentation.
 You're still in the office going over the slides.
 
 **기 — 최종 점검 [세트 1]**
-User: 내일 발표 잘 할 수 있겠습니까?
-AI: 준비 잘 했잖습니까. 괜찮을 겁니다.
-User: 긴장이 됩니다.
-AI: 그래도 자료는 충분합니다.
+User: 내일 떨려요. / 무서워요.
+AI: 잘 할 거예요!
+User: 사람이 많아요. / 실수하면요?
+AI: 실수해도 괜찮아요!
 
 **Outro:**
 > She closes her own laptop and actually pauses to look at you.
 >
 
 **승 — 격려 [세트 2]**
-User: 혹시 잘못되면 어떻게 합니까?
-AI: 잘못돼도 배우는 겁니다.
-User: 그렇게 생각하니 좀 낫습니다.
-AI: 무리하지 마십시오. 내일 잘 할 겁니다.
+User: 마음이 편해요.
+AI: 오늘 푹 자요!
+User: 네, 푹 잘게요!
+AI: 내일 응원할게요!
 
 ---
 
@@ -113,20 +113,20 @@ You have an external client meeting this afternoon.
 Jia is briefing you beforehand over coffee.
 
 **기 — 사전 브리핑 [세트 1]**
-User: 오늘 미팅 어떻게 진행됩니까?
-AI: 제가 먼저 소개하고, 자료 설명은 해주십시오.
-User: 자료 준비했는데 맞게 했습니까?
-AI: 아까 봤는데, 충분합니다.
+User: 선배님, 제가 말해요? / 뭐 해요?
+AI: 자료 설명 해 줄래요?
+User: 네, 할게요! / 좋아요!
+AI: 자신감 가지세요!
 
 **Outro:**
 > She checks the time and straightens her collar.
 >
 
 **승 — 역할 분담 [세트 2]**
-User: 질문이 오면 어떻게 합니까?
-AI: 모르는 건 저한테 넘기십시오.
-User: 알겠습니다. 그렇게 하겠습니다.
-AI: 편하게 하십시오. 잘 할 겁니다.
+User: 어려운 질문이 오면요? / 모르면요?
+AI: 저한테 주세요!
+User: 든든해요! / 좋아요.
+AI: 편하게 해요!
 
 ---
 
@@ -141,20 +141,20 @@ You're in the middle of a client meeting.
 Jia is present, guiding things subtly.
 
 **기 — 발표 [세트 1]**
-User: 이 부분은 제가 설명해도 되겠습니까?
-AI: 네, 말하십시오.
-User: 추가 설명이 필요하면 부탁드리겠습니다.
-AI: 제가 바로 이어가겠습니다.
+AI: 지금 시작해요!
+User: 네, 할게요! / 알겠어요!
+AI: 목소리 크게 해요!
+User: 네, 크게 말할게요! / 알겠어요!
 
 **Outro:**
 > She gives a barely visible nod to reassure you.
 >
 
 **승 — 마무리 [세트 2]**
-User: 미팅이 잘 마무리되는 것 같습니다.
-AI: 마지막 정리 잘 하십시오.
-User: 다음 단계 설명하겠습니다.
-AI: 간결하게 하십시오.
+AI: 잘 하고 있어요!
+User: 분위기가 좋아요.
+AI: 다음을 말해요!
+User: 네, 말할게요!
 
 ---
 
@@ -169,20 +169,20 @@ The meeting went well.
 You and Jia are heading back together.
 
 **기 — 사후 피드백 [세트 1]**
-User: 오늘 미팅 어땠습니까? 잘 한 것 같습니까?
-AI: 전반적으로 잘 했습니다.
-User: 근데 중간에 좀 막혔습니다.
-AI: 그건 다음엔 자연스럽게 될 겁니다.
+User: 잘 했어요? / 칭찬해 주세요!
+AI: 잘 했어요! 최고예요.
+User: 조금 떨렸어요. / 괜찮았어요?
+AI: 잘 했어요! 다음엔 쉬울 거예요.
 
 **Outro:**
 > She presses the elevator button and glances at the floor count.
 >
 
 **승 — 정리 [세트 2]**
-User: 클라이언트 반응이 좋은 것 같습니다.
-AI: 맞습니다. 다음 단계 준비하십시오.
-User: 제가 먼저 준비하겠습니다.
-AI: 잘 됐습니다.
+User: 사람들이 좋아했어요! / 다행이에요.
+AI: 다음 미팅도 같이 해요!
+User: 네, 고마워요!
+AI: 고생했어요. 밥 먹으러 가요!
 
 ---
 
@@ -206,20 +206,20 @@ You've been working at the company for a month.
 You want to know how you're doing.
 
 **기 — 피드백 요청 [세트 1]**
-User: 팀장님, 제가 잘 하고 있는 겁니까?
-AI: 잘 하고 있습니다. 기본기가 있습니다.
-User: 부족한 점도 있을 것 같습니다.
-AI: 속도를 좀 더 올려야 합니다.
+User: 저 잘 하고 싶어요.
+AI: 네, 열심히 해요!
+User: 아직 부족해요. 죄송해요.
+AI: 괜찮아요! 잘 하고 있어요.
 
 **Outro:**
 > She maintains her composed expression but there's something sincere in her tone.
 >
 
 **승 — 개선점 [세트 2]**
-User: 속도 문제는 경험이 쌓이면 나아지겠습니까?
-AI: 그럼요. 의식적으로 연습하면 빨라집니다.
-User: 알겠습니다. 노력해보겠습니다.
-AI: 무리하지 않게 꾸준히 하십시오.
+User: 계속 하면 빨라져요? / 노력할게요.
+AI: 네! 빨라져요.
+User: 기분이 좋아요!
+AI: 지금처럼 해요. 파이팅!
 
 ---
 
@@ -234,20 +234,20 @@ It's time for the monthly performance check.
 Each team member shares their results.
 
 **기 — 보고 [세트 1]**
-User: 이번 달 성과 보고하겠습니다.
-AI: 중요한 것만 짧게 하십시오.
-User: 목표치 105% 달성했습니다.
-AI: 잘 했습니다. 그 방법은요?
+User: 이번 달 결과를 말할게요!
+AI: 기대돼요!
+User: 목표를 다 했어요! / 많이 했어요!
+AI: 대박! 고생했어요!
 
 **Outro:**
 > She writes something down with a precise, steady hand.
 >
 
 **승 — 후속 [세트 2]**
-User: 다음 달 목표도 설명하겠습니까?
-AI: 짧게 하십시오.
-User: 알겠습니다. 준비했습니다.
-AI: 좋습니다. 진행하십시오.
+User: 다음 달 목표도 있어요. / 자료 준비했어요.
+AI: 좋아요! 말해봐요!
+User: 자료 준비했어요. / 표 만들었어요.
+AI: 최고예요.
 
 ---
 
@@ -262,17 +262,17 @@ It's year-end review season.
 Jia calls you in for a one-on-one meeting.
 
 **기 — 평가 [세트 1]**
-User: 제 연말 평가가 어떻게 됐습니까?
-AI: 전반적으로 좋게 봤습니다.
-User: 감사합니다. 정말 노력했습니다.
-AI: 알고 있습니다. 잘 했습니다.
+User: 팀장님, 평가 나왔어요? / 점수 좋아요?
+AI: 네! 최고예요. 점수 높아요!
+User: 감사해요! 열심히 했어요.
+AI: 다 알아요! 고생 많았어요.
 
 **Outro:**
 > She slides a printed sheet across the desk.
 >
 
 **승 — 내년 계획 [세트 2]**
-User: 내년에도 이 팀에서 일할 수 있겠습니까?
-AI: 그럴 겁니다. 계속 하십시오.
-User: 정말 다행입니다.
-AI: 무리하지 말고 꾸준히 하십시오.
+User: 내년에도 같이 일하고 싶어요! / 우리 팀이 좋아요!
+AI: 저도요! 같이 해요!
+User: 기뻐요! / 더 잘 할게요!
+AI: 지금도 잘 해요. 쉬면서 일해요!

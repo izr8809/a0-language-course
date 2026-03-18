@@ -23,14 +23,14 @@ First meeting in Korea.
 Someone is waving at you — big smile!
 
 **기 — 첫 만남 [세트 1]**
-AI: 안녕하세요! 저는 유나예요!
-User: 안녕하세요! / 반가워요!
-AI: 이름이 뭐예요?
-User: 저는 ___예요! / ___이에요!
-AI: 와, 반가워요!
-User: 저도 반가워요! / 감사해요!
-AI: 어디에서 왔어요?
+AI: 안녕하세요! 저는 유나예요! 이름이 뭐예요?
+User: ___예요!
+AI: 반가워요! 어디에서 왔어요?
 User: ___에서 왔어요!
+AI: 한국 좋아해요?
+User: 네! / 진짜 좋아해요!
+AI: 왜 좋아해요?
+User: 드라마요! / 음식이요!
 
 **Outro:**
 > She's already bouncing with excitement.
@@ -38,12 +38,6 @@ User: ___에서 왔어요!
 >
 
 **승 — 알아가기 [세트 2]**
-AI: 한국 좋아해요?
-User: 네, 좋아해요! / 진짜 좋아해요!
-AI: 진짜요?! 저도 좋아해요!
-User: 오, 진짜요? / 저도요!
-AI: 왜 좋아해요?
-User: 드라마요! / 음식이요!
 
 **Outro:**
 > She gasped like you just told her the best news ever.
@@ -59,12 +53,12 @@ User: 드라마요! / 음식이요!
 **📍 장소:** 밖 (동일)
 
 **승 — 취미 [세트 3]**
-User: 유나 씨, 뭐 좋아해요? / 취미 뭐예요?
-AI: 저요? 노래 좋아해요!
-User: 오, 진짜요? / 저도 좋아해요!
-AI: 같이 노래방 가요!
-User: 좋아요! / 네, 가요!
-AI: 진짜요?! 완전 좋다!
+AI: 취미 뭐예요?
+User: 노래요! / 운동이요!
+AI: 저도요! 같이 해요!
+User: 좋아요! / 네!
+AI: 나이가 어떻게 돼요?
+User: ___살이에요!
 
 **Outro:**
 > She's already planning karaoke in her head.
@@ -72,12 +66,8 @@ AI: 진짜요?! 완전 좋다!
 >
 
 **전 — 말 놓기 [세트 4]**
-AI: 나이가 어떻게 돼요?
-User: ___살이에요!
-AI: 오, 비슷해요!
-User: 네, 그래요! / 오, 진짜요?
-AI: 우리 말 놓아요!
-User: 네, 좋아요! / 네!
+AI: 오, 비슷해요! 말 놓아요!
+User: 네, 좋아요! / 그래요!
 
 **Outro:**
 > She didn't even ask — she declared it. That's Yuna energy.
@@ -93,14 +83,14 @@ User: 네, 좋아요! / 네!
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **전 — 놀자 [세트 5]**
-AI: 좋아! 나는 유나야!
-User: 나는 ___야!
-AI: 편하게 해!
-User: 응! / 알겠어!
-AI: 주말에 뭐 해?
+AI: 좋아! 나는 유나야! 주말에 뭐 해?
 User: 아직 없어! / 모르겠어!
-AI: 같이 놀자!
-User: 좋아! 뭐 할까? / 뭐 하고 싶어?
+AI: 같이 놀자! 신촌 가자!
+User: 좋아! / 가자!
+AI: 카톡 있어?
+User: 응! / 있어!
+AI: 아이디 알려 줘! 연락할게!
+User: 여기! / 보낼게!
 
 **Outro:**
 > She didn't even wait for you to ask — she invited herself.
@@ -108,17 +98,6 @@ User: 좋아! 뭐 할까? / 뭐 하고 싶어?
 >
 
 **결 — 연락 [세트 6]**
-AI: 신촌 가자!
-User: 좋아! / 가자!
-AI: 맛있는 거 먹자!
-User: 좋아! 카톡 있어? / 카톡 해!
-AI: 카톡 해!
-User: 응! / 좋아!
-AI: 아이디 알려 줘!
-User: 여기! / 보낼게!
-AI: 연락할게!
-User: 응! / 기다릴게!
-AI: 또 보자!
 
 **Outro:**
 > Contact secured — expect a flood of messages soon.
@@ -151,8 +130,8 @@ She's already ordered — and she got you something too.
 AI: 몇 살이야? 궁금해!
 User: ___살이야!
 
-AI: 나는 21살이야! 나이 차이 얼마 안 나네!
-User: 진짜? / 오, 그래?
+AI: 나는 21살이야! 어디 살아?
+User: 서울이야! / 홍대 근처!
 
 **Outro:**
 > She immediately did the age math in her head.
@@ -161,11 +140,11 @@ User: 진짜? / 오, 그래?
 
 ### 승 — 어디 살아 [세트 2]
 
-User: 어디 살아? / 집 어디야?
-AI: 신촌! 학교 근처야. 너는?
+AI: 나는 신촌! 학교 근처야.
+User: 가깝다! / 오, 진짜?
 
-User: 서울이야! / 홍대 근처야!
-AI: 와, 가깝다! 자주 보자!
+AI: 자주 보자!
+User: 응! / 좋아!
 
 **Outro:**
 > She already wants to hang out again — you just met.
@@ -180,11 +159,11 @@ AI: 와, 가깝다! 자주 보자!
 
 ### 승 — MBTI [세트 3]
 
-User: MBTI 뭐야? / MBTI 알아?
-AI: ENFP! 나 완전 E야! 너는?
+User: MBTI 뭐야? / MBTI 해봤어?
+AI: ENFP! 나 완전 E야!
 
-User: ENFP야! / 모르겠어!
-AI: 나 MBTI 완전 좋아해! 나중에 같이 얘기하자!
+User: 나도 E야! / 나는 I야!
+AI: 집이 좋아? 밖이 좋아?
 
 **Outro:**
 > ENFP energy — she's already calling you her best friend.
@@ -193,11 +172,11 @@ AI: 나 MBTI 완전 좋아해! 나중에 같이 얘기하자!
 
 ### 전 — 성격 [세트 4]
 
-AI: 집에 있는 거 좋아해? 밖에 나가는 거 좋아해?
-User: 밖에 나가는 거! / 집이 좋아!
+User: 밖! / 집!
+AI: 나는 밖!
 
-AI: 나는 밖! 집에 있으면 심심해!
-User: 오, 나랑 같아! / 나는 좀 달라!
+User: 나랑 같아! / 나도 그래.
+AI: 재밌다!
 
 **Outro:**
 > She can't sit still for five minutes — classic Yuna.
@@ -215,8 +194,8 @@ User: 오, 나랑 같아! / 나는 좀 달라!
 AI: 요즘 뭐 해?
 User: 한국어 공부! / 드라마 봐!
 
-AI: 대박! 나는 요즘 노래 연습해!
-User: 진짜? 멋있다! / 오, 좋겠다!
+AI: 대박! 나는 노래 연습해!
+User: 멋있다! / 좋겠다!
 
 **Outro:**
 > She's your biggest cheerleader and you just met.
@@ -226,9 +205,9 @@ User: 진짜? 멋있다! / 오, 좋겠다!
 ### 결 — 마무리 [세트 6]
 
 AI: 다음에 또 만나자!
-User: 응, 좋아! / 당연하지!
+User: 응! / 당연하지!
 
-AI: 카톡 할게! 기다려!
+AI: 카톡 할게!
 User: 응! / 기다릴게!
 
 **Outro:**
@@ -294,8 +273,8 @@ AI: 완전 좋아!
 AI: 몇 시에 만날까?
 User: 1시? / 낮에!
 
-AI: 좋아! 신촌역 앞에서 보자!
-User: 응! / 좋아!
+AI: 좋아! 신촌역에서 보자!
+User: 응! / 알겠어!
 
 **Outro:**
 > Time locked in — she sent five thumbs-up emojis.
@@ -304,10 +283,10 @@ User: 응! / 좋아!
 
 ### 전 — 확인 [세트 4]
 
-AI: 그럼 토요일 1시, 신촌역!
-User: 응! / 알겠어!
+AI: 토요일 1시, 신촌역!
+User: 좋아! / 기다릴게!
 
-AI: 늦으면 안 돼! 진짜!
+AI: 늦으면 안 돼!
 User: 알겠어! / 안 늦어!
 
 **Outro:**
@@ -324,10 +303,10 @@ User: 알겠어! / 안 늦어!
 ### 전 — 당일 [세트 5]
 
 AI: 나왔어?! 빨리 와!
-User: 응, 거의 다 왔어! / 나가고 있어!
+User: 거의 다 왔어! / 나가는 중!
 
-AI: 나 도착했어! 여기 사람 많아!
-User: 금방 가! / 거의 다 왔어!
+AI: 나 도착했어! 어디야?
+User: 금방 가! / 잠깐만!
 
 **Outro:**
 > She's been texting you every thirty seconds since she arrived.
@@ -336,11 +315,11 @@ User: 금방 가! / 거의 다 왔어!
 
 ### 결 — 만남 [세트 6]
 
-User: 어디야? / 다 왔어!
-AI: 여기! 여기여기!
+AI: 여기! 여기!
+User: 봤어! / 찾았어!
 
-User: 아, 봤어! / 여기야!
-AI: 드디어! 가자가자!
+AI: 가자!
+User: 가자! / 배고파!
 
 **Outro:**
 > She spotted you first and started jumping and waving.
@@ -373,8 +352,8 @@ Yuna sent a voice message and three stickers. Start chatting!
 User: 뭐 해? / 심심해!
 AI: 집에서 노래 듣고 있어! 너는?
 
-User: 나도 집! 심심해. / 나도 쉬고 있어!
-AI: 나도 심심해! 나가자!
+User: 나도 집! / 쉬고 있어!
+AI: 심심하다.
 
 **Outro:**
 > She's always ready to go — zero hesitation.
@@ -386,7 +365,7 @@ AI: 나도 심심해! 나가자!
 AI: 오늘 뭐 했어?
 User: 영화 봤어. / 쇼핑했어.
 
-AI: 나는 친구 만났어! 완전 재밌었어!
+AI: 나는 친구 만났어!
 User: 오, 좋겠다! / 재밌었겠다!
 
 **Outro:**
@@ -402,11 +381,11 @@ User: 오, 좋겠다! / 재밌었겠다!
 
 ### 승 — 사진 [세트 3]
 
-AI: 나 지금 여기야! 봐봐!
-User: 어디야? / 와, 좋겠다!
+AI: 나 지금 여기야!
+User: 어디야? / 뭐야?
 
 AI: 한강이야! 다음에 같이 가자!
-User: 가자! / 응, 가고 싶어!
+User: 가자! / 가고 싶어!
 
 **Outro:**
 > She sends photos of everything — every meal, every street.
@@ -415,11 +394,11 @@ User: 가자! / 응, 가고 싶어!
 
 ### 전 — 재미 [세트 4]
 
-User: 이거 봤어? / 이거 알아?
-AI: 뭐야뭐야? 안 봤어!
+AI: 이거 봤어?
+User: 뭐야? / 안 봤어!
 
-User: 진짜 웃겨! 봐봐! / 완전 재밌어!
-AI: 보고 있어! 진짜 웃겨!
+AI: 진짜 웃겨! 봐봐!
+User: 볼게! / 다시 보내줘!
 
 **Outro:**
 > She watched it three times and sent it to five friends.
@@ -437,8 +416,8 @@ AI: 보고 있어! 진짜 웃겨!
 AI: 밥 먹었어?
 User: 응, 먹었어. / 아직!
 
-User: 너는? / 유나는?
-AI: 붕어빵 먹었어! 맛있었어!
+AI: 나 붕어빵 먹었어!
+User: 좋겠다! / 먹고 싶다!
 
 **Outro:**
 > Bungeoppang counts as dinner in Yuna's world.
@@ -447,11 +426,11 @@ AI: 붕어빵 먹었어! 맛있었어!
 
 ### 결 — 잘 자 [세트 6]
 
-AI: 나 이제 잘 거야! 잘 자!
+AI: 나 이제 잘 거야!
 User: 잘 자! / 좋은 꿈 꿔!
 
-User: 내일 봐! / 내일 연락해!
-AI: 응! 내일 또 연락해!
+AI: 내일 또 연락해!
+User: 응! / 내일 봐!
 
 **Outro:**
 > Goodnight — but she'll probably text you again in five minutes.
