@@ -107,7 +107,7 @@ User: 응, 있어! / 당연하지!
 AI: 아이디 알려줘!
 User: 여기!
 AI: 저장했어! 주말에 뭐 해?
-User: 아직 없어! / 모르겠어!
+User: 아직 몰라! / 모르겠어!
 
 **Outro:**
 > Contact secured! 🔒
