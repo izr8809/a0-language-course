@@ -61,9 +61,9 @@ User: 네, 좋아요! / 그래요!
 
 **전 — 편하게 해요! [세트 4]**
 AI: 좋아! 나는 도민이야!
-User: 응! 반가워! / 나도 반가워!
+User: 응! 반가워! / 나는 ___야!
 AI: 오늘 카페 갈래?
-User: 좋아! 가자! / 어디 가?
+User: 좋아! 가자! / 어디 카페?
 
 **Outro:**
 > He already has a spot in mind. Classic Domin.
@@ -92,7 +92,7 @@ User: 아메리카노! / 라떼!
 **결 — 또 만나자! [세트 7]**
 AI: 한국에서 뭐 하고 싶어?
 User: 친구 많이 사귀고 싶어! / 여행 가고 싶어!
-AI: 좋아! 나랑 같이 다니자!
+AI: 나랑 같이 하자!
 User: 진짜? 좋아! / 같이 다니자!
 
 **Outro:**
@@ -122,7 +122,7 @@ Lunch time in Korea. So many options... what should we eat?
 
 **기 — 뭐 먹을까 [세트 1]**
 User: 배고파! 뭐 먹을까? / 밥 먹으러 가자!
-AI: 나도! 삼겹살 어때?
+AI: 삼겹살 어때?
 User: 삼겹살 좋아! / 어디서?
 AI: 맛있는 데 알아! 가까워!
 
@@ -166,7 +166,7 @@ User: 삼겹살! / 된장찌개!
 
 **전 — 먹기 [세트 4]**
 AI: 내가 구워줄게!
-User: 응, 구워줘! / 내가 구울게!
+User: 응, 구워줘! / 고마워!
 AI: 먹어 봐!
 User: 진짜 맛있다! / 여기 잘 찾았다!
 
@@ -187,7 +187,7 @@ User: 진짜 맛있다! / 여기 잘 찾았다!
 User: 내가 낼게! / 계산할게!
 AI: 아니야! 같이 내자!
 User: 아니야, 내가 낼게! / 괜찮아, 내가 낼게!
-AI: 진짜? 고마워! 다음엔 내가 살게!
+AI: 고마워! 다음엔 내가 살게!
 
 **Outro:**
 > You bought lunch! Domin is already planning what to feed you next time.
@@ -197,7 +197,7 @@ AI: 진짜? 고마워! 다음엔 내가 살게!
 **결 — 다음에 [세트 6]**
 User: 카페 갈까? / 좀 걸을까?
 AI: 좋아! 가자!
-User: 가자! / 좋아, 가자!
+User: 가자! / 기대돼!
 AI: 디저트도 먹자!
 
 **Outro:**
@@ -267,7 +267,7 @@ User: 그래? 고마워! / 아직 부족해.
 >
 
 **전 — 감동 [세트 4]**
-AI: 아니야, 잘해!
+AI: 진짜야! 잘하고 있어.
 User: 너 덕분에 한국어 재밌어! / 너 덕분에 더 하고 싶어!
 AI: 진짜? 감동이야!
 User: 진짜야! / 정말이야!
@@ -328,9 +328,9 @@ User: 좋아! 연락해! / 기대된다!
 Something's been off lately. Your friend noticed. Time to talk.
 
 **기 — 고민 [세트 1]**
-AI: 요즘 기분 안 좋아 보여. 밥 먹었어?
+AI: 요즘 기분 안 좋아 보여.
 User: 좀 힘들어. / 고민이 있어.
-AI: 무슨 고민이야? 얘기해 봐.
+AI: 고민있어? 얘기해 봐.
 User: 한국 생활이 힘들어. / 일이 너무 많아.
 
 **Outro:**
@@ -341,8 +341,8 @@ User: 한국 생활이 힘들어. / 일이 너무 많아.
 **승 — 들어주기 [세트 2]**
 AI: 뭐가 제일 힘들어?
 User: 혼자 있는 시간이 많아. / 한국어가 어려워.
-AI: 힘들었겠다. 같이 밥 먹자!
-User: 응, 고마워. / 그래, 가자.
+AI: 그렇구나. 힘내!
+User: 응, 고마워. / 응, 힘낼게.
 
 **Outro:**
 > He connects loneliness to eating alone. For Domin, sharing a meal fixes everything.
@@ -369,7 +369,7 @@ User: 어디? / 좋아!
 >
 
 **전 — 밖에서 [세트 4]**
-AI: 한강 가자! 라면 먹자!
+AI: 한강 가서 라면 먹자!
 User: 그래, 가자! / 좋아, 나가자!
 AI: 편의점에서 라면 사 가자!
 User: 좋아! / 편의점 가자!
@@ -391,7 +391,7 @@ User: 좋아! / 편의점 가자!
 AI: 기분 좀 나아졌어?
 User: 응, 많이 나아졌어! / 덕분에!
 AI: 다행이다!
-User: 진짜 고마워. / 덕분이야.
+User: 진짜 고마워. / 너 덕분이야.
 
 **Outro:**
 > Ramen, river breeze, and a good friend. Domin's recipe worked.
@@ -431,7 +431,7 @@ A long weekend is coming. Your friend has no plans. This is your moment.
 
 **기 — 여행 제안 [세트 1]**
 User: 연휴에 시간 있어? / 다음 주 뭐 해?
-AI: 아직 없어! 왜?
+AI: 일정 없어! 왜?
 User: 같이 여행 갈까? / 우리 여행 가자!
 AI: 대박! 좋아! 어디 가?
 
@@ -493,7 +493,7 @@ User: 응, 고마워! / 잘 부탁해!
 AI: 부산에서 뭐 하고 싶어?
 User: 회 먹고 싶어! / 시장 가고 싶어!
 AI: 좋아! 어묵도 먹자!
-User: 맞아! 다 먹자! / 기대된다!
+User: 그래! 다 먹자! / 기대된다!
 
 **Outro:**
 > His itinerary is basically a restaurant list. Beach, raw fish, market food — perfect.
@@ -504,7 +504,7 @@ User: 맞아! 다 먹자! / 기대된다!
 AI: 나도! 진짜 기대돼!
 User: 빨리 가고 싶어! / 진짜 기대돼!
 AI: 그럼 그때 봐!
-User: 알겠어! / 응, 준비할게!
+User: 알겠어! / 응, 그때 봐!
 
 **Outro:**
 > "Save your appetite" — only Domin would say that instead of "pack your bags."
