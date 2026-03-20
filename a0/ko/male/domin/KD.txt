@@ -199,10 +199,10 @@ User: 어떡해... / 슬퍼?
 ### 결 — 응원 [세트 6]
 
 AI: 보고 싶을 것 같아.
-User: 괜찮을거야. / 연락하면 돼!
+User: 괜찮아, 또 만나. / 연락해!
 
 AI: 고마워.
-User: 응! / 언제든!
+User: 응! / 좋아!
 
 **Outro:**
 > You showed up for your friend! 🫂
