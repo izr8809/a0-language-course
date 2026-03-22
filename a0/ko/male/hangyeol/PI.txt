@@ -33,14 +33,12 @@ AI: 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-He bounced over like a golden retriever who just spotted his favorite person.
-But wait... why are you *really* here in Korea?
+He bounced over like a golden retriever.
 
 **승 — 알아가기 [세트 2]**
 
 **Outro:**
-His eyes went wide — like you'd just told him the most interesting thing in the world.
-Let's see if your hobbies match his energy.
+His eyes went wide. You fascinate him.
 
 ---
 
@@ -51,7 +49,7 @@ Let's see if your hobbies match his energy.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-He's already asking about your favorites. Time to find out what you have in common!
+He's asking about your favorites!
 
 **승 — 취미 [세트 3]**
 User: 한결 씨, 뭐 좋아해요?
@@ -62,16 +60,14 @@ User: ___살이에요!
 AI: 오, 비슷해요! 우리 반말해요?
 
 **Outro:**
-He likes everything. Especially tteokbokki. Especially you, probably.
-He's getting comfortable — you can feel it.
+He likes everything. Especially you.
 
 **전 — 말 놓기 [세트 4]**
 User: 네, 좋아요! / 네!
 AI: 좋아! 나는 한결이야.
 
 **Outro:**
-He asked your age and immediately went for it. No hesitation — classic Hangyeol.
-From now on, it's 반말 all the way.
+No hesitation. It's 반말 now.
 
 ---
 
@@ -82,7 +78,7 @@ From now on, it's 반말 all the way.
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **intro_text:**
-You're vibing. Now lock in those weekend plans before he bounces away!
+Vibing! Lock in those weekend plans!
 
 **전 — 놀자 [세트 5]**
 AI: 주말에 뭐 해? 시간 있어?
@@ -95,14 +91,12 @@ AI: 저장했어! 이따 카톡 해!
 User: 나도 저장했어! / 알겠어!
 
 **Outro:**
-Weekend plans? He was already mentally packing his bag.
-Don't let him bounce away without getting his Kakao!
+He's already planning. Get his Kakao!
 
 **결 — 연락 [세트 6]**
 
 **Outro:**
-He saved your number faster than you could blink. You've been claimed.
-Next up: The test that decides if you're *truly* compatible.
+Number saved. You've been claimed.
 
 ---
 
@@ -122,8 +116,7 @@ Next up: The test that decides if you're *truly* compatible.
 📍 장소: 카페
 
 **intro_text:**
-You made it to the cafe. Hangyeol is already waving at you from across the room.
-You're 반말 buddies now — time to get to know each other for real.
+Cafe time. He's waving from across the room.
 
 ### 기 — 나이 [세트 1]
 
@@ -134,8 +127,7 @@ AI: 오! 나는 스물두 살이야!
 User: 진짜? / 오, 비슷해!
 
 **Outro:**
-Age revealed! He's the younger one and already acting like your biggest fan.
-Now find out where he actually lives.
+Age revealed! Already your biggest fan.
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -146,8 +138,7 @@ User: 나는 홍대 살아!
 AI: 와, 가까워! 우리 만나!
 
 **Outro:**
-Neighbors? He's already inviting you over. Classic puppy energy.
-Get ready — the MBTI question is coming.
+Neighbors! He's already inviting you over.
 
 ## sim2: 취미 Talk
 
@@ -156,7 +147,7 @@ Get ready — the MBTI question is coming.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-Hobbies, cooking, personality — he wants to know everything about you!
+He wants to know everything about you!
 
 ### 승 — 취미 [세트 3]
 
@@ -167,8 +158,7 @@ User: 오 그래? / 나도 좋아해!
 AI: 응! 요리 진짜 재밌어!
 
 **Outro:**
-He's a homebody who cooks? Didn't expect that from the puppy energy.
-Now dig a little deeper into who he really is.
+A homebody who cooks? Surprising.
 
 ### 전 — 성격 [세트 4]
 
@@ -179,8 +169,7 @@ AI: 나는 요리! 요리가 최고야!
 User: 오, 나랑 같아! / 멋있다!
 
 **Outro:**
-Cooking is his love language. He's already planning what to make you.
-One more round — what is he up to these days?
+Cooking is his love language.
 
 ## sim3: More About You
 
@@ -189,7 +178,7 @@ One more round — what is he up to these days?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-The conversation is flowing. What have you been up to lately?
+Conversation flowing. What's new with you?
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -200,8 +189,7 @@ AI: 오 진짜? 한국어 어때?
 User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
-He wants to know everything about you. Classic Hangyeol.
-Time to wrap up and make plans to talk again.
+He wants to know everything. Classic.
 
 ### 결 — 마무리 [세트 6]
 
@@ -212,8 +200,7 @@ AI: 카톡 해!
 User: 응! / 좋아!
 
 **Outro:**
-New friend unlocked. He's already typing his first message to you.
-Next up: Turn that chat into actual plans.
+New friend unlocked! He's already texting.
 
 ---
 
@@ -233,8 +220,7 @@ Next up: Turn that chat into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-The text bubble is blinking.
-Time to shoot your shot — ask him to hang out!
+Text bubble blinking. Ask him to hang out!
 
 ### 기 — 주말 [세트 1]
 
@@ -245,8 +231,7 @@ User: 같이 놀래? / 우리 만날래?
 AI: 와! 좋아! 뭐 할까?
 
 **Outro:**
-He said yes before you even finished asking. Peak golden retriever.
-Now figure out what you're actually doing.
+He said yes before you finished asking.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -257,8 +242,7 @@ User: 성수 어때? / 건대 갈래?
 AI: 성수 좋아! 자주 가!
 
 **Outro:**
-Destination: Seongsu! He knows all the spots.
-Now nail down the details — when and where exactly?
+Destination: Seongsu! He knows the spots.
 
 ## sim2: When and Where
 
@@ -278,8 +262,7 @@ AI: 좋아! 홍대역에서 만날까?
 User: 응! / 그래!
 
 **Outro:**
-Time locked in! He's already counting down the hours.
-One more confirmation and you're all set.
+Time locked in! He's counting down.
 
 ### 전 — 확인 [세트 4]
 
@@ -290,8 +273,7 @@ AI: 늦지 마! 약속해!
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-Plans confirmed! If you're late, you're buying food. Deal's a deal.
-Sunday is coming... are you ready?
+Plans confirmed! Late = you buy food.
 
 ## sim3: Day of
 
@@ -300,7 +282,7 @@ Sunday is coming... are you ready?
 📍 장소: 홍대역 앞 (야외)
 
 **intro_text:**
-It's the big day! He's already there. Find him before he explodes with excitement!
+The big day! He's already there!
 
 ### 전 — 당일 [세트 5]
 
@@ -311,8 +293,7 @@ AI: 빨리 와!
 User: 지금 가! / 다 왔어!
 
 **Outro:**
-He arrived early and he's literally bouncing. Someone contain this puppy.
-One more step — actually find each other.
+He arrived early. Already bouncing.
 
 ### 결 — 만남 [세트 6]
 
@@ -323,8 +304,7 @@ User: 아, 봤어! / 여기야!
 AI: 가자가자! 배고파!
 
 **Outro:**
-You spotted him waving both arms like an airport ground crew. Unmissable.
-Next up: Staying in touch between hangouts.
+Both arms waving. Unmissable.
 
 ---
 
@@ -344,8 +324,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have Hangyeol's KakaoTalk ID.
-Now what? Just... text him!
+You have his KakaoTalk. Just text him!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -356,8 +335,7 @@ User: 나도 집! 심심해. / 나도! 아무것도 안 해.
 AI: 대박 나도! 우리 만날래?
 
 **Outro:**
-Conversation started! He was waiting for you to text. Definitely.
-Now keep it going — ask about his day.
+He was waiting for your text. Definitely.
 
 ### 승 — 대화 [세트 2]
 
@@ -368,8 +346,7 @@ AI: 오, 뭐 봤어? 나도 보고 싶어!
 User: 새 영화! / 비밀!
 
 **Outro:**
-He wants to watch whatever you watched. He wants to do whatever you do.
-Time to take it up a notch — share something fun.
+He wants to do whatever you do.
 
 ## sim2: Chatting More
 
@@ -378,7 +355,7 @@ Time to take it up a notch — share something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-He sent a photo. Time to share links, pics, and way too many emojis!
+He sent a photo. Share something back!
 
 ### 승 — 사진 [세트 3]
 
@@ -389,8 +366,7 @@ AI: 건대 카페야! 나중에 같이 가자!
 User: 좋아! / 응, 가고 싶어!
 
 **Outro:**
-He sent a cafe photo with way too many exclamation marks. On brand.
-Now send him something funny.
+Cafe photo with too many "!!!" On brand.
 
 ### 전 — 재미 [세트 4]
 
@@ -401,8 +377,7 @@ User: 진짜 웃겨! 봐봐! / 진짜 웃겨! 꼭 봐!
 AI: 알겠어! 바로 볼게!!
 
 **Outro:**
-He clicked the link before you even finished explaining. Zero impulse control.
-The night is winding down... time to say goodnight.
+Clicked it instantly. Zero impulse control.
 
 ## sim3: Good Night
 
@@ -411,7 +386,7 @@ The night is winding down... time to say goodnight.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-It's getting late. Time to wrap up and say goodnight like a pro!
+Getting late. Time to say goodnight!
 
 ### 전 — 저녁 [세트 5]
 
@@ -434,8 +409,7 @@ User: 잘 자! / 좋은 꿈 꿔!
 AI: 응! 잘 자! 꿈에서 봐!!
 
 **Outro:**
-"Text me tomorrow too!" He's already counting down the hours. Goodnight, golden boy.
-Next up: Taking your Korean out into the real world.
+"Text me tomorrow too!" Goodnight. 🌙
 
 ---
 

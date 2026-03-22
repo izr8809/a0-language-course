@@ -18,8 +18,7 @@
 **📍 장소:** 호텔 로비 (첫 만남)
 
 **intro_text:**
-He walked in without looking at anyone.
-Now he's looking at you.
+He looked at no one. Until you.
 
 **기 — 첫 인사 [세트 1]**
 User: 처음 뵙겠습니다.
@@ -28,8 +27,7 @@ User: 잘 부탁드립니다. / 감사합니다.
 AI: 뭐 드릴까요? 커피 괜찮아요?
 
 **Outro:**
-He said his name and pulled out a chair.
-That's already more than most people get.
+He pulled out a chair. Most don't get that.
 
 **승 — 짧은 대화 [세트 2]**
 User: 여기 자주 오세요? / 여기 처음이에요.
@@ -38,8 +36,7 @@ User: 좋아요. / 분위기 좋네요.
 AI: 다행이에요. 편하게 계세요.
 
 **Outro:**
-He remembered your drink order before you said it.
-He noticed you the first time. He just didn't say so.
+He remembered your drink. He always noticed.
 
 ---
 
@@ -50,7 +47,7 @@ He noticed you the first time. He just didn't say so.
 **📍 장소:** 호텔 로비 (동일)
 
 **intro_text:**
-The silence is heavy. Ask the right question — he might just answer.
+Heavy silence. Ask the right question.
 
 **승 — 질문 [세트 3]**
 User: 뭐 하세요? / 무슨 일 하세요?
@@ -59,8 +56,7 @@ User: 궁금해서요. / 그냥요.
 AI: 궁금해요? 좋아요. 더 물어보세요.
 
 **Outro:**
-He ordered for both of you without asking.
-Then he sat back down like nothing happened.
+He ordered for both. Said nothing about it.
 
 **전 — 의외 [세트 4]**
 AI: 추우세요? 여기 바람 들어와요.
@@ -69,8 +65,7 @@ AI: 잠깐만요. 자리 바꿀게요.
 User: …감사합니다.
 
 **Outro:**
-He moved you to the warmer seat without asking.
-He handles things. Quietly. Completely.
+Warmer seat. No asking. That's how he cares.
 
 ---
 
@@ -81,7 +76,7 @@ He handles things. Quietly. Completely.
 **📍 장소:** 호텔 앞 (로비 밖)
 
 **intro_text:**
-The night's ending. Say something — before he disappears.
+Night's ending. Say something. Quick.
 
 **전 — 마무리 [세트 5]**
 User: 오늘 좋았습니다. / 즐거웠어요.
@@ -90,8 +85,7 @@ User: 괜찮아요. / 감사합니다.
 AI: 조심히 가세요. 도착하면 연락 주세요.
 
 **Outro:**
-He called the car before you answered.
-An hour later, one message: "잘 들어갔어요?"
+One hour later: "잘 들어갔어요?"
 
 **결 — 다음에 [세트 6]**
 User: 또 만날 수 있어요? / 또 봬요.
@@ -100,8 +94,7 @@ User: 언제든지요. / 주말이요.
 AI: 좋아요. 연락할게요.
 
 **Outro:**
-He reached out first. That never happens.
-Something about you made him break his own rule.
+He reached out first. He never does that.
 
 ---
 
@@ -121,9 +114,7 @@ Something about you made him break his own rule.
 📍 장소: 호텔 라운지 (저녁)
 
 **intro_text:**
-He's been short with you all evening.
-Not rude. Just... far away.
-Something changed. Find out what.
+He's distant tonight. Something changed.
 
 ### 기 — 이상함 [세트 1]
 
@@ -133,8 +124,7 @@ User: 진짜요? / 그래요?
 AI: 진짜예요. 신경 쓰지 마세요.
 
 **Outro:**
-He's never told you not to worry about him before.
-That means you should.
+"Don't worry." That means you should.
 
 ### 승 — 질투 [세트 2]
 
@@ -144,8 +134,7 @@ AI: …그래요. 알겠어요.
 User: 왜 물어보세요? / 신경 쓰여요?
 
 **Outro:**
-He asked about someone. Then shut down.
-Hyunjun doesn't ask questions he doesn't care about.
+He asked. Then shut down. He cares.
 
 ---
 
@@ -156,7 +145,7 @@ Hyunjun doesn't ask questions he doesn't care about.
 📍 장소: 호텔 복도 (동일)
 
 **intro_text:**
-Something's off. He's about to say what he's been holding back.
+Something's off. He's about to crack.
 
 ### 승 — 터짐 [세트 3]
 
@@ -166,8 +155,7 @@ AI: 모르겠어요. 저도 몰라요.
 User: 천천히 말씀하세요. / 괜찮아요.
 
 **Outro:**
-The man who plans everything can't organize his own feelings.
-That's how you know it's real.
+He plans everything. Except his feelings.
 
 ### 전 — 솔직 [세트 4]
 
@@ -177,8 +165,7 @@ User: 저요? / 제가요?
 AI: 네. 이유는 모르겠어요.
 
 **Outro:**
-"You keep bothering me." That's the closest he's come to a confession.
-He doesn't have the word for it yet. But he will.
+"신경 쓰여요." His version of a confession.
 
 ---
 
@@ -189,7 +176,7 @@ He doesn't have the word for it yet. But he will.
 📍 장소: 호텔 정원 벤치
 
 **intro_text:**
-He's quiet now. Just sit with him — that's all he needs.
+He's quiet. Just sit with him.
 
 ### 전 — 조용해짐 [세트 5]
 
@@ -199,8 +186,7 @@ User: 여기요? / 네 고마워요.
 AI: 좀 같이 있어도 돼요?
 
 **Outro:**
-He asked permission to stay. He's never asked for anything before.
-Sit. Don't say anything. That's enough.
+He asked to stay. A first for him.
 
 ### 결 — 옆에 [세트 6]
 
@@ -210,8 +196,7 @@ User: 뭐가요? / 처음이요?
 AI: 이렇게 편한 거요. 사람이랑.
 
 **Outro:**
-"Being comfortable with someone. It's a first."
-He sat there, looking at the garden, finally still.
+"이렇게 편한 거요." A first. Finally still.
 
 ---
 
@@ -231,8 +216,7 @@ He sat there, looking at the garden, finally still.
 📍 장소: 호텔 로비 → 옥상
 
 **intro_text:**
-He texted at 9 PM: "지금 올 수 있어요?"
-No explanation. Just a location pin.
+9 PM text: "지금 올 수 있어요?" No reason.
 
 ### 기 — 이동 [세트 1]
 
@@ -242,8 +226,7 @@ AI: 보여드릴 게 있어요. 가요.
 User: 네 가요. / 알겠어요.
 
 **Outro:**
-He led. You followed. No questions answered.
-The elevator went up.
+He led. You followed. Elevator went up.
 
 ### 승 — 옥상 [세트 2]
 
@@ -253,8 +236,7 @@ AI: 제가 좋아하는 곳이에요. 처음 보여주는 거예요.
 User: 진짜요? / 그래요?
 
 **Outro:**
-His favorite place. And you're the first one here.
-He doesn't share. Until now.
+His favorite place. You're the first here.
 
 ---
 
@@ -265,7 +247,7 @@ He doesn't share. Until now.
 📍 장소: 호텔 옥상 (동일)
 
 **intro_text:**
-He has something for you. This is his way of saying it.
+He has something for you. His way.
 
 ### 전 — 준비 [세트 3]
 
@@ -275,8 +257,7 @@ AI: 선물이에요. 열어보세요.
 User: 감사합니다. / 열어도 돼요?
 
 **Outro:**
-A small box. Inside: something simple but chosen with precision.
-He picked it himself. That's the whole point.
+A small box. Simple. He picked it himself.
 
 ### 전 — 고백 [세트 4]
 
@@ -286,8 +267,7 @@ User: 무슨 마음이요? / …현준 씨.
 AI: 좋아해요. 제가 할 수 있는 말은 이게 다예요.
 
 **Outro:**
-"I like you. That's all I can say."
-No decoration. No grand speech. Just the fact.
+"좋아해요." No speech. Just the fact.
 
 ---
 
@@ -298,7 +278,7 @@ No decoration. No grand speech. Just the fact.
 📍 장소: 호텔 옥상 (동일)
 
 **intro_text:**
-He said it. Now it's your turn — make it real.
+He said it. Your turn now.
 
 ### 전 — 확인 [세트 5]
 
@@ -308,8 +288,7 @@ User: 진짜예요. / 네, 진심이에요.
 AI: 다행이에요. 제가 잘 할게요.
 
 **Outro:**
-"I'll do well." Not "I love you." That's his version.
-A promise. Measured. Absolute.
+"잘 할게요." His version of a promise.
 
 ### 결 — 마음 [세트 6]
 
@@ -319,8 +298,7 @@ AI: 그래요. 가까이 오세요.
 User: 괜찮아요 / 네 알았어요.
 
 **Outro:**
-He didn't reach for your hand. He just stood closer.
-Close enough that you felt warm. That was enough.
+He stood closer. Close enough to feel warm.
 
 ---
 
@@ -340,8 +318,7 @@ Close enough that you felt warm. That was enough.
 📍 장소: 호텔 라운지 (저녁)
 
 **intro_text:**
-He's sitting across from you.
-His bag is packed. Something is wrong.
+His bag is packed. Something's wrong.
 
 ### 기 — 통보 [세트 1]
 
@@ -351,8 +328,7 @@ AI: 해외 출장이에요. 한동안 못 봐요.
 User: …언제요? / 갑자기요?
 
 **Outro:**
-He said it like a fact. Not an apology.
-But his hands were tight around his coffee cup.
+A fact. Not an apology. But his hands shook.
 
 ### 승 — 반응 [세트 2]
 
@@ -362,8 +338,7 @@ User: 알겠어요. / 아쉽네요
 AI: 기다려 줄 수 있어요?
 
 **Outro:**
-He asked. For the first time, he asked instead of decided.
-"Can you wait?" He's never needed an answer this badly.
+"기다려 줄 수 있어요?" He's never asked before.
 
 ---
 
@@ -374,7 +349,7 @@ He asked. For the first time, he asked instead of decided.
 📍 장소: 온라인 (카톡 메시지)
 
 **intro_text:**
-He's far away. But his message just came through.
+Far away. But his message just came.
 
 ### 승 — 연락 [세트 3]
 
@@ -384,8 +359,7 @@ AI: 저도요. 바빠서 연락 못 했어요. 죄송해요.
 User: 괜찮아요. / 바쁘죠.
 
 **Outro:**
-Three weeks. Four messages. Each one he rewrote five times.
-He's not good at this. But he's trying.
+Four messages. Each rewritten five times.
 
 ### 전 — 그리움 [세트 4]
 
@@ -395,8 +369,7 @@ User: 기다릴게요. / 빨리 오세요.
 AI: 꼭 갈게요. 약속이에요.
 
 **Outro:**
-"It's a promise." He doesn't make those lightly.
-He never has.
+"약속이에요." He doesn't say that lightly.
 
 ---
 
@@ -407,7 +380,7 @@ He never has.
 📍 장소: 호텔 로비 (밤)
 
 **intro_text:**
-The lobby doors open. He's back. Don't hold back.
+The doors open. He's back.
 
 ### 전 — 돌아옴 [세트 5]
 
@@ -417,8 +390,7 @@ AI: 네. 돌아왔어요. 보고 싶었어요.
 User: 저도요. / 많이 보고 싶었어요.
 
 **Outro:**
-He walked in with one bag and went straight to you.
-No detour. No check-in. You first.
+One bag. Straight to you. No detour.
 
 ### 결 — 다시 시작 [세트 6]
 
@@ -428,7 +400,6 @@ User: 진짜요? / 약속이에요?
 AI: 약속이에요. 이번엔 안 가요.
 
 **Outro:**
-"I'm staying. This time, I'm not leaving."
-He set his bag down. Like he'd already decided long ago.
+"안 가요." Bag down. He'd already decided.
 
 ---

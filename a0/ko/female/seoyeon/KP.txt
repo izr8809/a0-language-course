@@ -16,9 +16,7 @@
 **📍 장소:** 팬미팅 사인회 (테이블)
 
 **intro_text:**
-She's already holding her pen.
-She looks at the long line behind you.
-"빨리 오세요." Your turn.
+Pen ready. "Come on." Your turn.
 
 **기 — 첫 만남 [세트 1]**
 User: 안녕하세요! / 반갑습니다!
@@ -27,8 +25,7 @@ User: 아직이요! / 네, 먹었어요!
 AI: 사인 해줄게요. 이름이 뭐예요?
 
 **Outro:**
-First thing she asked a fan: "Have you eaten?" 🧊
-Second thing: "Was the line hard?" She's already worrying.
+First thing she asked: "Have you eaten?" 🧊
 
 **승 — 사인 [세트 2]**
 User: ___이에요!
@@ -37,8 +34,7 @@ User: 감사해요! / 너무 좋아요!
 AI: 고마워요.
 
 **Outro:**
-She took her time writing your name.
-Carefully. ✍️
+She wrote your name. Carefully. ✍️
 
 ---
 
@@ -49,7 +45,7 @@ Carefully. ✍️
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Wait — does she actually remember you? Only one way to find out.
+Wait — does she remember you?
 
 **승 — 기억 [세트 3]**
 AI: 또 왔어요? 멀리서 왔죠?
@@ -58,8 +54,7 @@ AI: 무리하지 마세요. 건강이 먼저예요.
 User: 저 기억해요? / 저 누군지 알아요?
 
 **Outro:**
-She told you not to overdo it. She remembers you. 👀
-She just won't say it directly.
+"Don't overdo it." She remembers you. 👀
 
 **전 — 대화 [세트 4]**
 AI: 그럼요, 아직도 저 좋아해요?
@@ -68,8 +63,7 @@ AI: 고마워요.
 User: 앞으로도 올게요! / 또 올게요!
 
 **Outro:**
-"고마워요. 밥 잘 먹어요." = Thank you. Eat well. 🥹
-That's Seoyeon for "I care about you."
+"Thanks. Eat well." That's her "I care." 🥹
 
 ---
 
@@ -80,7 +74,7 @@ That's Seoyeon for "I care about you."
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Last chance before the event ends. Give her the letter — make it count.
+Last chance. Give her the letter.
 
 **전 — 선물 [세트 5]**
 User: 이거요. / 이거 드릴게요.
@@ -89,8 +83,7 @@ User: 편지예요! / 제가 쓴 거예요!
 AI: 고마워요. 잘 읽을게요.
 
 **Outro:**
-She took it with both hands. 💌
-"잘 읽을게요." She means it.
+Both hands. "I'll read it well." 💌
 
 **결 — 작별 [세트 6]**
 AI: 조심히 가세요.
@@ -99,8 +92,7 @@ AI: 다음에도 오세요. 밥 먹고 오세요.
 User: 꼭이요! / 또 올게요!
 
 **Outro:**
-"Come again. Eat first." Her goodbye is always a command. ✨
-Next up: See her on stage — if your heart can take it.
+"Come again. Eat first." Classic Seoyeon. ✨
 
 ---
 
@@ -120,9 +112,7 @@ Next up: See her on stage — if your heart can take it.
 📍 장소: 콘서트장 객석 (공연 전)
 
 **intro_text:**
-The stage is dark. The crowd is already buzzing.
-The fan next to you looks just as nervous.
-Say something before the lights go down.
+Stage dark. Crowd buzzing. Lights going down.
 
 ### 기 — 공연 전 [세트 1]
 
@@ -134,7 +124,6 @@ User: 네, 먹었어요! / 아직이요!
 
 **Outro:**
 New fan friend found! 🎪
-You both fell for the same nagging face.
 
 ### 승 — 기다림 [세트 2]
 
@@ -145,8 +134,7 @@ AI: 저도요. 잘 봐주세요.
 User: 응원할게요! / 기대돼요!
 
 **Outro:**
-The lights just went dark. 🌑
-She's walking out. Already scanning the crowd.
+Lights out. She's walking on stage. 🌑
 
 ---
 
@@ -157,7 +145,7 @@ She's walking out. Already scanning the crowd.
 📍 장소: 콘서트장 객석 (공연 중)
 
 **intro_text:**
-The lights hit the stage. She's performing — and she just looked your way.
+She's performing. She just looked your way.
 
 ### 승 — 공연 중 [세트 3]
 
@@ -168,8 +156,7 @@ AI: 고마워요! 더 할까요?
 User: 진짜요?! / 설레요!
 
 **Outro:**
-She looked your way. Then pointed. Like she was checking on you. 👀
-That's Seoyeon for "I found you."
+She pointed your way. "I found you." 👀
 
 ### 전 — 앵콜 [세트 4]
 
@@ -180,8 +167,7 @@ AI: 알았어요. 한곡 더 할게요!
 User: 최고예요! / 와, 대박!
 
 **Outro:**
-Encore. She came back and said "다들 밥 먹고 가세요." 🎤
-Even on stage, she nags. The crowd loved it.
+Encore! "Everyone, eat before you leave." 🎤
 
 ---
 
@@ -192,7 +178,7 @@ Even on stage, she nags. The crowd loved it.
 📍 장소: 콘서트장 밖 (공연 후)
 
 **intro_text:**
-The show just ended. Your ears are ringing and your heart is full. Talk about it!
+Show's over. Heart full. Talk about it!
 
 ### 전 — 끝 [세트 5]
 
@@ -203,8 +189,7 @@ User: 괜찮아요! / 전혀요!
 AI: 다행이에요.
 
 **Outro:**
-Post-concert high. 🌟
-"걱정해주는 거 최고예요!" Every Seoyeon fan knows that feeling.
+Post-concert high. She still worries. 🌟
 
 ### 결 — 인사 [세트 6]
 
@@ -216,7 +201,6 @@ User: 네, 꼭이요! / 또 만나요!
 
 **Outro:**
 Concert buddy confirmed. 🎫
-Next up: She actually went live. And she's nagging the chat.
 
 ---
 
@@ -236,9 +220,7 @@ Next up: She actually went live. And she's nagging the chat.
 📍 장소: 온라인 (라이브 방송)
 
 **intro_text:**
-Notification: Seoyeon is live.
-The chat is moving fast. She's already scolding someone for staying up late.
-Type now — she's reading.
+Seoyeon is live. Chat's moving fast.
 
 ### 기 — 라이브 방송 [세트 1]
 
@@ -249,8 +231,7 @@ AI: 그래요. 밥 먹었어요?
 User: 네, 먹었어요! / 아직이요!
 
 **Outro:**
-She found your message in a flood of comments. 💬
-First thing she said: you're late. Second: have you eaten.
+She found your message in the flood. 💬
 
 ### 승 — 대화 [세트 2]
 
@@ -262,7 +243,6 @@ User: 사랑해요! / 응원해요!
 
 **Outro:**
 "Don't wait around. Do your stuff." 💖
-She nags because she cares. The chat exploded.
 
 ---
 
@@ -273,7 +253,7 @@ She nags because she cares. The chat exploded.
 📍 장소: 온라인 (버블/위버스 메시지)
 
 **intro_text:**
-A notification just popped up. She replied to your message. Open it!
+She replied to your message. Open it!
 
 ### 승 — 답장 [세트 3]
 
@@ -284,8 +264,7 @@ AI: 네. 고마워요.
 User: 감사해요! / 너무 좋아요!
 
 **Outro:**
-"봤어요. 고마워요." She read it. She said thanks. 🧊
-For Seoyeon, that's a love letter.
+"Read it. Thanks." For her, that's love. 🧊
 
 ### 전 — 질문 [세트 4]
 
@@ -296,8 +275,7 @@ AI: 그래요? 고마워요. 무리하지 마세요.
 User: 항상 응원할게요! / 계속 좋아할게요!
 
 **Outro:**
-"고마워요. 무리하지 마세요." Thank you. Don't overdo it. 🌟
-She can't just say thanks. She has to add a warning.
+"Thanks. Don't overdo it." Always a warning. 🌟
 
 ---
 
@@ -308,7 +286,7 @@ She can't just say thanks. She has to add a warning.
 📍 장소: 온라인 (버블/위버스, 동일)
 
 **intro_text:**
-One last message before bed. Make it a good one.
+One last message before bed.
 
 ### 전 — 메시지 [세트 5]
 
@@ -319,8 +297,7 @@ User: 진짜 좋았어요! / 너무 좋았어요!
 AI: 고마워요.
 
 **Outro:**
-"Don't stay up late. Sleep early." 📩
-Her fan service is 100% nagging. We love it.
+"Don't stay up late." Her fan service. 📩
 
 ### 결 — 잘 자 [세트 6]
 
@@ -331,8 +308,6 @@ AI: 네. 내일 봐요.
 User: 좋은 꿈 꿔요! / 내일 봐요!
 
 **Outro:**
-"자요. 늦었어요." Go to sleep. It's late. 🌙
-Her goodnight comes with tomorrow's breakfast reminder.
-Next up: Time to put on your professional face.
+"Go to sleep. It's late." Goodnight, Seoyeon. 🌙
 
 ---

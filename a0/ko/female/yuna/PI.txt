@@ -19,8 +19,7 @@ Someone is waving at you — big smile!
 **📍 장소:** 밖
 
 **intro_text:**
-First meeting in Korea.
-Someone is waving at you — big smile!
+Korea. Someone's waving at you!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 저는 유나예요! 이름이 뭐예요?
@@ -33,14 +32,12 @@ AI: 왜 좋아해요?
 User: 드라마요! / 음식이요!
 
 **Outro:**
-She's already bouncing with excitement.
-Now tell her why you came to Korea!
+She's bouncing already. Tell her more!
 
 **승 — 알아가기 [세트 2]**
 
 **Outro:**
-She gasped like you just told her the best news ever.
-Let's see what else gets her excited.
+She gasped. You've got her hooked!
 
 ---
 
@@ -51,7 +48,7 @@ Let's see what else gets her excited.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-You're vibing already. Time to find out what you have in common!
+Good vibes. What do you have in common?
 
 **승 — 취미 [세트 3]**
 AI: 취미 뭐예요?
@@ -62,16 +59,14 @@ AI: 나이가 어떻게 돼요?
 User: ___살이에요!
 
 **Outro:**
-She's already planning karaoke in her head.
-She's vibing with you hard — something's about to change.
+Karaoke plans forming in her head!
 
 **전 — 말 놓기 [세트 4]**
 AI: 오, 비슷해요! 말 놓아요!
 User: 네, 좋아요! / 그래요!
 
 **Outro:**
-She didn't even ask — she declared it. That's Yuna energy.
-From now on, it's 반말 all the way!
+Declared, not asked. 반말 from now on!
 
 ---
 
@@ -82,7 +77,7 @@ From now on, it's 반말 all the way!
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **intro_text:**
-You're friends now. Time to lock in weekend plans and swap KakaoTalk!
+Friends now! Plans + KakaoTalk time.
 
 **전 — 놀자 [세트 5]**
 AI: 좋아! 나는 유나야! 주말에 뭐 해?
@@ -95,14 +90,12 @@ AI: 아이디 알려 줘! 연락할게!
 User: 여기! / 보낼게!
 
 **Outro:**
-She didn't even wait for you to ask — she invited herself.
-Now get her Kakao before she runs off!
+She invited herself. Get her Kakao!
 
 **결 — 연락 [세트 6]**
 
 **Outro:**
-Contact secured — expect a flood of messages soon.
-Next up: The real personality test begins.
+Contact saved. Message flood incoming! 📱
 
 ---
 
@@ -122,8 +115,7 @@ Next up: The real personality test begins.
 📍 장소: 카페
 
 **intro_text:**
-You're at a busy cafe near Sinchon station.
-She's already ordered — and she got you something too.
+Sinchon café. She already ordered for you.
 
 ### 기 — 나이 [세트 1]
 
@@ -134,8 +126,7 @@ AI: 나는 21살이야! 어디 살아?
 User: 서울이야! / 홍대 근처!
 
 **Outro:**
-She immediately did the age math in her head.
-Now find out where this ball of energy lives.
+Age math: done. Where does she live?
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -146,8 +137,7 @@ AI: 자주 보자!
 User: 응! / 좋아!
 
 **Outro:**
-She already wants to hang out again — you just met.
-Get ready for the MBTI question.
+Hangout plans already? MBTI time next!
 
 ## sim2: MBTI Talk
 
@@ -156,7 +146,7 @@ Get ready for the MBTI question.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-MBTI time! Find out if you two are a perfect match.
+MBTI time! Are you two a match?
 
 ### 승 — MBTI [세트 3]
 
@@ -167,8 +157,7 @@ User: 나도 E야! / 나는 I야!
 AI: 집이 좋아? 밖이 좋아?
 
 **Outro:**
-ENFP energy — she's already calling you her best friend.
-Now find out what she's really like.
+ENFP vibes. Best friends already!
 
 ### 전 — 성격 [세트 4]
 
@@ -179,8 +168,7 @@ User: 나랑 같아! / 나도 그래.
 AI: 재밌다!
 
 **Outro:**
-She can't sit still for five minutes — classic Yuna.
-One more round to wrap up.
+Can't sit still. Classic Yuna energy!
 
 ## sim3: More About You
 
@@ -189,7 +177,7 @@ One more round to wrap up.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-She wants to know everything. What have you been up to lately?
+She wants to know everything about you.
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -200,8 +188,7 @@ AI: 대박! 나는 노래 연습해!
 User: 멋있다! / 좋겠다!
 
 **Outro:**
-She's your biggest cheerleader and you just met.
-Time to wrap up and keep the conversation going.
+Your biggest fan and you just met!
 
 ### 결 — 마무리 [세트 6]
 
@@ -212,8 +199,7 @@ AI: 카톡 할게!
 User: 응! / 기다릴게!
 
 **Outro:**
-She's already typing before you even left the café.
-Next up: Turn that energy into actual plans.
+Already typing before you even left! 💬
 
 ---
 
@@ -233,8 +219,7 @@ Next up: Turn that energy into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-Your phone just exploded with messages from Yuna.
-Twelve texts in two minutes. Time to make plans!
+12 texts in 2 minutes. Make plans now!
 
 ### 기 — 주말 [세트 1]
 
@@ -245,8 +230,7 @@ User: 같이 놀래? / 나랑 놀자!
 AI: 당연하지! 뭐 할까?
 
 **Outro:**
-She said yes before you even finished asking.
-Now pick a place!
+Yes before you even finished asking!
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -257,8 +241,7 @@ User: 신촌 어때? / 홍대 갈래?
 AI: 완전 좋아!
 
 **Outro:**
-Sinchon hotdogs — her idea of a perfect date.
-Now nail down the details.
+Sinchon hotdogs it is! 🌭
 
 ## sim2: When and Where
 
@@ -267,7 +250,7 @@ Now nail down the details.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Plans are happening! Lock in the time and place before she changes her mind.
+Lock in the time before she changes!
 
 ### 승 — 시간 [세트 3]
 
@@ -278,8 +261,7 @@ AI: 좋아! 신촌역에서 보자!
 User: 응! / 알겠어!
 
 **Outro:**
-Time locked in — she sent five thumbs-up emojis.
-One last confirmation.
+Time locked. Five thumbs-up emojis! 👍
 
 ### 전 — 확인 [세트 4]
 
@@ -290,8 +272,7 @@ AI: 늦으면 안 돼!
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-She means it — she'll be there ten minutes early.
-Saturday is coming!
+She'll be 10 minutes early. Saturday!
 
 ## sim3: Day of
 
@@ -300,7 +281,7 @@ Saturday is coming!
 📍 장소: 신촌역 앞 (야외)
 
 **intro_text:**
-It's Saturday! She's already there and texting you nonstop. Find her!
+Saturday! She's there. Find her!
 
 ### 전 — 당일 [세트 5]
 
@@ -311,8 +292,7 @@ AI: 나 도착했어! 어디야?
 User: 금방 가! / 잠깐만!
 
 **Outro:**
-She's been texting you every thirty seconds since she arrived.
-Now find each other!
+Texts every 30 seconds. Find her!
 
 ### 결 — 만남 [세트 6]
 
@@ -323,8 +303,7 @@ AI: 가자!
 User: 가자! / 배고파!
 
 **Outro:**
-She spotted you first and started jumping and waving.
-Next up: Staying in touch between hangouts.
+Spotted! She's jumping and waving! 🙋
 
 ---
 
@@ -344,8 +323,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-Your phone buzzed again.
-Yuna sent a voice message and three stickers. Start chatting!
+Voice message + 3 stickers. Chat time!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -356,8 +334,7 @@ User: 나도 집! / 쉬고 있어!
 AI: 심심하다.
 
 **Outro:**
-She's always ready to go — zero hesitation.
-Now ask about her day.
+Zero hesitation. Ask about her day!
 
 ### 승 — 대화 [세트 2]
 
@@ -368,8 +345,7 @@ AI: 나는 친구 만났어!
 User: 오, 좋겠다! / 재밌었겠다!
 
 **Outro:**
-Her day is always packed — she doesn't know the word "bored."
-Time to share something fun.
+She doesn't know "bored." Share more!
 
 ## sim2: Chatting More
 
@@ -378,7 +354,7 @@ Time to share something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-She's sending photos and links. Time to react and share something back!
+Photos and links incoming. React!
 
 ### 승 — 사진 [세트 3]
 
@@ -389,8 +365,7 @@ AI: 한강이야! 다음에 같이 가자!
 User: 가자! / 가고 싶어!
 
 **Outro:**
-She sends photos of everything — every meal, every street.
-Now send her something back.
+Photos of everything. Your turn!
 
 ### 전 — 재미 [세트 4]
 
@@ -401,8 +376,7 @@ AI: 진짜 웃겨! 봐봐!
 User: 볼게! / 다시 보내줘!
 
 **Outro:**
-She watched it three times and sent it to five friends.
-The night is winding down.
+Watched 3 times. Sent to 5 friends!
 
 ## sim3: Good Night
 
@@ -411,7 +385,7 @@ The night is winding down.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-The night is winding down. Can you say goodnight before she sends another meme?
+Say goodnight before another meme drops!
 
 ### 전 — 저녁 [세트 5]
 
@@ -422,8 +396,7 @@ AI: 나 붕어빵 먹었어!
 User: 좋겠다! / 먹고 싶다!
 
 **Outro:**
-Bungeoppang counts as dinner in Yuna's world.
-Time to say goodnight — if she lets you.
+Bungeoppang = dinner. Classic Yuna!
 
 ### 결 — 잘 자 [세트 6]
 
@@ -434,8 +407,7 @@ AI: 내일 또 연락해!
 User: 응! / 내일 봐!
 
 **Outro:**
-Goodnight — but she'll probably text you again in five minutes.
-Next up: Taking your Korean out into the real world.
+Goodnight! She'll text again in 5 min. 😴
 
 ---
 

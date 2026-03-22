@@ -18,7 +18,7 @@
 **📍 장소:** 학교/교실 (쉬는 시간)
 
 **intro_text:**
-Break time gossip. Wait... she went WHERE?!
+Break time gossip. She went WHERE?!
 
 **기 — 놀람 [세트 1]**
 AI: 나 어제 BTS 콘서트 갔어!
@@ -27,8 +27,7 @@ AI: 응, 진짜! 진짜 좋았어!
 User: 헐! / 미쳤어!
 
 **Outro:**
-She actually went to a BTS concert?! 😱
-But that's not even the best part...
+BTS concert?! That's not even the best part... 😱
 
 **승 — 부러움 [세트 2]**
 AI: 사진 볼래?
@@ -37,8 +36,7 @@ AI: 여기! 이거!
 User: 와! 대박! / 미쳤다!
 
 **Outro:**
-Those photos though... 📸
-And wait — she's got even bigger news to share!
+Those photos though... She has bigger news. 📸
 
 ## sim2: Reacting to News
 
@@ -47,7 +45,7 @@ And wait — she's got even bigger news to share!
 **📍 장소:** 학교/교실 (동일)
 
 **intro_text:**
-She's got that look. Brace yourself — big news incoming!
+She's got that look. Big news incoming!
 
 **승 — 소식 [세트 3]**
 AI: 나 남자친구 생겼어!
@@ -57,7 +55,6 @@ User: 축하해! / 미쳤어!
 
 **Outro:**
 A confession?! Who? When? HOW?! 💘
-The story gets even wilder...
 
 **전 — 더 놀람 [세트 4]**
 AI: 사실 3년 동안 나 좋아했대.
@@ -66,8 +63,8 @@ AI: 응, 나도 몰랐어!
 User: 대박이다! / 미쳤다!
 
 **Outro:**
-Three years of secret feelings — finally out! 🤯
-But not everything today is good news...
+Three years of secret feelings.
+Finally out! 🤯
 
 ## sim3: Bad News
 
@@ -76,7 +73,7 @@ But not everything today is good news...
 **📍 장소:** 학교/교실 (동일)
 
 **intro_text:**
-Uh oh, something happened. Be the friend she needs right now.
+Something happened. Be the friend she needs.
 
 **전 — 안 좋은 소식 [세트 5]**
 AI: 나 핸드폰 잃어버렸어.
@@ -85,8 +82,7 @@ AI: 응, 택시에 놓고 내렸어.
 User: 어떡해! / 미쳤어!
 
 **Outro:**
-A lost phone in a taxi? 😬
-Can you say the right thing to help?
+Phone lost in a taxi? Say the right thing. 😬
 
 **결 — 위로 [세트 6]**
 AI: 어떡하지...
@@ -95,8 +91,8 @@ AI: 고마워.
 User: 응! / 힘내!
 
 **Outro:**
-A concert, a confession, and a lost phone — all in one day! 😅
-You handled every twist like a true Korean drama bestie. 👏
+Concert, confession, lost phone.
+All in one day! 😅
 
 ---
 
@@ -116,8 +112,7 @@ You handled every twist like a true Korean drama bestie. 👏
 📍 장소: 카페
 
 **intro_text:**
-Minji looks tired today. Something's off.
-Be the friend she needs right now.
+Minji looks tired. Something's off.
 
 ### 기 — 고민 [세트 1]
 
@@ -127,8 +122,7 @@ AI: 요즘 너무 바빠서... 힘들어.
 User: 많이 힘들었겠다. / 수고했어.
 
 **Outro:**
-She's been holding it in. 😔
-Time to cheer her up — you know how.
+She's been holding it in. Cheer her up. 😔
 
 ### 승 — 위로 [세트 2]
 
@@ -138,8 +132,7 @@ User: 뭐 먹고 싶어? / 내가 살게!
 AI: 떡볶이 먹고 싶어!
 
 **Outro:**
-Comfort food incoming! 🍜
-Tteokbokki fixes everything... right?
+Tteokbokki fixes everything! 🍜
 
 ## sim2: 기분 전환
 
@@ -148,7 +141,7 @@ Tteokbokki fixes everything... right?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-Tteokbokki worked its magic. Keep the good vibes going!
+Tteokbokki worked. Keep the vibes going!
 
 ### 승 — 기분 전환 [세트 3]
 
@@ -158,8 +151,7 @@ AI: 응! 너는 요즘 뭐 해?
 User: 나? 드라마 봐! / 운동 시작했어!
 
 **Outro:**
-Mood: lifting! 🌤️
-She wants in on whatever you're doing.
+Mood: lifting! She wants in. 🌤️
 
 ### 전 — 같이 하자 [세트 4]
 
@@ -169,8 +161,7 @@ AI: 좋아! 약속이야!
 User: 응, 약속! / 꼭이야!
 
 **Outro:**
-Plans made! 🤝
-She's already feeling better — thanks to you.
+Plans made! She's feeling better already. 🤝
 
 ## sim3: 고마워
 
@@ -179,7 +170,7 @@ She's already feeling better — thanks to you.
 📍 장소: 카페 밖
 
 **intro_text:**
-She's smiling again. Time for a warm goodbye.
+She's smiling again. Time to say goodbye.
 
 ### 전 — 고마워 [세트 5]
 
@@ -190,7 +181,6 @@ User: 당연하지! / 언제든지!
 
 **Outro:**
 Best friend energy at its peak! 💛
-Time to head home with a full heart.
 
 ### 결 — 또 봐 [세트 6]
 
@@ -201,7 +191,6 @@ User: 응, 또 봐! / 다음에 보자!
 
 **Outro:**
 You turned her bad day around! 🌟
-Next up: Gossip time — who does she like?
 
 ---
 
@@ -221,8 +210,7 @@ Next up: Gossip time — who does she like?
 📍 장소: 카페
 
 **intro_text:**
-Minji has that look in her eye.
-She knows something... or she wants to know something.
+That look in her eye. She wants to know.
 
 ### 기 — 좋아하는 사람 [세트 1]
 
@@ -232,8 +220,7 @@ AI: 있지? 얼굴 빨개졌어!
 User: 아니야! / 좀 있어...
 
 **Outro:**
-Your face says it all! 😳
-She's not letting this go.
+Your face says it all! She won't let go. 😳
 
 ### 승 — 어떤 사람? [세트 2]
 
@@ -243,8 +230,7 @@ AI: 오, 그래? 성격은?
 User: 착해! / 웃긴 사람!
 
 **Outro:**
-Type: revealed! 💘
-Now she's got an idea...
+Type: revealed! She's got an idea... 💘
 
 ## sim2: 고백
 
@@ -253,7 +239,7 @@ Now she's got an idea...
 📍 장소: 카페 (동일)
 
 **intro_text:**
-She's pushing you to confess. Are you ready to practice?
+She's pushing you to confess. Ready?
 
 ### 승 — 고백할 거야? [세트 3]
 
@@ -263,8 +249,7 @@ AI: 해! 뭐라고 할 거야?
 User: 좋아해... 라고? / 모르겠어!
 
 **Outro:**
-The word is out there! 💬
-Time for a practice round.
+The word is out there! Practice time. 💬
 
 ### 전 — 연습 [세트 4]
 
@@ -274,8 +259,7 @@ AI: 와, 심장 뛰어! 잘할 수 있어!
 User: 정말? / 떨려!
 
 **Outro:**
-Heart racing! 💓
-She believes in you. Do you?
+Heart racing! She believes in you. 💓
 
 ## sim3: 응원
 
@@ -284,7 +268,7 @@ She believes in you. Do you?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-She believes in you. Time to be brave and make a decision!
+She believes in you. Time to be brave!
 
 ### 전 — 응원 [세트 5]
 
@@ -294,8 +278,7 @@ AI: 당연하지! 너 멋있어!
 User: 용기 낼게! / 내일 해볼게!
 
 **Outro:**
-Decision made! 🔥
-She'll be waiting for that update.
+Decision made! She's waiting for that update. 🔥
 
 ### 결 — 결과 알려줘! [세트 6]
 
@@ -306,7 +289,6 @@ User: 고마워! / 응!
 
 **Outro:**
 Bestie on standby! 📱
-Next up: What happens when you leave her on read?
 
 ---
 
@@ -326,8 +308,7 @@ Next up: What happens when you leave her on read?
 📍 장소: 학교/교실
 
 **intro_text:**
-Minji is not happy. You left her on read.
-You have exactly 30 seconds to explain yourself.
+You left her on read. 30 seconds to explain.
 
 ### 기 — 읽씹 [세트 1]
 
@@ -338,7 +319,6 @@ User: 진짜 미안해! / 핸드폰 안 봤어!
 
 **Outro:**
 Three hours?! She counted. 😤
-This is going to take more than words.
 
 ### 승 — 삐침 [세트 2]
 
@@ -348,8 +328,7 @@ AI: 어떡하긴! 답장 빨리 해!
 User: 응 미안해! / 다음엔 바로 할게!
 
 **Outro:**
-Sulking level: maximum. 😤
-Time to bring out the big guns.
+Sulking level: maximum. Bring out the big guns. 😤
 
 ## sim2: 달래기
 
@@ -358,7 +337,7 @@ Time to bring out the big guns.
 📍 장소: 학교/교실 (동일)
 
 **intro_text:**
-She's still upset. Time to bribe her with food!
+Still upset. Time to bribe her with food!
 
 ### 승 — 기분 풀어줘 [세트 3]
 
@@ -368,8 +347,7 @@ User: 뭐 먹고 싶어? / 마라탕 어때?
 AI: 오, 마라탕! 좋아!
 
 **Outro:**
-Food bribe: accepted! 🍜
-Now lock in the plans before she changes her mind.
+Food bribe: accepted! Lock in the plans. 🍜
 
 ### 전 — 약속 [세트 4]
 
@@ -379,8 +357,7 @@ AI: 수업 끝나고 가자!
 User: 그래! 기대돼! / 좋아! 빨리 가자!
 
 **Outro:**
-Plans locked! ⏰
-Mala-tang to the rescue.
+Plans locked! Mala-tang to the rescue. ⏰
 
 ## sim3: 화해
 
@@ -389,7 +366,7 @@ Mala-tang to the rescue.
 📍 장소: 마라탕 가게
 
 **intro_text:**
-The food worked. Now seal the deal and make up for real.
+Food worked. Now make up for real.
 
 ### 전 — 화해 [세트 5]
 
@@ -400,7 +377,6 @@ User: 약속할게! / 바로 할게!
 
 **Outro:**
 Food heals everything! 🥢
-Now make it official.
 
 ### 결 — 우리 사이 [세트 6]
 
@@ -411,7 +387,6 @@ User: 알겠어! 안 할게! / 약속할게!
 
 **Outro:**
 Friendship restored! 🤙
-Next up: Time to fangirl together at a concert.
 
 ---
 

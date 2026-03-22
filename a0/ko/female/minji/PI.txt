@@ -19,8 +19,7 @@ Deep breath... say hi!
 **📍 장소:** 밖
 
 **intro_text:**
-First meeting in Korea.
-Deep breath... say hi!
+First meeting in Korea. Deep breath!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 저는 민지예요!
@@ -29,8 +28,7 @@ AI: 이름이 뭐예요?
 User: 저는 ___이에요!
 
 **Outro:**
-First impression: Passed!
-But wait... why are you *really* here in Korea?
+First impression: passed!
 
 **승 — 어디에서 왔어요 [세트 2]**
 AI: 반가워요! 어디에서 왔어요?
@@ -39,8 +37,7 @@ AI: 와, 멀리서 왔네요! 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-She seems impressed!
-Now tell her *why* you love Korea.
+She seems impressed! Tell her why you're here.
 
 **승 — 왜 좋아해요 [세트 3]**
 AI: 한국 왜 좋아해요?
@@ -49,8 +46,7 @@ AI: 오, 저도요! 쇼핑 자주 해요?
 User: 네, 자주요! / 가끔요!
 
 **Outro:**
-Shared interests detected!
-She's already getting excited. Watch what happens next.
+Shared interests detected! She's getting excited.
 
 ---
 
@@ -61,7 +57,7 @@ She's already getting excited. Watch what happens next.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-She's vibing with you. Find out what you have in common!
+She's vibing. What do you have in common?
 
 **전 — 취미 [세트 4]**
 User: 민지 씨, 취미 뭐예요? / 뭐 좋아해요?
@@ -70,8 +66,7 @@ User: 저도요! / 오, 좋아요!
 AI: 진짜요? 우리 진짜 잘 맞아요!
 
 **Outro:**
-Vibe check passed!
-She's about to make a bold move...
+Vibe check passed! Bold move incoming...
 
 **전 — 말 놓기 [세트 5]**
 AI: 나이가 어떻게 돼요?
@@ -80,8 +75,7 @@ AI: 오, 비슷해요! 편하게 말해요!
 User: 네, 좋아요! / 그럴까요?
 
 **Outro:**
-Formality wall: destroyed.
-From now on, it's 반말 only.
+Formality wall: destroyed. 반말 time!
 
 **결 — 반말 시작 [세트 6]**
 AI: 좋아! 나는 민지야, 편하게 해!
@@ -90,8 +84,7 @@ AI: 반가워! 한국 음식 좋아해?
 User: 응, 좋아해! / 진짜 좋아해!
 
 **Outro:**
-New friend unlocked!
-Now lock in those weekend plans before she disappears.
+New friend unlocked! Lock in those plans!
 
 ---
 
@@ -102,7 +95,7 @@ Now lock in those weekend plans before she disappears.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-She wants to hang out! Lock in the plans before she disappears.
+She wants to hang out! Lock it in!
 
 **결 — 놀자 [세트 7]**
 AI: 주말에 뭐 해? 같이 놀래?
@@ -111,8 +104,7 @@ AI: 홍대 가자! 맛집 알아!
 User: 좋아! / 가자!
 
 **Outro:**
-It's officially a date!
-...Wait! Don't walk away without getting her Kakao ID!
+It's a date! Get her Kakao before she leaves!
 
 **결 — 연락 [세트 8]**
 User: 카톡 있어? / 카톡 해!
@@ -122,7 +114,6 @@ AI: 저장했어! 연락할게!
 
 **Outro:**
 Contact secured!
-Next up: The test that decides if you're *truly* compatible.
 
 ---
 
@@ -142,8 +133,7 @@ Next up: The test that decides if you're *truly* compatible.
 📍 장소: 홍대 쇼핑거리
 
 **intro_text:**
-Minji texted: "홍대 가자!"
-Here you are, surrounded by shops and way too many choices.
+"홍대 가자!" Shops everywhere. Too many choices.
 
 ### 기 — 뭐 살 거야? [세트 1]
 
@@ -154,8 +144,7 @@ AI: 여기 예쁜 거 많아! 들어가 보자!
 User: 좋아! / 어디?
 
 **Outro:**
-She's already pulling you into the first store. Classic Minji.
-Now let's see if your styles match.
+Into the first store already. Classic Minji.
 
 ### 승 — 이거 어때? [세트 2]
 
@@ -166,8 +155,7 @@ AI: 진짜? 나는 이거 좋아! 너는 뭐 좋아해?
 User: 이거! / 저거가 더 예뻐!
 
 **Outro:**
-First opinions shared! 👀
-Time to find out your actual style.
+First opinions shared! What's your style? 👀
 
 ## sim2: 스타일
 
@@ -176,7 +164,7 @@ Time to find out your actual style.
 📍 장소: 홍대 옷가게 안
 
 **intro_text:**
-She's picking outfits for you. Time to try things on!
+She's picking outfits. Try things on!
 
 ### 승 — 평소 스타일 [세트 3]
 
@@ -187,8 +175,7 @@ AI: 오, 그래? 이거 입어 봐!
 User: 이거? / 그럴까?
 
 **Outro:**
-She picked something for you already. That's friendship.
-Now the real question — does it look good?
+She picked something for you. That's friendship.
 
 ### 전 — 입어 봐! [세트 4]
 
@@ -200,7 +187,6 @@ User: 살까? / 다른 거 볼래.
 
 **Outro:**
 She's your personal stylist now. 💅
-But wait — there's always one more stop.
 
 ## sim3: 더 알아가기
 
@@ -209,7 +195,7 @@ But wait — there's always one more stop.
 📍 장소: 홍대 거리 (밖)
 
 **intro_text:**
-Shopping bags in hand. Now chat about what you're into lately!
+Bags in hand. What are you into lately?
 
 ### 전 — 요즘 뭐 빠졌어? [세트 5]
 
@@ -221,7 +207,6 @@ User: 같이 먹으러 가자! / 같이 보자!
 
 **Outro:**
 Shared obsessions: unlocked! 🔥
-One last thing before you go.
 
 ### 결 — 또 만나자! [세트 6]
 
@@ -233,7 +218,6 @@ User: 좋아! / 어디 가?
 
 **Outro:**
 Shopping buddy secured! 🛍️
-Next up: Making food plans with your new bestie.
 
 ---
 
@@ -253,8 +237,7 @@ Next up: Making food plans with your new bestie.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-Minji's craving something.
-Help her decide — or she'll pick for both of you.
+Minji's craving something. Help her decide!
 
 ### 기 — 배고파 [세트 1]
 
@@ -265,8 +248,7 @@ AI: 다 좋아!
 User: 네가 골라! / 그럼 떡볶이!
 
 **Outro:**
-Decision made! She was craving both anyway.
-Now find the perfect spot.
+Decision made! Now find the perfect spot.
 
 ### 승 — 맛집 [세트 2]
 
@@ -277,8 +259,8 @@ AI: 홍대에 맛있는 데 있어! 거기 갈래?
 User: 좋아! 가자! / 가까워?
 
 **Outro:**
-Restaurant picked! 🍜
-Now set the time before she changes her mind.
+Restaurant picked!
+Set the time quick! 🍜
 
 ## sim2: 약속 정하기
 
@@ -287,7 +269,7 @@ Now set the time before she changes her mind.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Food's decided. Now lock down the time and place!
+Food's decided. Lock down time and place!
 
 ### 승 — 몇 시? [세트 3]
 
@@ -298,8 +280,7 @@ AI: 알겠어! 홍대역 앞에서 볼까?
 User: 그래 좋아! / 홍대 괜찮지
 
 **Outro:**
-Plans locked! ⏰
-Now just confirm and count down.
+Plans locked! Counting down. ⏰
 
 ### 전 — 확인 [세트 4]
 
@@ -311,7 +292,6 @@ User: 안 늦어! / 먼저 가 있어!
 
 **Outro:**
 Confirmed! She's already getting ready.
-Time to head out.
 
 ## sim3: 만나자!
 
@@ -320,7 +300,7 @@ Time to head out.
 📍 장소: 홍대역 앞
 
 **intro_text:**
-She's on her way. Hurry up and find each other!
+She's on her way. Hurry up!
 
 ### 전 — 가는 길 [세트 5]
 
@@ -332,7 +312,6 @@ User: 금방 가! / 나도 배고파!
 
 **Outro:**
 She's counting the minutes. And the hunger.
-Almost there!
 
 ### 결 — 도착 [세트 6]
 
@@ -343,8 +322,7 @@ User: 아, 봤어! 가자! / 여기야! 가자!
 AI: 가자가자! 배고파 죽겠어!
 
 **Outro:**
-Found her! Now feed her before she gets hangry. 🍜
-Next up: Staying connected between hangouts.
+Found her! Feed her before she gets hangry. 🍜
 
 ---
 
@@ -364,8 +342,7 @@ Next up: Staying connected between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-Minji just texted: "뭐 해~?"
-She wants to know everything. Of course she does.
+"뭐 해~?" She wants to know everything.
 
 ### 기 — 뭐 했어? [세트 1]
 
@@ -376,8 +353,7 @@ AI: 원피스 샀어! 예쁘지?
 User: 예쁘다! / 부럽다
 
 **Outro:**
-She bought another dress. Shocking? Not really. 👗
-Now tell her about your day.
+Another dress. Shocking? Not really. 👗
 
 ### 승 — 나는 [세트 2]
 
@@ -388,8 +364,7 @@ AI: 오, 어디 갔어? 사진 있어?
 User: 응, 보내줄게! / 사진 안 찍었어!
 
 **Outro:**
-She wants photos of everything. Classic bestie behavior.
-Get ready — she's about to show you something.
+She wants photos of everything. Classic bestie.
 
 ## sim2: 사진 공유
 
@@ -398,7 +373,7 @@ Get ready — she's about to show you something.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-She just sent a photo. What delicious thing did she eat now?
+She sent a photo. What did she eat now?
 
 ### 승 — 이거 봐! [세트 3]
 
@@ -409,8 +384,7 @@ AI: 마라탕! 진짜 맛있었어!
 User: 나도 먹고 싶어! / 다음에 같이 가자!
 
 **Outro:**
-Food pics incoming! 🍜
-She's got more to share.
+Food pics incoming! She's got more. 🍜
 
 ### 전 — 추천 [세트 4]
 
@@ -422,7 +396,6 @@ User: 좋아! / 언제 갈까?
 
 **Outro:**
 Cafe recommendation saved! ☕
-The night is winding down.
 
 ## sim3: 잘 자!
 
@@ -431,7 +404,7 @@ The night is winding down.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-The night's winding down. One last chat before bed!
+Night's winding down. Last chat before bed!
 
 ### 전 — 밥 먹었어? [세트 5]
 
@@ -442,8 +415,7 @@ AI: 뭐 먹었어?
 User: 라면! / 김밥!
 
 **Outro:**
-Dinner report done! 🍜
-Time to say goodnight.
+Dinner report done! Goodnight time. 🍜
 
 ### 결 — 잘 자 [세트 6]
 
@@ -454,8 +426,7 @@ User: 내일 또 카톡 해! / 내일 연락해!
 AI: 당연하지! 잘 자!
 
 **Outro:**
-Goodnight! She'll text you first thing tomorrow. Guaranteed. 🌙
-Next up: Taking your Korean out into the real world.
+Goodnight! She'll text first thing tomorrow. 🌙
 
 ---
 

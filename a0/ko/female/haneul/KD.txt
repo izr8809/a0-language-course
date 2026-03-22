@@ -16,9 +16,7 @@
 **Goal:** To practice the unexpected encounter scene
 
 **intro_text:**
-A narrow alley in Mangwon-dong.
-She's leaning against a wall, staring at a faded mural.
-The alley is quiet. You weren't expecting anyone.
+A quiet alley. She's staring at a mural.
 
 **기 — 첫 눈 [세트 1]**
 AI: 저기 봐요. 벽에 그림 있어요.
@@ -27,7 +25,7 @@ AI: 저기요. 그림이 참 예뻐요.
 User: 네, 예쁘네요. / 신기해요.
 
 **Outro:**
-She stares at the mural quietly, taking it in.
+She stares at the mural. Taking it in.
 
 **승 — 말 걸기 [세트 2]**
 AI: 저는 여기 자주 와요. 조용해요.
@@ -36,7 +34,7 @@ AI: 여기 진짜 좋아요. 같이 봐요.
 User: 네, 좋아요. / 고마워요.
 
 **Outro:**
-She finally turns. Her expression is calm and warm.
+She turns. Calm and warm.
 
 ---
 
@@ -47,9 +45,7 @@ She finally turns. Her expression is calm and warm.
 **Goal:** To practice the first-conversation scene
 
 **intro_text:**
-A small park near the river.
-She's sitting alone on a bench, camera in hand.
-She's not taking photos. Just holding it.
+Park bench. Camera in hand. Not shooting.
 
 **승 — 자리 [세트 3]**
 AI: 저 여기 앉아도 돼요?
@@ -58,7 +54,7 @@ AI: 고마워요. 바람이 시원해요.
 User: 네, 좋아요. / 그러네요.
 
 **Outro:**
-She sets the camera gently on her lap, watching the wind move through the trees.
+Camera on her lap. Wind in the trees.
 
 **전 — 이름 [세트 4]**
 AI: 저는 하늘이에요. 이름이 뭐예요?
@@ -67,7 +63,7 @@ AI: 예쁜 이름이에요! 반가워요!
 User: 고마워요. / 반가워요!
 
 **Outro:**
-She smiles softly, happy you like her name.
+A soft smile. She likes hearing your name.
 
 ---
 
@@ -78,8 +74,7 @@ She smiles softly, happy you like her name.
 **Goal:** To practice the first farewell scene
 
 **intro_text:**
-The alley ends where a small road begins.
-She stops walking. Doesn't say anything yet.
+Alley ends. She stops. Silent.
 
 **전 — 헤어짐 [세트 5]**
 AI: 저는 이제 집에 가요.
@@ -88,7 +83,7 @@ AI: 네. 오늘 만나서 재미있었어요.
 User: 저도 재미있었어요.
 
 **Outro:**
-She waves once, then turns and walks away quietly.
+One wave. Then she walks away quietly.
 
 **결 — 마지막 [세트 6]**
 AI: 우리 다음에 또 만나요!
@@ -97,7 +92,7 @@ AI: 네! 그럼 안녕히 가세요!
 User: 안녕히 가세요! / 잘 가요!
 
 **Outro:**
-She disappears around the corner. The alley holds her warmth a little longer.
+Gone around the corner. Warmth lingers. 🌿
 
 ---
 
@@ -117,9 +112,7 @@ She disappears around the corner. The alley holds her warmth a little longer.
 **Goal:** To practice the emotional confession scene
 
 **intro_text:**
-A rooftop in Mangwon-dong.
-The city lights spread out below.
-She's been quiet for a while.
+Rooftop. City lights. She's been quiet.
 
 **기 — 침묵 [세트 1]**
 AI: 춥지 않아요? 바람 많이 불어요.
@@ -128,7 +121,7 @@ AI: 하늘 봐요. 별이 진짜 많아요.
 User: 네, 예뻐요. / 진짜 많아요.
 
 **Outro:**
-She doesn't answer right away. The night is quiet around you both.
+No answer. The night is quiet.
 
 **승 — 감정 [세트 2]**
 AI: 저 할 말 있어요. 많이 좋아해요.
@@ -137,7 +130,7 @@ AI: 골목에서 처음 봤을 때부터요.
 User: 저도 좋아해요.
 
 **Outro:**
-She says it quietly, looking straight ahead.
+Quietly said. Eyes straight ahead. 💫
 
 ---
 
@@ -148,9 +141,7 @@ She says it quietly, looking straight ahead.
 **Goal:** To practice the quiet-confession continuation scene
 
 **intro_text:**
-By the Han River at night.
-She's sitting with her knees pulled up.
-The water is dark.
+Han River at night. She's sitting close.
 
 **전 — 고백 후 [세트 3]**
 AI: 저 지금 조금 떨려요.
@@ -159,7 +150,7 @@ AI: 우리 이제 만나요. 어때요?
 User: 네, 좋아요. / 알겠어요.
 
 **Outro:**
-She smiles. Small. Real. Genuine.
+Small smile. Real. Genuine. 💛
 
 **전 — 마음 [세트 4]**
 AI: 진짜요? 저 너무 기분 좋아요!
@@ -168,7 +159,7 @@ AI: 이제 손 잡아도 돼요?
 User: 네, 잡아요!
 
 **Outro:**
-She puts her hand on the bench. Not quite your hand. Close though.
+Her hand on the bench. Close to yours. 🤍
 
 ---
 
@@ -179,8 +170,7 @@ She puts her hand on the bench. Not quite your hand. Close though.
 **Goal:** To practice the rain confession scene
 
 **intro_text:**
-It started raining while you were talking.
-She didn't move. Not even one step.
+Rain started. She didn't move.
 
 **전 — 비 [세트 5]**
 AI: 앗, 비 와요. 우산 있어요?
@@ -189,7 +179,7 @@ AI: 저도 없어요. 우리 그냥 뛰어요!
 User: 어디로 가요?
 
 **Outro:**
-She looks up at the rain, unbothered and calm.
+She looks up at the rain. Unbothered. 🌧️
 
 **결 — 비 속에서 [세트 6]**
 AI: 저기 카페로 가요! 제 손 잡아요!
@@ -198,7 +188,7 @@ AI: 비 맞으니까 시원해요! 재미있어요!
 User: 네! 재미있어요! / 감기 조심해요!
 
 **Outro:**
-She starts walking. You follow. The rain feels warm somehow.
+She walks. You follow. Rain feels warm. 🌧️
 
 ---
 
@@ -218,9 +208,7 @@ She starts walking. You follow. The rain feels warm somehow.
 **Goal:** To practice the farewell scene
 
 **intro_text:**
-In front of a small café in Mangwon.
-She has her bag on her shoulder.
-Something is different today.
+Bag on shoulder. Something's different today.
 
 **기 — 예감 [세트 1]**
 AI: 우리 이제 그만 만나요. 미안해요.
@@ -229,7 +217,7 @@ AI: 요즘 저 너무 힘들어요.
 User: 헤어지기 싫어요.
 
 **Outro:**
-She looks at her shoes, then at the grey sky above.
+She looks at her shoes. Then the grey sky.
 
 **승 — 이별 [세트 2]**
 AI: 저도 마음이 아파요.
@@ -238,7 +226,7 @@ AI: 네. 저 먼저 갈게요. 잘 지내요.
 User: 안 돼요... / 잘 가요.
 
 **Outro:**
-She says it softly, barely above a whisper.
+Softly said. Barely a whisper. 💔
 
 ---
 
@@ -249,8 +237,7 @@ She says it softly, barely above a whisper.
 **Goal:** To practice the lonely-after-goodbye scene
 
 **intro_text:**
-She's back on the rooftop. Alone this time.
-Holding the camera. Not taking photos.
+Rooftop alone. Camera. No photos.
 
 **전 — 보고 싶다 [세트 3]**
 AI: 여보세요... 지금 자요?
@@ -259,7 +246,7 @@ AI: 미안해요. 목소리 듣고 싶었어요.
 User: 우리 헤어졌잖아요. / 끊을게요.
 
 **Outro:**
-She lowers the camera and looks at the empty sky.
+Camera down. Empty sky. 🌫️
 
 **전 — 기억 [세트 4]**
 AI: 알아요. 미안해요.
@@ -268,7 +255,7 @@ AI: 내일 우리 처음 만난 골목으로 올래요?
 User: 생각해볼게요. / 알겠어요.
 
 **Outro:**
-She presses the shutter. A photo of the empty view. For someone who isn't here.
+One photo. Empty view. For someone gone. 📷
 
 ---
 
@@ -279,9 +266,7 @@ She presses the shutter. A photo of the empty view. For someone who isn't here.
 **Goal:** To practice the unexpected reunion scene
 
 **intro_text:**
-The same alley. Months later.
-She's there again. Same spot. Same mural.
-Like time never passed. Or like too much of it did.
+Same alley. Months later. She's there.
 
 **전 — 재회 [세트 5]**
 AI: 진짜 왔어요. 고마워요.
@@ -290,7 +275,7 @@ AI: 아니요, 진짜 미안해요.
 User: 저도 힘들었어요. / 보고 싶었어요.
 
 **Outro:**
-She looks at you carefully, with a small, warm smile.
+A small, warm smile. She's looking at you.
 
 **결 — 다시 [세트 6]**
 AI: 이제 안 떠나요.
@@ -299,4 +284,4 @@ AI: 네, 약속해요. 진짜 사랑해요.
 User: 저도 사랑해요.
 
 **Outro:**
-She turns back to the mural. This time, she stands close enough that your shoulders almost touch.
+Same mural. Shoulders almost touching. 🤍

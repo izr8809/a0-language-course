@@ -19,8 +19,7 @@ She looks quiet but friendly. Say hi!
 **📍 장소:** 밖
 
 **intro_text:**
-First meeting in Korea.
-She looks quiet but friendly. Say hi!
+First meeting. She looks quiet. Say hi!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요. 저는 하늘이에요.
@@ -31,16 +30,14 @@ AI: 어느 나라에서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
-She smiles quietly and waits.
-Now tell her why you came to Korea.
+She smiles quietly. Waiting.
 
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아해요?
 User: 네, 진짜 좋아해요!
 
 **Outro:**
-She nodded slowly, thinking about your answer.
-Let's see what else you two have in common.
+She nods slowly. Thinking about your answer.
 
 ---
 
@@ -51,7 +48,7 @@ Let's see what else you two have in common.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-You're getting along. Time to find out what you have in common!
+Getting along. What do you have in common?
 
 **승 — 취미 [세트 3]**
 User: 하늘 씨, 취미가 뭐예요?
@@ -61,8 +58,7 @@ AI: 우리 비슷해요! 우리 반말할까요?
 User: 네, 좋아요! / 그래요!
 
 **Outro:**
-You two have something in common.
-She looks comfortable now — maybe it's time to relax.
+Something in common. She's getting comfy.
 
 **전 — 말 놓기 [세트 4]**
 AI: 좋아! 나는 하늘이야.
@@ -70,14 +66,12 @@ User: 응! 나는 ___야! 반가워!
 AI: 응! 우리 오늘부터 친구야!
 
 **Outro:**
-She suggested it gently, with that quiet smile.
-From here on, it's 반말 — you're friends now.
+Gently suggested. You're friends now. 반말!
 
 **전 — 음식 [세트 5]**
 
 **Outro:**
-She's already picturing the cafe in her head.
-Now is your chance — ask her to hang out!
+She's picturing the cafe. Ask her out!
 
 ---
 
@@ -88,7 +82,7 @@ Now is your chance — ask her to hang out!
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **intro_text:**
-She's relaxed now. Make plans and swap Kakao IDs before she drifts away!
+She's relaxed. Swap Kakao IDs now!
 
 **전 — 놀자 [세트 6]**
 User: 주말에 뭐 해?
@@ -100,15 +94,13 @@ AI: 카톡 아이디 알려 줘.
 User: 응, 여기! / 내 아이디야.
 
 **Outro:**
-A weekend plan is forming.
-Don't forget to get her Kakao ID!
+Weekend plan forming. Get her Kakao!
 
 **결 — 연락 [세트 7]**
 AI: 고마워! 이따가 연락할게!
 
 **Outro:**
-Contact saved. She seems happy about it.
-Next up: Get to know the real her.
+Contact saved. She seems happy about it. 📱
 
 ---
 
@@ -128,8 +120,7 @@ Next up: Get to know the real her.
 📍 장소: 카페
 
 **intro_text:**
-You're at a quiet café with big windows.
-It's warm and cozy. Time to learn more about each other.
+Quiet cafe. Big windows. Time to talk.
 
 ### 기 — 나이 [세트 1]
 
@@ -140,8 +131,7 @@ AI: 나는 스물네 살이야. 어디 살아?
 User: 나는 홍대 살아!
 
 **Outro:**
-Ages exchanged over warm coffee.
-Now find out where she actually lives.
+Ages exchanged over warm coffee. ☕
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -152,8 +142,7 @@ AI: 응. 우리 동네 놀러 와.
 User: 알겠어! / 갈게!
 
 **Outro:**
-Mangwon-dong — a quiet neighborhood she loves.
-Brace yourself for the MBTI question.
+Mangwon-dong. MBTI question incoming.
 
 ## sim2: MBTI Talk
 
@@ -162,7 +151,7 @@ Brace yourself for the MBTI question.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-MBTI time. Are you two a perfect match? Let's find out.
+MBTI time. Perfect match? Find out.
 
 ### 승 — MBTI [세트 3]
 
@@ -173,8 +162,7 @@ User: ENFP야! / 모르겠어!
 AI: 괜찮아. 나는 조용한 편이야. 너는 어때?
 
 **Outro:**
-INFP meets you — she's quiet but warm.
-Now dig a little deeper.
+INFP. Quiet but warm. That's Haneul.
 
 ### 전 — 성격 [세트 4]
 
@@ -186,7 +174,6 @@ User: 응, 재밌다! / 신기해!
 
 **Outro:**
 She lives by feeling, not by schedule.
-One more round — what is she up to these days?
 
 ## sim3: More About You
 
@@ -195,7 +182,7 @@ One more round — what is she up to these days?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-The conversation flows naturally now. Share what you've been up to!
+Conversation flowing. Share what you're into!
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -206,8 +193,7 @@ AI: 나는 요즘 사진 찍어. 진짜 재밌어.
 User: 멋있다! / 나도 보여 줘!
 
 **Outro:**
-She likes taking photos of pretty places.
-Time to wrap up and plan to talk again.
+She takes photos of pretty places. 📷
 
 ### 결 — 마무리 [세트 6]
 
@@ -218,8 +204,7 @@ AI: 카톡으로 사진 보낼게.
 User: 응, 고마워! / 알겠어!
 
 **Outro:**
-She promised photos — she wants to stay in touch.
-Next up: Turn that chat into actual plans.
+Photos promised. She wants to stay in touch.
 
 ---
 
@@ -239,8 +224,7 @@ Next up: Turn that chat into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-A message from Haneul.
-She sent a pretty photo. Now make plans!
+She sent a photo. Time to make plans!
 
 ### 기 — 주말 [세트 1]
 
@@ -251,8 +235,7 @@ User: 우리 만날래?
 AI: 좋아. 뭐 할까?
 
 **Outro:**
-She said yes right away. She seems happy.
-Now figure out where you're going.
+She said yes right away. She's happy.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -263,8 +246,7 @@ User: 망원동 어때?
 AI: 거기 좋아! 맛있는 카페 알아.
 
 **Outro:**
-Mangwon-dong it is — her home neighborhood.
-Now lock in the details.
+Mangwon-dong. Her home turf.
 
 ## sim2: When and Where
 
@@ -273,7 +255,7 @@ Now lock in the details.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Lock in the details. When and where are you meeting?
+Lock in the when and where.
 
 ### 승 — 시간 [세트 3]
 
@@ -284,8 +266,7 @@ AI: 좋아! 망원역 앞에서 만나자.
 User: 응, 망원역! / 알겠어!!
 
 **Outro:**
-Time set — this weekend is going to be fun.
-One more confirmation before Saturday.
+Time set. This weekend is going to be fun.
 
 ### 전 — 확인 [세트 4]
 
@@ -296,8 +277,7 @@ AI: 응! 토요일에 꼭 나와!
 User: 알겠어! / 토요일에 봐!
 
 **Outro:**
-She's bringing her camera — you might end up in a photo.
-Saturday is almost here.
+She's bringing her camera. Smile ready? 📸
 
 ## sim3: Day of
 
@@ -306,7 +286,7 @@ Saturday is almost here.
 📍 장소: 망원역 앞 (야외)
 
 **intro_text:**
-It's the day! She's already there. Find each other and let's go!
+The day! She's there. Find each other!
 
 ### 전 — 당일 [세트 5]
 
@@ -317,8 +297,7 @@ AI: 천천히 와! 나 역 앞에 있어.
 User: 어디야? / 안 보여!
 
 **Outro:**
-She's already taking in the scenery.
-Now find each other!
+She's taking in the scenery. Find her!
 
 ### 결 — 만남 [세트 6]
 
@@ -329,8 +308,7 @@ AI: 반가워! 빨리 카페 가자.
 User: 응, 가자! / 배고파!
 
 **Outro:**
-You found her — she waves quietly with a small smile.
-Next up: Staying in touch between hangouts.
+Found her. A quiet wave and a small smile. 👋
 
 ---
 
@@ -350,8 +328,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-A notification from Haneul.
-She sent a simple message. Start chatting!
+Notification from Haneul. Start chatting!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -362,8 +339,7 @@ User: 나도 집이야!
 AI: 오늘 뭐 했어? 안 나갔어?
 
 **Outro:**
-She was relaxing at home — classic Haneul.
-Now ask about her day.
+Relaxing at home. Classic Haneul.
 
 ### 승 — 대화 [세트 2]
 
@@ -374,8 +350,7 @@ User: 응, 보여 줘! / 예쁘겠다!
 AI: 잠깐만! 지금 보낼게!
 
 **Outro:**
-She always has a photo to share.
-Time to exchange something fun.
+She always has a photo to share. 📸
 
 ## sim2: Chatting More
 
@@ -384,7 +359,7 @@ Time to exchange something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-She just sent a photo. React and share something fun back!
+She sent a photo. React and share back!
 
 ### 승 — 사진 [세트 3]
 
@@ -395,8 +370,7 @@ AI: 한강이야! 나중에 같이 가자.
 User: 응, 꼭 가자!
 
 **Outro:**
-Mangwon Hangang — filed under future plans.
-Now send her something fun.
+Hangang photo. Filed under future plans. 🌊
 
 ### 전 — 재미 [세트 4]
 
@@ -407,8 +381,7 @@ User: 진짜 좋아! / 꼭 들어 봐!
 AI: 알겠어! 지금 바로 들을게.
 
 **Outro:**
-You sent her something pretty — right up her alley.
-The night is winding down.
+Right up her alley. Night winding down.
 
 ## sim3: Good Night
 
@@ -417,7 +390,7 @@ The night is winding down.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-It's getting late. Time to say goodnight the sweet way.
+Getting late. Say goodnight the sweet way.
 
 ### 전 — 저녁 [세트 5]
 
@@ -428,8 +401,7 @@ AI: 나는 딸기 먹었어. 진짜 맛있어.
 User: 나도 딸기 좋아해! / 맛있겠다!
 
 **Outro:**
-Strawberries for dinner — simple and cute, just like her.
-Time to say goodnight.
+Strawberries for dinner. Simple and cute. 🍓
 
 ### 결 — 잘 자 [세트 6]
 
@@ -440,8 +412,7 @@ AI: 너도 푹 자! 내일 또 카톡 해!
 User: 알겠어! / 좋은 꿈 꿔!
 
 **Outro:**
-Goodnight — she's the type who sleeps early and wakes up calm.
-Next up: Taking your Korean out into the real world.
+Goodnight. She sleeps early, wakes up calm. 🌙
 
 ---
 

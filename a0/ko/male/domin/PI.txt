@@ -39,13 +39,13 @@ User: 네! / 너무 좋아해요!
 
 **Outro:**
 They loved your answer! 👀
-But wait... *why* do you like Korea?
+Why do you like Korea though?
 
 **승 — 왜 좋아해요 [세트 3]**
 
 **Outro:**
-You have something in common! 👀
-He seems friendly. Let's see if your hobbies match.
+Something in common! 👀
+Do your hobbies match too?
 
 ---
 
@@ -56,7 +56,7 @@ He seems friendly. Let's see if your hobbies match.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-You're clicking! Time to find common ground and get closer.
+You're clicking! Find common ground.
 
 **전 — 취미 [세트 4]**
 User: 도민 씨, 취미 뭐예요? / 뭐 좋아해요?
@@ -66,7 +66,7 @@ AI: 나이가 어떻게 돼요?
 
 **Outro:**
 Vibe check passed! ✔️
-He's about to ask you something...
+He wants to ask something...
 
 **전 — 말 놓기 [세트 5]**
 User: ___살이에요!
@@ -75,14 +75,14 @@ User: 네, 좋아요! / 그럴까요?
 AI: 좋아!
 
 **Outro:**
-He wants to speak casually — you're officially becoming friends! 🎉
-Now hear him in 반말 for the first time.
+Casual mode unlocked! 🎉
+반말 for the first time.
 
 **결 — 반말 시작 [세트 6]**
 
 **Outro:**
 반말 unlocked! 🔓
-He's already asking for your Kakao. Classic Domin.
+He wants your Kakao. Classic Domin.
 
 ---
 
@@ -93,7 +93,7 @@ He's already asking for your Kakao. Classic Domin.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-He wants to hang out again. Exchange info and lock in plans!
+Exchange info and lock in plans!
 
 **결 — 연락 [세트 7]**
 AI: 아이디 알려줘!
@@ -112,8 +112,8 @@ AI: 삼겹살 어때? 맛있는 데 알아!
 User: 좋아! / 가자!
 
 **Outro:**
-It's officially a date! 🥂
-Next up: The test that decides if you're *truly* compatible.
+It's a date! 🥂
+Next: the compatibility test.
 
 ---
 
@@ -133,8 +133,7 @@ Next up: The test that decides if you're *truly* compatible.
 📍 장소: 카페
 
 **intro_text:**
-You made it to the café. Now the real small talk begins.
-Age, location... and then the question everyone asks.
+Cafe small talk begins. Age, MBTI...
 
 ### 기 — 나이 [세트 1]
 
@@ -146,7 +145,7 @@ User: 진짜? / 오, 그래?
 
 **Outro:**
 Age revealed! 🎂
-Now find out where they actually live.
+Where does he live though?
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -158,7 +157,7 @@ AI: 오, 가깝다! 놀러 와!
 
 **Outro:**
 Neighbors? Maybe! 📍
-Get ready — the MBTI question is coming.
+The MBTI question is coming.
 
 ## sim2: MBTI Talk
 
@@ -167,7 +166,7 @@ Get ready — the MBTI question is coming.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-Here it comes — the MBTI question. Are you compatible?
+MBTI time. Are you compatible?
 
 ### 승 — MBTI [세트 3]
 
@@ -178,8 +177,8 @@ User: 나는 ___야! / 모르겠어!
 AI: 그렇구나.
 
 **Outro:**
-Compatibility check: Passed! 💫
-Now dig a little deeper into who they really are.
+Compatibility check: passed! 💫
+Dig a little deeper.
 
 ### 전 — 성격 [세트 4]
 
@@ -191,7 +190,7 @@ User: 오 나랑 같아! / 나랑 다르네!
 
 **Outro:**
 Same energy! ✨
-One more round — what are they up to these days?
+What are they up to lately?
 
 ## sim3: More About You
 
@@ -200,7 +199,7 @@ One more round — what are they up to these days?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-The conversation's flowing. Share what you've been up to!
+Conversation's flowing. Share more!
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -212,7 +211,7 @@ User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
 Honest answer! 😄
-Time to wrap this up and make plans to talk again.
+Wrap up and plan to meet again.
 
 ### 결 — 마무리 [세트 6]
 
@@ -224,7 +223,7 @@ User: 응, 기다릴게! / 알겠어!
 
 **Outro:**
 New friend unlocked! 🔓
-Next up: Turn that chat into actual plans.
+Next: turn chat into real plans.
 
 ---
 
@@ -244,8 +243,7 @@ Next up: Turn that chat into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-The text bubble is blinking.
-Time to shoot your shot — ask them to hang out!
+Text bubble blinking. Ask them out!
 
 ### 기 — 주말 [세트 1]
 
@@ -257,7 +255,7 @@ AI: 응! 뭐 할까?
 
 **Outro:**
 They said yes! 🙌
-Now figure out what you're actually doing.
+Now pick a plan.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -269,7 +267,7 @@ AI: 홍대 가자!
 
 **Outro:**
 Destination: Hongdae! 🗺️
-Now nail down the details — when and where exactly?
+Lock in the details.
 
 ## sim2: When and Where
 
@@ -278,7 +276,7 @@ Now nail down the details — when and where exactly?
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Plans are taking shape. Lock in the time and place!
+Lock in the time and place!
 
 ### 승 — 시간 [세트 3]
 
@@ -302,7 +300,7 @@ User: 알겠어! / 안 늦어!
 
 **Outro:**
 Plans confirmed! 📅
-Saturday is coming... are you ready for the real thing?
+Saturday is coming. Ready?
 
 ## sim3: Day of
 
@@ -311,7 +309,7 @@ Saturday is coming... are you ready for the real thing?
 📍 장소: 홍대역 앞 (야외)
 
 **intro_text:**
-It's the big day! Get there and find each other.
+The big day! Find each other.
 
 ### 전 — 당일 [세트 5]
 
@@ -323,7 +321,7 @@ User: 금방 가! / 거의 다 왔어!
 
 **Outro:**
 Almost there! 🏃
-Just one more step — actually find each other.
+One more step.
 
 ### 결 — 만남 [세트 6]
 
@@ -335,7 +333,7 @@ AI: 가자!
 
 **Outro:**
 You found each other! 🎉
-Next up: Staying in touch between hangouts.
+Next: stay in touch.
 
 ---
 
@@ -355,8 +353,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have their KakaoTalk ID.
-Now what? Just... text them!
+You have their Kakao. Text them!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -368,7 +365,7 @@ AI: 오늘 뭐 했어?
 
 **Outro:**
 Conversation started! 💬
-Now keep it going — ask about their day.
+Ask about their day.
 
 ### 승 — 대화 [세트 2]
 
@@ -380,7 +377,7 @@ AI: 나중에 알려줘!
 
 **Outro:**
 Chatting like pros! 😎
-Time to take it up a notch — share something fun.
+Share something fun.
 
 ## sim2: Chatting More
 
@@ -389,7 +386,7 @@ Time to take it up a notch — share something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-The chat's heating up. Share photos, links, and laughs!
+Chat's heating up. Share the fun!
 
 ### 승 — 사진 [세트 3]
 
@@ -414,7 +411,7 @@ User: 진짜 웃겨! / 이거 꼭 봐!
 
 **Outro:**
 Link sent! 😂
-The night is winding down... time to say goodnight.
+Night's winding down.
 
 ## sim3: Good Night
 
@@ -423,7 +420,7 @@ The night is winding down... time to say goodnight.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-It's getting late. Wrap up the chat and say goodnight!
+Getting late. Say goodnight!
 
 ### 전 — 저녁 [세트 5]
 
@@ -447,7 +444,7 @@ AI: 응, 내일 봐!
 
 **Outro:**
 Goodnight said! 🌙
-Next up: Taking your Korean out into the real world.
+Next: Korean in the real world.
 
 ---
 

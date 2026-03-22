@@ -18,8 +18,7 @@
 **Goal:** To meet Yuna on your first day at the café
 
 **intro_text:**
-You just started working at a café in Sinchon.
-A cheerful coworker rushes over to greet you.
+First day at the café. Here she comes!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 저 유나예요.
@@ -28,7 +27,7 @@ AI: 저도요! 잘 부탁해요!
 User: 네! / 잘 부탁해요!
 
 **Outro:**
-She hands you an apron before you even ask.
+Apron on. No time to think!
 
 **승 — 자기소개 [세트 2]**
 User: 오늘 첫날이에요. / 떨려요.
@@ -37,7 +36,7 @@ User: 다행이에요. / 좋아요.
 AI: 같이 잘 해요! 뭐부터 알려줄까요?
 
 **Outro:**
-She adjusts your apron collar and gives you a thumbs up.
+Thumbs up. You got this!
 
 ---
 
@@ -48,8 +47,7 @@ She adjusts your apron collar and gives you a thumbs up.
 **Goal:** To learn the basics of the job from Yuna
 
 **intro_text:**
-Yuna is giving you a quick tour of the café.
-She doesn't wait for you to ask questions.
+Tour time. Try to keep up!
 
 **승 — 메뉴 설명 [세트 3]**
 AI: 이게 메뉴판이에요.
@@ -58,7 +56,7 @@ AI: 금방 외워요. 같이 해봐요!
 User: 해볼게요. / 열심히 할게요.
 
 **Outro:**
-She taps the menu board cheerfully, pointing at everything.
+Menu memorized? Yeah, right.
 
 **전 — 주문 연습 [세트 4]**
 User: 이건 뭐예요? / 인기 메뉴가 뭐예요?
@@ -67,7 +65,7 @@ User: 알겠어요. / 고마워요.
 AI: 잘 할 거예요.
 
 **Outro:**
-She gives you a quick thumbs up across the counter.
+Quick thumbs up. You'll be fine!
 
 ---
 
@@ -78,8 +76,7 @@ She gives you a quick thumbs up across the counter.
 **Goal:** To take a break and try speaking informally
 
 **intro_text:**
-It's your first break together.
-Yuna plops down next to you and leans in.
+Break time. She sits right next to you.
 
 **전 — 반말 제안 [세트 5]**
 AI: 저 반말해도 돼요?
@@ -88,7 +85,7 @@ AI: 고마워! 첫날 어때?
 User: 나도. / 좋아.
 
 **Outro:**
-She grins and kicks her legs up on the chair.
+She grins. Casual mode: ON.
 
 **결 — 편한 대화 [세트 6]**
 User: 힘들어? / 괜찮아?
@@ -97,7 +94,7 @@ User: 나도 그래. / 나도 재밌어.
 AI: 잘 됐다! 내일도 같이 하자!
 
 **Outro:**
-First day done. Yuna is already planning tomorrow's playlist.
+Day one: done. See you tomorrow! 🎶
 
 ---
 
@@ -117,8 +114,7 @@ First day done. Yuna is already planning tomorrow's playlist.
 **Goal:** To handle orders with Yuna during a rush
 
 **intro_text:**
-The café is suddenly busy.
-Yuna waves you over to the counter.
+Rush hour. She needs you NOW.
 
 **기 — 바쁜 시간 [세트 1]**
 AI: 손님 많아요!
@@ -127,7 +123,7 @@ AI: 여기서 주문 받아봐요!
 User: 알겠어요. / 네!
 
 **Outro:**
-She's already taking an order before you even arrive.
+She's already on it. Hurry up!
 
 **승 — 주문 확인 [세트 2]**
 User: 이거 맞아요? / 잘 했어요?
@@ -136,7 +132,7 @@ User: 다행이에요. / 고마워요.
 AI: 잘 하고 있어요. 다음 손님도 해봐요!
 
 **Outro:**
-She high-fives you under the counter. Teamwork!
+Secret high-five. Teamwork! 🙌
 
 ---
 
@@ -147,8 +143,7 @@ She high-fives you under the counter. Teamwork!
 **Goal:** To chat casually with Yuna on break
 
 **intro_text:**
-The rush is finally over.
-Yuna drops into a chair next to you with a sigh.
+Rush over. She collapses next to you.
 
 **승 — 피로 표현 [세트 3]**
 AI: 힘들죠? 쉬어요.
@@ -157,7 +152,7 @@ AI: 주말엔 더 바빠요.
 User: 그렇군요. / 대단하네요.
 
 **Outro:**
-She hands you a drink without saying anything.
+She slides you a drink. No words.
 
 **전 — 카페 얘기 [세트 4]**
 User: 여기 얼마나 됐어요? / 오래 됐어요?
@@ -166,7 +161,7 @@ User: 오~ / 그렇구나.
 AI: 같이 하면 더 좋아요.
 
 **Outro:**
-She smiles like she just made a lifelong coworker.
+That smile says: we're a team now.
 
 ---
 
@@ -177,8 +172,7 @@ She smiles like she just made a lifelong coworker.
 **Goal:** To wrap up and switch to casual speech
 
 **intro_text:**
-The last customer just left.
-Yuna stretches and turns to you.
+Last customer gone. Just you two now.
 
 **전 — 반말 전환 [세트 5]**
 AI: 말 편하게 해도 돼요?
@@ -187,7 +181,7 @@ AI: 오늘 잘 했어.
 User: 너도. / 고마워.
 
 **Outro:**
-She starts wiping down the counter, humming to herself.
+She hums while wiping the counter.
 
 **결 — 청소 대화 [세트 6]**
 User: 뭐 도와줄까? / 같이 하자.
@@ -196,7 +190,7 @@ User: 알겠어. / 금방 할게.
 AI: 고마워! 내일도 올 거지?
 
 **Outro:**
-She hummed while mopping. The café has never looked this clean.
+Cleanest close ever. Good team. ✨
 
 ---
 
@@ -216,8 +210,7 @@ She hummed while mopping. The café has never looked this clean.
 **Goal:** To finish the closing shift with Yuna
 
 **intro_text:**
-It's the end of the shift.
-You and Yuna are the last ones left.
+Closing time. Just you and Yuna.
 
 **기 — 청소 시작 [세트 1]**
 AI: 청소 시작해요!
@@ -226,7 +219,7 @@ AI: 테이블 닦아요.
 User: 알겠어요. / 네!
 
 **Outro:**
-She ties her hair back and grabs the mop right away.
+Hair tied. Mop grabbed. Let's go!
 
 **승 — 역할 분담 [세트 2]**
 User: 다 닦았어요. / 끝났어요.
@@ -235,7 +228,7 @@ User: 뭐 더 있어요? / 또 뭐 해요?
 AI: 바닥만요. 금방 끝나요!
 
 **Outro:**
-Almost done! She's already excited about going home.
+Almost done! Freedom is close. 🏠
 
 ---
 
@@ -246,8 +239,7 @@ Almost done! She's already excited about going home.
 **Goal:** To get ready to leave with Yuna
 
 **intro_text:**
-Cleaning is done.
-Yuna grabs her bag and turns to you.
+All clean. Time to head out!
 
 **승 — 퇴근 준비 [세트 3]**
 AI: 다 끝났어요! 수고했어요.
@@ -256,7 +248,7 @@ AI: 오늘 어땠어요?
 User: 재밌었어요. / 좋았어요.
 
 **Outro:**
-She claps her hands together and looks satisfied.
+She claps. Done for the day!
 
 **전 — 퇴근 대화 [세트 4]**
 User: 집 어디예요? / 집 가까워요?
@@ -265,7 +257,7 @@ User: 좋겠어요. / 같이 가요!
 AI: 같이 나가요!
 
 **Outro:**
-She grabs your arm and heads for the door. No hesitation.
+She grabs your arm. Let's go!
 
 ---
 
@@ -276,8 +268,7 @@ She grabs your arm and heads for the door. No hesitation.
 **Goal:** To say goodbye and fully switch to casual speech
 
 **intro_text:**
-You're standing outside the café after the shift.
-Yuna zips up her jacket and smiles at you.
+Outside the café. She smiles at you.
 
 **전 — 반말 제안 [세트 5]**
 AI: 저 반말해도 돼요?
@@ -286,7 +277,7 @@ AI: 오늘 고마워. 재밌었지?
 User: 나도. / 재밌었어.
 
 **Outro:**
-She waves and starts walking, then glances back.
+She walks off, then glances back. 👀
 
 **결 — 작별 [세트 6]**
 User: 또 보자. / 내일 봐.
@@ -295,4 +286,4 @@ User: 잘 가. / 조심히 가.
 AI: 너도!
 
 **Outro:**
-She waves big, then runs off. Tomorrow, same time, same energy.
+Big wave, then she's gone. See ya! 👋

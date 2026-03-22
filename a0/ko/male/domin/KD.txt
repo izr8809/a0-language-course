@@ -27,8 +27,8 @@ AI: 응, 진짜! 진짜 좋았어!
 User: 헐! / 미쳤어!
 
 **Outro:**
-He actually went to a BTS concert?! 😱
-But that's not even the best part...
+A BTS concert?! 😱
+Wait, there's more...
 
 **승 — 부러움 [세트 2]**
 AI: 사진 볼래?
@@ -38,7 +38,7 @@ User: 와! 대박! / 미쳤다!
 
 **Outro:**
 Those photos though... 📸
-And wait — he's got even bigger news to share!
+He's got even bigger news!
 
 ## sim2: Reacting to News
 
@@ -47,7 +47,7 @@ And wait — he's got even bigger news to share!
 **📍 장소:** 학교/교실 (동일)
 
 **intro_text:**
-Hold on — he's got even bigger news. Brace yourself!
+Even bigger news. Brace yourself!
 
 **승 — 소식 [세트 3]**
 AI: 나 여자친구 생겼어!
@@ -66,8 +66,8 @@ AI: 응, 나도 몰랐어!
 User: 대박이다! / 미쳤다!
 
 **Outro:**
-Three years of secret feelings — finally out! 🤯
-But not everything today is good news...
+Three years of secret feelings! 🤯
+Not everything is good news though...
 
 ## sim3: Bad News
 
@@ -76,7 +76,7 @@ But not everything today is good news...
 **📍 장소:** 학교/교실 (동일)
 
 **intro_text:**
-Uh oh — something went wrong. Time to be a good friend.
+Something went wrong. Be a good friend.
 
 **전 — 안 좋은 소식 [세트 5]**
 AI: 나 핸드폰 잃어버렸어.
@@ -95,8 +95,8 @@ AI: 고마워.
 User: 응! / 당연하지!
 
 **Outro:**
-A concert, a confession, and a lost phone — all in one day! 😅
-You handled every twist like a true Korean drama bestie. 👏
+Concert, confession, lost phone. What a day! 😅
+True K-drama bestie unlocked! 👏
 
 ---
 
@@ -116,8 +116,7 @@ You handled every twist like a true Korean drama bestie. 👏
 📍 장소: 버스 정류장
 
 **intro_text:**
-Your friend looks upset. Something went wrong.
-Ask what happened — and be there for them.
+Your friend looks upset. Ask what happened.
 
 ### 기 — 짜증 [세트 1]
 
@@ -129,7 +128,7 @@ User: 어떡해! / 다음 거 타!
 
 **Outro:**
 Frustration vented! 😤
-But the day isn't over yet — there's more to unpack.
+The day's not over yet...
 
 ### 승 — 위로 [세트 2]
 
@@ -141,7 +140,7 @@ User: 수고했어! / 내일은 좀 쉬어.
 
 **Outro:**
 Comfort delivered! 🤗
-Next up: What happens when the mood flips completely?
+The mood's about to flip.
 
 ## sim2: Happy
 
@@ -150,7 +149,7 @@ Next up: What happens when the mood flips completely?
 📍 장소: 카페
 
 **intro_text:**
-Good vibes incoming! Your friend has exciting news to share.
+Good vibes! Your friend has big news.
 
 ### 승 — 기쁨 [세트 3]
 
@@ -162,7 +161,7 @@ User: 대박! 축하해! / 진짜? 잘했어!
 
 **Outro:**
 Celebration mode ON! 🎉
-And it turns out... you had something to do with it.
+Turns out... you helped make it happen.
 
 ### 전 — 감동 [세트 4]
 
@@ -174,7 +173,7 @@ User: 좋아! / 아니야, 내가 살게!
 
 **Outro:**
 Friendship goals! 💛
-But the emotional rollercoaster isn't done yet.
+The rollercoaster isn't done yet.
 
 ## sim3: Sad
 
@@ -183,7 +182,7 @@ But the emotional rollercoaster isn't done yet.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-The mood just shifted. Your friend needs you right now.
+Mood shift. Your friend needs you.
 
 ### 전 — 슬픔 [세트 5]
 
@@ -207,7 +206,7 @@ User: 응! / 좋아!
 
 **Outro:**
 You showed up for your friend! 🫂
-Next up: What do you say when you just... miss someone?
+Next: what if you miss someone?
 
 ---
 
@@ -227,8 +226,7 @@ Next up: What do you say when you just... miss someone?
 📍 장소: 온라인 (카톡/전화)
 
 **intro_text:**
-You haven't seen them in a while.
-Three words. Just say it.
+You miss them. Just say it.
 
 ### 기 — 보고 싶어 [세트 1]
 
@@ -240,7 +238,7 @@ AI: 나도. 지금 나올 수 있어?
 
 **Outro:**
 You said it! 💗
-Now make it happen — get out the door.
+Now get out the door.
 
 ### 승 — 만날까 [세트 2]
 
@@ -252,7 +250,7 @@ AI: 기다릴게!
 
 **Outro:**
 They're waiting! 🏃
-Next up: The moment you actually see each other.
+Time to meet.
 
 ## sim2: Together
 
@@ -261,7 +259,7 @@ Next up: The moment you actually see each other.
 📍 장소: 공원/길거리 (만나는 장소)
 
 **intro_text:**
-You're finally meeting up. Find each other and enjoy the moment!
+Finally meeting up. Enjoy the moment!
 
 ### 승 — 만남 [세트 3]
 
@@ -273,7 +271,7 @@ User: 아, 봤어! / 여기야!
 
 **Outro:**
 Found each other! 🌸
-And then... they say something that makes your heart skip.
+Heart skip incoming...
 
 ### 전 — 설렘 [세트 4]
 
@@ -285,7 +283,7 @@ User: 부끄러워! / 고마워.
 
 **Outro:**
 Heart: melted. 💕
-But all good things must end... for now.
+But all good things must end.
 
 ## sim3: Don't Go
 
@@ -294,7 +292,7 @@ But all good things must end... for now.
 📍 장소: 공원/길거리 (동일)
 
 **intro_text:**
-It's time to say goodbye... but you're not ready yet.
+Goodbye time. You're not ready.
 
 ### 전 — 가지 마 [세트 5]
 
@@ -306,7 +304,7 @@ User: 조금만 더! / 좀 더 있자.
 
 **Outro:**
 Five more minutes... 🥺
-But eventually, you have to say goodbye.
+But goodbye is coming.
 
 ### 결 — 다음에 [세트 6]
 
@@ -318,7 +316,7 @@ User: 응, 조심히 가. / 잘 가!
 
 **Outro:**
 See you tomorrow! 🌙
-Next up: What happens when things get a little... heated?
+Next: things get heated.
 
 ---
 
@@ -338,8 +336,7 @@ Next up: What happens when things get a little... heated?
 📍 장소: 길거리 (약속 장소 앞)
 
 **intro_text:**
-You're late. They've been waiting.
-This is going to take more than a sorry.
+You're late. They're furious.
 
 ### 기 — 화남 [세트 1]
 
@@ -351,7 +348,7 @@ User: 진짜 미안해. / 화 풀어~
 
 **Outro:**
 Anger level: high. 😤
-It's not over yet — they have more to say.
+They have more to say.
 
 ### 승 — 다툼 [세트 2]
 
@@ -363,7 +360,7 @@ User: 알아, 미안해. / 다음엔 안 그럴게.
 
 **Outro:**
 Argument peaked! 💥
-Now comes the hard part — making up.
+Now the hard part: making up.
 
 ## sim2: Making Up
 
@@ -372,7 +369,7 @@ Now comes the hard part — making up.
 📍 장소: 길거리 (동일)
 
 **intro_text:**
-The tension's still there. Can you patch things up?
+Tension's thick. Can you fix this?
 
 ### 승 — 풀기 [세트 3]
 
@@ -384,7 +381,7 @@ AI: 진짜?
 
 **Outro:**
 Offer accepted... maybe. 🍽️
-One more push and you're back on good terms.
+One more push.
 
 ### 전 — 화해 [세트 4]
 
@@ -405,7 +402,7 @@ Now seal the deal over food.
 📍 장소: 삼겹살 식당
 
 **intro_text:**
-Samgyeopsal on the table. Time to make up for real.
+Samgyeopsal's here. Make up for real.
 
 ### 전 — 맛있다 [세트 5]
 
@@ -416,8 +413,8 @@ AI: 아까 미안해. 내가 너무 화냈어.
 User: 괜찮아. / 아니야.
 
 **Outro:**
-Apology accepted over pork belly! 🤝
-Now make it official with a promise.
+Pork belly fixes everything! 🤝
+Seal it with a promise.
 
 ### 결 — 다시 [세트 6]
 
@@ -429,7 +426,7 @@ User: 약속! / 약속 지킬게!
 
 **Outro:**
 Pinky promise made! 🤙
-Next up: Time to scream your heart out at a concert.
+Next: scream at a concert!
 
 ---
 

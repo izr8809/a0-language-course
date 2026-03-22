@@ -16,8 +16,7 @@
 **Goal:** To meet Yuna at a fan signing event
 
 **intro_text:**
-You've been waiting in line for hours.
-Yuna spots you and waves before you even reach the table.
+Front of the line. She's waving at you!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 오셨어요?
@@ -26,7 +25,7 @@ AI: 잘 오셨어요!
 User: 감사해요. / 고마워요.
 
 **Outro:**
-She picks up her pen and opens your album to the first page.
+Pen up. Album open. Here we go!
 
 **승 — 사인 [세트 2]**
 User: 사인해 주세요. / 사인 부탁해요.
@@ -35,7 +34,7 @@ User: 고마워요. / 감사합니다.
 AI: 천만에요!
 
 **Outro:**
-She draws a tiny heart next to her name and slides the album back to you. 💕
+Tiny heart drawn. Album's yours now. 💕
 
 ---
 
@@ -46,8 +45,7 @@ She draws a tiny heart next to her name and slides the album back to you. 💕
 **Goal:** To take a photo with Yuna at the fan meeting
 
 **intro_text:**
-The signing is over.
-Yuna hops up from her seat and calls you over for photos.
+Signing done. Photo time with Yuna!
 
 **승 — 준비 [세트 3]**
 AI: 사진 찍어요!
@@ -56,7 +54,7 @@ AI: 가까이 와요!
 User: 알겠어요. / 네, 갈게요.
 
 **Outro:**
-She wraps her arm around you and grins at the camera.
+Arm around you. Cheese! 📸
 
 **전 — 확인 [세트 4]**
 User: 잘 나왔어요? / 어때요?
@@ -65,7 +63,7 @@ User: 같이 봐요. / 보여줘요.
 AI: 봐요!
 
 **Outro:**
-She zooms in on the photo and gasps like it's the best picture ever taken. 📸
+She zooms in. "Best photo ever!" 😍
 
 ---
 
@@ -76,8 +74,7 @@ She zooms in on the photo and gasps like it's the best picture ever taken. 📸
 **Goal:** To have a casual chat with Yuna after the event (반말)
 
 **intro_text:**
-The event is wrapping up.
-Yuna catches your eye and suddenly switches to casual speech.
+Event's ending. She switches to casual.
 
 **전 — 반말 전환 [세트 5]**
 AI: 잠깐, 반말 해도 돼?
@@ -86,7 +83,7 @@ AI: 고마워!
 User: 그래! / 편하게 해.
 
 **Outro:**
-She leans over and whispers something just for you.
+She leans in and whispers to you.
 
 **결 — 편한 대화 [세트 6]**
 User: 또 와? / 다음에도 와?
@@ -95,7 +92,7 @@ User: 기다릴게. / 꼭 와.
 AI: 알았어!
 
 **Outro:**
-She waves goodbye with both hands, bouncing on her toes until you're out of sight. 👋
+Both hands waving. She's bouncing. 👋
 
 ---
 
@@ -115,8 +112,7 @@ She waves goodbye with both hands, bouncing on her toes until you're out of sigh
 **Goal:** To see Yuna before the concert begins
 
 **intro_text:**
-The arena is packed.
-Yuna runs onto the stage and immediately looks for the crowd.
+Packed arena. She hits the stage!
 
 **기 — 인사 [세트 1]**
 AI: 다들 왔어요?
@@ -125,7 +121,7 @@ AI: 반가워요!
 User: 저도요. / 저도 반가워요.
 
 **Outro:**
-The lights dim and the music begins to swell.
+Lights dim. Music starts. 🎶
 
 **승 — 기대 [세트 2]**
 User: 노래 해요? / 노래 불러요?
@@ -134,7 +130,7 @@ User: 좋아요!. / 기대돼요!
 AI: 잘 할게요!
 
 **Outro:**
-She grabs the mic, takes a breath, and the whole arena goes quiet. 🎶
+Mic grabbed. Arena goes silent. 🎤
 
 ---
 
@@ -145,8 +141,7 @@ She grabs the mic, takes a breath, and the whole arena goes quiet. 🎶
 **Goal:** To cheer for Yuna during the encore
 
 **intro_text:**
-The main set is over.
-The crowd is screaming for more, and Yuna can't stop smiling.
+Set's over. The crowd wants MORE.
 
 **승 — 앵콜 요청 [세트 3]**
 AI: 더 볼래요?
@@ -155,7 +150,7 @@ AI: 한 곡만요.
 User: 감사해요! / 좋아요!
 
 **Outro:**
-The crowd erupts as the opening notes ring out.
+Encore begins. The crowd erupts! 🔥
 
 **전 — 환호 [세트 4]**
 User: 최고예요! / 너무 좋아요!
@@ -164,7 +159,8 @@ User: 또 해요. / 한 번 더요.
 AI: 알겠어요!
 
 **Outro:**
-She throws a finger heart into the crowd and it lands right on you. 💖
+Finger heart.
+Aimed right at you. 💖
 
 ---
 
@@ -175,8 +171,7 @@ She throws a finger heart into the crowd and it lands right on you. 💖
 **Goal:** To talk with Yuna casually after the show (반말)
 
 **intro_text:**
-The concert is over and everyone is heading out.
-Yuna is near the exit, glowing, and spots you in the crowd.
+Show's over. She finds you in the crowd.
 
 **전 — 반말 [세트 5]**
 AI: 어땠어?
@@ -185,7 +180,7 @@ AI: 진짜?
 User: 응, 정말. / 응, 진짜.
 
 **Outro:**
-She reaches out and briefly squeezes your hand.
+Quick hand squeeze. Heart stops.
 
 **결 — 소감 [세트 6]**
 User: 힘들었어? / 괜찮아?
@@ -194,7 +189,7 @@ User: 다행이야. / 잘됐다.
 AI: 고마워!
 
 **Outro:**
-She pulls you in for a quick selfie before the staff can stop her. 🤳
+Sneaky selfie before staff notice! 🤳
 
 ---
 
@@ -214,8 +209,7 @@ She pulls you in for a quick selfie before the staff can stop her. 🤳
 **Goal:** To join Yuna's live stream at the start
 
 **intro_text:**
-Yuna just went live.
-She's already waving at the screen like she's been waiting all day.
+She's live! Waving at the screen already.
 
 **기 — 방송 시작 [세트 1]**
 AI: 왔어요?
@@ -224,7 +218,7 @@ AI: 기다렸어요!
 User: 저도요. / 저도 기다렸어요.
 
 **Outro:**
-She claps her hands and does a little spin in her chair.
+Chair spin! She's so excited. 🎉
 
 **승 — 확인 [세트 2]**
 User: 언제부터요? / 오래됐어요?
@@ -233,7 +227,7 @@ User: 잘됐어요. / 다행이에요.
 AI: 맞아요!
 
 **Outro:**
-She reads your username out loud and does a little cheer just for you. 🎉
+She called YOUR name out loud! 🎉
 
 ---
 
@@ -244,8 +238,7 @@ She reads your username out loud and does a little cheer just for you. 🎉
 **Goal:** To ask Yuna a question during the live stream
 
 **intro_text:**
-Yuna is reading comments out loud.
-She suddenly points at the screen and calls on you.
+She points at the screen. Your turn!
 
 **승 — 질문 [세트 3]**
 AI: 질문 있어요?
@@ -254,7 +247,7 @@ AI: 뭐예요?
 User: 좋아하는 노래요. / 좋아하는 음식이요.
 
 **Outro:**
-She tilts her head, thinks for a second, then lights up.
+Head tilt. Then her face lights up!
 
 **전 — 노래 [세트 4]**
 User: 불러줘요. / 알려줘요.
@@ -263,7 +256,7 @@ User: 좋아요. / 듣고 싶어요.
 AI: 들어줘요!
 
 **Outro:**
-She starts humming softly and the chat explodes with hearts. 🎵
+She hums. Chat floods with hearts. 🎵
 
 ---
 
@@ -274,8 +267,7 @@ She starts humming softly and the chat explodes with hearts. 🎵
 **Goal:** To chat with Yuna as she wraps up the stream (반말)
 
 **intro_text:**
-The stream is almost over.
-Yuna leans into the camera and switches to casual speech out of nowhere.
+Stream ending. She goes casual on you.
 
 **전 — 반말 전환 [세트 5]**
 AI: 반말 해도 돼?
@@ -284,7 +276,7 @@ AI: 편하다!
 User: 좋아. / 나도 편해.
 
 **Outro:**
-She smiles straight into the camera like she's talking only to you.
+That smile is just for you.
 
 **결 — 마무리 [세트 6]**
 User: 내일도 와? / 또 와?
@@ -293,4 +285,4 @@ User: 기다릴게. / 꼭 해.
 AI: 알았어!
 
 **Outro:**
-She blows a kiss at the camera and hits the end stream button with a giggle. 😘
+Kiss blown. Stream ends. See ya! 😘

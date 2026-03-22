@@ -16,8 +16,7 @@
 **Goal:** To start a conversation by noticing the sky.
 
 **intro_text:**
-A new face at the shared workspace.
-The guy by the window speaks first.
+New face at the workspace. He speaks first.
 
 **기 — 하늘 [세트 1]**
 AI: 오늘 하늘 색 좋아요.
@@ -48,7 +47,7 @@ Somehow, that's enough.
 **📍 장소:** 연남동 공유 작업실 (작업 자리)
 
 **intro_text:**
-Time to settle in. Find the perfect spot and start creating.
+Settle in. Find your spot. Start creating.
 
 **승 — 자리 [세트 3]**
 AI: 이 자리 좋아요.
@@ -79,7 +78,7 @@ The work begins.
 **📍 장소:** 연남동 공유 작업실 (저녁)
 
 **intro_text:**
-The sun is setting. First day is almost done. How did it go?
+Sun's setting. First day almost done.
 
 **전 — 마무리 [세트 5]**
 AI: 오늘 잘 됐어요?
@@ -98,8 +97,7 @@ AI: 내일 또 봐요.
 User: 네, 내일 봐요. / 그래요, 내일!
 
 **Outro:**
-He just has a feeling. That's how Taeo is.
-You'll be back tomorrow.
+He just has a feeling. You'll be back.
 
 ---
 
@@ -119,8 +117,7 @@ You'll be back tomorrow.
 📍 장소: 연남동 공유 작업실
 
 **intro_text:**
-You've been staring at the screen too long.
-Taeo notices.
+Staring at the screen too long. He notices.
 
 ### 기 — 막힘 [세트 1]
 
@@ -153,7 +150,7 @@ Something is shifting.
 📍 장소: 연남동 공유 작업실
 
 **intro_text:**
-Taeo has a strange method. Trust it and see what happens.
+Strange method. Trust it. See what happens.
 
 ### 승 — 시도 [세트 3]
 
@@ -186,7 +183,7 @@ Trust Taeo's instincts.
 📍 장소: 연남동 공유 작업실 (오후)
 
 **intro_text:**
-Afternoon light, cold coffee, and one more push to the finish line.
+Afternoon light. Cold coffee. One more push.
 
 ### 전 — 커피 [세트 5]
 
@@ -228,8 +225,7 @@ You're starting to believe that.
 📍 장소: 연남동 공유 작업실 (밤)
 
 **intro_text:**
-Deadline tomorrow. It's already late.
-Then Taeo walks in with a paper bag.
+Deadline tomorrow. Taeo walks in with bread.
 
 ### 기 — 빵 [세트 1]
 
@@ -239,8 +235,7 @@ AI: 단 거 먹어요. 힘이 나요.
 User: 맞아요, 그렇죠. / 맞는 말이에요.
 
 **Outro:**
-He showed up with bread. Nobody asked him to.
-That's just who he is.
+Bread. Nobody asked. That's just him.
 
 ### 승 — 이론 [세트 2]
 
@@ -262,7 +257,7 @@ But somehow, it works.
 📍 장소: 연남동 공유 작업실 (새벽)
 
 **intro_text:**
-It's way past midnight. Just you two and the deadline. Keep going!
+Past midnight. Just you two. Keep going!
 
 ### 승 — 새벽 [세트 3]
 
@@ -272,8 +267,7 @@ AI: 조금만 더 해요.
 User: 뭔 소리예요. / 이상해요.
 
 **Outro:**
-2am and he says he likes this time. That's Taeo.
-You're too tired to argue.
+2am. He likes this time. That's Taeo.
 
 ### 전 — 격려 [세트 4]
 
@@ -295,7 +289,7 @@ You're not alone tonight.
 📍 장소: 연남동 공유 작업실 (새벽, 마감 후)
 
 **intro_text:**
-You made it. The work is done. Time to celebrate the small victory!
+Done! Time to celebrate the small victory!
 
 ### 전 — 완료 [세트 5]
 
@@ -316,7 +310,6 @@ AI: 내일 빵 또 사올게요.
 User: 기대할게요. / 좋아요, 약속이에요!
 
 **Outro:**
-He already knows tomorrow will be hard too.
-But that's okay. He'll bring bread.
+Tomorrow will be hard too. He'll bring bread.
 
 ---

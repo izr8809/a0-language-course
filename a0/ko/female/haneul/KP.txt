@@ -16,8 +16,7 @@
 **Goal:** To meet Haneul at a fan signing event
 
 **intro_text:**
-It's finally your turn at the fan signing table.
-She looks up and smiles — but it's a strange, dreamy smile.
+Your turn. She looks up with a dreamy smile.
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요! 이름이 뭐예요?
@@ -26,7 +25,7 @@ AI: 와, 만나서 반가워요. 밥 먹었어요?
 User: 네, 먹었어요. / 아직 안 먹었어요.
 
 **Outro:**
-She signs slowly, drawing a tiny cloud next to her name.
+She signs slowly. A tiny cloud doodle. ☁️
 
 **승 — 대화 [세트 2]**
 AI: 우리 노래 좋아해요?
@@ -35,7 +34,7 @@ AI: 고마워요! 자, 사인 여기 있어요.
 User: 감사합니다!
 
 **Outro:**
-She hands back the album with a warm, gentle smile.
+Album returned. Warm, gentle smile. 💛
 
 ---
 
@@ -46,8 +45,7 @@ She hands back the album with a warm, gentle smile.
 **Goal:** To take a photo with Haneul
 
 **intro_text:**
-You move to the photo zone.
-She's already standing there, holding something invisible in her hands.
+Photo zone. She's already there, waiting.
 
 **기 — 포즈 [세트 3]**
 User: 사진 찍어도 돼요?
@@ -56,7 +54,7 @@ User: 감사합니다! / 떨려요.
 AI: 하나, 둘, 셋! 김치!
 
 **Outro:**
-She tilts her head, looking for the best angle.
+Head tilted. Finding the best angle. 📸
 
 **승 — 사진 [세트 4]**
 User: 와, 잘 나왔어요. / 예뻐요.
@@ -65,7 +63,7 @@ User: 여기요. / 진짜 잘 나왔어요.
 AI: 진짜 잘 나왔어요! 오늘 고마워요.
 
 **Outro:**
-She smiles at the photo, genuinely pleased.
+She smiles at the photo. Genuinely pleased.
 
 ---
 
@@ -76,8 +74,7 @@ She smiles at the photo, genuinely pleased.
 **Goal:** To say goodbye to Haneul
 
 **intro_text:**
-The event is wrapping up.
-She's standing near the exit, staring at nothing in particular.
+Event wrapping up. She's near the exit.
 
 **기 — 인사 [세트 5]**
 AI: 벌써 끝났어요. 아쉬워요.
@@ -86,7 +83,7 @@ AI: 네, 이제 가야 돼요.
 User: 오늘 진짜 행복했어요. / 최고였어요.
 
 **Outro:**
-She waves slowly, quiet and sincere.
+A slow wave. Quiet and sincere. 👋
 
 **승 — 마지막 [세트 6]**
 AI: 저도 진짜 행복했어요. 우리 또 만나요!
@@ -95,7 +92,7 @@ AI: 조심히 가요! 안녕!
 User: 안녕히 가세요! / 잘 가요!
 
 **Outro:**
-She watches you leave with a lingering, gentle smile.
+She watches you leave. A lingering smile. 🌸
 
 ---
 
@@ -115,8 +112,7 @@ She watches you leave with a lingering, gentle smile.
 **Goal:** To enter the backstage area and meet Haneul
 
 **intro_text:**
-You won a fan event pass.
-A staff member leads you down a hallway — and there she is.
+Fan event pass. Down the hall — there she is.
 
 **기 — 만남 [세트 1]**
 AI: 안녕하세요! 이벤트로 왔어요?
@@ -125,7 +121,7 @@ AI: 축하해요! 오늘 공연 재미있었어요?
 User: 네, 최고였어요! / 감동했어요.
 
 **Outro:**
-She looks at you with quiet surprise, pleasantly caught off guard.
+Quiet surprise. Pleasantly caught off guard.
 
 **승 — 공연 [세트 2]**
 AI: 다행이에요. 어디가 제일 좋았어요?
@@ -134,7 +130,7 @@ AI: 진짜 고마워요. 저 너무 기분 좋아요.
 User: 저도 행복해요.
 
 **Outro:**
-She tugs at her sleeve, still thinking about the performance.
+She tugs her sleeve. Still in the moment.
 
 ---
 
@@ -145,8 +141,7 @@ She tugs at her sleeve, still thinking about the performance.
 **Goal:** To talk with Haneul backstage
 
 **intro_text:**
-She leads you to a small room.
-There are polaroids pinned to the wall everywhere.
+Small room. Polaroids on every wall.
 
 **기 — 대화 [세트 3]**
 AI: 물 마셔요. 여기 있어요.
@@ -155,7 +150,7 @@ AI: 저 오늘 무대에서 진짜 많이 떨었어요.
 User: 진짜요? / 몰랐어요.
 
 **Outro:**
-She hands it over gently, like she gives everything with care.
+Everything she gives, she gives with care.
 
 **승 — 질문 [세트 4]**
 AI: 진짜예요. 팬들 보니까 괜찮았어요.
@@ -164,7 +159,7 @@ AI: 오늘 와줘서 진짜 고마워요.
 User: 제가 더 고마워요. / 행복해요.
 
 **Outro:**
-She shrugs, but her eyes hold something almost proud.
+She shrugs. But her eyes say proud. ✨
 
 ---
 
@@ -175,8 +170,7 @@ She shrugs, but her eyes hold something almost proud.
 **Goal:** To wrap up the backstage visit
 
 **intro_text:**
-The show is completely over now.
-The stage is dark, and she's sitting on an equipment box, looking at the empty seats.
+Stage dark. She sits, watching empty seats.
 
 **기 — 느낌 [세트 5]**
 User: 공연 또 해요?
@@ -185,7 +179,7 @@ User: 네, 가요! / 꼭 가요!
 AI: 진짜죠? 저 다 기억해요.
 
 **Outro:**
-She stares at the dark stage, still feeling the energy.
+Dark stage. Still feeling the energy. 🎤
 
 **승 — 마무리 [세트 6]**
 User: 약속해요! / 잊지 마세요!
@@ -194,7 +188,7 @@ User: 안녕히 계세요. / 수고하셨어요!
 AI: 네! 다음에 또 봐요!
 
 **Outro:**
-She smiles at the empty seats, already looking forward to next time.
+Empty seats. She's already planning next time.
 
 ---
 
@@ -214,8 +208,7 @@ She smiles at the empty seats, already looking forward to next time.
 **Goal:** To connect with Haneul during her live stream
 
 **intro_text:**
-She just went live.
-The camera is slightly tilted — intentionally, you think.
+She's live. Camera slightly tilted.
 
 **기 — 시작 [세트 1]**
 AI: 안녕하세요! 제 목소리 잘 들려요?
@@ -224,7 +217,7 @@ AI: 밥 먹었어요? 저는 방금 먹었어요.
 User: 저도 먹었어요. / 아직 안 먹었어요.
 
 **Outro:**
-She adjusts the camera angle and smiles softly.
+Camera adjusted. A soft smile. 📷
 
 **승 — 인사 [세트 2]**
 AI: 오늘 제 옷 어때요? 예뻐요?
@@ -233,7 +226,7 @@ AI: 고마워요. 오늘 기분 진짜 좋아요.
 User: 저도 기분 좋아요! / 다행이에요.
 
 **Outro:**
-She looks into the camera with a calm, genuine expression.
+Calm eyes, genuine expression. 💛
 
 ---
 
@@ -244,8 +237,7 @@ She looks into the camera with a calm, genuine expression.
 **Goal:** To chat with Haneul mid-stream
 
 **intro_text:**
-She's reading comments now.
-She picks yours out without hesitation.
+She's reading comments. She picked yours.
 
 **기 — 질문 [세트 3]**
 User: 취미가 뭐예요? / 평소에 뭐 해요?
@@ -254,7 +246,7 @@ User: 보여 주세요! / 궁금해요!
 AI: 네, 나중에 꼭 사진 올릴게요.
 
 **Outro:**
-She shows a polaroid to the camera, smiling softly.
+Polaroid to the camera. Soft smile. 📸
 
 **승 — 노래 [세트 4]**
 User: 노래해 주세요! / 노래 듣고 싶어요.
@@ -263,7 +255,7 @@ User: 데뷔곡이요! / 다 좋아요!
 AI: 알겠어요. 지금 조금 노래할게요.
 
 **Outro:**
-She hums something soft, a quiet melody.
+She hums something soft. A quiet melody. 🎵
 
 ---
 
@@ -274,8 +266,7 @@ She hums something soft, a quiet melody.
 **Goal:** To say goodbye at the end of the live stream
 
 **intro_text:**
-The stream is winding down.
-She's looking at something off-screen with her head tilted.
+Stream winding down. Head tilted.
 
 **기 — 끝 [세트 5]**
 AI: 앗, 벌써 시간이 이렇게 됐어요.
@@ -284,7 +275,7 @@ AI: 아쉽지만 저 이제 가야 돼요.
 User: 오늘 진짜 재미있었어요. / 행복했어요.
 
 **Outro:**
-She waves at the camera once — slow and gentle.
+One slow wave at the camera. 👋
 
 **승 — 인사 [세트 6]**
 AI: 저도 재미있었어요. 늦었으니까 빨리 자요!
@@ -293,4 +284,4 @@ AI: 안녕! 다음에 또 만나요!
 User: 안녕! / 또 만나요!
 
 **Outro:**
-The stream ends, but her warm smile stays with you.
+Stream ends. Her smile stays with you. 🌙

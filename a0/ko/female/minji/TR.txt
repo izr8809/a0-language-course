@@ -15,7 +15,8 @@
 
 **📍 장소:** 카페 카운터
 
-**intro_text:** First Korean café order. You got this... just say it!
+**intro_text:**
+First Korean cafe order. Just say it!
 
 **기 — 주문 [세트 1]**
 AI: 안녕하세요! 뭐 드릴까요?
@@ -24,8 +25,7 @@ AI: 사이즈는요?
 User: 기본이요. / 큰 거요.
 
 **Outro:**
-Drink ordered! ☕
-But wait... that cake in the display is calling your name.
+Drink ordered! That cake is calling you... ☕
 
 **승 — 추가 [세트 2]**
 AI: 더 필요하신 거 있으세요?
@@ -34,8 +34,7 @@ AI: 치즈 케이크랑 초코 케이크 있어요!
 User: 치즈 케이크 주세요. / 초코 케이크 주세요.
 
 **Outro:**
-Order complete! 🍰
-Now, time to pay like a pro.
+Order complete! Time to pay. 🍰
 
 ---
 
@@ -46,7 +45,7 @@ Now, time to pay like a pro.
 **📍 장소:** 카페 카운터 (동일)
 
 **intro_text:**
-Time to pay! Card or cash — you got this.
+Time to pay. Card or cash?
 
 **승 — 결제 [세트 3]**
 AI: 오천 원이에요!
@@ -56,7 +55,6 @@ User: 네! / 감사합니다!
 
 **Outro:**
 Payment done! 💳
-Just one more thing before you wait...
 
 **전 — 기다리기 [세트 4]**
 AI: 잠깐만 기다려 주세요! 이름이 어떻게 되세요?
@@ -65,8 +63,7 @@ AI: 나오면 불러 드릴게요!
 User: 네 감사합니다! / 알겠어요!
 
 **Outro:**
-Name given! 📝
-Now, the hardest part: waiting for coffee.
+Name given! Now wait for coffee. 📝
 
 ---
 
@@ -77,7 +74,7 @@ Now, the hardest part: waiting for coffee.
 **📍 장소:** 카페 픽업대 → 카페 좌석
 
 **intro_text:**
-Your name's on the order. Time to grab it and find a seat!
+Name's on the order. Grab a seat!
 
 **전 — 받기 [세트 5]**
 AI: 아이스 아메리카노 나왔어요!
@@ -86,8 +83,7 @@ AI: 빨대 필요하세요?
 User: 네, 주세요. / 괜찮아요.
 
 **Outro:**
-Coffee in hand! ☕
-Now, find the perfect spot to enjoy it.
+Coffee in hand! Find the perfect spot. ☕
 
 **결 — 자리 [세트 6]**
 User: 자리 있어요? / 빈자리 있나요?
@@ -96,8 +92,7 @@ User: 감사합니다! / 네!
 AI: 맛있게 드세요!
 
 **Outro:**
-Mission accomplished! ☕🍰
-You're officially a Korean café regular. Next up: Time to explore the streets!
+Mission accomplished! Korean cafe regular now. ☕
 
 ---
 
@@ -117,8 +112,7 @@ You're officially a Korean café regular. Next up: Time to explore the streets!
 📍 장소: 명동 옷가게
 
 **intro_text:**
-You're shopping in Myeongdong. Everything looks so cute!
-Time to find out how much it costs!
+Shopping in Myeongdong. How much is it?
 
 ### 기 — 가격 [세트 1]
 
@@ -128,8 +122,7 @@ User: 좀 비싸요. / 괜찮아요!
 AI: 이건 만 원이에요! 이건 어때요?
 
 **Outro:**
-Price check done! 💰
-Now find the perfect color.
+Price check done! Find the perfect color. 💰
 
 ### 승 — 색상 [세트 2]
 
@@ -139,8 +132,7 @@ User: 파란색 보여주세요. / 검정색 주세요.
 AI: 여기요!
 
 **Outro:**
-Options unlocked! 🎨
-Time to try it on.
+Options unlocked! Try it on. 🎨
 
 ## sim2: 입어보기
 
@@ -149,7 +141,7 @@ Time to try it on.
 📍 장소: 명동 옷가게 (동일)
 
 **intro_text:**
-You found something cute. Time to try it on!
+Found something cute. Try it on!
 
 ### 승 — 탈의실 [세트 3]
 
@@ -159,8 +151,7 @@ User: 저쪽이요? / 어디요?
 AI: 저쪽이요!
 
 **Outro:**
-Fitting room found! 👗
-The real question: does it look good?
+Fitting room found! Does it look good? 👗
 
 ### 전 — 결정 [세트 4]
 
@@ -170,8 +161,7 @@ AI: 이거 세일이에요! 이만 원이에요!
 User: 그럼 살게요! / 좀 더 볼게요.
 
 **Outro:**
-Sale price? Even better! 🏷️
-Time to pay and go.
+Sale price? Even better! Time to pay. 🏷️
 
 ## sim3: 계산
 
@@ -180,7 +170,7 @@ Time to pay and go.
 📍 장소: 옷가게 카운터
 
 **intro_text:**
-Decision made! Head to the counter and pay like a pro.
+Decision made! Head to the counter.
 
 ### 전 — 결제 [세트 5]
 
@@ -190,8 +180,7 @@ User: 네, 카드요. / 현금이요.
 AI: 봉투 필요하세요?
 
 **Outro:**
-Payment time! 💳
-Almost done — just one last exchange.
+Payment time! Almost done. 💳
 
 ### 결 — 인사 [세트 6]
 
@@ -202,7 +191,6 @@ AI: 또 오세요!
 
 **Outro:**
 Shopping mission complete! 🛍️
-Next up: Navigating the subway like a local.
 
 ---
 
@@ -222,8 +210,7 @@ Next up: Navigating the subway like a local.
 📍 장소: 지하철역 입구
 
 **intro_text:**
-The subway map looks... intense.
-Ask for help — Koreans are surprisingly nice about it!
+Subway map looks intense. Ask for help!
 
 ### 기 — 도움 [세트 1]
 
@@ -233,8 +220,7 @@ User: 감사합니다! / 어디요?
 AI: 저기요! 어디 가세요?
 
 **Outro:**
-Help received! 🙋
-Now pick your destination.
+Help received! Pick your destination. 🙋
 
 ### 승 — 표 [세트 2]
 
@@ -244,8 +230,7 @@ User: 네, 알겠어요! / 카드 돼요?
 AI: 네, 돼요!
 
 **Outro:**
-Ticket purchased! 🎫
-Now find the right platform.
+Ticket purchased! Find the platform. 🎫
 
 ## sim2: 타기
 
@@ -254,7 +239,7 @@ Now find the right platform.
 📍 장소: 지하철역 안
 
 **intro_text:**
-Ticket in hand. Now find the right line and hop on!
+Ticket in hand. Find the right line!
 
 ### 승 — 어디서 타요? [세트 3]
 
@@ -264,8 +249,7 @@ User: 저쪽이요? / 이쪽이요?
 AI: 네, 맞아요!
 
 **Outro:**
-Platform found! 🚇
-Hop on and count the stops.
+Platform found! Count the stops. 🚇
 
 ### 전 — 내릴 곳 [세트 4]
 
@@ -275,8 +259,7 @@ User: 아, 알겠어요! / 알겠습니다!
 AI: 다음에 내리세요!
 
 **Outro:**
-One more stop! ⏳
-Get ready to hop off.
+One more stop! Get ready. ⏳
 
 ## sim3: 내리기
 
@@ -285,7 +268,7 @@ Get ready to hop off.
 📍 장소: 지하철역 (도착)
 
 **intro_text:**
-This is your stop! Get off and find the right exit.
+This is your stop! Find the exit.
 
 ### 전 — 도착 [세트 5]
 
@@ -295,8 +278,7 @@ AI: 3번 출구로 가세요!
 User: 3번이요? / 알겠어요!
 
 **Outro:**
-Exit located! 🚪
-Almost outside — just confirm and go.
+Exit located! Almost outside. 🚪
 
 ### 결 — 나가기 [세트 6]
 
@@ -307,7 +289,6 @@ User:  감사합니다!
 
 **Outro:**
 Subway master! 🚇
-Next up: What to do when you're not feeling great.
 
 ---
 
@@ -327,8 +308,7 @@ Next up: What to do when you're not feeling great.
 📍 장소: 편의점
 
 **intro_text:**
-You need a few things. The convenience store is your best friend in Korea.
-Just point and ask!
+Need something? Hit the convenience store!
 
 ### 기 — 물건 찾기 [세트 1]
 
@@ -338,8 +318,7 @@ User: 이거 얼마예요? / 이거 주세요.
 AI: 오천 원이에요!
 
 **Outro:**
-Item found! 🔍
-Now grab it and pay.
+Item found! Grab it and pay. 🔍
 
 ### 승 — 사기 [세트 2]
 
@@ -349,8 +328,7 @@ User: 네, 주세요. / 괜찮아요.
 AI: 네, 결제 됐습니다!
 
 **Outro:**
-Purchase complete! 🛒
-But wait — you're not feeling so great...
+Purchase complete! But wait... not feeling great. 🛒
 
 ## sim2: 약국
 
@@ -359,7 +337,7 @@ But wait — you're not feeling so great...
 📍 장소: 약국
 
 **intro_text:**
-Not feeling great? The pharmacist can help — just tell them what hurts!
+Not feeling great? Tell them what hurts!
 
 ### 승 — 아파요 [세트 3]
 
@@ -369,8 +347,7 @@ User: 머리가 아파요. / 배가 아파요.
 AI: 이거 드세요!
 
 **Outro:**
-Medicine found! 💊
-Make sure you know how to take it.
+Medicine found! Know how to take it. 💊
 
 ### 전 — 복용법 [세트 4]
 
@@ -380,8 +357,7 @@ User: 식후에요? / 식전에요?
 AI: 식후에요!
 
 **Outro:**
-Instructions clear! 📋
-Almost done — just pay and go.
+Instructions clear! Pay and go. 📋
 
 ## sim3: 마무리
 
@@ -390,7 +366,7 @@ Almost done — just pay and go.
 📍 장소: 약국 (동일)
 
 **intro_text:**
-Almost done. Pay up and get yourself home to rest!
+Almost done. Pay up and rest!
 
 ### 전 — 결제 [세트 5]
 
@@ -400,8 +376,7 @@ AI: 알겠어요! 카드 돼요?
 User: 네, 카드요. / 현금이요.
 
 **Outro:**
-All paid up! 💳
-Get well soon!
+All paid up! Get well soon. 💳
 
 ### 결 — 인사 [세트 6]
 
@@ -412,5 +387,4 @@ User: 네 수고하세요! / 안녕히 계세요!
 
 **Outro:**
 Pharmacy survival: complete! 💊
-Next up: Time to feel all the feelings in Korean.
 

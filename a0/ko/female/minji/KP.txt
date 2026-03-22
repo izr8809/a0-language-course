@@ -16,8 +16,7 @@
 **📍 장소:** 팬미팅 현장 (테이블)
 
 **intro_text:**
-This is it. She's right there.
-Don't forget how to speak...
+She's right there. Don't forget how to speak.
 
 **기 — 만남 [세트 1]**
 User: 안녕하세요! / 반가워요!
@@ -26,8 +25,7 @@ User: ___에서 왔어요!
 AI: 와, 멀리서 왔네요!
 
 **Outro:**
-You didn't faint! 🎉
-Now, ask her the most caring Korean question.
+You didn't faint! Now ask her something. 🎉
 
 **승 — 인사 [세트 2]**
 User: 밥 먹었어요? / 점심은 먹었어요?
@@ -36,8 +34,7 @@ User: 오늘 너무 멋있어요! / 오늘 너무 예뻐요!
 AI: 진짜요? 고마워요!
 
 **Outro:**
-She smiled at you! 😍
-Get ready, she's about to compliment you.
+She smiled at you! Compliment incoming... 😍
 
 ---
 
@@ -48,7 +45,7 @@ Get ready, she's about to compliment you.
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-She just complimented your Korean! Keep the conversation going!
+She complimented your Korean! Keep going!
 
 **승 — 칭찬 [세트 3]**
 AI: 한국어 잘하네요!
@@ -57,8 +54,7 @@ AI: 아니에요, 진짜 잘해요!
 User: 감사해요! / 고마워요!
 
 **Outro:**
-She noticed your Korean! 🇰🇷
-Now, tell her what your favorite song is.
+She noticed your Korean! Tell her your fav song. 🇰🇷
 
 **전 — 좋아하는 노래 [세트 4]**
 AI: 우리 노래 중에 뭐 제일 좋아해요?
@@ -67,8 +63,7 @@ AI: 진짜요? 감사해요!
 User: 오늘 불러주세요! / 듣고 싶어요!
 
 **Outro:**
-Request accepted! 🎶
-Time is almost up. Quick, give her your gift!
+Request accepted! Quick, give her your gift! 🎶
 
 ---
 
@@ -79,7 +74,7 @@ Time is almost up. Quick, give her your gift!
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Time's almost up. Give her your gift before it's over!
+Time's up soon. Give her your gift!
 
 **전 — 선물 [세트 5]**
 User: 이거 선물이에요! / 이거 받아주세요!
@@ -88,8 +83,7 @@ User: 편지예요! / 직접 썼어요!
 AI: 꼭 읽을게요!
 
 **Outro:**
-She took your letter! 💌
-Time to say the hardest word... goodbye.
+She took your letter! Now say goodbye... 💌
 
 **결 — 인사 [세트 6]**
 AI: 다음에 또 만나요!
@@ -99,7 +93,6 @@ User: 저도 사랑해요! / 사랑해요!
 
 **Outro:**
 Best moment of your life! ✨
-Next up: Screaming your lungs out at the concert.
 
 ---
 
@@ -119,8 +112,7 @@ Next up: Screaming your lungs out at the concert.
 📍 장소: 음방 대기줄
 
 **intro_text:**
-You're in line for a music show recording.
-The person next to you looks just as excited!
+In line for a music show. So excited!
 
 ### 기 — 대기 [세트 1]
 
@@ -130,8 +122,7 @@ AI: 고마워요! 응원봉 가져왔어요?
 User: 네, 여기요! / 아, 깜빡했어요!
 
 **Outro:**
-Line buddy found! 🎪
-The doors are about to open...
+Line buddy found! Doors opening soon... 🎪
 
 ### 승 — 기대 [세트 2]
 
@@ -142,7 +133,6 @@ User: 네, 기다릴게요! / 빨리요!
 
 **Outro:**
 Ready or not, it's happening! ⏳
-The stage lights are warming up...
 
 ## sim2: 음방
 
@@ -151,7 +141,7 @@ The stage lights are warming up...
 📍 장소: 음방 녹화장
 
 **intro_text:**
-The cameras are rolling! Cheer loud — she's about to perform!
+Cameras rolling! She's about to perform!
 
 ### 승 — 녹화 중 [세트 3]
 
@@ -161,8 +151,7 @@ AI: 우리 같이 노래해요!
 User: 좋아요! / 너무 좋죠!
 
 **Outro:**
-Up close and personal! 🎤
-Wait... did they just look this way?!
+Up close and personal! Did she just look?! 🎤
 
 ### 전 — 눈 마주침 [세트 4]
 
@@ -172,8 +161,7 @@ AI: 고마워요! 사랑해요!
 User: 저도 사랑해요! / 최고예요!
 
 **Outro:**
-Eye contact achieved! 👀
-That memory is locked in forever.
+Eye contact achieved! Locked in forever. 👀
 
 ## sim3: 끝나고
 
@@ -182,7 +170,7 @@ That memory is locked in forever.
 📍 장소: 음방 밖
 
 **intro_text:**
-The show's over and your heart is still racing. Share the moment!
+Show's over. Heart still racing!
 
 ### 전 — 감상 [세트 5]
 
@@ -192,8 +180,7 @@ AI: 저도 너무 즐거웠어요!
 User: 수고했어요! / 감동이에요!
 
 **Outro:**
-Post-show glow! 🌟
-New music show buddy — check!
+Post-show glow! Music show buddy secured. 🌟
 
 ### 결 — 인사 [세트 6]
 
@@ -204,7 +191,6 @@ User: 저도 사랑해요! / 저도요!
 
 **Outro:**
 Music show buddy secured! 🎫
-Next up: The most special day of the year for your idol.
 
 ---
 
@@ -224,8 +210,7 @@ Next up: The most special day of the year for your idol.
 📍 장소: 온라인 (버블/위버스)
 
 **intro_text:**
-It's your idol's birthday!
-Time to send the perfect message!
+It's her birthday! Send the perfect message!
 
 ### 기 — 생일 [세트 1]
 
@@ -235,8 +220,7 @@ AI: 와, 고마워요! 사랑해요!
 User: 저도 사랑해요! / 건강하세요!
 
 **Outro:**
-Birthday wishes sent! 🎂
-She has more to share...
+Birthday wishes sent! She has more to share. 🎂
 
 ### 승 — 선물 [세트 2]
 
@@ -246,8 +230,7 @@ AI: 편지가 제일 좋았어요!
 User: 다행이에요! / 저도 썼어요!
 
 **Outro:**
-Letters over luxury! 💌
-She's going live — don't miss it!
+Letters over luxury! She's going live! 💌
 
 ## sim2: 생일 라이브
 
@@ -256,7 +239,7 @@ She's going live — don't miss it!
 📍 장소: 온라인 (라이브 방송)
 
 **intro_text:**
-She's going live for her birthday! Jump in and celebrate!
+Birthday live! Jump in and celebrate!
 
 ### 승 — 라이브 [세트 3]
 
@@ -266,8 +249,7 @@ AI: 오늘 케이크도 있어요! 볼래요?
 User: 보여주세요! / 맛있겠다!
 
 **Outro:**
-Birthday cake on screen! 🎂
-Time for the birthday wish...
+Birthday cake on screen! Make a wish... 🎂
 
 ### 전 — 소원 [세트 4]
 
@@ -277,8 +259,7 @@ AI: 비밀이에요! 근데 팬분들이 있어서 행복해요!
 User: 감동이에요! / 응원할게요!
 
 **Outro:**
-A secret wish! 🕯️
-The night is wrapping up, but the love isn't.
+A secret wish! The love keeps going. 🕯️
 
 ## sim3: 마무리
 
@@ -287,7 +268,7 @@ The night is wrapping up, but the love isn't.
 📍 장소: 온라인 (라이브 방송, 동일)
 
 **intro_text:**
-One last birthday message before the night ends. Make it special!
+One last birthday message. Make it special!
 
 ### 전 — 행복 [세트 5]
 
@@ -297,8 +278,7 @@ AI: 내년에도 같이해요!
 User: 당연하죠! / 매년 함께할게요!
 
 **Outro:**
-Every year, together! 🎉
-One last goodnight before the birthday ends.
+Every year, together! One last goodnight. 🎉
 
 ### 결 — 잘 자요 [세트 6]
 
@@ -308,6 +288,5 @@ AI: 잘 자요! 좋은 꿈 꿔요!
 User: 잘 자요! / 좋은 꿈 꿔요!
 
 **Outro:**
-Happy birthday! 🌙
-Next up: Time to put on your professional face.
+Happy birthday, Minji! 🌙
 

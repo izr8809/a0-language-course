@@ -18,8 +18,7 @@ Deep breath... say hi!
 **📍 장소:** 밖
 
 **intro_text:**
-First meeting in Korea.
-Deep breath... say hi!
+First meeting in Korea. Say hi!
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요. 서연이에요.
@@ -28,8 +27,7 @@ AI: 어디에서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
-She said her name once. Flat, no smile. Don't ask her to repeat it.
-Now tell her where you're from.
+Name given. No smile. Don't ask twice.
 
 **승 — 어디에서 왔어요 [세트 2]**
 AI: 멀리서 왔네요. 한국 좋아해요?
@@ -38,14 +36,12 @@ AI: 뭐가 제일 좋아요?
 User: 드라마요! / 음식이요!
 
 **Outro:**
-You answered. She nodded once. That's approval.
-But wait... *why* do you like Korea?
+She nodded once. That's approval.
 
 **승 — 왜 좋아해요 [세트 3]**
 
 **Outro:**
-She asked a follow-up. That means she's actually interested.
-Let's see if your hobbies actually match.
+A follow-up? She's actually interested.
 
 ---
 
@@ -56,7 +52,7 @@ Let's see if your hobbies actually match.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-You're past the intro. Now find out what you actually have in common.
+Past the intro. What do you have in common?
 
 **전 — 취미 [세트 4]**
 User: 서연 씨, 취미 뭐예요? / 뭐 좋아해요?
@@ -65,8 +61,7 @@ User: 저도요! / 오, 진짜요?
 AI: 괜찮네요. 다음에 같이 마셔요.
 
 **Outro:**
-She didn't just approve — she made a plan on the spot.
-Now, prepare for the ultimate Korean obsession... Food.
+She made a plan on the spot. Classic.
 
 **전 — 음식 [세트 5]**
 AI: 밥 먹었어요?
@@ -75,8 +70,7 @@ AI: 같이 먹어요. 제가 정해줄게요.
 User: 네! / 좋아요!
 
 **Outro:**
-She didn't ask what you want. She'll decide. That's how Seoyeon works.
-She seems more comfortable now. Something might change soon...
+She'll decide what you eat. That's Seoyeon.
 
 ---
 
@@ -87,7 +81,7 @@ She seems more comfortable now. Something might change soon...
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **intro_text:**
-She seems comfortable now. Time to drop the formalities and make real plans.
+She's comfortable. Drop the formalities.
 
 **전 — 말 놓기 [세트 6]**
 AI: 우리 말 놓을까요?
@@ -96,8 +90,7 @@ AI: 나는 서연이야. 편하게 해.
 User: 응! 나는 ___야!
 
 **Outro:**
-She didn't ask — she announced it. For Seoyeon, that IS asking.
-Now you're on 반말 terms. Time to make some plans.
+She announced it. You're on 반말 terms now.
 
 **전 — 놀자 [세트 7]**
 User: 주말에 뭐 해? / 이번 주말 시간 있어?
@@ -106,14 +99,12 @@ User: 같이 놀래? / 놀러 가자!
 AI: 좋아. 시간은 내가 정할게.
 
 **Outro:**
-She said yes — and immediately took charge. Classic Seoyeon.
-...Wait! Don't let her walk away without getting her Kakao ID!
+She said yes and took charge. Get her Kakao!
 
 **결 — 연락 [세트 8]**
 
 **Outro:**
-"Saved it. Reply fast." She set the terms before you even sent a message.
-Next up: The test that decides if you're *truly* compatible.
+"Saved. Reply fast." Terms already set.
 
 ---
 
@@ -133,8 +124,7 @@ Next up: The test that decides if you're *truly* compatible.
 📍 장소: 성수 카페
 
 **intro_text:**
-You made it to her café in Seongsu.
-She's already sitting down, iced Americano in hand. No smile.
+Her cafe in Seongsu. Iced Americano. No smile.
 
 ### 기 — 나이 [세트 1]
 
@@ -145,8 +135,7 @@ AI: 그래? 나는 26살.
 User: 진짜? / 오, 그렇구나
 
 **Outro:**
-Age revealed. She's 26 — and already acting like your big sister.
-Now find out where she actually lives.
+She's 26. Already acting like a big sister.
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -157,8 +146,7 @@ User: 서울이야! / 홍대 근처야!
 AI: 가깝네. 좋다.
 
 **Outro:**
-Neighbors? Maybe. She already has a mental map of every good restaurant nearby.
-Get ready — the MBTI question is coming.
+Neighbors? MBTI question incoming.
 
 ## sim2: MBTI Talk
 
@@ -167,7 +155,7 @@ Get ready — the MBTI question is coming.
 📍 장소: 성수 카페 (동일)
 
 **intro_text:**
-The big question is coming. MBTI time — let's see if you match.
+MBTI time. Do you match?
 
 ### 승 — MBTI [세트 3]
 
@@ -178,8 +166,7 @@ User: ENFP야! / 모르겠어!
 AI: 그래? 나는 계획적인 편이야.
 
 **Outro:**
-ISTJ. She plans everything. Now you know why she's always one step ahead.
-Now dig a little deeper into who she really is.
+ISTJ. She plans everything. Always ahead.
 
 ### 전 — 성격 [세트 4]
 
@@ -190,8 +177,7 @@ AI: 나는 둘 다. 약속 있으면 나가.
 User: 오, 그렇구나! / 나도!
 
 **Outro:**
-She goes out when there's a plan. She always has a plan.
-One more round — what's she been up to these days?
+She goes out when there's a plan. Always.
 
 ## sim3: More About You
 
@@ -200,7 +186,7 @@ One more round — what's she been up to these days?
 📍 장소: 성수 카페 (동일)
 
 **intro_text:**
-You're vibing now. Share what you've been up to — she's actually curious.
+Good vibes. She's actually curious now.
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -211,8 +197,7 @@ AI: 나는 요즘 카페 많이 다녀.
 User: 좋겠다. / 나도 가고 싶어.
 
 **Outro:**
-You shared what you're into. She pivoted to cafés — she opens up in her own way.
-Time to wrap this up and make plans to talk again.
+She pivoted to cafes. Opening up her way.
 
 ### 결 — 마무리 [세트 6]
 
@@ -223,8 +208,7 @@ AI: 카톡 해. 일찍 자.
 User: 응! / 알겠어!
 
 **Outro:**
-New friend unlocked. Short, clear instructions. That's how she says she cares.
-Next up: Turn that chat into actual plans.
+New friend unlocked. Short, clear, caring.
 
 ---
 
@@ -244,8 +228,7 @@ Next up: Turn that chat into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-The text bubble is blinking.
-Time to shoot your shot — ask her to hang out!
+Text bubble blinking. Ask her to hang out!
 
 ### 기 — 주말 [세트 1]
 
@@ -256,8 +239,7 @@ User: 같이 놀래? / 같이 밥 먹으러 갈래?
 AI: 좋아. 내가 정할게.
 
 **Outro:**
-She said yes — and immediately took control. No discussion needed.
-Now see what she has planned.
+She said yes. Took control immediately.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -268,8 +250,7 @@ User: 좋아! / 가자!
 AI: 아침은 먹었어? 또 안 먹었지.
 
 **Outro:**
-She already had a place picked out. You didn't even get to suggest one.
-Now nail down the details — when and where exactly?
+Place already picked. You had no say.
 
 ## sim2: When and Where
 
@@ -278,7 +259,7 @@ Now nail down the details — when and where exactly?
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Plans are forming. Lock in the time and place before she decides everything.
+Lock in the time before she decides all.
 
 ### 승 — 시간 [세트 3]
 
@@ -289,8 +270,7 @@ AI: 성수역 2번 출구. 늦으면 안 돼.
 User: 응! / 알겠어!
 
 **Outro:**
-Time, place, exit number — all decided. She runs a tight schedule.
-One more check and you're all set.
+Time, place, exit number. All decided.
 
 ### 전 — 확인 [세트 4]
 
@@ -301,8 +281,7 @@ AI: 10분 전에 와. 늦으면 나 간다.
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-"10 minutes early." She set the terms and the consequence. That's Seoyeon.
-Saturday is coming... are you ready for the real thing?
+"10 minutes early or I leave." Ready?
 
 ## sim3: Day of
 
@@ -311,7 +290,7 @@ Saturday is coming... are you ready for the real thing?
 📍 장소: 성수역 앞 (야외)
 
 **intro_text:**
-It's Saturday. She's already there. Don't keep her waiting!
+Saturday. She's already there. Hurry!
 
 ### 전 — 당일 [세트 5]
 
@@ -322,8 +301,7 @@ AI: 나는 도착했어. 2번 출구 앞이야.
 User: 금방 가! / 기다려!
 
 **Outro:**
-She wants an ETA, not excuses. And she's already in position, waiting.
-Just one more step — actually find each other.
+She wants an ETA, not excuses.
 
 ### 결 — 만남 [세트 6]
 
@@ -334,8 +312,7 @@ User: 아, 봤어! / 찾았어!
 AI: 일단 밥. 내가 골라놨어.
 
 **Outro:**
-You found her. First words? "Food first. I already picked the place." Classic Seoyeon.
-Next up: Staying in touch between hangouts.
+"Food first. I picked the place." Classic. 🍽️
 
 ---
 
@@ -355,8 +332,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have her KakaoTalk ID.
-Now what? Just... text her!
+You have her Kakao. Just text her!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -367,8 +343,7 @@ User: 나는 집! 심심해. / 나는 집이야!
 AI: 심심하면 나와. 밥 사줄게.
 
 **Outro:**
-Bored? She offered to meet. Seoyeon doesn't just text — she acts.
-Now keep it going — ask about her day.
+Bored? She offered to meet. She acts fast.
 
 ### 승 — 대화 [세트 2]
 
@@ -379,8 +354,7 @@ AI: 뭐 봤어? 재밌으면 나도 알려줘.
 User: 새로 나온 거! / 비밀!
 
 **Outro:**
-She wants the recommendation. Seoyeon collects intel on everything.
-Time to take it up a notch — share something fun.
+She wants the recommendation. Intel gathered.
 
 ## sim2: Chatting More
 
@@ -389,7 +363,7 @@ Time to take it up a notch — share something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-The chat's heating up. Share some photos and keep the convo going!
+Chat's heating up. Share something fun!
 
 ### 승 — 사진 [세트 3]
 
@@ -400,8 +374,7 @@ AI: 성수 카페. 다음에 같이 가자.
 User: 가자! / 응, 가고 싶어!
 
 **Outro:**
-Café photo from Seongsu. She's already planning your next outing.
-Now send her something funny.
+Seongsu cafe photo. Next outing planned. ☕
 
 ### 전 — 재미 [세트 4]
 
@@ -412,8 +385,7 @@ User: 진짜 웃겨! 봐봐! / 재밌어! 봐!
 AI: 알겠어. 볼게.
 
 **Outro:**
-She'll watch it — but you're done for tonight. She decides when the conversation ends.
-The night is winding down... time to say goodnight.
+She'll watch it. She decides when chat ends.
 
 ## sim3: Good Night
 
@@ -422,7 +394,7 @@ The night is winding down... time to say goodnight.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-It's getting late. Wrap up the chat and say goodnight like a pro.
+Getting late. Time to say goodnight.
 
 ### 전 — 저녁 [세트 5]
 
@@ -433,8 +405,7 @@ User: 너는? / 뭐 먹었어?
 AI: 나는 샐러드 먹었어.
 
 **Outro:**
-"Did you eat properly?" — she checks quality, not just quantity.
-Almost time to wrap up for the night.
+"Did you eat properly?" She checks quality.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -445,7 +416,6 @@ User: 내일 봐! / 내일 연락해!
 AI: 응. 내일 봐.
 
 **Outro:**
-Short and clear. She said goodnight and gave one last instruction. Peak Seoyeon.
-Next up: Taking your Korean out into the real world.
+Goodnight. One last instruction. Peak Seoyeon.
 
 ---

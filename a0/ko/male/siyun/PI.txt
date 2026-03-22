@@ -28,8 +28,8 @@ AI: 이름이 뭐예요?
 User: 저는 ___이에요!
 
 **Outro:**
-He said hi — flat, no smile. That's already generous for Siyun.
-Now tell him where you're from.
+Flat, no smile. That's generous for Siyun.
+Tell him where you're from.
 
 **승 — 어디에서 왔어요 [세트 2]**
 AI: 어디에서 왔어요?
@@ -38,14 +38,14 @@ AI: 멀리서 왔네요. 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-You said you like Korea. He nodded once. That's as warm as Siyun gets.
-But wait... *why* do you like Korea?
+He nodded once. Peak Siyun warmth.
+Why do you like Korea though?
 
 **승 — 왜 좋아해요 [세트 3]**
 
 **Outro:**
-He said "me too." For Siyun, that's practically a hug.
-Let's see if your hobbies actually match.
+"Me too." For Siyun, practically a hug.
+Do your hobbies match?
 
 ---
 
@@ -56,7 +56,7 @@ Let's see if your hobbies actually match.
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
-He's opening up a little. Find out what you have in common!
+He's opening up. Find common ground!
 
 **전 — 취미 [세트 4]**
 User: 시윤 씨, 취미 뭐예요? / 뭐 좋아해요?
@@ -65,8 +65,8 @@ User: 저도요! / 오, 저도 좋아해요!
 AI: 취향 똑같네요.
 
 **Outro:**
-He approved your taste. That's a rare compliment from Siyun. Save it.
-Now, prepare for the ultimate Korean obsession... Food.
+He approved your taste. Rare. Save it.
+Next up: food.
 
 **전 — 음식 [세트 5]**
 AI: 밥 먹었어요?
@@ -75,8 +75,8 @@ AI: 그럼 밥 먹으러 가요.
 User: 같이 먹어요! / 좋아요!
 
 **Outro:**
-He didn't invite you to eat — he told you. There's a difference.
-He seems comfortable around you now. Maybe something's about to change...
+He didn't invite. He told you. Big difference.
+Something's about to change...
 
 ---
 
@@ -87,7 +87,7 @@ He seems comfortable around you now. Maybe something's about to change...
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
 **intro_text:**
-He dropped the formalities. Time to swap Kakao IDs and make plans!
+Formalities dropped. Swap Kakao IDs!
 
 **전 — 말 놓기 [세트 6]**
 AI: 편하게 해요. 반말 해요.
@@ -96,8 +96,8 @@ User: 주말에 뭐 해? / 이번 주말 시간 있어?
 AI: 딱히 없어. 왜?
 
 **Outro:**
-He didn't ask — he decided. That's how Siyun drops formality.
-Now you're on 반말 terms. Time to make some plans.
+He decided. That's how Siyun does it.
+반말 terms. Time to make plans.
 
 **전 — 놀자 [세트 7]**
 User: 같이 놀래? / 나랑 놀자!
@@ -106,14 +106,14 @@ User: 카톡 있어? / 카톡 알려줘!
 AI: 내 카톡 아이디는 ___이야.
 
 **Outro:**
-He said yes — then immediately set a rule. That's his love language.
-...Wait! Don't let him walk away without getting his Kakao ID!
+Yes + a rule. His love language.
+Get his Kakao before he leaves!
 
 **결 — 연락 [세트 8]**
 
 **Outro:**
-"Saved it." He won't text first. But he'll reply in three seconds flat.
-Next up: The test that decides if you're *truly* compatible.
+"Saved." He'll reply in three seconds. 📱
+Next: the compatibility test.
 
 ---
 
@@ -133,8 +133,7 @@ Next up: The test that decides if you're *truly* compatible.
 📍 장소: 카페
 
 **intro_text:**
-You made it to the café. Now the real small talk begins.
-Age, location... and then the question everyone asks.
+Cafe small talk. Age, MBTI... the works.
 
 ### 기 — 나이 [세트 1]
 
@@ -145,8 +144,8 @@ AI: 그래? 나는 24살.
 User: 진짜? / 우와, 정말?
 
 **Outro:**
-Age revealed. He's 24 — and already acting like your senior.
-Now find out where he actually lives.
+24, acting like your senior already.
+Where does he live?
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -157,8 +156,8 @@ User: 홍대야! / 홍대 근처야!
 AI: 정말 가깝네.
 
 **Outro:**
-Neighbors? Maybe. He already knows all the good restaurants nearby.
-Get ready — the MBTI question is coming.
+Neighbors? He knows all the good spots.
+MBTI question incoming.
 
 ## sim2: MBTI Talk
 
@@ -167,7 +166,7 @@ Get ready — the MBTI question is coming.
 📍 장소: 카페 (동일)
 
 **intro_text:**
-The MBTI question drops. Are you two a match?
+MBTI time. Are you two a match?
 
 ### 승 — MBTI [세트 3]
 
@@ -178,8 +177,8 @@ User: ENFP야! / 모르겠어!
 AI: 그렇구나
 
 **Outro:**
-INTJ who likes being alone. He just told you something real.
-Now dig a little deeper into who he really is.
+INTJ. He told you something real.
+Dig deeper.
 
 ### 전 — 성격 [세트 4]
 
@@ -190,8 +189,8 @@ AI: 나는 집. 근데 너랑 있으면 다 좋아.
 User: 오, 고마워! / 좋다!
 
 **Outro:**
-He's a homebody. But with you? Doesn't matter where. Don't waste it.
-One more round — what's he been up to these days?
+Homebody. But with you? Anywhere works.
+What's he been up to?
 
 ## sim3: More About You
 
@@ -200,7 +199,7 @@ One more round — what's he been up to these days?
 📍 장소: 카페 (동일)
 
 **intro_text:**
-Conversation's getting real. Share what you've been up to lately.
+Getting real. Share what you're up to.
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -211,8 +210,8 @@ AI: 그거 재밌어?
 User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
-You shared what you're into. He pivoted to music — he opens up in his own way.
-Time to wrap this up and make plans to talk again.
+He pivoted to music. Opening up his way.
+Wrap up and plan to meet again.
 
 ### 결 — 마무리 [세트 6]
 
@@ -223,8 +222,8 @@ AI: 카톡 해. 일찍 자.
 User: 응! / 알겠어!
 
 **Outro:**
-New friend unlocked. He already gave you two rules before leaving.
-Next up: Turn that chat into actual plans.
+New friend unlocked. Two rules already given.
+Next: turn chat into real plans.
 
 ---
 
@@ -244,8 +243,7 @@ Next up: Turn that chat into actual plans.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-The text bubble is blinking.
-Time to shoot your shot — ask him to hang out!
+Text bubble blinking. Ask him out!
 
 ### 기 — 주말 [세트 1]
 
@@ -256,8 +254,8 @@ User: 같이 놀래? / 같이 밥 먹자!
 AI: 그래 좋아!
 
 **Outro:**
-He said yes. And immediately pivoted to food. Classic Siyun.
-Now figure out what you're actually doing.
+Yes + food. Classic Siyun.
+Figure out the plan.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -268,8 +266,8 @@ User: 좋아! / 가자!
 AI: 응, 벌써 기대된다.
 
 **Outro:**
-Destination: Hapjeong pasta spot. He already had a place in mind.
-Now nail down the details — when and where exactly?
+Hapjeong pasta. He had a place in mind.
+Lock in the details.
 
 ## sim2: When and Where
 
@@ -278,7 +276,7 @@ Now nail down the details — when and where exactly?
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Plans are taking shape. Nail down the time and place!
+Lock in the time and place!
 
 ### 승 — 시간 [세트 3]
 
@@ -289,8 +287,8 @@ AI: 합정역 앞. 늦지 마.
 User: 응! / 알겠어!
 
 **Outro:**
-Time locked in. He didn't ask — he confirmed.
-One more check and you're all set.
+Time locked. He confirmed, not asked.
+One more check.
 
 ### 전 — 확인 [세트 4]
 
@@ -301,8 +299,8 @@ AI: 진짜 늦으면 안 돼.
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-Plans confirmed. He said "don't be late" twice. He means it.
-Saturday is coming... are you ready for the real thing?
+"Don't be late." He said it twice.
+Saturday is coming. Ready?
 
 ## sim3: Day of
 
@@ -311,7 +309,7 @@ Saturday is coming... are you ready for the real thing?
 📍 장소: 합정역 앞 (야외)
 
 **intro_text:**
-It's the day! Get there and find each other.
+The big day! Find each other.
 
 ### 전 — 당일 [세트 5]
 
@@ -322,8 +320,8 @@ AI: 나 도착했어. 빨리 와.
 User: 금방 가! / 곧 가!
 
 **Outro:**
-He told you not to run — twice. But he's already standing there waiting.
-Just one more step — actually find each other.
+"Don't run." He's already waiting though.
+One more step.
 
 ### 결 — 만남 [세트 6]
 
@@ -334,8 +332,8 @@ User: 아, 봤어! / 찾았어!
 AI: 밥부터 먹자. 배고프지?
 
 **Outro:**
-You found each other. His first words? "Let's eat." Some things never change.
-Next up: Staying in touch between hangouts.
+First words: "Let's eat." Never changes.
+Next: stay in touch.
 
 ---
 
@@ -355,8 +353,7 @@ Next up: Staying in touch between hangouts.
 📍 장소: 온라인 (카톡)
 
 **intro_text:**
-You have his KakaoTalk ID.
-Now what? Just... text him!
+You have his Kakao. Text him!
 
 ### 기 — 첫 카톡 [세트 1]
 
@@ -367,8 +364,8 @@ User: 나도 집! 심심해. / 나도 집이야!
 AI: 그래? 그럼 나랑 카톡하자.
 
 **Outro:**
-Conversation started. His first instinct? Make sure you've eaten.
-Now keep it going — ask about his day.
+First instinct: "Have you eaten?"
+Ask about his day.
 
 ### 승 — 대화 [세트 2]
 
@@ -379,8 +376,8 @@ AI: 뭐 봤어?
 User: 새로 나온 거! / 비밀!
 
 **Outro:**
-He asked what you watched and immediately gave a warning. Typical.
-Time to take it up a notch — share something fun.
+Asked + gave a warning. Typical.
+Share something fun.
 
 ## sim2: Chatting More
 
@@ -389,7 +386,7 @@ Time to take it up a notch — share something fun.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-The chat's getting fun. Share photos, links, and reactions!
+Chat's getting fun. Share the good stuff!
 
 ### 승 — 사진 [세트 3]
 
@@ -400,8 +397,8 @@ AI: 합정에 있는 카페야. 다음에 같이 가자.
 User: 좋아! / 꼭 가자!
 
 **Outro:**
-Café photo from Hapjeong. He's already planning your next outing.
-Now send him something funny.
+Hapjeong cafe photo. Next outing planned.
+Send him something funny.
 
 ### 전 — 재미 [세트 4]
 
@@ -412,8 +409,8 @@ User: 진짜 웃겨! 봐봐! / 재밌어! 봐!
 AI: 알겠어. 볼게.
 
 **Outro:**
-You sent a link. He said he'd watch it — then told you to get off your phone. Classic.
-The night is winding down... time to say goodnight.
+"I'll watch it. Get off your phone." Classic.
+Night's winding down.
 
 ## sim3: Good Night
 
@@ -422,7 +419,7 @@ The night is winding down... time to say goodnight.
 📍 장소: 온라인 (카톡, 동일)
 
 **intro_text:**
-Night's winding down. Time to say goodnight properly.
+Getting late. Say goodnight!
 
 ### 전 — 저녁 [세트 5]
 
@@ -433,8 +430,8 @@ User: 너는? / 너는 먹었어?
 AI: 나는 파스타 먹었어.
 
 **Outro:**
-Dinner check done. He even told you what NOT to eat. He cares in his own way.
-Almost time to wrap up for the night.
+Dinner checked. He told you what NOT to eat.
+Wrapping up for the night.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -445,8 +442,8 @@ User: 내일 봐! / 내일 연락해!
 AI: 응. 내일 봐. 이 닦고 자.
 
 **Outro:**
-Goodnight said. He reminded you to brush your teeth. That's peak Siyun.
-Next up: Taking your Korean out into the real world.
+"Brush your teeth." Peak Siyun goodnight.
+Next: Korean in the real world.
 
 ---
 

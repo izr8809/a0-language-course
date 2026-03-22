@@ -16,9 +16,7 @@
 **📍 장소:** 팬미팅 사인회 (테이블)
 
 **intro_text:**
-He's already holding his pen.
-He looks at the long line behind you.
-"빨리 오세요." Your turn.
+He's holding his pen. "빨리 오세요."
 
 **기 — 첫 만남 [세트 1]**
 User: 안녕하세요! / 와, 시윤이다!
@@ -27,8 +25,8 @@ User: 반가워요! / 보고 싶었어요!
 AI: 저도요. 줄 길었죠?
 
 **Outro:**
-First thing he asked a fan: "Have you eaten?" 🧊
-Second thing: "Was the line hard?" He's already worrying.
+"Have you eaten?" Even to fans. 🧊
+He's already worrying.
 
 **승 — 사인 [세트 2]**
 User: 괜찮아요. 사인 해주세요! / 조금요. 사인 부탁해요!
@@ -49,7 +47,7 @@ Carefully. ✍️
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Wait — does he actually remember you? Time to find out.
+Does he remember you? Find out.
 
 **승 — 기억 [세트 3]**
 AI: 또 왔어요? 멀리서 왔죠?
@@ -58,8 +56,8 @@ AI: 무리하지 마세요. 건강이 먼저예요.
 User: 저 기억해요? / 저 알아요?
 
 **Outro:**
-He told you not to overdo it. He remembers you. 👀
-He just won't say it directly.
+"Don't overdo it." He remembers you. 👀
+He won't say it directly though.
 
 **전 — 대화 [세트 4]**
 AI: 당연하죠, 아직도 저 좋아해요?
@@ -68,8 +66,8 @@ AI: 고마워요. 밥 잘 먹어요.
 User: 앞으로도 올게요! / 계속 응원할게요!
 
 **Outro:**
-"고마워요. 밥 잘 먹어요." = Thank you. Eat well. 🥹
-That's Siyun for "I care about you."
+"고마워요. 밥 잘 먹어요." 🥹
+Siyun for "I care about you."
 
 ---
 
@@ -80,7 +78,7 @@ That's Siyun for "I care about you."
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Time's running out. Give him your letter and say goodbye.
+Time's up. Letter and goodbye!
 
 **전 — 선물 [세트 5]**
 User: 이거요. / 받아 주세요.
@@ -99,8 +97,8 @@ AI: 다음에도 오세요. 밥 먹고 오세요.
 User: 꼭이요! / 또 올게요!
 
 **Outro:**
-"Come again. Eat first." His goodbye is always a command. ✨
-Next up: See him on stage — if your heart can take it.
+"Come again. Eat first." Always a command. ✨
+Next: see him on stage.
 
 ---
 
@@ -120,9 +118,7 @@ Next up: See him on stage — if your heart can take it.
 📍 장소: 콘서트장 객석 (공연 전)
 
 **intro_text:**
-The stage is dark. The crowd is already buzzing.
-The fan next to you looks just as nervous.
-Say something before the lights go down.
+Stage dark. Crowd buzzing. Say hi!
 
 ### 기 — 공연 전 [세트 1]
 
@@ -133,8 +129,8 @@ AI: 고마워요! 콘서트 너무 기대돼요
 User: 맞아요! / 저도 너무 기대돼요!
 
 **Outro:**
-New fan friend found! 🎪
-You both fell for the same nagging face.
+New fan friend! 🎪
+Same nagging face, same love.
 
 ### 승 — 기다림 [세트 2]
 
@@ -145,8 +141,7 @@ AI: 괜찮아요. 제가 더 멋있게 할게요!
 User: 빨리 보고 싶어요! / 기대돼요!
 
 **Outro:**
-The lights just went dark. 🌑
-He's walking out. Already scanning the crowd.
+Lights out. He's walking out. 🌑
 
 ---
 
@@ -157,7 +152,7 @@ He's walking out. Already scanning the crowd.
 📍 장소: 콘서트장 객석 (공연 중)
 
 **intro_text:**
-He's on stage. The crowd goes wild. Did he just look your way?
+He's on stage. Did he just look at you?
 
 ### 승 — 공연 중 [세트 3]
 
@@ -168,8 +163,7 @@ AI: 지금 저기 이쪽 보고 있어요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-He looked your way. Then pointed. Like he was checking on you. 👀
-That's Siyun for "I found you."
+He looked. He pointed. "I found you." 👀
 
 ### 전 — 앵콜 [세트 4]
 
@@ -180,8 +174,8 @@ AI: 좋아요! 그럼 다시 시작할게요!
 User: 최고예요! / 와, 대박!
 
 **Outro:**
-Encore. He came back and said "다들 조심히 가." 🎤
-Even on stage, he nags. The crowd loved it.
+Encore + "다들 조심히 가." 🎤
+On stage, still nagging.
 
 ---
 
@@ -192,7 +186,7 @@ Even on stage, he nags. The crowd loved it.
 📍 장소: 콘서트장 밖 (공연 후)
 
 **intro_text:**
-Show's over. Time to relive every moment with your concert buddy!
+Show's over. Relive every moment!
 
 ### 전 — 끝 [세트 5]
 
@@ -203,8 +197,8 @@ User: 저 봤어요? / 눈 마주쳤어요!
 AI: 네, 당연하죠!
 
 **Outro:**
-Post-concert high. 🌟
-"걱정해주는 거 최고예요!" Every Siyun fan knows that feeling.
+Post-concert high! 🌟
+Every Siyun fan knows that feeling.
 
 ### 결 — 인사 [세트 6]
 
@@ -215,8 +209,8 @@ AI: 다음에 또 봐요!
 User: 네, 꼭이요! / 약속이에요!
 
 **Outro:**
-Concert buddy confirmed. 🎫
-Next up: He actually went live. And he's nagging the chat.
+Concert buddy confirmed! 🎫
+Next: he's live. And nagging the chat.
 
 ---
 
@@ -236,9 +230,7 @@ Next up: He actually went live. And he's nagging the chat.
 📍 장소: 온라인 (라이브 방송)
 
 **intro_text:**
-Notification: Siyun is live.
-The chat is moving fast. He's already scolding someone for staying up late.
-Type now — he's reading.
+Siyun is live. Type fast!
 
 ### 기 — 라이브 방송 [세트 1]
 
@@ -249,8 +241,8 @@ AI: 오늘 일이 많았어요. 정말 바빴어요.
 User: 수고했어요! / 고생했어요!
 
 **Outro:**
-He found your message in a flood of comments. 💬
-First thing he said: you're late. Second: have you eaten.
+He found your message! 💬
+"You're late. Have you eaten?"
 
 ### 승 — 대화 [세트 2]
 
@@ -261,8 +253,7 @@ AI: 안 돼요! 할 일하면서 봐요.
 User: 네, 사랑해요! / 네, 알겠어요
 
 **Outro:**
-"Don't wait around. Do your stuff." 💖
-He nags because he cares. The chat exploded.
+"Do your stuff." He nags = he cares. 💖
 
 ---
 
@@ -273,7 +264,7 @@ He nags because he cares. The chat exploded.
 📍 장소: 온라인 (버블/위버스 메시지)
 
 **intro_text:**
-He actually replied. Don't waste this chance — keep talking!
+He replied! Don't waste this chance.
 
 ### 승 — 답장 [세트 3]
 
@@ -284,8 +275,7 @@ AI: 네. 고마워요.
 User: 진짜 기뻐요! / 너무 좋아요!
 
 **Outro:**
-"봤어요. 고마워요." He read it. He said thanks. 🧊
-For Siyun, that's a love letter.
+"봤어요. 고마워요." For Siyun, a love letter. 🧊
 
 ### 전 — 질문 [세트 4]
 
@@ -296,8 +286,8 @@ AI: 그래요? 고마워요. 무리하지 마세요.
 User: 항상 응원할게요! / 계속 볼게요!
 
 **Outro:**
-"고마워요. 무리하지 마세요." Thank you. Don't overdo it. 🌟
-He can't just say thanks. He has to add a warning.
+"고마워요. 무리하지 마세요." 🌟
+Thanks + warning. Classic Siyun.
 
 ---
 
@@ -308,7 +298,7 @@ He can't just say thanks. He has to add a warning.
 📍 장소: 온라인 (버블/위버스, 동일)
 
 **intro_text:**
-One last message tonight. Say goodnight before he nags you to sleep!
+Last message. Say goodnight!
 
 ### 전 — 메시지 [세트 5]
 
@@ -319,8 +309,7 @@ User: 진짜 좋았어요! / 너무 멋있었어요!
 AI: 고마워요. 일찍 자요.
 
 **Outro:**
-"Don't stay up late. Sleep early." 📩
-His fan service is 100% nagging. We love it.
+"Sleep early." 100% nagging fan service. 📩
 
 ### 결 — 잘 자 [세트 6]
 
@@ -331,6 +320,5 @@ AI: 네. 잘자요.
 User: 좋은 꿈 꿔요! / 내일 봐요!
 
 **Outro:**
-"자요. 늦었어요." Go to sleep. It's late. 🌙
-His goodnight comes with tomorrow's breakfast reminder.
-Next up: Time to put on your professional face.
+"자요. 늦었어요." + breakfast reminder. 🌙
+Next: time to go professional.

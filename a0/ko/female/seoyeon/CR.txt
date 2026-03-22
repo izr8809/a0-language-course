@@ -16,8 +16,7 @@
 **Goal:** To arrive at the agency and meet your senior on your very first intern day.
 
 **intro_text:**
-First day at the Seongsu brand agency.
-Someone's already there, coffee in hand, checking the clock.
+First day. She's already watching the clock.
 
 **기 — 도착 [세트 1]**
 User: 안녕하세요! 새 인턴입니다. / 안녕하세요! 오늘 처음 왔습니다.
@@ -26,8 +25,7 @@ User: 네! 잘 부탁드립니다. / 알겠습니다!
 AI: 따라와요. 뛰지 말고요.
 
 **Outro:**
-She said you were late. You were five minutes early. ☕
-That's Seoyeon's way of saying welcome.
+Five minutes early. Still "late." ☕
 
 **승 — 자리 [세트 2]**
 AI: 여기 앉아요. 이 자리예요.
@@ -36,8 +34,7 @@ AI: 네. 짐 여기 놔요.
 User: 감사합니다! / 네, 알겠습니다!
 
 **Outro:**
-She pointed at the desk. It was already clean.
-She'd wiped it down herself this morning.
+Your desk was already clean. She did it. 🪑
 
 ---
 
@@ -48,7 +45,7 @@ She'd wiped it down herself this morning.
 **Goal:** To get settled at your new desk and ask basic questions about the office.
 
 **intro_text:**
-Your desk is ready. Time to figure out the basics — and she's already watching.
+Desk ready. She's already watching.
 
 **승 — 컴퓨터 [세트 3]**
 User: 이 컴퓨터 써도 돼요? / 이거 제 컴퓨터예요?
@@ -57,7 +54,7 @@ User: 감사합니다! / 네, 알겠습니다!
 AI: 모르면 물어봐요. 혼자 하지 말고요.
 
 **Outro:**
-"Don't do it alone." Her version of "I'm here if you need me."
+"Don't do it alone." That's her kindness.
 
 **전 — 점심 [세트 4]**
 AI: 밥 먹었어요? 안 먹었죠?
@@ -66,8 +63,7 @@ AI: 밥 먹으러 가요.
 User: 네! / 같이 가요!
 
 **Outro:**
-She didn't ask if you wanted to eat. She told you it was time.
-That's how she takes care of people.
+She didn't ask. She told you. Let's eat. 🍚
 
 ---
 
@@ -78,7 +74,7 @@ That's how she takes care of people.
 **Goal:** To wrap up your first day at the agency and say goodbye to your senior.
 
 **intro_text:**
-First day almost done. Say goodbye the right way — she's particular about that.
+Almost done. Say goodbye her way.
 
 **전 — 마무리 [세트 5]**
 User: 서연님, 이제 가요? / 퇴근해요?
@@ -87,8 +83,7 @@ User: 오늘 감사했습니다! / 수고하셨습니다!
 AI: 내일 9시예요. 늦지 마요.
 
 **Outro:**
-You said thank you. She gave you a schedule.
-That IS her thank you.
+You said thanks. She gave you a schedule.
 
 **결 — 인사 [세트 6]**
 User: 내일 봬요! / 내일 만나요!
@@ -97,8 +92,7 @@ User: 안녕히 계세요! / 네, 알겠습니다!
 AI: 밥 먹고 자요.
 
 **Outro:**
-First day at the agency: survived. ✨
-Her goodbye was three commands. That's how she says "I care."
+Day one: survived. ✨
 
 ---
 
@@ -118,8 +112,7 @@ Her goodbye was three commands. That's how she says "I care."
 📍 장소: 성수 브랜드 에이전시 (자기 자리)
 
 **intro_text:**
-A message popped up on your screen: "발표 자료 만들어."
-No context. No deadline mentioned. But you know — it's today.
+New message: "Make the slides." Today.
 
 ### 기 — 업무 [세트 1]
 
@@ -130,7 +123,7 @@ AI: 어렵지 않아요. 모르면 물어봐요.
 User: 네, 해볼게요! / 알겠습니다!
 
 **Outro:**
-She gave you the task. No hand-holding — but "물어봐" means the door is open.
+No hand-holding. But the door is open.
 
 ### 승 — 질문 [세트 2]
 
@@ -141,8 +134,7 @@ User: 여기요. / 이 부분이요.
 AI: 이렇게 해요. 간단하죠?
 
 **Outro:**
-She leaned over and fixed it in three seconds.
-"간단하지?" Easy, right? Only for her.
+Fixed in three seconds. "Easy, right?" 😏
 
 ---
 
@@ -153,7 +145,7 @@ She leaned over and fixed it in three seconds.
 📍 장소: 성수 브랜드 에이전시 (사무실)
 
 **intro_text:**
-You're done. Time to hand it over — and wait for her verdict.
+Done. Time for her verdict.
 
 ### 승 — 제출 [세트 3]
 
@@ -164,8 +156,7 @@ User: 괜찮아요? / 어때요?
 AI: 기다려요. 보는 중이에요.
 
 **Outro:**
-She took it without a word. Then scrolled through it slowly.
-Very slowly.
+She took it. Scrolled. Very slowly. 😶
 
 ### 전 — 수정 [세트 4]
 
@@ -176,8 +167,7 @@ AI: 네. 나머지 괜찮아요.
 User: 알겠습니다! / 네, 바꿀게요!
 
 **Outro:**
-One correction. "나머지 괜찮아" — the rest is fine.
-From Seoyeon, that's an A+.
+One fix. "The rest is fine." That's an A+.
 
 ---
 
@@ -188,7 +178,7 @@ From Seoyeon, that's an A+.
 📍 장소: 성수 브랜드 에이전시 (회의실)
 
 **intro_text:**
-Showtime. The client is waiting — and so is Seoyeon.
+Showtime. The client is waiting.
 
 ### 전 — 발표 전 [세트 5]
 
@@ -199,7 +189,7 @@ AI: 괜찮아요. 잘 할 수 있어요.
 User: 감사합니다! / 네, 해볼게요!
 
 **Outro:**
-"긴장하지 마." Don't be nervous. She said it like a fact, not a wish.
+"Don't be nervous." She said it like a fact.
 
 ### 결 — 끝나고 [세트 6]
 
@@ -210,8 +200,7 @@ User: 감사합니다! / 고마워요!
 AI: 네. 오늘 밥은 제가 살게요
 
 **Outro:**
-"잘 했어." Then she bought you dinner. 🌟
-That's Seoyeon's standing ovation.
+"Good job." Then she bought dinner. 🌟
 
 ---
 
@@ -231,8 +220,7 @@ That's Seoyeon's standing ovation.
 📍 장소: 성수 브랜드 에이전시 (밤)
 
 **intro_text:**
-9PM. The office is mostly empty.
-You're still working. So is she.
+9PM. Office empty. She's still here.
 
 ### 기 — 야근 [세트 1]
 
@@ -243,8 +231,7 @@ User: 아직입니다. / 네, 일이 좀 남아서.
 AI: 천천히 해요. 급하게 하지 말고요.
 
 **Outro:**
-She didn't ask why you were still there.
-She just said: don't rush. Then stayed.
+"Don't rush." Then she stayed too.
 
 ### 승 — 밤 [세트 2]
 
@@ -255,7 +242,7 @@ AI: 조금이 뭐예요. 가요.
 User: 어디 가요? / 뭐 먹으러요?
 
 **Outro:**
-"What do you mean, 'a little'?" She grabbed her bag before you could answer.
+"A little?!" Bag grabbed. Let's go. 👜
 
 ---
 
@@ -266,7 +253,7 @@ User: 어디 가요? / 뭐 먹으러요?
 📍 장소: 성수 근처 편의점
 
 **intro_text:**
-Late-night snack run. She dragged you here — now pick something good.
+Late-night snack run. Pick something good.
 
 ### 승 — 선택 [세트 3]
 
@@ -277,8 +264,7 @@ User: 이거 괜찮아요? / 이거 어때요?
 AI: 네. 이것도 가져요.
 
 **Outro:**
-You picked one. She grabbed two.
-Plus something warm to drink — "you" forgot, but she didn't.
+You picked one. She grabbed two. 🥤
 
 ### 전 — 계산 [세트 4]
 
@@ -289,8 +275,7 @@ AI: 괜찮아요. 다음에 사요.
 User: …감사합니다. / 고마워요.
 
 **Outro:**
-She paid and walked out. "다음에 사."
-There will be a next time. She's already decided.
+She paid. "You're buying next time." 💳
 
 ---
 
@@ -301,7 +286,7 @@ There will be a next time. She's already decided.
 📍 장소: 성수 에이전시 앞 거리
 
 **intro_text:**
-Walking back under the streetlights. It's quiet — but not awkward.
+Walking back. Quiet, but not awkward.
 
 ### 전 — 돌아가기 [세트 5]
 
@@ -312,8 +297,7 @@ User: 저는 피곤해요. / 저는 힘들어요.
 AI: 알아요. 저도 그래요.
 
 **Outro:**
-"알아. 나도 여기 있어." That's the most she's ever said.
-Don't expect it again.
+"I know. I'm here too." Rare words. 🌙
 
 ### 결 — 마무리 [세트 6]
 
@@ -324,7 +308,6 @@ AI: 네, 저도 갈 거예요. 기다려요.
 User: 같이 가요! / 네, 기다릴게요!
 
 **Outro:**
-She said "기다려" — wait for me. 🌙
-Late nights here? Not so bad after all.
+"Wait for me." Late nights aren't so bad. 🌙
 
 ---

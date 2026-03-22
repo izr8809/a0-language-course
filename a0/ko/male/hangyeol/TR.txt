@@ -15,7 +15,7 @@
 
 **📍 장소:** 건대 카페 카운터
 
-**intro_text:** Hangyeol's favorite café near Konkuk. He practically lives here!
+**intro_text:** His favorite cafe. He practically lives here!
 
 **기 — 주문 [세트 1]**
 AI: 안녕하세요! 뭐 드릴까요?
@@ -24,8 +24,7 @@ AI: 사이즈는요?
 User: 기본이요. / 큰 거요.
 
 **Outro:**
-Drink ordered! ☕
-Hangyeol says the snacks here are incredible, too.
+Drink ordered! Try the snacks too. ☕
 
 **승 — 추가 [세트 2]**
 AI: 더 필요한 거 있어요?
@@ -55,8 +54,7 @@ AI: 네, 돼요!
 User: 네! / 감사합니다!
 
 **Outro:**
-Payment done! 💳
-Just one more thing before the wait begins.
+Payment done! Almost there. 💳
 
 **전 — 기다리기 [세트 4]**
 AI: 이름이 뭐예요?
@@ -96,8 +94,7 @@ User: 감사합니다! / 좋아요!
 AI: 맛있게 드세요!
 
 **Outro:**
-Mission accomplished! ☕🪑
-Hangyeol's café — officially your new spot. Next up: real Konkuk street food!
+Mission done! This is your new spot. ☕
 
 ---
 
@@ -116,7 +113,7 @@ Hangyeol's café — officially your new spot. Next up: real Konkuk street food!
 
 **📍 장소:** 건대 야시장 포장마차
 
-**intro_text:** Konkuk's legendary night market. Hangyeol is already drooling.
+**intro_text:** Night market. He's already drooling.
 
 **기 — 주문 [세트 1]**
 AI: 어서 오세요! 뭐 드릴까요?
@@ -125,8 +122,7 @@ AI: 일 인분이요?
 User: 네, 하나요. / 아니요, 두 개요.
 
 **Outro:**
-Tteokbokki ordered! 🌶️
-Now pick something to drink before the heat hits.
+Tteokbokki ordered! Grab a drink fast. 🌶️
 
 **승 — 음료 [세트 2]**
 AI: 음료는요?
@@ -135,8 +131,7 @@ AI: 네, 잠시만요!
 User: 감사합니다! / 네!
 
 **Outro:**
-Drink sorted! 🥤
-The food is almost ready — brace yourself!
+Drink sorted! Food's almost ready. 🥤
 
 ---
 
@@ -166,8 +161,7 @@ User: 어묵 더요. / 이거 더요.
 AI: 네, 잠시만요!
 
 **Outro:**
-Refill unlocked! 🥢
-How do you wrap up the perfect street food trip?
+Refill unlocked! Time to wrap up. 🥢
 
 ---
 
@@ -178,7 +172,7 @@ How do you wrap up the perfect street food trip?
 **📍 장소:** 건대 야시장 포장마차 (동일)
 
 **intro_text:**
-Belly full, heart happy. Time to pay up and say goodbye!
+Belly full. Time to pay and say bye!
 
 **전 — 결제 [세트 5]**
 User: 얼마예요? / 계산이요!
@@ -197,8 +191,7 @@ User: 또 올게요! / 감사합니다!
 AI: 안녕히 가세요!
 
 **Outro:**
-Mission accomplished! 🏆
-Konkuk street food: officially conquered. Next up: catch the bus with Hangyeol!
+Street food: conquered! 🏆
 
 ---
 
@@ -217,7 +210,7 @@ Konkuk street food: officially conquered. Next up: catch the bus with Hangyeol!
 
 **📍 장소:** 건대 버스 정류장
 
-**intro_text:** Running for the bus with Hangyeol. He knows every route by heart!
+**intro_text:** Running for the bus. He knows every route!
 
 **기 — 버스 확인 [세트 1]**
 User: 저기요, 이 버스 건대 가요? / 건대 가요?
@@ -226,8 +219,7 @@ User: 감사합니다! / 다행이에요!
 AI: 버스 왔어요. 타세요!
 
 **Outro:**
-Bus found! 🚌
-But wait — you don't have a transit card.
+Bus found! But... no transit card. 🚌
 
 **승 — 카드 [세트 2]**
 User: 앗, 카드가 없어요! / 지갑이 없어요!
@@ -236,8 +228,7 @@ User: 진짜요? 너무 감사합니다! / 고마워요!
 AI: 아니에요. 괜찮아요!
 
 **Outro:**
-Card borrowed! 💳
-Hangyeol's got you covered. Now hop on!
+Card borrowed! He's got you covered. 💳
 
 ---
 
@@ -279,7 +270,7 @@ Time to make a smooth exit.
 **📍 장소:** 버스 → 건대입구역 앞
 
 **intro_text:**
-Almost there! Time to get off and return that borrowed card.
+Almost there! Return that card!
 
 **전 — 내리기 [세트 5]**
 AI: 다음 역이에요. 내릴 준비 해요!
@@ -289,7 +280,8 @@ AI: 아니에요. 조심해서 내려요!
 
 **Outro:**
 Arrived safely! 🏢
-Almost done — return that card!
+Almost done.
+Return that card!
 
 **결 — 카드 반환 [세트 6]**
 User: 제가 커피 살게요! / 번호 주세요!
@@ -298,8 +290,7 @@ User: 저장했어요! 연락할게요!
 AI: 네! 나중에 봐요!
 
 **Outro:**
-Mission accomplished! ✅
-Hangyeol never lets you down. Next up: the Konkuk night market — try not to get lost!
+Mission accomplished! He never lets you down. ✅
 
 ---
 
@@ -318,7 +309,7 @@ Hangyeol never lets you down. Next up: the Konkuk night market — try not to ge
 
 **📍 장소:** 건대 어울마당 야시장
 
-**intro_text:** Konkuk night market. Hangyeol said meet him here. But... where is here exactly?
+**intro_text:** Night market. But... where exactly?
 
 **기 — 길 묻기 [세트 1]**
 User: 여보세요? 한결아! / 나야!
@@ -349,7 +340,7 @@ Time to call in the expert: Hangyeol.
 **📍 장소:** 야시장 근처 거리
 
 **intro_text:**
-Lost and confused. Call Hangyeol and tell him where you are!
+Lost! Call him and share your location!
 
 **승 — 전화 [세트 3]**
 AI: 주변에 뭐가 있어?
@@ -358,8 +349,7 @@ AI: 무슨 카페야? 이름이 뭐야?
 User: 몰라, 파란색이야. / 스타벅스야.
 
 **Outro:**
-Hangyeol called! 📱
-He's on his way — but where exactly are you?
+He called! He's on his way. 📱
 
 **전 — 위치 공유 [세트 4]**
 AI: 아! 나 거기 알아!
@@ -380,7 +370,7 @@ Hangyeol is on his way. Hang tight!
 **📍 장소:** 야시장 근처 (동일)
 
 **intro_text:**
-He's on his way. Just hang tight — rescue is coming!
+Hang tight. Rescue is coming!
 
 **전 — 대기 [세트 5]**
 AI: 야! ___아!
@@ -399,5 +389,4 @@ AI: 다행이야. 이제 내 손 잡아! 같이 가!
 User: 응! 알겠어! / 같이 가!
 
 **Outro:**
-Reunited! 🎉
-Lost in the night market, found by Hangyeol — the best Konkuk guide ever!
+Reunited! Lost and found by him. 🎉

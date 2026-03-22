@@ -16,9 +16,7 @@
 **📍 장소:** 팬미팅 사인회 (테이블)
 
 **intro_text:**
-He's already looking at you.
-Not past you. At you.
-Like he's been waiting.
+He's looking at you. Like he's been waiting.
 
 **기 — 첫 만남 [세트 1]**
 AI: 와줘서 고마워요.
@@ -49,7 +47,7 @@ He wrote it slowly.
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-He remembers you. Stay a little longer and keep talking!
+He remembers you. Stay a little longer!
 
 **승 — 기억 [세트 3]**
 AI: 자주 와요?
@@ -80,7 +78,7 @@ Hand over what you brought.
 **📍 장소:** 팬미팅 현장 (동일)
 
 **intro_text:**
-Time's almost up. Hand over your letter and say goodbye!
+Time's up. Hand over your letter!
 
 **전 — 선물 [세트 5]**
 User: 이거요. / 이거 드릴게요.
@@ -100,8 +98,6 @@ User: 꼭이요! / 약속이요!
 
 **Outro:**
 "기다릴게요." He said it first.
-That's basically a promise.
-Next up: See him on stage — if your heart can take it.
 
 ---
 
@@ -121,9 +117,7 @@ Next up: See him on stage — if your heart can take it.
 📍 장소: 콘서트장 객석 (공연 전)
 
 **intro_text:**
-The stage is dark. The crowd is already buzzing.
-Something about tonight feels different.
-Then the lights change.
+Stage dark. Crowd buzzing. Lights change.
 
 ### 기 — 공연 전 [세트 1]
 
@@ -134,8 +128,7 @@ AI: 오늘 하늘 봤어요? 예뻐요.
 User: 아니요! / 못 봤어요!
 
 **Outro:**
-He noticed the pretty sky before the show.
-That's just who he is.
+He noticed the sky before the show.
 
 ### 승 — 기다림 [세트 2]
 
@@ -158,7 +151,7 @@ He's walking out right now.
 📍 장소: 콘서트장 객석 (공연 중)
 
 **intro_text:**
-He's on stage. The music fills the room. Eyes wide open — don't miss a thing!
+He's on stage. Eyes wide open!
 
 ### 승 — 공연 중 [세트 3]
 
@@ -169,8 +162,7 @@ AI: 눈 마주쳤네요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-He looked your way. Right at you.
-The whole arena screamed. He smiled.
+He looked right at you. He smiled.
 
 ### 전 — 앵콜 [세트 4]
 
@@ -193,7 +185,7 @@ The show is over. The feeling stays.
 📍 장소: 콘서트장 밖 (공연 후)
 
 **intro_text:**
-The show just ended. The feeling is still everywhere. Take it all in.
+Show's over. The feeling lingers.
 
 ### 전 — 끝 [세트 5]
 
@@ -237,9 +229,7 @@ Next up: He actually went live.
 📍 장소: 온라인 (라이브 방송)
 
 **intro_text:**
-Notification: Taeo is live.
-The chat is moving fast. He's talking about the moon.
-Type now — he's actually reading.
+Taeo is live. He's talking about the moon.
 
 ### 기 — 라이브 방송 [세트 1]
 
@@ -250,8 +240,7 @@ AI: 오늘 달이 예뻐요.
 User: 진짜요?! / 에뻐요!
 
 **Outro:**
-He found your message in a flood of comments.
-He's still here. Keep going.
+He found your message. Keep going.
 
 ### 승 — 대화 [세트 2]
 
@@ -263,7 +252,6 @@ User: 사랑해요! / 좋아해요!
 
 **Outro:**
 Love sent. He received it quietly.
-Now check your messages — he left you something.
 
 ---
 
@@ -274,7 +262,7 @@ Now check your messages — he left you something.
 📍 장소: 온라인 (버블/위버스 메시지)
 
 **intro_text:**
-He read your letter. Now he's replying. Check your messages!
+He read your letter. He's replying!
 
 ### 승 — 답장 [세트 3]
 
@@ -285,8 +273,7 @@ AI: 마음이 좋아요. 고마워요.
 User: 진짜요? / 정말요?
 
 **Outro:**
-"I feel good. Thank you." Simple words, but he meant every one.
-He's still typing.
+"I feel good. Thank you." He's typing more.
 
 ### 전 — 질문 [세트 4]
 
@@ -298,7 +285,6 @@ User: 항상 응원할게요! / 계속 응원해요!
 
 **Outro:**
 "It gives me strength." Soft. Real.
-Send one last message before he disappears.
 
 ---
 
@@ -309,7 +295,7 @@ Send one last message before he disappears.
 📍 장소: 온라인 (버블/위버스, 동일)
 
 **intro_text:**
-One last message before the night ends. Say goodnight!
+Last message. Say goodnight!
 
 ### 전 — 메시지 [세트 5]
 
@@ -320,8 +306,7 @@ User: 또 해줘요! / 자주 해줘요!
 AI: 비 오는 날 할게요.
 
 **Outro:**
-He'll go live on a rainy day. Just for you.
-One final exchange before the night ends.
+Rainy day live. Just for you.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -332,5 +317,4 @@ AI: 좋은 꿈 꿔요.
 User: 태오도요! / 좋은 꿈 꿔요!
 
 **Outro:**
-Goodnight exchanged.
-Next up: Time to put on your professional face.
+Goodnight exchanged. 🌙

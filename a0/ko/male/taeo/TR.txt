@@ -16,8 +16,7 @@
 **📍 장소:** 연남동 빵집 카운터
 
 **intro_text:**
-Taeo's favorite bakery. The smell hits you first.
-The staff is already looking up.
+His favorite bakery. The smell hits you first.
 
 **기 — 주문 [세트 1]**
 User: 이거 주세요. / 이 빵 주세요.
@@ -36,7 +35,8 @@ User: 아메리카노 주세요. / 라테 주세요.
 AI: 알겠습니다. 준비할게요.
 
 **Outro:**
-Bread and coffee — a good combination.
+Bread and coffee.
+A perfect combo.
 Almost time to make it yours.
 
 ---
@@ -99,9 +99,8 @@ User: 감사합니다! / 또 올게요.
 AI: 또 오세요. 감사합니다.
 
 **Outro:**
-The bread was really good.
-Taeo's recommendations are always right.
-💬 Taeo texted: "거기 오후 빛이 좋아. 느낌 있지?"
+Really good bread. He's always right.
+💬 Taeo: "거기 오후 빛이 좋아. 느낌 있지?"
 
 ---
 
@@ -121,8 +120,7 @@ Taeo's recommendations are always right.
 **📍 장소:** 연남동 골목
 
 **intro_text:**
-Taeo mentioned a park nearby.
-You can't find it. Ask someone.
+He mentioned a park. You can't find it.
 
 **기 — 공원 [세트 1]**
 User: 공원 어디예요? / 공원 어디있나요?.
@@ -133,7 +131,7 @@ AI: 아니요, 가까워요.
 **Outro:**
 Not far from here.
 Follow the path.
-💬 Taeo texted: "그 공원, 하늘이 넓어서 좋아."
+💬 Taeo: "그 공원, 하늘이 넓어서 좋아."
 
 **승 — 확인 [세트 2]**
 User: 이 길이요? / 이쪽이요?
@@ -154,7 +152,7 @@ You're going the right way.
 **📍 장소:** 연남동 공원
 
 **intro_text:**
-You made it to the park. Find a nice spot and enjoy the view!
+You made it! Find a spot. Enjoy the view!
 
 **승 — 벤치 [세트 3]**
 User: 자리 있어요? / 여기 앉아도 돼요?
@@ -165,7 +163,7 @@ AI: 여기 좋은 자리예요.
 **Outro:**
 A good bench with a nice view.
 Taeo would love this spot.
-💬 Taeo texted: "나무 아래 자리, 바람이 좋지?"
+💬 Taeo: "나무 아래 자리, 바람이 좋지?"
 
 **전 — 산책 [세트 4]**
 User: 산책로 있어요? / 걷기 좋은 데 있어요?
@@ -176,7 +174,7 @@ AI: 천천히 걸어 가세요.
 **Outro:**
 A nice path for a walk.
 Take your time.
-💬 Taeo texted: "천천히 걸어. 그 길 분위기 좋아."
+💬 Taeo: "천천히 걸어. 그 길 분위기 좋아."
 
 ---
 
@@ -187,7 +185,7 @@ Take your time.
 **📍 장소:** 연남동 공원 출구
 
 **intro_text:**
-Time to head out. Find the exit and explore what's next!
+Time to head out. What's next?
 
 **전 — 출구 [세트 5]**
 User: 출구 어디예요? / 나가는 길 어디에요?
@@ -198,7 +196,7 @@ AI: 조심히 가세요.
 **Outro:**
 Time to head out.
 One more stop left in this day.
-💬 Taeo texted: "노을 보면서 나와. 그 출구 빛이 예뻐."
+💬 Taeo: "노을 보면서 나와. 그 출구 빛이 예뻐."
 
 **결 — 다음 [세트 6]**
 User: 동네에 시장 있어요? / 근처에 시장 있어요?
@@ -207,9 +205,8 @@ User: 감사합니다! / 가볼게요.
 AI: 즐거운 시간 되세요.
 
 **Outro:**
-The market is busy and warm.
-Taeo's neighborhood always has something new.
-💬 Taeo texted: "그 시장, 저녁 분위기가 좋아. 느껴봐."
+Busy and warm. Always something new.
+💬 Taeo: "그 시장, 저녁 분위기가 좋아. 느껴봐."
 
 ---
 
@@ -229,8 +226,7 @@ Taeo's neighborhood always has something new.
 **📍 장소:** 연남동 벼룩시장
 
 **intro_text:**
-Weekend flea market. Taeo loves this place.
-Everything has a story here.
+Flea market. Everything has a story here.
 
 **기 — 구경 [세트 1]**
 User: 이거 얼마예요? / 이거 볼 수 있어요?
@@ -241,7 +237,7 @@ AI: 괜찮은 가격이에요.
 **Outro:**
 Five thousand won for something special.
 That feels like a good price.
-💬 Taeo texted: "거기 빛 좋은 거 골라. 느낌 있는 거."
+💬 Taeo: "거기 빛 좋은 거 골라. 느낌 있는 거."
 
 **승 — 물건 [세트 2]**
 User: 이거 뭐예요? / 이거 보여주세요.
@@ -262,7 +258,7 @@ Taeo notices that right away.
 **📍 장소:** 연남동 벼룩시장 (동일)
 
 **intro_text:**
-Can you get a better deal? Time to negotiate like a local!
+Time to negotiate like a local!
 
 **승 — 흥정 [세트 3]**
 User: 깎아주실 수 있나요? / 좀 싸게 해주세요.
@@ -273,7 +269,7 @@ AI: 네, 좋아요.
 **Outro:**
 A little less money, same nice item.
 It never hurts to ask.
-💬 Taeo texted: "흥정하는 분위기, 그것도 여행이야."
+💬 Taeo: "흥정하는 분위기, 그것도 여행이야."
 
 **전 — 계산 [세트 4]**
 User: 카드 돼요? / 카드로 할게요.
@@ -284,7 +280,7 @@ AI: 감사합니다. 잘 쓰세요.
 **Outro:**
 The cup feels just right in your hands.
 A good find today.
-💬 Taeo texted: "그 컵, 오후 햇빛에 놓으면 예뻐."
+💬 Taeo: "그 컵, 오후 햇빛에 놓으면 예뻐."
 
 ---
 
@@ -295,7 +291,7 @@ A good find today.
 **📍 장소:** 연남동 벼룩시장 출구
 
 **intro_text:**
-Shopping done! Wrap it up and head out with your new treasure.
+Shopping done! Head out with your treasure!
 
 **전 — 포장 [세트 5]**
 User: 봉투 있어요? / 봉투 주세요.
@@ -306,7 +302,7 @@ AI: 잘 담았어요. 조심하세요.
 **Outro:**
 Wrapped carefully. Ready to go.
 The afternoon is winding down.
-💬 Taeo texted: "잘 샀어? 하늘 좋을 때 나와."
+💬 Taeo: "잘 샀어? 하늘 좋을 때 나와."
 
 **결 — 인사 [세트 6]**
 User: 감사합니다. / 잘 쓸게요.
@@ -315,9 +311,8 @@ User: 또 올게요! / 많이 파세요!
 AI: 기다릴게요. 또 오세요.
 
 **Outro:**
-It feels nice to leave with something warm.
-This market feels like Taeo's neighborhood.
-💬 Taeo texted: "그 시장 저녁 빛, 기억해둬."
+Nice to leave with something warm.
+💬 Taeo: "그 시장 저녁 빛, 기억해둬."
 
 ---
 
@@ -337,8 +332,7 @@ This market feels like Taeo's neighborhood.
 **📍 장소:** 연남동 버스 정류장
 
 **intro_text:**
-Long day in Yeonnam-dong. Time to head home.
-The bus pulls up.
+Long day. Time to head home. Bus pulls up.
 
 **기 — 버스 [세트 1]**
 User: 서울역 가요? / 홍대 가요?
@@ -349,7 +343,7 @@ AI: 네, 이 버스 맞아요. 타세요.
 **Outro:**
 The right bus, right on time.
 Step on.
-💬 Taeo texted: "버스 창문 밖 하늘 봐. 지금 예쁠 거야."
+💬 Taeo: "버스 창문 밖 하늘 봐. 지금 예쁠 거야."
 
 **승 — 요금 [세트 2]**
 User: 얼마예요? / 카드 돼요?
@@ -370,7 +364,7 @@ Sit by the window.
 **📍 장소:** 버스 안
 
 **intro_text:**
-You're on the bus. Enjoy the ride and don't miss your stop!
+On the bus. Don't miss your stop!
 
 **승 — 정류장 [세트 3]**
 User: 홍대 멀어요? / 얼마나 걸려요?
@@ -379,9 +373,10 @@ User: 감사합니다. / 알겠습니다.
 AI: 곧 도착해요.
 
 **Outro:**
-Two stops — almost there.
+Two stops left.
+Almost there.
 Not long now.
-💬 Taeo texted: "창밖 보고 있어? 이 시간 빛이 좋아."
+💬 Taeo: "창밖 보고 있어? 이 시간 빛이 좋아."
 
 **전 — 내리기 [세트 4]**
 User: 여기서 내려요? / 다음이에요?
@@ -390,9 +385,8 @@ User: 감사합니다! / 알겠습니다.
 AI: 조심히 내리세요.
 
 **Outro:**
-Fresh air feels good when you step off.
-One more ride to go.
-💬 Taeo texted: "내려서 바람 쐬어. 기분 좋을 거야."
+Fresh air. One more ride to go.
+💬 Taeo: "내려서 바람 쐬어. 기분 좋을 거야."
 
 ---
 
@@ -412,9 +406,8 @@ User: 빨리 가주세요. / 출발해주세요.
 AI: 네, 바로 출발할게요.
 
 **Outro:**
-The city passes by outside the window.
-Almost home.
-💬 Taeo texted: "택시 안에서 보는 밤 하늘, 좋지?"
+City lights passing by. Almost home.
+💬 Taeo: "택시 안에서 보는 밤 하늘, 좋지?"
 
 **결 — 도착 [세트 6]**
 User: 여기서 세워주세요. / 여기서 내릴게요.
@@ -423,8 +416,7 @@ User: 감사합니다! / 수고하세요.
 AI: 조심히 들어가세요.
 
 **Outro:**
-A nice ride home.
-Another good day in Yeonnam-dong.
-💬 Taeo texted: "오늘 하루 어땠어? 연남동 빛, 좋았지?"
+A nice ride home. Good day.
+💬 Taeo: "오늘 하루 어땠어? 연남동 빛, 좋았지?"
 
 ---

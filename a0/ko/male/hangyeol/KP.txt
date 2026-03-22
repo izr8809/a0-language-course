@@ -16,9 +16,7 @@
 **📍 장소:** 팬미팅 사인회 (테이블)
 
 **intro_text:**
-He's already waving at you before you even sit down.
-Big smile. Full eye contact.
-Your turn. Don't freeze.
+He's waving. Big smile. Don't freeze.
 
 **기 — 첫 만남 [세트 1]**
 AI: 안녕하세요!
@@ -27,8 +25,7 @@ AI: 와줘서 고마워요!
 User: 저도 좋아요! / 감사해요!
 
 **Outro:**
-He said thank you before you even said a word. 🌟
-Now tell him your name — he's already leaning in to hear it.
+He thanked you before you spoke. 🌟
 
 **승 — 이름 [세트 2]**
 AI: 이름이 뭐예요?
@@ -37,8 +34,7 @@ AI: 기억할게요!
 User: 진짜요? / 감사해요!
 
 **Outro:**
-He repeated your name like it mattered. Because it did. 💛
-Now ask for what you came here for.
+He repeated your name. It mattered. 💛
 
 ---
 
@@ -49,7 +45,7 @@ Now ask for what you came here for.
 **📍 장소:** 팬미팅 사인회 (테이블, 동일)
 
 **intro_text:**
-Album in hand. He's reaching for it. Make every second count!
+Album in hand. Every second counts!
 
 **승 — 사인 [세트 3]**
 AI: 사인 해드릴까요?
@@ -58,8 +54,7 @@ AI: 여기요!
 User: 감사해요! / 좋아요!
 
 **Outro:**
-He handed it back with both hands. 📖
-You still have thirty seconds. Use them.
+Signed! Thirty seconds left. Use them. 📖
 
 **전 — 대화 [세트 4]**
 AI: 멀리서 왔어요?
@@ -68,8 +63,7 @@ AI: 고생했어요!
 User: 아니에요! / 괜찮아요!
 
 **Outro:**
-He asked. He actually wanted to know. 🐾
-The staff is signaling. Time's almost up.
+He actually wanted to know. Time's up! 🐾
 
 ---
 
@@ -80,7 +74,7 @@ The staff is signaling. Time's almost up.
 **📍 장소:** 팬미팅 사인회 (테이블, 동일)
 
 **intro_text:**
-Last chance before the staff waves you off. Say what matters!
+Last chance. Say what matters!
 
 **전 — 선물 [세트 5]**
 User: 이거요! / 선물이에요!
@@ -99,8 +93,7 @@ AI: 기다릴게요!
 User: 감사해요! / 다음에 봐요!
 
 **Outro:**
-"기다릴게요." He meant every syllable. ✨
-Next up: See him on stage — louder, brighter, just for you.
+"기다릴게요." Every syllable, real. ✨
 
 ---
 
@@ -120,9 +113,7 @@ Next up: See him on stage — louder, brighter, just for you.
 **📍 장소:** 콘서트장 객석 (공연 전)
 
 **intro_text:**
-The stage is lit up. The crowd is already screaming.
-Your heart is going way too fast.
-He's somewhere behind that curtain.
+Stage lit. Crowd screaming. Heart racing.
 
 ### 기 — 공연 전 [세트 1]
 
@@ -133,7 +124,6 @@ User: 네! / 찾았어요!
 
 **Outro:**
 New concert friend unlocked. 🎪
-Tell them exactly how nervous you are right now.
 
 ### 승 — 기다림 [세트 2]
 
@@ -155,7 +145,7 @@ He's walking out right now.
 **📍 장소:** 콘서트장 객석 (공연 중)
 
 **intro_text:**
-The music drops. He's on stage. Scream your heart out!
+He's on stage. Scream your heart out!
 
 ### 승 — 공연 중 [세트 3]
 
@@ -165,8 +155,7 @@ AI: 이쪽 봤어요! 인사했어요!
 User: 진짜요?! / 떨려요!
 
 **Outro:**
-He pointed at this section. YOUR section. And smiled. 🫵
-The whole arena lost it. You lost it more. He waved back.
+He pointed at YOUR section. Smiled. 🫵
 
 ### 전 — 앵콜 [세트 4]
 
@@ -176,8 +165,7 @@ AI: 다시 나왔어요! 최고예요!
 User: 최고예요! / 진짜 좋아요!
 
 **Outro:**
-Encore delivered. He ran back on stage like he'd been waiting to. 🎤
-The show is over. Your voice is gone. His energy? Still at 200%.
+Encore! Voice gone. Energy at 200%. 🎤
 
 ---
 
@@ -188,7 +176,7 @@ The show is over. Your voice is gone. His energy? Still at 200%.
 **📍 장소:** 콘서트장 밖 (공연 후)
 
 **intro_text:**
-Show's over but the adrenaline is still pumping. Time to relive every moment!
+Show's over. Adrenaline still pumping!
 
 ### 전 — 끝 [세트 5]
 
@@ -198,8 +186,7 @@ User: 인사도 받았어요!
 AI: 저도 봤어요! 진짜 멋있어요!
 
 **Outro:**
-Post-concert high. Everything is glowing. 🌟
-Lock in your next concert partner right now.
+Post-concert high. Everything glowing. 🌟
 
 ### 결 — 인사 [세트 6]
 
@@ -210,7 +197,6 @@ User: 네, 꼭이요! / 또 와요!
 
 **Outro:**
 Concert buddy for life. 🎫
-Next up: He went live — and he's reading every single comment out loud.
 
 ---
 
@@ -230,9 +216,7 @@ Next up: He went live — and he's reading every single comment out loud.
 **📍 장소:** 온라인 (라이브 방송)
 
 **intro_text:**
-Notification: Hangyeol is live.
-The chat is exploding. He's reading out loud.
-Type now — he's looking for you.
+Hangyeol is live. Chat's exploding!
 
 ### 기 — 라이브 방송 [세트 1]
 
@@ -242,8 +226,7 @@ AI: 기다렸어요!
 User: 저도요! / 반가워요!
 
 **Outro:**
-He found your message in a flood of comments. 💬
-He's still here. Keep going.
+He found YOUR message. Keep going! 💬
 
 ### 승 — 대화 [세트 2]
 
@@ -254,7 +237,6 @@ User: 사랑해요! / 최고예요!
 
 **Outro:**
 Love sent. He said it right back. 💛
-Now check your messages — he left you something.
 
 ---
 
@@ -275,8 +257,7 @@ AI: 당연하죠!
 User: 감사해요! / 좋아요!
 
 **Outro:**
-"당연하죠!" He reads every single one. 🌟
-He's still typing. There's more.
+"당연하죠!" He reads every one. 🌟
 
 ### 전 — 질문 [세트 4]
 
@@ -286,8 +267,7 @@ AI: 최고예요! 감사해요!
 User: 항상 응원할게요! / 화이팅이에요!
 
 **Outro:**
-He said thank you like he really meant it. 💛
-Send one last message before he signs off.
+He really meant that "thank you." 💛
 
 ---
 
@@ -298,7 +278,7 @@ Send one last message before he signs off.
 **📍 장소:** 온라인 (버블/위버스, 동일)
 
 **intro_text:**
-One last message before he signs off. Make it count!
+Last message before he goes. Make it count!
 
 ### 전 — 메시지 [세트 5]
 
@@ -309,7 +289,6 @@ AI: 네, 꼭 할게요!
 
 **Outro:**
 He promised. Out loud. 📩
-One final exchange before the night ends.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -319,5 +298,4 @@ AI: 다음에 또 만나요! 안녕!
 User: 네! / 다음에 봐요!
 
 **Outro:**
-Goodnight exchanged. He smiled at the camera before going offline. 🌙
-Next up: Time to put on your professional face.
+Goodnight. He smiled before going offline. 🌙

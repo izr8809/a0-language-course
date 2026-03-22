@@ -18,8 +18,7 @@
 **📍 장소:** 합정 카페 (첫 만남)
 
 **intro_text:**
-He's already sitting down.
-He looks at you and checks his watch.
+He's sitting down, checking his watch.
 
 **기 — 첫 만남 [세트 1]**
 User: 처음 만나네요. / 안녕하세요.
@@ -28,7 +27,7 @@ User: 잘 부탁드려요. / 반가워요.
 AI: 밥 먹었어? 안 먹었지?
 
 **Outro:**
-First words to a stranger: "Have you eaten?" 😶
+First words: "Have you eaten?" 😶
 He's already taking care of you.
 
 **승 — 짧은 대화 [세트 2]**
@@ -38,8 +37,7 @@ User: 저도요. / 처음이에요.
 AI: 그래. 여기 커피 괜찮아.
 
 **Outro:**
-You said you come here too. He said don't come alone. 📎
-He'll remember that.
+"Don't come alone." He'll remember that. 📎
 
 ---
 
@@ -50,7 +48,7 @@ He'll remember that.
 **📍 장소:** 합정 카페 (동일)
 
 **intro_text:**
-The silence is loud. But he's paying attention in his own way.
+Silence. But he's paying attention.
 
 **승 — 질문 [세트 3]**
 User: 뭐 마셔요?
@@ -59,8 +57,8 @@ User: 저도요. / 라떼요.
 AI: 그거 괜찮아.
 
 **Outro:**
-Same drink. He immediately told you to watch out. 🤔
-That's his version of finding common ground.
+Same drink. He told you to watch out. 🤔
+His way of finding common ground.
 
 **전 — 의외 [세트 4]**
 AI: 안 추워?
@@ -81,7 +79,7 @@ He already had his jacket off.
 **📍 장소:** 합정 골목 (카페 앞)
 
 **intro_text:**
-Time to say goodbye. But something feels different this time.
+Goodbye time. Something feels different.
 
 **전 — 마무리 [세트 5]**
 User: 오늘 좋았어요. / 재밌었어요.
@@ -91,7 +89,7 @@ AI: 도착하면 연락해. 꼭.
 
 **Outro:**
 "Text me when you get home." 🌸
-That's Siyun for "I want to see you again."
+Siyun for "I want to see you again."
 
 **결 — 다음에 [세트 6]**
 User: 또 만나요? / 다음에 봐요?
@@ -100,8 +98,7 @@ User: 연락할게요. / 기다려요.
 AI: 꼭 해. 기다릴게.
 
 **Outro:**
-"꼭 해." Make sure you do. 🤍
-He won't text first. But he'll be waiting.
+"꼭 해." He won't text first. But he'll wait. 🤍
 
 ---
 
@@ -121,9 +118,7 @@ He won't text first. But he'll be waiting.
 📍 장소: 합정 골목 (저녁)
 
 **intro_text:**
-He's been quiet for ten minutes.
-Not nagging. Not scolding. Just quiet.
-Something happened. Ask.
+Ten minutes of silence. Something's wrong.
 
 ### 기 — 이상함 [세트 1]
 
@@ -133,8 +128,9 @@ User: 진짜? / 거짓말.
 AI: 진짜야. 걱정 마.
 
 **Outro:**
-He deflected with "have you eaten?" again. 😶‍🌫️
-When he stops nagging about YOU — that's when something's really wrong.
+"Have you eaten?" again. 😶‍🌫️
+When he stops nagging...
+something's wrong.
 
 ### 승 — 말해봐 [세트 2]
 
@@ -144,8 +140,8 @@ User: 빨리 말해봐. / 말해도 돼.
 AI: 너 먼저 밥 먹어. 그다음에.
 
 **Outro:**
-He's deflecting again. Food, again. 😤
-He hasn't walked away. That means he wants you to push.
+Deflecting with food. Again. 😤
+He hasn't left. He wants you to push.
 
 ---
 
@@ -156,7 +152,7 @@ He hasn't walked away. That means he wants you to push.
 📍 장소: 합정 골목 (동일)
 
 **intro_text:**
-He's been holding it in. Something's about to break.
+Something's about to break.
 
 ### 승 — 터짐 [세트 3]
 
@@ -166,8 +162,8 @@ AI: 기다렸어. 걱정했어.
 User: 몰랐어. 미안. / 미안해. 진짜.
 
 **Outro:**
-"기다렸어. 걱정했어." Two confessions in a row. 💥
-That changes everything.
+"기다렸어. 걱정했어." Two confessions. 💥
+Everything just changed.
 
 ### 전 — 처음 [세트 4]
 
@@ -189,7 +185,7 @@ He doesn't know the difference yet.
 📍 장소: 합정 카페 (앉아서)
 
 **intro_text:**
-The storm passed. Now just be there for him.
+Storm passed. Just be there.
 
 ### 전 — 조용해짐 [세트 5]
 
@@ -199,8 +195,7 @@ User: 솔직하게. / 진짜 말해.
 AI: …조금 힘들었어.
 
 **Outro:**
-"A little." 💙
-He asked about YOU first, even now. That's who he is.
+"A little." He asked about YOU first. 💙
 
 ### 결 — 있어줄게 [세트 6]
 
@@ -210,8 +205,8 @@ User: 있을게. / 안 가.
 AI: 밥 먹자. 같이.
 
 **Outro:**
-"Don't go." Then "Let's eat. Together." 🫂
-That's the most honest he's ever been.
+"Don't go. Let's eat. Together." 🫂
+The most honest he's ever been.
 
 ---
 
@@ -231,8 +226,7 @@ That's the most honest he's ever been.
 📍 장소: 합정 골목 (밤)
 
 **intro_text:**
-He's walking slower than usual.
-He keeps almost saying something. Then stops.
+Walking slow. Almost saying something. Stops.
 
 ### 기 — 뭔가 이상해 [세트 1]
 
@@ -242,8 +236,7 @@ User: 뭐야. / 말해.
 AI: 생각 중이야.
 
 **Outro:**
-He's thinking. Out loud would be too easy. 💗
-Something's behind it this time.
+He's thinking. Something's behind it. 💗
 
 ### 승 — 근처까지 [세트 2]
 
@@ -253,8 +246,8 @@ User: 말해. / 기다릴게.
 AI: 너… 밥 잘 먹어?
 
 **Outro:**
-He tried to confess. "밥 잘 먹어?" came out instead. 🌫️
-He'll get there. Give him time.
+Tried to confess. "밥 잘 먹어?" came out. 🌫️
+Give him time.
 
 ---
 
@@ -265,7 +258,7 @@ He'll get there. Give him time.
 📍 장소: 합정 골목 (동일)
 
 **intro_text:**
-He's trying to say something. Really say it. Listen closely.
+He's trying to really say it. Listen.
 
 ### 승 — 시윤식 고백 [세트 3]
 
@@ -275,8 +268,8 @@ AI: 좋아한다고.
 User: 진짜? / 거짓말.
 
 **Outro:**
-He said it flat. Certain. No decoration. 💕
-Now he's waiting for your answer.
+Flat. Certain. No decoration. 💕
+Your turn to answer.
 
 ### 전 — 기다림 [세트 4]
 
@@ -287,7 +280,7 @@ AI: …그래. 잘 됐다.
 
 **Outro:**
 "Don't lie." Then "Good." 🌙
-He's trying not to smile. Failing badly.
+Trying not to smile. Failing.
 
 ---
 
@@ -298,7 +291,7 @@ He's trying not to smile. Failing badly.
 📍 장소: 합정 골목 (동일)
 
 **intro_text:**
-It's real now. Make it official — no words wasted.
+It's real. Make it official.
 
 ### 전 — 확인 [세트 5]
 
@@ -308,8 +301,7 @@ User: 진짜? / 알겠어.
 AI: 진짜, 내가 많이 좋아해.
 
 **Outro:**
-He said yes. Then immediately set two rules. 💘
-That's his version of "I love you."
+Yes + two rules. His "I love you." 💘
 
 ### 결 — 마음 [세트 6]
 
@@ -319,8 +311,8 @@ User: 내 손도 차가워. / 괜찮아.
 AI: 그래. 손 줘.
 
 **Outro:**
-He complained about your cold hands. Then held on tight. 🤍
-He never lets go first. Once he's decided.
+Cold hands. Held on tight. 🤍
+He never lets go first.
 
 ---
 
@@ -340,8 +332,7 @@ He never lets go first. Once he's decided.
 📍 장소: 합정 골목 (새벽)
 
 **intro_text:**
-He's standing with his back to you.
-He heard it all. He's not turning around.
+His back to you. He heard it all.
 
 ### 기 — 말다툼 [세트 1]
 
@@ -351,8 +342,7 @@ User: 가! / 제발 가.
 AI: 싫어. 안 가.
 
 **Outro:**
-You told him to leave. He said no. Twice. 😶
-He's not going anywhere.
+You said go. He said no. Twice. 😶
 
 ### 승 — 이별 [세트 2]
 
@@ -362,8 +352,7 @@ User: 안녕.
 AI: 가지 마. 제발.
 
 **Outro:**
-"가지 마. 제발." The first time he's ever said please. 💔
-He can't explain it either.
+"가지 마. 제발." His first "please." 💔
 
 ---
 
@@ -374,7 +363,7 @@ He can't explain it either.
 📍 장소: 합정 카페 (혼자)
 
 **intro_text:**
-Days apart. The silence is heavy. Reach out.
+Days apart. Heavy silence. Reach out.
 
 ### 승 — 시간이 지나고 [세트 3]
 
@@ -384,8 +373,8 @@ User: 글쎄? / 왜 물어봐.
 AI: 말 돌리지 마. 먹었어?
 
 **Outro:**
-Days apart. First thing he asks: "Have you been eating?" 🌧️
-Even now. Even hurt. He worries about you first.
+Days apart. First words: "Have you eaten?" 🌧️
+Even hurt, he worries about you first.
 
 ### 전 — 미안해 [세트 4]
 
@@ -395,8 +384,7 @@ User: 보고 싶었어. / 많이 생각했어.
 AI: 나도. 많이.
 
 **Outro:**
-"미안하면 밥 먹어." Then "나도. 많이." ☕
-The wall cracked open.
+"나도. 많이." The wall cracked. ☕
 
 ---
 
@@ -407,7 +395,7 @@ The wall cracked open.
 📍 장소: 합정 골목 (밤)
 
 **intro_text:**
-He came back. No explanation. Just him at the door.
+He came back. No explanation.
 
 ### 전 — 돌아옴 [세트 5]
 
@@ -417,8 +405,8 @@ AI: 응. 밥 먹자.
 User: 들어와. / 앉아.
 
 **Outro:**
-He came back. First words: "Let's eat." 🌸
-That's his version of everything.
+He's back. "Let's eat." 🌸
+That's everything.
 
 ### 결 — 다시 시작 [세트 6]
 
@@ -428,7 +416,7 @@ User: 진짜? / 약속해.
 AI: 응. 이제 가지 마.
 
 **Outro:**
-"당연하지." Obviously. "이제 가지 마." Don't leave again. 🤙
-Some things don't need more words than that.
+"당연하지. 이제 가지 마." 🤙
+No more words needed.
 
 ---

@@ -16,8 +16,7 @@
 **Goal:** To practice the unexpected encounter scene
 
 **intro_text:**
-A busy afternoon in Sinchon.
-She bumps into you and looks up.
+She bumps into you. Eyes meet.
 
 **기 — 첫 만남 [세트 1]**
 AI: 앗, 죄송해요!
@@ -26,7 +25,7 @@ AI: 많이 놀랐죠?
 User: 아니에요. / 조금요.
 
 **Outro:**
-She adjusts her bag nervously, still looking at you.
+She lingers. Still looking at you.
 
 **승 — 대화 시작 [세트 2]**
 User: 여기 자주 와요?
@@ -35,7 +34,7 @@ User: 저도요. / 저도 자주요.
 AI: 그럼 또 봐요.
 
 **Outro:**
-She waves goodbye with a little bounce in her step. 👋
+She bounces away waving. See ya! 👋
 
 ---
 
@@ -46,8 +45,7 @@ She waves goodbye with a little bounce in her step. 👋
 **Goal:** To practice the second encounter scene
 
 **intro_text:**
-You meet again unexpectedly at the convenience store.
-She spots you first.
+Convenience store. She spots you first.
 
 **승 — 반가운 재회 [세트 3]**
 AI: 또 만났네요.
@@ -56,7 +54,7 @@ AI: 동네가 좁네요.
 User: 그러네요. / 맞아요.
 
 **Outro:**
-She's clearly happy to see you again.
+She's happy to see you. Again.
 
 **전 — 연락처 교환 [세트 4]**
 User: 연락해도 돼요? / 번호 줄 수 있어요?
@@ -65,7 +63,7 @@ User: 번호 알려줘요. / 연락처 주세요.
 AI: 잠깐만요.
 
 **Outro:**
-She types her number in with a shy grin. 📱
+Number saved. Shy grin included. 📱
 
 ---
 
@@ -76,8 +74,7 @@ She types her number in with a shy grin. 📱
 **Goal:** To practice the casual neighborhood scene
 
 **intro_text:**
-You've bumped into each other enough times now.
-She greets you like an old friend.
+Third time's the charm. Old friends now.
 
 **전 — 편안한 만남 [세트 5]**
 AI: 또 왔어?
@@ -86,7 +83,7 @@ AI: 나도 자주 와.
 User: 몰랐어. / 진짜?
 
 **Outro:**
-She falls into step beside you naturally.
+She walks beside you like it's normal.
 
 **결 — 편한 대화 [세트 6]**
 User: 오늘 뭐 했어? / 오늘 어땠어?
@@ -95,7 +92,7 @@ User: 힘들었겠다. / 고생했어.
 AI: 고마워.
 
 **Outro:**
-She nudges your shoulder playfully and laughs. 😆
+Shoulder nudge and a laugh. 😆
 
 ---
 
@@ -115,8 +112,7 @@ She nudges your shoulder playfully and laughs. 😆
 **Goal:** To practice the confession preparation scene
 
 **intro_text:**
-A quiet library in Sinchon.
-She sits down across from you.
+Library. She sits right across from you.
 
 **기 — 우연한 자리 [세트 1]**
 AI: 여기 자리 있어요?
@@ -125,7 +121,7 @@ AI: 감사해요.
 User: 같이 공부해요. / 같이 해요.
 
 **Outro:**
-She opens her book but keeps glancing up.
+Book open. Eyes keep wandering up.
 
 **승 — 설레는 분위기 [세트 2]**
 User: 시험 있어요? / 공부하러 왔어요?
@@ -134,7 +130,7 @@ User: 저도요. / 저도 내일이에요.
 AI: 같이 해요, 그럼.
 
 **Outro:**
-She scoots her chair closer with a bright smile. 😊
+Chair scoots closer. She's smiling. 😊
 
 ---
 
@@ -145,8 +141,7 @@ She scoots her chair closer with a bright smile. 😊
 **Goal:** To practice the pre-confession scene
 
 **intro_text:**
-A cozy café after studying together.
-She seems nervous about something.
+Café after studying. She seems nervous.
 
 **승 — 할 말이 있어요 [세트 3]**
 AI: 있잖아요.
@@ -155,7 +150,7 @@ AI: 드릴 말 있어요.
 User: 말해요. / 들을게요.
 
 **Outro:**
-She takes a deep breath and looks at you.
+Deep breath. She locks eyes with you.
 
 **전 — 고백 [세트 4]**
 User: 뭔데요? / 무슨 말이에요?
@@ -164,7 +159,7 @@ User: 진짜요? / 정말요?
 AI: 네, 진짜요.
 
 **Outro:**
-Her cheeks turn red as she hides behind her coffee cup. ☕
+Red cheeks. Hiding behind the cup. ☕
 
 ---
 
@@ -175,8 +170,7 @@ Her cheeks turn red as she hides behind her coffee cup. ☕
 **Goal:** To practice the post-confession scene
 
 **intro_text:**
-The next day after the confession.
-She's waiting for you at the school gate.
+Next day. She's at the gate, waiting.
 
 **전 — 다음 날 [세트 5]**
 AI: 어젯밤에 생각했어.
@@ -185,7 +179,7 @@ AI: 어떻게 생각해?
 User: 나도 좋아해. / 설레
 
 **Outro:**
-She breaks into a wide smile and looks down.
+Wide smile. Eyes drop. Heart races.
 
 **결 — 새로운 시작 [세트 6]**
 User: 오늘 뭐 해? / 오늘 시간 있어?
@@ -194,7 +188,7 @@ User: 나도. / 나도 그래.
 AI: 그럼 가자.
 
 **Outro:**
-She grabs your hand and pulls you along, giggling. 💕
+Hand grabbed. She pulls you along. 💕
 
 ---
 
@@ -214,8 +208,7 @@ She grabs your hand and pulls you along, giggling. 💕
 **Goal:** To practice the awkward reconciliation scene
 
 **intro_text:**
-You haven't spoken in a while.
-She stops when she sees you in the hallway.
+Long silence. She freezes in the hall.
 
 **기 — 어색한 재회 [세트 1]**
 AI: 안녕하세요.
@@ -224,7 +217,7 @@ AI: 잘 지냈어요?
 User: 네, 잘 지냈어요. / 네, 괜찮았어요.
 
 **Outro:**
-She stands still, clearly wanting to say more.
+She wants to say more. Can't yet.
 
 **승 — 대화 시도 [세트 2]**
 User: 시간 있어요? / 잠깐 돼요?
@@ -233,7 +226,7 @@ User: 얘기할게요. / 할 말 있어요.
 AI: 저도요.
 
 **Outro:**
-She walks beside you quietly, matching your pace. 🚶‍♀️
+Walking together. Quiet, but close. 🚶‍♀️
 
 ---
 
@@ -244,8 +237,7 @@ She walks beside you quietly, matching your pace. 🚶‍♀️
 **Goal:** To practice the honest conversation scene
 
 **intro_text:**
-Waiting for the bus together.
-She's the first one to speak honestly.
+Bus stop. She speaks first, honestly.
 
 **승 — 솔직한 대화 [세트 3]**
 AI: 미안해요.
@@ -254,7 +246,7 @@ AI: 많이 서운했죠?
 User: 조금요. / 네, 좀요.
 
 **Outro:**
-She exhales slowly, like she's been holding that in for a while.
+She exhales. Been holding that in.
 
 **전 — 화해 [세트 4]**
 User: 괜찮아요. / 이제 됐어요.
@@ -263,7 +255,7 @@ User: 다시 친하게 지내요. / 다시 잘 지내요.
 AI: 네, 그래요.
 
 **Outro:**
-She lets out a relieved laugh and links her arm with yours. 🤗
+Relieved laugh. Arms linked again. 🤗
 
 ---
 
@@ -274,8 +266,7 @@ She lets out a relieved laugh and links her arm with yours. 🤗
 **Goal:** To practice the full reconciliation scene
 
 **intro_text:**
-She walks you to her door.
-Formality falls away completely.
+Her door. No more formalities.
 
 **전 — 완전한 화해 [세트 5]**
 AI: 오늘 고마워.
@@ -284,7 +275,7 @@ AI: 많이 보고 싶었어.
 User: 나도 그랬어. / 나도 보고 싶었어.
 
 **Outro:**
-She leans against the door with a soft smile.
+Leaning on the door, soft smile.
 
 **결 — 새 출발 [세트 6]**
 User: 이제 자주 봐. / 이제 자주 만나.
@@ -293,4 +284,4 @@ User: 약속해. / 꼭이야.
 AI: 응, 약속할게.
 
 **Outro:**
-She holds out her pinky with a determined little nod. 🤙
+Pinky out. Promise made. 🤙
