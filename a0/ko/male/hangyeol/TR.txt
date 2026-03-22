@@ -15,7 +15,7 @@
 
 **📍 장소:** 건대 카페 카운터
 
-**intro_text:** His favorite cafe. He practically lives here!
+**intro_text:** First Korean cafe order. Say it!
 
 **기 — 주문 [세트 1]**
 AI: 안녕하세요! 뭐 드릴까요?
@@ -113,7 +113,7 @@ Mission done! This is your new spot. ☕
 
 **📍 장소:** 건대 야시장 포장마차
 
-**intro_text:** Night market. He's already drooling.
+**intro_text:** Night market. Time to eat!
 
 **기 — 주문 [세트 1]**
 AI: 어서 오세요! 뭐 드릴까요?
@@ -210,7 +210,7 @@ Street food: conquered! 🏆
 
 **📍 장소:** 건대 버스 정류장
 
-**intro_text:** Running for the bus. He knows every route!
+**intro_text:** Running for the bus. Don't miss it!
 
 **기 — 버스 확인 [세트 1]**
 User: 저기요, 이 버스 건대 가요? / 건대 가요?

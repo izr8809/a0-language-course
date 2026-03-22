@@ -281,7 +281,7 @@ He walked ahead, then slowed for you.
 **intro_text:**
 Hot tteokbokki. First meal together!
 
-### 전 — 반말 [세트 5]
+### 전 — 존댓말 [세트 5]
 
 AI: 떡볶이 진짜 맛있어요. 많이 매워요?
 User: 조금 매워요. / 아니요!

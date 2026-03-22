@@ -5,6 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -13,7 +14,7 @@ Deep breath... say hi!
 
 ## sim1: Nice to Meet You
 
-**Goal:** To introduce yourself, state where you are from, and briefly share why you like Korea.
+**Goal:** To introduce yourself and share where you are from.
 
 **📍 장소:** 밖
 
@@ -38,23 +39,18 @@ User: 드라마요! / 음식이요!
 **Outro:**
 She nodded once. That's approval.
 
-**승 — 왜 좋아해요 [세트 3]**
-
-**Outro:**
-A follow-up? She's actually interested.
-
 ---
 
 ## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies and talk about your experience with Korean food.
+**Goal:** To discover shared hobbies and switch to 반말.
 
 **📍 장소:** 밖 (동일)
 
 **intro_text:**
 Past the intro. What do you have in common?
 
-**전 — 취미 [세트 4]**
+**전 — 취미 [세트 3]**
 User: 서연 씨, 취미 뭐예요? / 뭐 좋아해요?
 AI: 커피요. 마시는 거 좋아해요.
 User: 저도요! / 오, 진짜요?
@@ -63,27 +59,7 @@ AI: 괜찮네요. 다음에 같이 마셔요.
 **Outro:**
 She made a plan on the spot. Classic.
 
-**전 — 음식 [세트 5]**
-AI: 밥 먹었어요?
-User: 아직이요! / 조금요!
-AI: 같이 먹어요. 제가 정해줄게요.
-User: 네! / 좋아요!
-
-**Outro:**
-She'll decide what you eat. That's Seoyeon.
-
----
-
-## sim3: Let's Hang Out
-
-**Goal:** To switch to 반말, make casual weekend plans, and exchange KakaoTalk IDs.
-
-**📍 장소:** 밖 (동일, 쉬는 시간)
-
-**intro_text:**
-She's comfortable. Drop the formalities.
-
-**전 — 말 놓기 [세트 6]**
+**전 — 말 놓기 [세트 4]**
 AI: 우리 말 놓을까요?
 User: 네! / 좋아요!
 AI: 나는 서연이야. 편하게 해.
@@ -92,7 +68,18 @@ User: 응! 나는 ___야!
 **Outro:**
 She announced it. You're on 반말 terms now.
 
-**전 — 놀자 [세트 7]**
+---
+
+## sim3: Let's Hang Out
+
+**Goal:** To make casual weekend plans and exchange KakaoTalk IDs.
+
+**📍 장소:** 밖 (동일, 쉬는 시간)
+
+**intro_text:**
+She's comfortable. Drop the formalities.
+
+**전 — 놀자 [세트 5]**
 User: 주말에 뭐 해? / 이번 주말 시간 있어?
 AI: 아직 안 정했어. 왜?
 User: 같이 놀래? / 놀러 가자!
@@ -101,7 +88,11 @@ AI: 좋아. 시간은 내가 정할게.
 **Outro:**
 She said yes and took charge. Get her Kakao!
 
-**결 — 연락 [세트 8]**
+**결 — 연락 [세트 6]**
+User: 카톡 있어? / 카톡 알려줘!
+AI: 있어. 아이디 줘.
+User: 여기! / 내 아이디야.
+AI: 저장했어. 늦게 답하면 안 돼.
 
 **Outro:**
 "Saved. Reply fast." Terms already set.

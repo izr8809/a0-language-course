@@ -113,7 +113,7 @@ Next: see him on stage.
 
 ## sim1: Before the Show
 
-**Goal:** To chat with a fellow fan and survive the wait before the show.
+**Goal:** To respond to Siyun's pre-show greetings and build excitement for the concert.
 
 📍 장소: 콘서트장 객석 (공연 전)
 
@@ -129,7 +129,7 @@ AI: 고마워요! 콘서트 너무 기대돼요
 User: 맞아요! / 저도 너무 기대돼요!
 
 **Outro:**
-New fan friend! 🎪
+He sees you! 🎪
 Same nagging face, same love.
 
 ### 승 — 기다림 [세트 2]
@@ -181,7 +181,7 @@ On stage, still nagging.
 
 ## sim3: After the Show
 
-**Goal:** To celebrate with a fellow fan and relive the best moment of the night.
+**Goal:** To thank Siyun and share your feelings after the concert.
 
 📍 장소: 콘서트장 밖 (공연 후)
 
@@ -209,7 +209,7 @@ AI: 다음에 또 봐요!
 User: 네, 꼭이요! / 약속이에요!
 
 **Outro:**
-Concert buddy confirmed! 🎫
+Until next time! 🎫
 Next: he's live. And nagging the chat.
 
 ---

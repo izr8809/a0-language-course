@@ -5,7 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 16턴 (8세트, 3sim)
+- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -37,16 +37,7 @@ AI: 와, 멀리서 왔네요! 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-She seems impressed! Tell her why you're here.
-
-**승 — 왜 좋아해요 [세트 3]**
-AI: 한국 왜 좋아해요?
-User: 음식이요! / 쇼핑이요!
-AI: 오, 저도요! 쇼핑 자주 해요?
-User: 네, 자주요! / 가끔요!
-
-**Outro:**
-Shared interests detected! She's getting excited.
+She seems impressed! What do you have in common?
 
 ---
 
@@ -59,7 +50,7 @@ Shared interests detected! She's getting excited.
 **intro_text:**
 She's vibing. What do you have in common?
 
-**전 — 취미 [세트 4]**
+**전 — 취미 [세트 3]**
 User: 민지 씨, 취미 뭐예요? / 뭐 좋아해요?
 AI: 저요? 쇼핑이랑 맛집이요!
 User: 저도요! / 오, 좋아요!
@@ -68,23 +59,14 @@ AI: 진짜요? 우리 진짜 잘 맞아요!
 **Outro:**
 Vibe check passed! Bold move incoming...
 
-**전 — 말 놓기 [세트 5]**
+**전 — 말 놓기 [세트 4]**
 AI: 나이가 어떻게 돼요?
 User: ___살이에요!
 AI: 오, 비슷해요! 편하게 말해요!
 User: 네, 좋아요! / 그럴까요?
 
 **Outro:**
-Formality wall: destroyed. 반말 time!
-
-**결 — 반말 시작 [세트 6]**
-AI: 좋아! 나는 민지야, 편하게 해!
-User: 응! 나는 ___야!
-AI: 반가워! 한국 음식 좋아해?
-User: 응, 좋아해! / 진짜 좋아해!
-
-**Outro:**
-New friend unlocked! Lock in those plans!
+Formality wall: destroyed. Make plans!
 
 ---
 
@@ -97,7 +79,7 @@ New friend unlocked! Lock in those plans!
 **intro_text:**
 She wants to hang out! Lock it in!
 
-**결 — 놀자 [세트 7]**
+**결 — 놀자 [세트 5]**
 AI: 주말에 뭐 해? 같이 놀래?
 User: 좋아! 뭐 할까? / 어디 갈까?
 AI: 홍대 가자! 맛집 알아!
@@ -106,7 +88,7 @@ User: 좋아! / 가자!
 **Outro:**
 It's a date! Get her Kakao before she leaves!
 
-**결 — 연락 [세트 8]**
+**결 — 연락 [세트 6]**
 User: 카톡 있어? / 카톡 해!
 AI: 응, 있어! 아이디 알려줘!
 User: 여기! / 적어줄게!
@@ -422,8 +404,8 @@ Dinner report done! Goodnight time. 🍜
 AI: 나 이제 잘 거야! 오늘 진짜 재밌었어!
 User: 나도! 잘 자! / 좋은 꿈 꿔!
 
-User: 내일 또 카톡 해! / 내일 연락해!
-AI: 당연하지! 잘 자!
+AI: 내일 또 카톡 해!
+User: 당연하지! 잘 자! / 응, 내일 연락해!
 
 **Outro:**
 Goodnight! She'll text first thing tomorrow. 🌙

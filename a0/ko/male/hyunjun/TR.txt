@@ -109,7 +109,7 @@ You: "잘 먹었어요." Him: "당연하죠." 😏
 
 **Goal:** To browse and ask about items at a Gangnam department store.
 
-**📍 장소:** 강남 백화점 1층
+**📍 장소:** 강남 백화점 3층
 
 **intro_text:**
 "3층 가세요." That's all he said. Go.

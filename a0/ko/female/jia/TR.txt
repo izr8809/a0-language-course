@@ -34,7 +34,7 @@ User: 기본 주세요. / 큰 거요.
 AI: 알겠어요. 맛있게 만들게요!
 
 **Outro:**
-"No dessert needed." She ate half. 🍰
+Size picked. She nodded. "Good choice." ☕
 
 ---
 

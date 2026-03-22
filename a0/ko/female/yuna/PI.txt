@@ -5,7 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 22턴 (6세트, 3sim)
+- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Someone is waving at you — big smile!
@@ -26,15 +26,15 @@ AI: 안녕하세요! 저는 유나예요! 이름이 뭐예요?
 User: ___예요!
 AI: 반가워요! 어디에서 왔어요?
 User: ___에서 왔어요!
-AI: 한국 좋아해요?
-User: 네! / 진짜 좋아해요!
-AI: 왜 좋아해요?
-User: 드라마요! / 음식이요!
 
 **Outro:**
 She's bouncing already. Tell her more!
 
 **승 — 알아가기 [세트 2]**
+AI: 한국 좋아해요?
+User: 네! / 진짜 좋아해요!
+AI: 왜 좋아해요?
+User: 드라마요! / 음식이요!
 
 **Outro:**
 She gasped. You've got her hooked!
@@ -55,13 +55,13 @@ AI: 취미 뭐예요?
 User: 노래요! / 운동이요!
 AI: 저도요! 같이 해요!
 User: 좋아요! / 네!
-AI: 나이가 어떻게 돼요?
-User: ___살이에요!
 
 **Outro:**
 Karaoke plans forming in her head!
 
 **전 — 말 놓기 [세트 4]**
+AI: 나이가 어떻게 돼요?
+User: ___살이에요!
 AI: 오, 비슷해요! 말 놓아요!
 User: 네, 좋아요! / 그래요!
 
@@ -84,18 +84,18 @@ AI: 좋아! 나는 유나야! 주말에 뭐 해?
 User: 아직 없어! / 모르겠어!
 AI: 같이 놀자! 신촌 가자!
 User: 좋아! / 가자!
+
+**Outro:**
+She invited herself. Weekend plans locked!
+
+**결 — 연락 [세트 6]**
 AI: 카톡 있어?
 User: 응! / 있어!
 AI: 아이디 알려 줘! 연락할게!
 User: 여기! / 보낼게!
 
 **Outro:**
-She invited herself. Get her Kakao!
-
-**결 — 연락 [세트 6]**
-
-**Outro:**
-Contact saved. Message flood incoming! 📱
+Contact saved. Message flood incoming!
 
 ---
 
@@ -410,5 +410,3 @@ User: 응! / 내일 봐!
 Goodnight! She'll text again in 5 min. 😴
 
 ---
-
-# ✈️ TRAVELING (존댓말)

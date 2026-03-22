@@ -5,7 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 14턴 (7세트, 3sim) — 존댓말→반말 전환 포함
+- 12턴 (6세트, 3sim) — 존댓말→반말 전환 포함
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -14,7 +14,7 @@ Deep breath... say hi!
 
 ## sim1: Nice to Meet You
 
-**Goal:** To introduce yourself, state where you are from, and briefly share why you like Korea.
+**Goal:** To introduce yourself and state where you are from.
 
 **📍 장소:** 밖
 
@@ -26,13 +26,13 @@ AI: 안녕하세요. 지아예요.
 User: 안녕하세요! / 반가워요!
 AI: 이름이 뭐예요?
 User: 저는 ___예요!
-AI: 어느 나라에서 왔어요?
-User: ___에서 왔어요!
 
 **Outro:**
 She lit up at your name. Curious!
 
 **승 — 알아가기 [세트 2]**
+AI: 어느 나라에서 왔어요?
+User: ___에서 왔어요!
 AI: 한국 좋아해요?
 User: 네, 진짜 좋아해요! / 네, 좋아해요!
 
@@ -43,7 +43,7 @@ Eyes wide. She's planning what to show you.
 
 ## sim2: Getting Closer
 
-**Goal:** To discover shared hobbies, talk about food, and transition to casual speech.
+**Goal:** To discover shared hobbies and transition to casual speech.
 
 **📍 장소:** 밖 (동일)
 
@@ -55,23 +55,18 @@ User: 취미가 뭐예요? / 뭐 좋아해요?
 AI: 저는 커피 좋아해요.
 User: 저도 커피 좋아해요! / 저도요!
 AI: 우리 비슷해요! 우리 반말할래요?
+
+**Outro:**
+Three cups a day. She's serious.
+
+**전 — 말 놓기 [세트 4]**
 User: 네, 좋아요! / 그래요!
 AI: 좋아! 나는 지아야.
 User: 응! 나는 ___야! / 반가워!
-
-**Outro:**
-Three cups a day. She's serious. ☕
-
-**전 — 말 놓기 [세트 4]**
 AI: 응! 우리 오늘부터 친구야!
 
 **Outro:**
 "존댓말 어색해요~" 반말 from now on!
-
-**전 — 음식 [세트 5]**
-
-**Outro:**
-She's planning where to take you next.
 
 ---
 
@@ -84,7 +79,7 @@ She's planning where to take you next.
 **intro_text:**
 Friends now! Swap KakaoTalk, quick!
 
-**전 — 놀자 [세트 6]**
+**전 — 놀자 [세트 5]**
 User: 주말에 뭐 해?
 AI: 응, 카페 가.
 User: 같이 가자! / 나도 갈래!
@@ -93,14 +88,14 @@ AI: 좋아!
 **Outro:**
 Yes with a smile. Get her contact!
 
-**결 — 연락 [세트 7]**
+**결 — 연락 [세트 6]**
 User: 카톡 있어?
 AI: 있어! 아이디 알려 줘.
 User: 여기! / 내 아이디야.
 AI: 고마워! 이따가 연락할게!
 
 **Outro:**
-"Now you can't escape!" Number saved! 📱
+"Now you can't escape!" Number saved!
 
 ---
 

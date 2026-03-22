@@ -5,7 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
-- 22턴 (6세트, 3sim)
+- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -27,15 +27,15 @@ AI: 안녕하세요! 저는 한결이에요!
 User: 안녕하세요! / 반가워요!
 AI: 이름이 뭐예요?
 User: ___이에요!
-AI: 어디서 왔어요?
-User: ___에서 왔어요!
-AI: 한국 좋아해요?
-User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
 He bounced over like a golden retriever.
 
-**승 — 알아가기 [세트 2]**
+**승 — 어디에서 왔어요 [세트 2]**
+AI: 어디서 왔어요?
+User: ___에서 왔어요!
+AI: 한국 좋아해요?
+User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
 His eyes went wide. You fascinate him.
@@ -56,13 +56,13 @@ User: 한결 씨, 뭐 좋아해요?
 AI: 저는 다 좋아해요! 특히 떡볶이요!
 User: 저도 떡볶이 좋아해요! / 진짜요?
 AI: 와! 저랑 같아요! 몇 살이에요?
-User: ___살이에요!
-AI: 오, 비슷해요! 우리 반말해요?
 
 **Outro:**
 He likes everything. Especially you.
 
 **전 — 말 놓기 [세트 4]**
+User: ___살이에요!
+AI: 오, 비슷해요! 우리 반말해요?
 User: 네, 좋아요! / 네!
 AI: 좋아! 나는 한결이야.
 
@@ -85,15 +85,15 @@ AI: 주말에 뭐 해? 시간 있어?
 User: 아무것도 안 해. / 응, 있어!
 AI: 우리 같이 밥 먹자!
 User: 좋아! 어디 가? / 뭐 먹어?
-AI: 맛집 알아! 전화번호 줘!
-User: 여기! / 응, 좋아!
-AI: 저장했어! 이따 카톡 해!
-User: 나도 저장했어! / 알겠어!
 
 **Outro:**
 He's already planning. Get his Kakao!
 
 **결 — 연락 [세트 6]**
+AI: 맛집 알아! 전화번호 줘!
+User: 여기! / 응, 좋아!
+AI: 저장했어! 이따 카톡 해!
+User: 나도 저장했어! / 알겠어!
 
 **Outro:**
 Number saved. You've been claimed.

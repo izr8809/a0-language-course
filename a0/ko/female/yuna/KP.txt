@@ -126,7 +126,7 @@ Lights dim. Music starts. 🎶
 **승 — 기대 [세트 2]**
 User: 노래 해요? / 노래 불러요?
 AI: 네, 할게요!
-User: 좋아요!. / 기대돼요!
+User: 좋아요! / 기대돼요!
 AI: 잘 할게요!
 
 **Outro:**
@@ -244,7 +244,7 @@ She points at the screen. Your turn!
 AI: 질문 있어요?
 User: 네, 있어요. / 하나요.
 AI: 뭐예요?
-User: 좋아하는 노래요. / 좋아하는 음식이요.
+User: 좋아하는 노래요. / 좋아하는 색깔이요.
 
 **Outro:**
 Head tilt. Then her face lights up!

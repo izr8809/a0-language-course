@@ -1,4 +1,4 @@
-# 🎬 KDRAMA / MOVIE (반말) >> Kdrama
+# 🎬 KDRAMA / MOVIE (존댓말/반말) >> Kdrama
 
 ---
 
@@ -313,25 +313,25 @@ AI: 우리 잘 맞잖아.
 
 ---
 
-# KD-4: 가지 마
+# KD-4: 같이 있자
 
 - 대분류: Kdrama/Movie
-- 중분류: Conflict
+- 중분류: Intimacy
 - 난이도: A0 (Absolute Beginner)
 - 12턴 (6세트, 3sim)
 
 ---
 
-## sim1: 이별 (Goodbye)
+## sim1: 보고 싶었어 (I Missed You)
 
-**Goal:** To practice the hardest scene — the moment everything feels wrong.
+**Goal:** To practice the quiet reunion — catching up after time apart.
 
 📍 장소: 연남동 골목 (새벽)
 
 **intro_text:**
-He's still. Something feels wrong tonight.
+It's been a while. He missed you.
 
-### 기 — 말다툼 [세트 1]
+### 기 — 안부 [세트 1]
 
 AI: 오늘 뭐 했어?
 User: 그냥 집에 있었어. / 바빴어.
@@ -339,9 +339,10 @@ AI: 보고 싶었어.
 User: 나도. / 진짜?
 
 **Outro:**
-He feels bad. He's not going anywhere.
+He missed you. He said it easily.
+That's just how he is.
 
-### 승 — 이별 [세트 2]
+### 승 — 같이 먹자 [세트 2]
 
 AI: 뭐 먹고 싶어?
 User: 아무거나. / 네가 골라.
@@ -349,21 +350,21 @@ AI: 같이 먹으러 가자.
 User: 좋아. / 어디 가?
 
 **Outro:**
-"Don't go. Please." Then: "Stay here."
-He said it straight. He meant it.
+No plan needed. Just together.
+That's enough for him.
 
 ---
 
-## sim2: 혼자 (Alone)
+## sim2: 편해 (Comfortable)
 
-**Goal:** To sit in the sadness — days have passed, he still feels bad.
+**Goal:** To practice being comfortable together — no pressure, just warmth.
 
-📍 장소: 연남동 공유 작업실 (혼자)
+📍 장소: 연남동 공유 작업실
 
 **intro_text:**
-Days apart. The workspace feels empty.
+Side by side. Nothing to prove.
 
-### 승 — 시간이 지나고 [세트 3]
+### 승 — 같이 있으면 [세트 3]
 
 AI: 너랑 있으면 좋아.
 User: 왜? / 나도 좋아.
@@ -371,10 +372,10 @@ AI: 그냥. 편해.
 User: 나도 편해. / 나도 그래.
 
 **Outro:**
-"I don't feel good. It's a hard day."
-He's not pretending anymore.
+"Comfortable." That's his word for it.
+He means everything by it.
 
-### 전 — 미안해 [세트 4]
+### 전 — 매일 [세트 4]
 
 AI: 자주 보자.
 User: 그럴까? / 얼마나?
@@ -382,20 +383,20 @@ AI: 매일.
 User: 매일? / 좋아.
 
 **Outro:**
-"I feel better. Because you're here."
+"Every day." He said it like it was obvious.
 
 ---
 
-## sim3: 다시 (Return)
+## sim3: 계속 (Always)
 
-**Goal:** To practice the reconciliation — he shows up. Everything feels right again.
+**Goal:** To say what you both already know — this is where you belong.
 
 📍 장소: 연남동 골목 (밤)
 
 **intro_text:**
-He came back. Quiet, but here.
+Night walk. Everything feels right.
 
-### 전 — 돌아옴 [세트 5]
+### 전 — 잘 맞아 [세트 5]
 
 User: 우리 잘 맞는 것 같아. / 너랑 있으면 좋아.
 AI: 나도 그래.
@@ -403,10 +404,9 @@ User: 진짜? / 처음부터?
 AI: 응. 처음부터.
 
 **Outro:**
-"I feel good again." He came back.
-That's everything.
+"From the beginning." He always knew.
 
-### 결 — 다시 시작 [세트 6]
+### 결 — 앞으로도 [세트 6]
 
 User: 나도. / 나도 그랬어.
 AI: 앞으로도 같이 있자.
@@ -414,6 +414,7 @@ User: 응, 같이 있자. / 좋아.
 AI: 잘 됐다.
 
 **Outro:**
-"Let's try again. Together."
+"Let's stay together." He smiled.
+Simple as always.
 
 ---

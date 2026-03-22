@@ -5,6 +5,7 @@
 - 대분류: Personal Interest
 - 중분류: First Meeting
 - 난이도: A0 (Absolute Beginner)
+- 12턴 (6세트, 3sim)
 
 First meeting in Korea.
 Deep breath... say hi!
@@ -39,12 +40,6 @@ User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
 He nodded once. Peak Siyun warmth.
-Why do you like Korea though?
-
-**승 — 왜 좋아해요 [세트 3]**
-
-**Outro:**
-"Me too." For Siyun, practically a hug.
 Do your hobbies match?
 
 ---
@@ -58,7 +53,7 @@ Do your hobbies match?
 **intro_text:**
 He's opening up. Find common ground!
 
-**전 — 취미 [세트 4]**
+**전 — 취미 [세트 3]**
 User: 시윤 씨, 취미 뭐예요? / 뭐 좋아해요?
 AI: 음악이요. 듣는 거 좋아해요.
 User: 저도요! / 오, 저도 좋아해요!
@@ -68,7 +63,7 @@ AI: 취향 똑같네요.
 He approved your taste. Rare. Save it.
 Next up: food.
 
-**전 — 음식 [세트 5]**
+**전 — 음식 [세트 4]**
 AI: 밥 먹었어요?
 User: 아직이요! / 아니요!
 AI: 그럼 밥 먹으러 가요.
@@ -89,30 +84,24 @@ Something's about to change...
 **intro_text:**
 Formalities dropped. Swap Kakao IDs!
 
-**전 — 말 놓기 [세트 6]**
+**전 — 말 놓기 [세트 5]**
 AI: 편하게 해요. 반말 해요.
-User: 네! / 좋아요!
-User: 주말에 뭐 해? / 이번 주말 시간 있어?
+User: 좋아! 주말에 뭐 해?
 AI: 딱히 없어. 왜?
+User: 같이 놀자!
 
 **Outro:**
 He decided. That's how Siyun does it.
 반말 terms. Time to make plans.
 
-**전 — 놀자 [세트 7]**
+**전 — 놀자 [세트 6]**
 User: 같이 놀래? / 나랑 놀자!
 AI: 좋아. 같이 놀자.
 User: 카톡 있어? / 카톡 알려줘!
 AI: 내 카톡 아이디는 ___이야.
 
 **Outro:**
-Yes + a rule. His love language.
-Get his Kakao before he leaves!
-
-**결 — 연락 [세트 8]**
-
-**Outro:**
-"Saved." He'll reply in three seconds. 📱
+Kakao secured. He'll reply in three seconds.
 Next: the compatibility test.
 
 ---

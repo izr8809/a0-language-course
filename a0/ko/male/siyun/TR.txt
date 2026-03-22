@@ -53,16 +53,17 @@ User: 카드 돼요? / 현금 돼요?
 AI: 네, 돼요.
 User: 카드로 할게요 / 현금으로 낼게요.
 AI: 네, 영수증 드릴까요?
+User: 주세요. / 아니요, 버려주세요.
 
 **Outro:**
 Payment done! 💳
 One nod. Siyun's "not bad."
 
 **전 — 기다리기 [세트 4]**
-User: 주세요 / 아니요, 버려주세요.
 AI: 네, 결제 끝났습니다.
 User: 감사합니다.
 AI: 나오면 알려드릴게요.
+User: 네! / 알겠어요!
 
 **Outro:**
 Done! 📝
@@ -320,7 +321,7 @@ Siyun: "도착했어? 밥 먹어."
 
 ## sim1: 길 잃음
 
-**Goal:** To ask for directions when you're lost in Hapjeong.
+**Goal:** To navigate to the meeting spot with Siyun's help.
 
 📍 장소: 합정 골목
 
