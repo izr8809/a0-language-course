@@ -26,9 +26,8 @@ AI: 커피 냄새 좋아요.
 User: 진짜 좋아요! / 향기롭네요!
 
 **Outro:**
-> He notices small things. That's Taeo.
-> Who is this guy?
->
+He notices small things. That's Taeo.
+Who is this guy?
 
 **승 — 첫인사 [세트 2]**
 AI: 저 태오예요. 반가워요.
@@ -37,9 +36,8 @@ AI: 이름 예뻐요. 잘 부탁해요.
 User: 잘 부탁해요. / 저도 반가워요.
 
 **Outro:**
-> Names exchanged in four words.
-> Somehow, that's enough.
->
+Names exchanged in four words.
+Somehow, that's enough.
 
 ---
 
@@ -49,6 +47,9 @@ User: 잘 부탁해요. / 저도 반가워요.
 
 **📍 장소:** 연남동 공유 작업실 (작업 자리)
 
+**intro_text:**
+Time to settle in. Find the perfect spot and start creating.
+
 **승 — 자리 [세트 3]**
 AI: 이 자리 좋아요.
 User: 왜요? / 왜 좋아요?
@@ -56,9 +57,8 @@ AI: 빛이 따뜻해요.
 User: 그러네요, 맞아요. / 진짜 따뜻해요.
 
 **Outro:**
-> He notices things others walk past.
-> This workspace just got interesting.
->
+He notices things others walk past.
+This workspace just got interesting.
 
 **전 — 작업 [세트 4]**
 AI: 뭐 만들어요?
@@ -67,9 +67,8 @@ AI: 멋져요. 보고 싶어요.
 User: 열심히 하고 있어요. / 감사해요, 보여줄게요.
 
 **Outro:**
-> Two freelancers. Side by side.
-> The work begins.
->
+Two freelancers. Side by side.
+The work begins.
 
 ---
 
@@ -79,6 +78,9 @@ User: 열심히 하고 있어요. / 감사해요, 보여줄게요.
 
 **📍 장소:** 연남동 공유 작업실 (저녁)
 
+**intro_text:**
+The sun is setting. First day is almost done. How did it go?
+
 **전 — 마무리 [세트 5]**
 AI: 오늘 잘 됐어요?
 User: 그럭저럭이에요. / 좀 힘들었어요.
@@ -86,9 +88,8 @@ AI: 내일 더 잘 될 거예요.
 User: 어떻게 알아요? / 진짜요?
 
 **Outro:**
-> He speaks like he knows things.
-> Somehow, you believe him.
->
+He speaks like he knows things.
+Somehow, you believe him.
 
 **결 — 내일 [세트 6]**
 AI: 그냥 느낌이에요.
@@ -97,9 +98,8 @@ AI: 내일 또 봐요.
 User: 네, 내일 봐요. / 그래요, 내일!
 
 **Outro:**
-> He just has a feeling. That's how Taeo is.
-> You'll be back tomorrow.
->
+He just has a feeling. That's how Taeo is.
+You'll be back tomorrow.
 
 ---
 
@@ -130,9 +130,8 @@ AI: 눈 감아봐요.
 User: 왜요? / 뭐 하게요?
 
 **Outro:**
-> He saw it before you said a word.
-> Just close your eyes.
->
+He saw it before you said a word.
+Just close your eyes.
 
 ### 승 — 소리 [세트 2]
 
@@ -142,9 +141,8 @@ AI: 잘 들어봐요.
 User: 바람 소리인가요? / 뭔가 들려요.
 
 **Outro:**
-> Taeo helps you think differently.
-> Something is shifting.
->
+Taeo helps you think differently.
+Something is shifting.
 
 ---
 
@@ -154,6 +152,9 @@ User: 바람 소리인가요? / 뭔가 들려요.
 
 📍 장소: 연남동 공유 작업실
 
+**intro_text:**
+Taeo has a strange method. Trust it and see what happens.
+
 ### 승 — 시도 [세트 3]
 
 AI: 편하게 있어봐요.
@@ -162,9 +163,8 @@ AI: 눈을 감아봐요.
 User: 해볼게요. / 알겠어요.
 
 **Outro:**
-> Simple advice. But it helps.
-> You try it his way.
->
+Simple advice. But it helps.
+You try it his way.
 
 ### 전 — 결과 [세트 4]
 
@@ -174,9 +174,8 @@ AI: 나쁘지 않죠?
 User: 맞아요, 감사해요. / 진짜 감사해요.
 
 **Outro:**
-> The strange advice worked.
-> Trust Taeo's instincts.
->
+The strange advice worked.
+Trust Taeo's instincts.
 
 ---
 
@@ -186,6 +185,9 @@ User: 맞아요, 감사해요. / 진짜 감사해요.
 
 📍 장소: 연남동 공유 작업실 (오후)
 
+**intro_text:**
+Afternoon light, cold coffee, and one more push to the finish line.
+
 ### 전 — 커피 [세트 5]
 
 AI: 커피 식었어요.
@@ -194,9 +196,8 @@ AI: 따뜻할 때 마셔야 해요.
 User: 맞아요. / 그래야죠.
 
 **Outro:**
-> Small moments matter to Taeo.
-> He cares about the little things.
->
+Small moments matter to Taeo.
+He cares about the little things.
 
 ### 결 — 믿음 [세트 6]
 
@@ -206,9 +207,8 @@ AI: 좋은 느낌이에요.
 User: 믿을게요. / 알겠어요.
 
 **Outro:**
-> His feelings are rarely wrong.
-> You're starting to believe that.
->
+His feelings are rarely wrong.
+You're starting to believe that.
 
 ---
 
@@ -239,9 +239,8 @@ AI: 단 거 먹어요. 힘이 나요.
 User: 맞아요, 그렇죠. / 맞는 말이에요.
 
 **Outro:**
-> He showed up with bread. Nobody asked him to.
-> That's just who he is.
->
+He showed up with bread. Nobody asked him to.
+That's just who he is.
 
 ### 승 — 이론 [세트 2]
 
@@ -251,9 +250,8 @@ AI: 진짜예요. 먹어봐요.
 User: 먹어볼게요. / 알겠어요, 먹을게요.
 
 **Outro:**
-> Bread theory: unscientific.
-> But somehow, it works.
->
+Bread theory: unscientific.
+But somehow, it works.
 
 ---
 
@@ -263,6 +261,9 @@ User: 먹어볼게요. / 알겠어요, 먹을게요.
 
 📍 장소: 연남동 공유 작업실 (새벽)
 
+**intro_text:**
+It's way past midnight. Just you two and the deadline. Keep going!
+
 ### 승 — 새벽 [세트 3]
 
 AI: 지금 몇 시예요?
@@ -271,9 +272,8 @@ AI: 조금만 더 해요.
 User: 뭔 소리예요. / 이상해요.
 
 **Outro:**
-> 2am and he says he likes this time. That's Taeo.
-> You're too tired to argue.
->
+2am and he says he likes this time. That's Taeo.
+You're too tired to argue.
 
 ### 전 — 격려 [세트 4]
 
@@ -283,9 +283,8 @@ AI: 잘 하고 있어요.
 User: 감사해요, 태오 씨. / 힘이 나요, 감사해요.
 
 **Outro:**
-> Almost there.
-> You're not alone tonight.
->
+Almost there.
+You're not alone tonight.
 
 ---
 
@@ -295,6 +294,9 @@ User: 감사해요, 태오 씨. / 힘이 나요, 감사해요.
 
 📍 장소: 연남동 공유 작업실 (새벽, 마감 후)
 
+**intro_text:**
+You made it. The work is done. Time to celebrate the small victory!
+
 ### 전 — 완료 [세트 5]
 
 AI: 다 했어요? 끝났어요?
@@ -303,9 +305,8 @@ AI: 잘했어요. 수고했어요.
 User: 같이 해서 괜찮았어요. / 태오 씨 덕분이에요.
 
 **Outro:**
-> Done. Finally done.
-> It feels better, shared.
->
+Done. Finally done.
+It feels better, shared.
 
 ### 결 — 내일 [세트 6]
 
@@ -315,8 +316,7 @@ AI: 내일 빵 또 사올게요.
 User: 기대할게요. / 좋아요, 약속이에요!
 
 **Outro:**
-> He already knows tomorrow will be hard too.
-> But that's okay. He'll bring bread.
->
+He already knows tomorrow will be hard too.
+But that's okay. He'll bring bread.
 
 ---

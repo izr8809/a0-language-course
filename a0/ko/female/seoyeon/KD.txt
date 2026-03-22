@@ -28,9 +28,8 @@ User: 잘 부탁드려요. / 반가워요.
 AI: 응, 반가워.
 
 **Outro:**
-> First words to a stranger: "Have you eaten?" 😶
-> She's already taking care of you.
->
+First words to a stranger: "Have you eaten?" 😶
+She's already taking care of you.
 
 **승 — 짧은 대화 [세트 2]**
 User: 여기 자주 와요? / 자주 오세요?
@@ -39,9 +38,8 @@ User: 저도요. / 가끔 와요.
 AI: 다음에는 같이 오자.
 
 **Outro:**
-> You said you come here too. She said next time, come together. 📎
-> She's already planning the next visit.
->
+You said you come here too. She said next time, come together. 📎
+She's already planning the next visit.
 
 ---
 
@@ -51,6 +49,9 @@ AI: 다음에는 같이 오자.
 
 **📍 장소:** 성수 카페 (동일)
 
+**intro_text:**
+The silence is loud. She's not talking — but she's definitely paying attention.
+
 **승 — 질문 [세트 3]**
 User: 뭐 마셔요? / 뭐 마실 거예요?
 AI: 아메리카노. 너는?
@@ -58,9 +59,8 @@ User: 저도요. / 같은 거요.
 AI: 따뜻한 거 마셔. 시켜줄게.
 
 **Outro:**
-> Same drink. She immediately ordered you a warm one instead. 🤔
-> That's her version of finding common ground.
->
+Same drink. She immediately ordered you a warm one instead. 🤔
+That's her version of finding common ground.
 
 **전 — 의외 [세트 4]**
 AI: 안 추워?
@@ -69,9 +69,8 @@ AI: 추울 줄 알았어. 이거.
 User: …감사해요. / 고마워요.
 
 **Outro:**
-> She came prepared. She already had an extra layer ready. 🌫️
-> Seoyeon doesn't react — she anticipates.
->
+She came prepared. She already had an extra layer ready. 🌫️
+Seoyeon doesn't react — she anticipates.
 
 ---
 
@@ -81,6 +80,9 @@ User: …감사해요. / 고마워요.
 
 **📍 장소:** 성수 골목 (카페 앞)
 
+**intro_text:**
+Time to say goodbye. But something tells you this isn't the last time.
+
 **전 — 마무리 [세트 5]**
 User: 오늘 좋았어요. / 재밌었어요.
 AI: 그래? 조심히 가.
@@ -88,9 +90,8 @@ User: 네. / 잘 가요.
 AI: 도착하면 카톡 해. 꼭.
 
 **Outro:**
-> "KakaoTalk me when you arrive. No excuses." 🌸
-> That's Seoyeon for "I want to see you again."
->
+"KakaoTalk me when you arrive. No excuses." 🌸
+That's Seoyeon for "I want to see you again."
 
 **결 — 다음에 [세트 6]**
 User: 또 만나요? / 다음에 또 봐요?
@@ -99,9 +100,8 @@ User: 연락할게요. / 기다릴게요.
 AI: 내가 먼저 연락할 게.
 
 **Outro:**
-> She didn't wait for you to decide. She said she'd reach out first. 🤍
-> When Seoyeon says she'll do something, she does it.
->
+She didn't wait for you to decide. She said she'd reach out first. 🤍
+When Seoyeon says she'll do something, she does it.
 
 ---
 
@@ -133,9 +133,8 @@ User: 진짜? / 정말?
 AI: 진짜. 신경 쓰지 마.
 
 **Outro:**
-> She shut it down fast. "It's nothing." 😶‍🌫️
-> But she's still here. That means something.
->
+She shut it down fast. "It's nothing." 😶‍🌫️
+But she's still here. That means something.
 
 ### 승 — 말해봐 [세트 2]
 
@@ -145,9 +144,8 @@ User: 지금 말해봐. / 지금 해.
 AI: 지금은 아니야. 이따가.
 
 **Outro:**
-> She's not deflecting — she's scheduling. On her terms. 😤
-> She hasn't walked away. That means she'll talk when she's ready.
->
+She's not deflecting — she's scheduling. On her terms. 😤
+She hasn't walked away. That means she'll talk when she's ready.
 
 ---
 
@@ -157,6 +155,9 @@ AI: 지금은 아니야. 이따가.
 
 📍 장소: 성수 골목 (동일)
 
+**intro_text:**
+She's about to say something real. Are you ready to hear it?
+
 ### 승 — 터짐 [세트 3]
 
 AI: 연락 안 하면 어떡해.
@@ -165,9 +166,8 @@ AI: 기다렸잖아. 힘들었어.
 User: 몰랐어. 미안. / 진짜 미안해.
 
 **Outro:**
-> "연락 안 하면 어떡해." Direct. No deflection. 💥
-> She doesn't hide behind questions. She tells you.
->
+"연락 안 하면 어떡해." Direct. No deflection. 💥
+She doesn't hide behind questions. She tells you.
 
 ### 전 — 처음 [세트 4]
 
@@ -177,9 +177,8 @@ User: 다음엔 연락할게.. / 그럼 왜?
 AI: 걱정했다고. 다음엔 꼭 해.
 
 **Outro:**
-> Not angry. Worried. And already setting the rule for next time. 🌊
-> That's how she processes feelings — through action.
->
+Not angry. Worried. And already setting the rule for next time. 🌊
+That's how she processes feelings — through action.
 
 ---
 
@@ -189,6 +188,9 @@ AI: 걱정했다고. 다음엔 꼭 해.
 
 📍 장소: 성수 카페 (앉아서)
 
+**intro_text:**
+The storm passed. Now just be here. That's all she needs.
+
 ### 전 — 조용해짐 [세트 5]
 
 User: 괜찮아? / 지금 어때?
@@ -197,9 +199,8 @@ User: 솔직하게. / 진짜로 말해.
 AI: …좀 힘들었어. 근데 괜찮아.
 
 **Outro:**
-> She admitted it — then immediately took it back. 💙
-> Even vulnerable, she keeps control.
->
+She admitted it — then immediately took it back. 💙
+Even vulnerable, she keeps control.
 
 ### 결 — 있어줄게 [세트 6]
 
@@ -209,9 +210,8 @@ User: 그래, 안 갈게. / 여기 있을게.
 AI: 같이 있자.
 
 **Outro:**
-> "Stay a bit longer." Then she took your hand to go eat. 🫂
-> That's the most honest she's ever been.
->
+"Stay a bit longer." Then she took your hand to go eat. 🫂
+That's the most honest she's ever been.
 
 ---
 
@@ -242,9 +242,8 @@ User: 뭐야. / 말해봐.
 AI: 생각 중이야.
 
 **Outro:**
-> She's thinking. Out loud would be too easy. 💗
-> Something's behind it this time.
->
+She's thinking. Out loud would be too easy. 💗
+Something's behind it this time.
 
 ### 승 — 근처까지 [세트 2]
 
@@ -254,9 +253,8 @@ User: 말해. / 들을게.
 AI: 너… 요즘 잘 지내?
 
 **Outro:**
-> She tried to confess. "요즘 잘 지내?" came out instead. 🌫️
-> Even Seoyeon struggles with this one.
->
+She tried to confess. "요즘 잘 지내?" came out instead. 🌫️
+Even Seoyeon struggles with this one.
 
 ---
 
@@ -266,6 +264,9 @@ AI: 너… 요즘 잘 지내?
 
 📍 장소: 성수 골목 (동일)
 
+**intro_text:**
+She's gathering her courage. This is it — listen carefully.
+
 ### 승 — 서연식 고백 [세트 3]
 
 AI: 좋아해. 너.
@@ -274,9 +275,8 @@ AI: 한 번만 말할 거야.
 User: 진짜? / 정말?
 
 **Outro:**
-> She said it once. Clear. Final. No repeats. 💕
-> Now she's waiting for your answer.
->
+She said it once. Clear. Final. No repeats. 💕
+Now she's waiting for your answer.
 
 ### 전 — 기다림 [세트 4]
 
@@ -286,9 +286,8 @@ User: 응. / 확실해.
 AI: …좋아. 그럼 됐어.
 
 **Outro:**
-> "Are you sure?" Then "Good. That's settled." 🌙
-> She confirmed it like a decision. But her ears are red.
->
+"Are you sure?" Then "Good. That's settled." 🌙
+She confirmed it like a decision. But her ears are red.
 
 ---
 
@@ -298,6 +297,9 @@ AI: …좋아. 그럼 됐어.
 
 📍 장소: 성수 골목 (동일)
 
+**intro_text:**
+It's official now. Time to figure out what happens next — together.
+
 ### 전 — 확인 [세트 5]
 
 User: 우리 사귀는 거야? / 우리 연인이야?
@@ -306,9 +308,8 @@ User: 진짜? / 정말?
 AI: 진짜. 이제 내 말 잘 들어.
 
 **Outro:**
-> She said yes like it was obvious. Then set the terms. 💘
-> That's her version of "I love you."
->
+She said yes like it was obvious. Then set the terms. 💘
+That's her version of "I love you."
 
 ### 결 — 마음 [세트 6]
 
@@ -318,9 +319,8 @@ User: 내 손도 차가워. / 괜찮아.
 AI: 알았어. 내가 잡을게.
 
 **Outro:**
-> She scolded you for the cold hands. Then grabbed them herself. 🤍
-> Once Seoyeon decides, she acts.
->
+She scolded you for the cold hands. Then grabbed them herself. 🤍
+Once Seoyeon decides, she acts.
 
 ---
 
@@ -351,9 +351,8 @@ User: 가! / 제발 가.
 AI: 싫어. 안 가.
 
 **Outro:**
-> You told her to leave. She said no. Twice. 😶
-> She's not going anywhere.
->
+You told her to leave. She said no. Twice. 😶
+She's not going anywhere.
 
 ### 승 — 이별 [세트 2]
 
@@ -363,9 +362,8 @@ User: 안녕. / 잘 지내.
 AI: 가지 마. 제발.
 
 **Outro:**
-> "가지 마. 제발." The first time she's ever said please. 💔
-> She can't explain it either.
->
+"가지 마. 제발." The first time she's ever said please. 💔
+She can't explain it either.
 
 ---
 
@@ -375,6 +373,9 @@ AI: 가지 마. 제발.
 
 📍 장소: 성수 카페 (혼자)
 
+**intro_text:**
+Days apart. You finally picked up the phone. What do you say?
+
 ### 승 — 시간이 지나고 [세트 3]
 
 User: 잘 지내? / 괜찮아?
@@ -383,9 +384,8 @@ User: 보고 싶어서. / 궁금해서.
 AI: 그래?
 
 **Outro:**
-> Days apart. She asked why — then checked if you're eating. 🌧️
-> Even hurt, she can't help caring.
->
+Days apart. She asked why — then checked if you're eating. 🌧️
+Even hurt, she can't help caring.
 
 ### 전 — 미안해 [세트 4]
 
@@ -395,9 +395,8 @@ User: 보고 싶었어. / 만나고 싶었어.
 AI: 나도. 많이.
 
 **Outro:**
-> She apologized back. Direct, no deflection. ☕
-> The wall didn't crack — she opened the door herself.
->
+She apologized back. Direct, no deflection. ☕
+The wall didn't crack — she opened the door herself.
 
 ---
 
@@ -407,6 +406,9 @@ AI: 나도. 많이.
 
 📍 장소: 성수 골목 (밤)
 
+**intro_text:**
+She came back. No big speech — just her, standing there. Your move.
+
 ### 전 — 돌아옴 [세트 5]
 
 AI: 나야. 나왔어.
@@ -415,9 +417,8 @@ AI: 응. 보고 싶었어.
 User: 나도… / 나도 보고 싶었어.
 
 **Outro:**
-> She came back. "Let's go." Not a question — a statement. 🌸
-> That's Seoyeon's version of everything.
->
+She came back. "Let's go." Not a question — a statement. 🌸
+That's Seoyeon's version of everything.
 
 ### 결 — 다시 시작 [세트 6]
 
@@ -427,8 +428,7 @@ User: 진짜? / 약속해
 AI: 진짜. 이번엔 안 놓을 거야.
 
 **Outro:**
-> "당연하지." Obviously. "이번엔 내가 안 놓을 거야." This time, I won't let go. 🤙
-> She doesn't ask you to stay. She holds on.
->
+"당연하지." Obviously. "이번엔 내가 안 놓을 거야." This time, I won't let go. 🤙
+She doesn't ask you to stay. She holds on.
 
 ---

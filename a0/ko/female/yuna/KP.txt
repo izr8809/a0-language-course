@@ -26,8 +26,7 @@ AI: 잘 오셨어요!
 User: 감사해요. / 고마워요.
 
 **Outro:**
-> She picks up her pen and opens your album to the first page.
->
+She picks up her pen and opens your album to the first page.
 
 **승 — 사인 [세트 2]**
 User: 사인해 주세요. / 사인 부탁해요.
@@ -36,8 +35,7 @@ User: 고마워요. / 감사합니다.
 AI: 천만에요!
 
 **Outro:**
-> She draws a tiny heart next to her name and slides the album back to you. 💕
->
+She draws a tiny heart next to her name and slides the album back to you. 💕
 
 ---
 
@@ -58,8 +56,7 @@ AI: 가까이 와요!
 User: 알겠어요. / 네, 갈게요.
 
 **Outro:**
-> She wraps her arm around you and grins at the camera.
->
+She wraps her arm around you and grins at the camera.
 
 **전 — 확인 [세트 4]**
 User: 잘 나왔어요? / 어때요?
@@ -68,8 +65,7 @@ User: 같이 봐요. / 보여줘요.
 AI: 봐요!
 
 **Outro:**
-> She zooms in on the photo and gasps like it's the best picture ever taken. 📸
->
+She zooms in on the photo and gasps like it's the best picture ever taken. 📸
 
 ---
 
@@ -90,8 +86,7 @@ AI: 고마워!
 User: 그래! / 편하게 해.
 
 **Outro:**
-> She leans over and whispers something just for you.
->
+She leans over and whispers something just for you.
 
 **결 — 편한 대화 [세트 6]**
 User: 또 와? / 다음에도 와?
@@ -100,8 +95,7 @@ User: 기다릴게. / 꼭 와.
 AI: 알았어!
 
 **Outro:**
-> She waves goodbye with both hands, bouncing on her toes until you're out of sight. 👋
->
+She waves goodbye with both hands, bouncing on her toes until you're out of sight. 👋
 
 ---
 
@@ -131,8 +125,7 @@ AI: 반가워요!
 User: 저도요. / 저도 반가워요.
 
 **Outro:**
-> The lights dim and the music begins to swell.
->
+The lights dim and the music begins to swell.
 
 **승 — 기대 [세트 2]**
 User: 노래 해요? / 노래 불러요?
@@ -141,8 +134,7 @@ User: 좋아요!. / 기대돼요!
 AI: 잘 할게요!
 
 **Outro:**
-> She grabs the mic, takes a breath, and the whole arena goes quiet. 🎶
->
+She grabs the mic, takes a breath, and the whole arena goes quiet. 🎶
 
 ---
 
@@ -163,8 +155,7 @@ AI: 한 곡만요.
 User: 감사해요! / 좋아요!
 
 **Outro:**
-> The crowd erupts as the opening notes ring out.
->
+The crowd erupts as the opening notes ring out.
 
 **전 — 환호 [세트 4]**
 User: 최고예요! / 너무 좋아요!
@@ -173,8 +164,7 @@ User: 또 해요. / 한 번 더요.
 AI: 알겠어요!
 
 **Outro:**
-> She throws a finger heart into the crowd and it lands right on you. 💖
->
+She throws a finger heart into the crowd and it lands right on you. 💖
 
 ---
 
@@ -195,8 +185,7 @@ AI: 진짜?
 User: 응, 정말. / 응, 진짜.
 
 **Outro:**
-> She reaches out and briefly squeezes your hand.
->
+She reaches out and briefly squeezes your hand.
 
 **결 — 소감 [세트 6]**
 User: 힘들었어? / 괜찮아?
@@ -205,8 +194,7 @@ User: 다행이야. / 잘됐다.
 AI: 고마워!
 
 **Outro:**
-> She pulls you in for a quick selfie before the staff can stop her. 🤳
->
+She pulls you in for a quick selfie before the staff can stop her. 🤳
 
 ---
 
@@ -236,8 +224,7 @@ AI: 기다렸어요!
 User: 저도요. / 저도 기다렸어요.
 
 **Outro:**
-> She claps her hands and does a little spin in her chair.
->
+She claps her hands and does a little spin in her chair.
 
 **승 — 확인 [세트 2]**
 User: 언제부터요? / 오래됐어요?
@@ -246,8 +233,7 @@ User: 잘됐어요. / 다행이에요.
 AI: 맞아요!
 
 **Outro:**
-> She reads your username out loud and does a little cheer just for you. 🎉
->
+She reads your username out loud and does a little cheer just for you. 🎉
 
 ---
 
@@ -268,8 +254,7 @@ AI: 뭐예요?
 User: 좋아하는 노래요. / 좋아하는 음식이요.
 
 **Outro:**
-> She tilts her head, thinks for a second, then lights up.
->
+She tilts her head, thinks for a second, then lights up.
 
 **전 — 노래 [세트 4]**
 User: 불러줘요. / 알려줘요.
@@ -278,8 +263,7 @@ User: 좋아요. / 듣고 싶어요.
 AI: 들어줘요!
 
 **Outro:**
-> She starts humming softly and the chat explodes with hearts. 🎵
->
+She starts humming softly and the chat explodes with hearts. 🎵
 
 ---
 
@@ -300,8 +284,7 @@ AI: 편하다!
 User: 좋아. / 나도 편해.
 
 **Outro:**
-> She smiles straight into the camera like she's talking only to you.
->
+She smiles straight into the camera like she's talking only to you.
 
 **결 — 마무리 [세트 6]**
 User: 내일도 와? / 또 와?
@@ -310,5 +293,4 @@ User: 기다릴게. / 꼭 해.
 AI: 알았어!
 
 **Outro:**
-> She blows a kiss at the camera and hits the end stream button with a giggle. 😘
->
+She blows a kiss at the camera and hits the end stream button with a giggle. 😘

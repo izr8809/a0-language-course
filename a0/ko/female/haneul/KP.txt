@@ -26,8 +26,7 @@ AI: 와, 만나서 반가워요. 밥 먹었어요?
 User: 네, 먹었어요. / 아직 안 먹었어요.
 
 **Outro:**
-> She signs slowly, drawing a tiny cloud next to her name.
->
+She signs slowly, drawing a tiny cloud next to her name.
 
 **승 — 대화 [세트 2]**
 AI: 우리 노래 좋아해요?
@@ -36,8 +35,7 @@ AI: 고마워요! 자, 사인 여기 있어요.
 User: 감사합니다!
 
 **Outro:**
-> She hands back the album with a warm, gentle smile.
->
+She hands back the album with a warm, gentle smile.
 
 ---
 
@@ -58,8 +56,7 @@ User: 감사합니다! / 떨려요.
 AI: 하나, 둘, 셋! 김치!
 
 **Outro:**
-> She tilts her head, looking for the best angle.
->
+She tilts her head, looking for the best angle.
 
 **승 — 사진 [세트 4]**
 User: 와, 잘 나왔어요. / 예뻐요.
@@ -68,8 +65,7 @@ User: 여기요. / 진짜 잘 나왔어요.
 AI: 진짜 잘 나왔어요! 오늘 고마워요.
 
 **Outro:**
-> She smiles at the photo, genuinely pleased.
->
+She smiles at the photo, genuinely pleased.
 
 ---
 
@@ -90,8 +86,7 @@ AI: 네, 이제 가야 돼요.
 User: 오늘 진짜 행복했어요. / 최고였어요.
 
 **Outro:**
-> She waves slowly, quiet and sincere.
->
+She waves slowly, quiet and sincere.
 
 **승 — 마지막 [세트 6]**
 AI: 저도 진짜 행복했어요. 우리 또 만나요!
@@ -100,8 +95,7 @@ AI: 조심히 가요! 안녕!
 User: 안녕히 가세요! / 잘 가요!
 
 **Outro:**
-> She watches you leave with a lingering, gentle smile.
->
+She watches you leave with a lingering, gentle smile.
 
 ---
 
@@ -131,8 +125,7 @@ AI: 축하해요! 오늘 공연 재미있었어요?
 User: 네, 최고였어요! / 감동했어요.
 
 **Outro:**
-> She looks at you with quiet surprise, pleasantly caught off guard.
->
+She looks at you with quiet surprise, pleasantly caught off guard.
 
 **승 — 공연 [세트 2]**
 AI: 다행이에요. 어디가 제일 좋았어요?
@@ -141,8 +134,7 @@ AI: 진짜 고마워요. 저 너무 기분 좋아요.
 User: 저도 행복해요.
 
 **Outro:**
-> She tugs at her sleeve, still thinking about the performance.
->
+She tugs at her sleeve, still thinking about the performance.
 
 ---
 
@@ -163,8 +155,7 @@ AI: 저 오늘 무대에서 진짜 많이 떨었어요.
 User: 진짜요? / 몰랐어요.
 
 **Outro:**
-> She hands it over gently, like she gives everything with care.
->
+She hands it over gently, like she gives everything with care.
 
 **승 — 질문 [세트 4]**
 AI: 진짜예요. 팬들 보니까 괜찮았어요.
@@ -173,8 +164,7 @@ AI: 오늘 와줘서 진짜 고마워요.
 User: 제가 더 고마워요. / 행복해요.
 
 **Outro:**
-> She shrugs, but her eyes hold something almost proud.
->
+She shrugs, but her eyes hold something almost proud.
 
 ---
 
@@ -195,8 +185,7 @@ User: 네, 가요! / 꼭 가요!
 AI: 진짜죠? 저 다 기억해요.
 
 **Outro:**
-> She stares at the dark stage, still feeling the energy.
->
+She stares at the dark stage, still feeling the energy.
 
 **승 — 마무리 [세트 6]**
 User: 약속해요! / 잊지 마세요!
@@ -205,8 +194,7 @@ User: 안녕히 계세요. / 수고하셨어요!
 AI: 네! 다음에 또 봐요!
 
 **Outro:**
-> She smiles at the empty seats, already looking forward to next time.
->
+She smiles at the empty seats, already looking forward to next time.
 
 ---
 
@@ -236,8 +224,7 @@ AI: 밥 먹었어요? 저는 방금 먹었어요.
 User: 저도 먹었어요. / 아직 안 먹었어요.
 
 **Outro:**
-> She adjusts the camera angle and smiles softly.
->
+She adjusts the camera angle and smiles softly.
 
 **승 — 인사 [세트 2]**
 AI: 오늘 제 옷 어때요? 예뻐요?
@@ -246,8 +233,7 @@ AI: 고마워요. 오늘 기분 진짜 좋아요.
 User: 저도 기분 좋아요! / 다행이에요.
 
 **Outro:**
-> She looks into the camera with a calm, genuine expression.
->
+She looks into the camera with a calm, genuine expression.
 
 ---
 
@@ -268,8 +254,7 @@ User: 보여 주세요! / 궁금해요!
 AI: 네, 나중에 꼭 사진 올릴게요.
 
 **Outro:**
-> She shows a polaroid to the camera, smiling softly.
->
+She shows a polaroid to the camera, smiling softly.
 
 **승 — 노래 [세트 4]**
 User: 노래해 주세요! / 노래 듣고 싶어요.
@@ -278,8 +263,7 @@ User: 데뷔곡이요! / 다 좋아요!
 AI: 알겠어요. 지금 조금 노래할게요.
 
 **Outro:**
-> She hums something soft, a quiet melody.
->
+She hums something soft, a quiet melody.
 
 ---
 
@@ -300,8 +284,7 @@ AI: 아쉽지만 저 이제 가야 돼요.
 User: 오늘 진짜 재미있었어요. / 행복했어요.
 
 **Outro:**
-> She waves at the camera once — slow and gentle.
->
+She waves at the camera once — slow and gentle.
 
 **승 — 인사 [세트 6]**
 AI: 저도 재미있었어요. 늦었으니까 빨리 자요!
@@ -310,5 +293,4 @@ AI: 안녕! 다음에 또 만나요!
 User: 안녕! / 또 만나요!
 
 **Outro:**
-> The stream ends, but her warm smile stays with you.
->
+The stream ends, but her warm smile stays with you.

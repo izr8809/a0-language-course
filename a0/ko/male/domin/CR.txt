@@ -26,9 +26,8 @@ User: 네, 좋습니다! / 그러네요!
 AI: 오늘도 화이팅이에요!
 
 **Outro:**
-> Morning greetings cleared! ☀️
-> Uh oh, here comes the boss...
->
+Morning greetings cleared! ☀️
+Uh oh, here comes the boss...
 
 **승 — 상사 [세트 2]**
 AI: 오늘 회의 있어요. 알고 있죠?
@@ -37,9 +36,8 @@ AI: 좋아요. 10시에 회의실이에요.
 User: 네, 알겠습니다. / 네, 감사합니다.
 
 **Outro:**
-> Surviving the boss? Check! ✔️
-> Now, onto the most important office mission.
->
+Surviving the boss? Check! ✔️
+Now, onto the most important office mission.
 
 ---
 
@@ -49,6 +47,9 @@ User: 네, 알겠습니다. / 네, 감사합니다.
 
 **📍 장소:** 사무실 (근무 중)
 
+**intro_text:**
+Lunchtime! Let's see if you can handle a chat and a favor.
+
 **승 — 동료 [세트 3]**
 AI: 점심 먹었어요?
 User: 네, 먹었습니다. / 아직입니다.
@@ -56,9 +57,8 @@ AI: 같이 먹을래요?
 User: 네, 좋습니다. / 그럴까요?
 
 **Outro:**
-> Lunch buddy secured! 🍱
-> But wait... a wild task suddenly appears!
->
+Lunch buddy secured! 🍱
+But wait... a wild task suddenly appears!
 
 **전 — 부탁 [세트 4]**
 AI: 이거 좀 봐 주실 수 있어요?
@@ -67,9 +67,8 @@ AI: 감사합니다!
 User: 아닙니다. / 별말씀을요.
 
 **Outro:**
-> Task handled like a true professional! 💻
-> Keep your eyes on the clock, it's almost time...
->
+Task handled like a true professional! 💻
+Keep your eyes on the clock, it's almost time...
 
 ---
 
@@ -79,6 +78,9 @@ User: 아닙니다. / 별말씀을요.
 
 **📍 장소:** 사무실 (퇴근)
 
+**intro_text:**
+Clock's ticking — time to wrap up and head out like a pro.
+
 **전 — 퇴근 [세트 5]**
 AI: 오늘 수고 많으셨습니다!
 User: 수고하셨습니다! / 고생하셨습니다!
@@ -86,9 +88,8 @@ User: 먼저 가보겠습니다. / 퇴근하겠습니다.
 AI: 네, 조심히 가세요!
 
 **Outro:**
-> The magic words: "Good work today"! 🎉
-> Just one last polite bow before you run.
->
+The magic words: "Good work today"! 🎉
+Just one last polite bow before you run.
 
 **결 — 인사 [세트 6]**
 User: 내일 뵙겠습니다! / 감사합니다!
@@ -97,9 +98,8 @@ User: 안녕히 가세요! / 조심히 가세요!
 AI: 안녕히 가세요!
 
 **Outro:**
-> First day at the Korean office: Conquered! 🏢
-> Next up: The ultimate phrase for corporate survival.
->
+First day at the Korean office: Conquered! 🏢
+Next up: The ultimate phrase for corporate survival.
 
 ---
 
@@ -131,9 +131,8 @@ AI: 질문 있으면 말해 주세요.
 User: 알겠습니다. / 지금은 없습니다.
 
 **Outro:**
-> Instructions received! 📋
-> Now show them you're on top of it.
->
+Instructions received! 📋
+Now show them you're on top of it.
 
 ### 승 — 진행 [세트 2]
 
@@ -144,15 +143,17 @@ AI: 알겠어요. 천천히 하세요.
 User: 감사합니다. / 네, 알겠습니다.
 
 **Outro:**
-> Progress reported! ✅
-> Next up: Time to survive the meeting room.
->
+Progress reported! ✅
+Next up: Time to survive the meeting room.
 
 ## sim2: Meeting
 
 **Goal:** To participate in a basic office meeting.
 
 📍 장소: 회의실
+
+**intro_text:**
+Meeting time. Speak up and make your mark!
 
 ### 승 — 회의 [세트 3]
 
@@ -163,9 +164,8 @@ AI: 이 부분 어떻게 생각해요?
 User: 좋은 것 같습니다. / 좋습니다.
 
 **Outro:**
-> Opinion shared! 💼
-> Time to wrap up the meeting.
->
+Opinion shared! 💼
+Time to wrap up the meeting.
 
 ### 전 — 마무리 [세트 4]
 
@@ -176,15 +176,17 @@ AI: 수고하셨습니다!
 User: 수고하셨습니다! / 고생하셨습니다!
 
 **Outro:**
-> Meeting survived! 🤝
-> One last task before you can go home.
->
+Meeting survived! 🤝
+One last task before you can go home.
 
 ## sim3: End of Day
 
 **Goal:** To report task completion and say goodbye at the end of the workday.
 
 📍 장소: 사무실 (자기 자리)
+
+**intro_text:**
+Work's done — time to report and clock out!
 
 ### 전 — 보고 [세트 5]
 
@@ -195,9 +197,8 @@ AI: 잘 했어요!
 User: 감사합니다. / 더 할 거 있을까요?
 
 **Outro:**
-> Work approved! ⭐
-> Now say goodbye the right way.
->
+Work approved! ⭐
+Now say goodbye the right way.
 
 ### 결 — 퇴근 [세트 6]
 
@@ -208,9 +209,8 @@ User: 먼저 가보겠습니다. / 퇴근하겠습니다.
 AI: 네, 수고하세요!
 
 **Outro:**
-> Another day conquered! 🏆
-> Next up: What do you do when you don't understand something?
->
+Another day conquered! 🏆
+Next up: What do you do when you don't understand something?
 
 ---
 
@@ -242,9 +242,8 @@ AI: 이거 오늘까지 이메일로 보내주세요.
 User: 네, 보내겠습니다. / 네, 알겠습니다.
 
 **Outro:**
-> Clarification requested! 🙋
-> Now make sure you actually understood.
->
+Clarification requested! 🙋
+Now make sure you actually understood.
 
 ### 승 — 확인 [세트 2]
 
@@ -255,15 +254,17 @@ AI: 이 부분은 이렇게 하시면 돼요.
 User: 알겠습니다. / 이해했습니다.
 
 **Outro:**
-> Fully understood! ✅
-> Next up: What if a colleague can help instead?
->
+Fully understood! ✅
+Next up: What if a colleague can help instead?
 
 ## sim2: Asking for Help
 
 **Goal:** To ask a colleague for help politely.
 
 📍 장소: 사무실 (동료 자리)
+
+**intro_text:**
+Stuck on something? Time to ask your colleague for a hand.
 
 ### 승 — 도움 [세트 3]
 
@@ -274,9 +275,8 @@ User: 이거 어떻게 해야 돼요? / 이거 좀 도와주세요.
 AI: 이렇게 하시면 됩니다!
 
 **Outro:**
-> Colleague to the rescue! 🤝
-> Don't forget to say thank you properly.
->
+Colleague to the rescue! 🤝
+Don't forget to say thank you properly.
 
 ### 전 — 감사 [세트 4]
 
@@ -287,15 +287,17 @@ User: 네, 알겠습니다! / 감사합니다!
 AI: 천만에요.
 
 **Outro:**
-> Gratitude expressed! 🙏
-> One more situation — what if you can't meet a deadline?
->
+Gratitude expressed! 🙏
+One more situation — what if you can't meet a deadline?
 
 ## sim3: Apologizing
 
 **Goal:** To apologize professionally and accept a deadline extension.
 
 📍 장소: 사무실 (자기 자리)
+
+**intro_text:**
+Deadline crunch! Can you apologize and buy some extra time?
 
 ### 전 — 사과 [세트 5]
 
@@ -306,9 +308,8 @@ AI: 모레까지 괜찮으실까요?
 User: 네, 모레까지 마칠게요. / 네, 괜찮습니다.
 
 **Outro:**
-> Extension granted! 😮‍💨
-> Wrap it up with grace.
->
+Extension granted! 😮‍💨
+Wrap it up with grace.
 
 ### 결 — 마무리 [세트 6]
 
@@ -319,8 +320,7 @@ AI: 수고하세요!
 User: 수고하셨습니다! / 안녕히 가세요!
 
 **Outro:**
-> Office survival: complete! 🏢
-> You've made it through the full Korean workplace experience.
->
+Office survival: complete! 🏢
+You've made it through the full Korean workplace experience.
 
 ---

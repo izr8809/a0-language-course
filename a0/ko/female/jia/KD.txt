@@ -28,9 +28,8 @@ User: 잘 부탁드려요. / 반갑습니다.
 AI: 커피 좋아해요?
 
 **Outro:**
-> First words: "Do you like coffee?" Not food — vibes. 😶
-> She's already walking toward the café.
->
+First words: "Do you like coffee?" Not food — vibes. 😶
+She's already walking toward the café.
 
 **승 — 짧은 대화 [세트 2]**
 User: 네, 좋아해요. / 진짜 좋아해요.
@@ -39,9 +38,8 @@ User: 네, 자주 와요. / 아니요, 가끔 와요.
 AI: 좋아요! 우리 같이 커피 마셔요.
 
 **Outro:**
-> She turned coincidence into possibility. "We might run into each other~" 📎
-> She's already hoping for it.
->
+She turned coincidence into possibility. "We might run into each other~" 📎
+She's already hoping for it.
 
 ---
 
@@ -58,9 +56,8 @@ User: 저도 아메리카노요. / 저는 라테요.
 AI: 오, 저랑 똑같아요!
 
 **Outro:**
-> Same taste in coffee? She's delighted. 🤔
-> Jia finds connections everywhere.
->
+Same taste in coffee? She's delighted. 🤔
+Jia finds connections everywhere.
 
 **전 — 의외 [세트 4]**
 User: 네, 신기해요. / 안 추워요?
@@ -69,9 +66,8 @@ User: 다행이에요. / 감기 조심해요.
 AI: 고마워요.
 
 **Outro:**
-> She called your bluff with a smile. "거짓말~" — she reads people like books. 🌫️
-> Then she handed over her scarf like it was nothing.
->
+She called your bluff with a smile. "거짓말~" — she reads people like books. 🌫️
+Then she handed over her scarf like it was nothing.
 
 ---
 
@@ -88,9 +84,8 @@ User: 네. / 저도요.
 AI: 나중에 꼭 카톡 해요!
 
 **Outro:**
-> She said she had fun too — openly. 🌸
-> That's Jia. She doesn't hide when she's happy.
->
+She said she had fun too — openly. 🌸
+That's Jia. She doesn't hide when she's happy.
 
 **결 — 다음에 [세트 6]**
 User: 또 만나요? / 다음에 또 봐요?
@@ -99,9 +94,8 @@ User: 네, 연락해요. / 카톡 해요.
 AI: 꼭이요!
 
 **Outro:**
-> "If you don't text, I will!" She's not playing games. 🤍
-> Jia doesn't wait — she makes things happen.
->
+"If you don't text, I will!" She's not playing games. 🤍
+Jia doesn't wait — she makes things happen.
 
 ---
 
@@ -133,9 +127,8 @@ User: 진짜요? / 정말요?
 AI: 진짜요. 걱정 마세요.
 
 **Outro:**
-> She smiled it off — but the smile didn't reach her eyes. 😶‍🌫️
-> When Jia stops being bright, something's really wrong.
->
+She smiled it off — but the smile didn't reach her eyes. 😶‍🌫️
+When Jia stops being bright, something's really wrong.
 
 ### 승 — 말해봐요 [세트 2]
 
@@ -145,9 +138,8 @@ User: 말해요. / 듣고 싶어요.
 AI: 나중에요. 지금은 괜찮아요.
 
 **Outro:**
-> She's deflecting with her usual brightness. But her voice is quieter. 😤
-> She hasn't left. That means she wants you to push.
->
+She's deflecting with her usual brightness. But her voice is quieter. 😤
+She hasn't left. That means she wants you to push.
 
 ---
 
@@ -157,6 +149,9 @@ AI: 나중에요. 지금은 괜찮아요.
 
 📍 장소: 강남 거리 (동일)
 
+**intro_text:**
+She's been holding something back. This time, she's letting it out.
+
 ### 승 — 터짐 [세트 3]
 
 AI: 왜 연락 안 했어요?
@@ -165,9 +160,8 @@ AI: 저 많이 기다렸어요.
 User: 몰랐어요. 미안해요. / 바빴어요.
 
 **Outro:**
-> "기다렸어요. 많이." The brightness dropped. She's being honest. 💥
-> That changes everything.
->
+"기다렸어요. 많이." The brightness dropped. She's being honest. 💥
+That changes everything.
 
 ### 전 — 처음 [세트 4]
 
@@ -177,9 +171,8 @@ AI: 화 안 났어요. 그냥 걱정했어요.
 User: 알겠어요. / 미안해요.
 
 **Outro:**
-> Not angry — hurt. She asked gently, not demanded. 🌊
-> Even upset, Jia stays soft.
->
+Not angry — hurt. She asked gently, not demanded. 🌊
+Even upset, Jia stays soft.
 
 ---
 
@@ -189,6 +182,9 @@ User: 알겠어요. / 미안해요.
 
 📍 장소: 강남 카페 (앉아서)
 
+**intro_text:**
+The storm has passed. Now just be there for her.
+
 ### 전 — 조용해짐 [세트 5]
 
 User: 괜찮아요? / 지금 어때요?
@@ -197,9 +193,8 @@ User: 진짜 괜찮아요? / 정말요?
 AI: 조금 외로웠어요.
 
 **Outro:**
-> "A little lonely." Not tired, not hurt — lonely. 💙
-> That's the most vulnerable word Jia knows.
->
+"A little lonely." Not tired, not hurt — lonely. 💙
+That's the most vulnerable word Jia knows.
 
 ### 결 — 있을게요 [세트 6]
 
@@ -209,9 +204,8 @@ User: 네, 같이 있어요.
 AI: 고마워요. 진짜 좋아요.
 
 **Outro:**
-> "Just being together is enough." 🫂
-> No food, no plans — just presence. That's Jia at her most honest.
->
+"Just being together is enough." 🫂
+No food, no plans — just presence. That's Jia at her most honest.
 
 ---
 
@@ -242,9 +236,8 @@ User: 무슨 일이에요? / 무슨 생각해요?
 AI: 그냥 생각해요.
 
 **Outro:**
-> She's thinking. Out loud would be too easy. 💗
-> Something's behind it this time.
->
+She's thinking. Out loud would be too easy. 💗
+Something's behind it this time.
 
 ### 승 — 근처까지 [세트 2]
 
@@ -254,9 +247,8 @@ User: 괜찮아요. / 편하게 말해요.
 AI: 요즘 자꾸 생각나요.
 
 **Outro:**
-> She tried to confess. "요즘 자꾸 생각나요" came out instead. 🌫️
-> For Jia, that IS a confession. She just doesn't know it yet.
->
+She tried to confess. "요즘 자꾸 생각나요" came out instead. 🌫️
+For Jia, that IS a confession. She just doesn't know it yet.
 
 ---
 
@@ -266,6 +258,9 @@ AI: 요즘 자꾸 생각나요.
 
 📍 장소: 강남 거리 (동일)
 
+**intro_text:**
+She's about to say something big. Listen carefully — she won't repeat it.
+
 ### 승 — 지아식 고백 [세트 3]
 
 AI: 좋아해요. 진짜 많이요.
@@ -274,9 +269,8 @@ AI: 다 들었죠? 다시 안 말해요.
 User: 저도 좋아해요.
 
 **Outro:**
-> She confessed with a shy laugh. "다시 안 말할 거예요~" — but she's blushing. 💕
-> Now she's waiting for your answer.
->
+She confessed with a shy laugh. "다시 안 말할 거예요~" — but she's blushing. 💕
+Now she's waiting for your answer.
 
 ### 전 — 기다림 [세트 4]
 
@@ -286,9 +280,8 @@ AI: 다행이에요. 진짜 다행이에요.
 User: 저도 다행이에요. / 고마워요.
 
 **Outro:**
-> "Are you teasing me?" Then "Thank goodness." 🌙
-> Her relief was louder than any confession.
->
+"Are you teasing me?" Then "Thank goodness." 🌙
+Her relief was louder than any confession.
 
 ---
 
@@ -298,6 +291,9 @@ User: 저도 다행이에요. / 고마워요.
 
 📍 장소: 강남 거리 (동일)
 
+**intro_text:**
+This is it. Time to make it official — just the two of you.
+
 ### 전 — 확인 [세트 5]
 
 User: 우리 만나요? / 우리 연인이에요?
@@ -306,9 +302,8 @@ User: 진짜요? / 정말요?
 AI: 진짜요. 이제 도망 못 가요.
 
 **Outro:**
-> "Of course!" Then "You can't escape now~" — playful even in love. 💘
-> That's Jia's version of "I love you."
->
+"Of course!" Then "You can't escape now~" — playful even in love. 💘
+That's Jia's version of "I love you."
 
 ### 결 — 마음 [세트 6]
 
@@ -318,8 +313,7 @@ User: 미안해요. / 밖이 추워요.
 AI: 제가 잡을게요. 이제 따뜻하죠?
 
 **Outro:**
-> She teased your cold hands — then warmed them herself. 🤍
-> Jia makes everything feel light, even the big moments.
->
+She teased your cold hands — then warmed them herself. 🤍
+Jia makes everything feel light, even the big moments.
 
 ---

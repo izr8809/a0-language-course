@@ -31,18 +31,16 @@ AI: 반가워요. 어디서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
-> Taeo is honest and a little different. But he's warm.
-> Why are you here in Korea? Tell him.
->
+Taeo is honest and a little different. But he's warm.
+Why are you here in Korea? Tell him.
 
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아해요?
 User: 네, 좋아해요! / 진짜 좋아해요!
 
 **Outro:**
-> Taeo likes the sky. Simple as that.
-> Now let's see if your hobbies match his.
->
+Taeo likes the sky. Simple as that.
+Now let's see if your hobbies match his.
 
 ---
 
@@ -51,6 +49,9 @@ User: 네, 좋아해요! / 진짜 좋아해요!
 **Goal:** To discover shared hobbies, talk about food, and get comfortable enough to drop formalities.
 
 **📍 장소:** 밖 (동일)
+
+**intro_text:**
+You're getting comfortable. Time to talk favorites and maybe drop the formalities!
 
 **승 — 취미 [세트 3]**
 AI: 뭐 좋아해요?
@@ -62,24 +63,21 @@ User: 네, 좋아요! / 그래요!
 AI: 좋아. 나는 태오야!
 
 **Outro:**
-> Taeo really loves bread. Soft, warm bread.
-> You two are vibing — maybe it's time to relax a bit.
->
+Taeo really loves bread. Soft, warm bread.
+You two are vibing — maybe it's time to relax a bit.
 
 **전 — 말 놓기 [세트 4]**
 User: 응! 나는 ___야!
 
 **Outro:**
-> He suggested it softly, right when it felt natural.
-> From here on, it's 반말 — you're friends now.
->
+He suggested it softly, right when it felt natural.
+From here on, it's 반말 — you're friends now.
 
 **전 — 음식 [세트 5]**
 
 **Outro:**
-> Samgyeopsal with bread? Only in Taeo's world.
-> This is your chance — ask him to hang out!
->
+Samgyeopsal with bread? Only in Taeo's world.
+This is your chance — ask him to hang out!
 
 ---
 
@@ -89,6 +87,9 @@ User: 응! 나는 ___야!
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
+**intro_text:**
+You're friends now. Make plans before he drifts away like a cloud!
+
 **전 — 놀자 [세트 6]**
 User: 주말에 뭐 해? / 이번 주말 뭐 해?
 AI: 구름 보려고 했는데. 같이 볼래?
@@ -96,9 +97,8 @@ User: 좋아! 어디서? / 가자! 어디서?
 AI: 연남동 빵집 앞에서 만나자.
 
 **Outro:**
-> A bread date in Yeonnam-dong. This escalated adorably.
-> Don't let him drift away without getting his Kakao!
->
+A bread date in Yeonnam-dong. This escalated adorably.
+Don't let him drift away without getting his Kakao!
 
 **결 — 연락 [세트 7]**
 User: 카톡 있어? / 연락처 줘!
@@ -107,9 +107,8 @@ User: 여기! / 적어줄게!
 AI: 빵 사진 보내줄게. 또 봐.
 
 **Outro:**
-> He wants your Kakao to send bread pics. Naturally.
-> Next up: The test that decides if you're *truly* compatible.
->
+He wants your Kakao to send bread pics. Naturally.
+Next up: The test that decides if you're *truly* compatible.
 
 ---
 
@@ -141,9 +140,8 @@ AI: 오, 나랑 비슷하다. 반갑다.
 User: 진짜? / 오, 그래?
 
 **Outro:**
-> Age revealed! Taeo is 25 and happy to share.
-> Now find out where he lives.
->
+Age revealed! Taeo is 25 and happy to share.
+Now find out where he lives.
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -154,15 +152,17 @@ User: 서울이야! / 홍대 근처야!
 AI: 오, 가깝다. 자주 만나겠다.
 
 **Outro:**
-> You live close! Taeo seems happy about that.
-> Get ready — the MBTI question is coming.
->
+You live close! Taeo seems happy about that.
+Get ready — the MBTI question is coming.
 
 ## sim2: MBTI Talk
 
 **Goal:** To discuss MBTI types and talk about personality.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+MBTI time! Find out if you two are truly compatible.
 
 ### 승 — MBTI [세트 3]
 
@@ -173,9 +173,8 @@ User: _야! / 모르겠어!
 AI: 괜찮아. 느낌으로 알아. 너 좋은 사람이야.
 
 **Outro:**
-> Taeo trusts his feelings. He thinks you're a good person.
-> Now dig a little deeper into who he really is.
->
+Taeo trusts his feelings. He thinks you're a good person.
+Now dig a little deeper into who he really is.
 
 ### 전 — 성격 [세트 4]
 
@@ -186,15 +185,17 @@ AI: 나는 둘 다 좋아. 하늘만 보이면 돼.
 User: 오, 나랑 같아! / 독특하다!
 
 **Outro:**
-> Taeo likes both. He's easy-going like that.
-> One more round — what is he up to these days?
->
+Taeo likes both. He's easy-going like that.
+One more round — what is he up to these days?
 
 ## sim3: More About You
 
 **Goal:** To talk about what you've been doing lately.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+The conversation keeps going. What have you been up to lately?
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -205,9 +206,8 @@ AI: 한국어 공부 어때?
 User: 재밌어! / 좀 어려워.
 
 **Outro:**
-> Taeo bakes bread and writes on it. He's creative like that.
-> Time to wrap up and make plans to talk again.
->
+Taeo bakes bread and writes on it. He's creative like that.
+Time to wrap up and make plans to talk again.
 
 ### 결 — 마무리 [세트 6]
 
@@ -218,9 +218,8 @@ AI: 카톡 해. 구름 사진 보내줄게.
 User: 응 좋아! / 기대할게!
 
 **Outro:**
-> New friend! Taeo wants to keep talking.
-> Next up: Turn that chat into actual plans.
->
+New friend! Taeo wants to keep talking.
+Next up: Turn that chat into actual plans.
 
 ---
 
@@ -252,9 +251,8 @@ User: 같이 놀래? / 같이 가자!
 AI: 좋아. 빵 먹으러 가자.
 
 **Outro:**
-> He said yes! Everything is a bread mission with Taeo.
-> Now figure out what you're actually doing.
->
+He said yes! Everything is a bread mission with Taeo.
+Now figure out what you're actually doing.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -265,15 +263,17 @@ User: 연남동 좋아! / 좋아, 가자!
 AI: 홍대입구역에서 볼까?
 
 **Outro:**
-> Destination: Yeonnam-dong. He knows a good bakery.
-> Now nail down the details — when and where exactly?
->
+Destination: Yeonnam-dong. He knows a good bakery.
+Now nail down the details — when and where exactly?
 
 ## sim2: When and Where
 
 **Goal:** To confirm the meeting time and place.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+Plans are taking shape. Lock in the time and place!
 
 ### 승 — 시간 [세트 3]
 
@@ -284,9 +284,8 @@ AI: 좋아. 홍대역 앞에서.
 User: 응! / 좋아!
 
 **Outro:**
-> Time locked in. Taeo likes a pretty sky. Simple.
-> One more confirmation and you're all set.
->
+Time locked in. Taeo likes a pretty sky. Simple.
+One more confirmation and you're all set.
 
 ### 전 — 확인 [세트 4]
 
@@ -297,15 +296,17 @@ AI: 늦으면 빵 다 먹을 거야.
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-> Plans confirmed. And yes, that was a real bread threat.
-> Saturday is coming... are you ready?
->
+Plans confirmed. And yes, that was a real bread threat.
+Saturday is coming... are you ready?
 
 ## sim3: Day of
 
 **Goal:** To coordinate arrival and find each other in real time.
 
 📍 장소: 연남동역 앞 (야외)
+
+**intro_text:**
+It's today! He's already at the bakery. Go find him!
 
 ### 전 — 당일 [세트 5]
 
@@ -316,9 +317,8 @@ AI: 나 도착했어. 빵집 앞이야.
 User: 금방 가! / 곧 가!
 
 **Outro:**
-> He's at the bakery already. Of course.
-> One more step — actually find each other.
->
+He's at the bakery already. Of course.
+One more step — actually find each other.
 
 ### 결 — 만남 [세트 6]
 
@@ -329,9 +329,8 @@ User: 아, 봤어! / 찾았어!
 AI: 가자. 빵먹고 싶어.
 
 **Outro:**
-> You found him! Taeo is always calm and easy to be around.
-> Next up: Staying in touch between hangouts.
->
+You found him! Taeo is always calm and easy to be around.
+Next up: Staying in touch between hangouts.
 
 ---
 
@@ -363,9 +362,8 @@ User: 나도 집! 심심해. / 나도 집이야!
 AI: 나도. 하늘 보러 나갈까?
 
 **Outro:**
-> Conversation started! Taeo is relaxed and friendly.
-> Now keep it going — ask about his day.
->
+Conversation started! Taeo is relaxed and friendly.
+Now keep it going — ask about his day.
 
 ### 승 — 대화 [세트 2]
 
@@ -376,15 +374,17 @@ AI: 오, 뭐 봤어? 재밌었어?
 User: 새로 나온 거! / 비밀!
 
 **Outro:**
-> He baked bread today. You watched a movie. Perfect balance.
-> Time to take it up a notch — share something fun.
->
+He baked bread today. You watched a movie. Perfect balance.
+Time to take it up a notch — share something fun.
 
 ## sim2: Chatting More
 
 **Goal:** To share photos and links and react to them.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+He sent a sky photo. Share something back and keep the chat going!
 
 ### 승 — 사진 [세트 3]
 
@@ -395,9 +395,8 @@ AI: 연남동이야. 다음에 같이 오자.
 User: 가자! / 응, 가고 싶어!
 
 **Outro:**
-> He shared a photo. Taeo likes sharing moments with you.
-> Now send him something funny.
->
+He shared a photo. Taeo likes sharing moments with you.
+Now send him something funny.
 
 ### 전 — 재미 [세트 4]
 
@@ -408,15 +407,17 @@ User: 진짜 웃겨! 봐봐! / 재밌어! 봐!
 AI: 알겠어. 볼게.
 
 **Outro:**
-> He hoped it was bread content. It wasn't. He'll watch it anyway.
-> The night is winding down... time to say goodnight.
->
+He hoped it was bread content. It wasn't. He'll watch it anyway.
+The night is winding down... time to say goodnight.
 
 ## sim3: Good Night
 
 **Goal:** To end a conversation naturally and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+The night is winding down. Time to say goodnight like a pro!
 
 ### 전 — 저녁 [세트 5]
 
@@ -427,9 +428,8 @@ User: 너는 매일 빵 먹어? / 진짜 빵만 먹어?
 AI: 응. 빵은 매일 먹어야 해.
 
 **Outro:**
-> Dinner check: He had bread. Shocking absolutely no one.
-> Almost time to wrap up for the night.
->
+Dinner check: He had bread. Shocking absolutely no one.
+Almost time to wrap up for the night.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -440,9 +440,8 @@ User: 내일 봐! / 또 봐!
 AI: 응, 내일 봐. 잘 자.
 
 **Outro:**
-> Goodnight! Taeo is warm even over text.
-> Next up: Taking your Korean out into the real world.
->
+Goodnight! Taeo is warm even over text.
+Next up: Taking your Korean out into the real world.
 
 ---
 

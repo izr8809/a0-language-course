@@ -26,8 +26,7 @@ AI: 많이 놀랐죠?
 User: 아니에요. / 조금요.
 
 **Outro:**
-> She adjusts her bag nervously, still looking at you.
->
+She adjusts her bag nervously, still looking at you.
 
 **승 — 대화 시작 [세트 2]**
 User: 여기 자주 와요?
@@ -36,8 +35,7 @@ User: 저도요. / 저도 자주요.
 AI: 그럼 또 봐요.
 
 **Outro:**
-> She waves goodbye with a little bounce in her step. 👋
->
+She waves goodbye with a little bounce in her step. 👋
 
 ---
 
@@ -58,8 +56,7 @@ AI: 동네가 좁네요.
 User: 그러네요. / 맞아요.
 
 **Outro:**
-> She's clearly happy to see you again.
->
+She's clearly happy to see you again.
 
 **전 — 연락처 교환 [세트 4]**
 User: 연락해도 돼요? / 번호 줄 수 있어요?
@@ -68,8 +65,7 @@ User: 번호 알려줘요. / 연락처 주세요.
 AI: 잠깐만요.
 
 **Outro:**
-> She types her number in with a shy grin. 📱
->
+She types her number in with a shy grin. 📱
 
 ---
 
@@ -90,8 +86,7 @@ AI: 나도 자주 와.
 User: 몰랐어. / 진짜?
 
 **Outro:**
-> She falls into step beside you naturally.
->
+She falls into step beside you naturally.
 
 **결 — 편한 대화 [세트 6]**
 User: 오늘 뭐 했어? / 오늘 어땠어?
@@ -100,8 +95,7 @@ User: 힘들었겠다. / 고생했어.
 AI: 고마워.
 
 **Outro:**
-> She nudges your shoulder playfully and laughs. 😆
->
+She nudges your shoulder playfully and laughs. 😆
 
 ---
 
@@ -131,8 +125,7 @@ AI: 감사해요.
 User: 같이 공부해요. / 같이 해요.
 
 **Outro:**
-> She opens her book but keeps glancing up.
->
+She opens her book but keeps glancing up.
 
 **승 — 설레는 분위기 [세트 2]**
 User: 시험 있어요? / 공부하러 왔어요?
@@ -141,8 +134,7 @@ User: 저도요. / 저도 내일이에요.
 AI: 같이 해요, 그럼.
 
 **Outro:**
-> She scoots her chair closer with a bright smile. 😊
->
+She scoots her chair closer with a bright smile. 😊
 
 ---
 
@@ -163,8 +155,7 @@ AI: 드릴 말 있어요.
 User: 말해요. / 들을게요.
 
 **Outro:**
-> She takes a deep breath and looks at you.
->
+She takes a deep breath and looks at you.
 
 **전 — 고백 [세트 4]**
 User: 뭔데요? / 무슨 말이에요?
@@ -173,8 +164,7 @@ User: 진짜요? / 정말요?
 AI: 네, 진짜요.
 
 **Outro:**
-> Her cheeks turn red as she hides behind her coffee cup. ☕
->
+Her cheeks turn red as she hides behind her coffee cup. ☕
 
 ---
 
@@ -195,8 +185,7 @@ AI: 어떻게 생각해?
 User: 나도 좋아해. / 설레
 
 **Outro:**
-> She breaks into a wide smile and looks down.
->
+She breaks into a wide smile and looks down.
 
 **결 — 새로운 시작 [세트 6]**
 User: 오늘 뭐 해? / 오늘 시간 있어?
@@ -205,8 +194,7 @@ User: 나도. / 나도 그래.
 AI: 그럼 가자.
 
 **Outro:**
-> She grabs your hand and pulls you along, giggling. 💕
->
+She grabs your hand and pulls you along, giggling. 💕
 
 ---
 
@@ -236,8 +224,7 @@ AI: 잘 지냈어요?
 User: 네, 잘 지냈어요. / 네, 괜찮았어요.
 
 **Outro:**
-> She stands still, clearly wanting to say more.
->
+She stands still, clearly wanting to say more.
 
 **승 — 대화 시도 [세트 2]**
 User: 시간 있어요? / 잠깐 돼요?
@@ -246,8 +233,7 @@ User: 얘기할게요. / 할 말 있어요.
 AI: 저도요.
 
 **Outro:**
-> She walks beside you quietly, matching your pace. 🚶‍♀️
->
+She walks beside you quietly, matching your pace. 🚶‍♀️
 
 ---
 
@@ -268,8 +254,7 @@ AI: 많이 서운했죠?
 User: 조금요. / 네, 좀요.
 
 **Outro:**
-> She exhales slowly, like she's been holding that in for a while.
->
+She exhales slowly, like she's been holding that in for a while.
 
 **전 — 화해 [세트 4]**
 User: 괜찮아요. / 이제 됐어요.
@@ -278,8 +263,7 @@ User: 다시 친하게 지내요. / 다시 잘 지내요.
 AI: 네, 그래요.
 
 **Outro:**
-> She lets out a relieved laugh and links her arm with yours. 🤗
->
+She lets out a relieved laugh and links her arm with yours. 🤗
 
 ---
 
@@ -300,8 +284,7 @@ AI: 많이 보고 싶었어.
 User: 나도 그랬어. / 나도 보고 싶었어.
 
 **Outro:**
-> She leans against the door with a soft smile.
->
+She leans against the door with a soft smile.
 
 **결 — 새 출발 [세트 6]**
 User: 이제 자주 봐. / 이제 자주 만나.
@@ -310,5 +293,4 @@ User: 약속해. / 꼭이야.
 AI: 응, 약속할게.
 
 **Outro:**
-> She holds out her pinky with a determined little nod. 🤙
->
+She holds out her pinky with a determined little nod. 🤙

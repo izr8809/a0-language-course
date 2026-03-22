@@ -26,8 +26,7 @@ User: 오래 기다렸어요. / 정말 보고 싶었어요!
 AI: 진짜요? 고마워요!
 
 **Outro:**
-> She lights up the moment you arrive. That smile is 100% genuine.
->
+She lights up the moment you arrive. That smile is 100% genuine.
 
 **승 — 선물 [세트 2]**
 User: 이거 받으세요. / 선물이에요!
@@ -36,8 +35,7 @@ User: 팬이에요. / 좋아해요!
 AI: 고마워요!
 
 **Outro:**
-> She held up the gift with genuine excitement. "진짜요?" — she's thrilled. 🎁
->
+She held up the gift with genuine excitement. "진짜요?" — she's thrilled. 🎁
 
 ---
 
@@ -58,8 +56,7 @@ User: 여기요. / 이 책이요.
 AI: 알겠어요. 잠깐만요!
 
 **Outro:**
-> She writes your name with care, tongue poking out in concentration.
->
+She writes your name with care, tongue poking out in concentration.
 
 **승 — 메시지 [세트 4]**
 User: 이름 써 주세요. / 예쁘게 써 줘요!
@@ -68,8 +65,7 @@ User: 감사해요. / 고마워요!
 AI: 여기 있어요. 오늘 고마워요!
 
 **Outro:**
-> She slides the album back with both hands and a bright smile. ✍️
->
+She slides the album back with both hands and a bright smile. ✍️
 
 ---
 
@@ -90,8 +86,7 @@ User: 옆에 갈게요.
 AI: 네! 이리 오세요.
 
 **Outro:**
-> She put her arm around you naturally. Click! Perfect shot.
->
+She put her arm around you naturally. Click! Perfect shot.
 
 **승 — 마무리 [세트 6]**
 User: 고마워요. / 감사해요!
@@ -100,8 +95,7 @@ User: 또 올게요. / 다음에 또 봐요!
 AI: 꼭 오세요! 기다릴게요.
 
 **Outro:**
-> She waves enthusiastically as you leave. "꼭 와 주세요!" 👋
->
+She waves enthusiastically as you leave. "꼭 와 주세요!" 👋
 
 ---
 
@@ -131,8 +125,7 @@ User: 응원해요. / 화이팅!
 AI: 고마워요! 힘이 나요.
 
 **Outro:**
-> She bounces on her heels, full of pre-show energy.
->
+She bounces on her heels, full of pre-show energy.
 
 **승 — 기대 [세트 2]**
 User: 어떤 곡 해요? / 무슨 노래 해요?
@@ -141,8 +134,7 @@ User: 좋아요. / 빨리 보고 싶어요!
 AI: 네, 재미있게 보세요! 고마워요.
 
 **Outro:**
-> She winks and heads toward the stage with a skip. 🎤
->
+She winks and heads toward the stage with a skip. 🎤
 
 ---
 
@@ -163,8 +155,7 @@ User: 최고예요! / 너무 좋아요!
 AI: 고마워요! 더 열심히 할게요.
 
 **Outro:**
-> She points at you in the crowd and gives a huge smile.
->
+She points at you in the crowd and gives a huge smile.
 
 **승 — 응원 [세트 4]**
 User: 멋있어요! / 힘내요!
@@ -173,8 +164,7 @@ User: 사랑해요. / 최고예요!
 AI: 저도요! 진짜 사랑해요.
 
 **Outro:**
-> She blows a kiss to the crowd, eyes sparkling. 🌟
->
+She blows a kiss to the crowd, eyes sparkling. 🌟
 
 ---
 
@@ -195,8 +185,7 @@ User: 네, 진짜 즐거웠어요! / 네, 재미있었어요!
 AI: 저도 즐거웠어요. 다음에 또 와요!
 
 **Outro:**
-> She bows deeply, then pops back up with one last bright wave.
->
+She bows deeply, then pops back up with one last bright wave.
 
 **승 — 인사 [세트 6]**
 User: 네, 또 올게요. / 꼭 올게요!
@@ -205,8 +194,7 @@ User: 잘 쉬어요!
 AI: 네! 조심히 가세요.
 
 **Outro:**
-> She disappears behind the curtain, but you can still hear her laughing. 🌙
->
+She disappears behind the curtain, but you can still hear her laughing. 🌙
 
 ---
 
@@ -236,8 +224,7 @@ User: 기다렸어요. / 보고 싶었어요!
 AI: 저도 기다렸어요!
 
 **Outro:**
-> She leans into the camera with a huge grin. The live just got brighter.
->
+She leans into the camera with a huge grin. The live just got brighter.
 
 **승 — 인사 [세트 2]**
 User: 밥 먹었어요? / 오늘 뭐 했어요?
@@ -246,8 +233,7 @@ User: 저도 잘 지냈어요! / 아주 좋아요!
 AI: 다행이에요. 오늘 기분 최고예요!
 
 **Outro:**
-> She leans closer to the screen. "진짜!" — she really means it. 💬
->
+She leans closer to the screen. "진짜!" — she really means it. 💬
 
 ---
 
@@ -268,8 +254,7 @@ User: 안 피곤해요?
 AI: 괜찮아요! 하나도 안 피곤해요.
 
 **Outro:**
-> She laughs off the concern warmly. Always keeping the mood light.
->
+She laughs off the concern warmly. Always keeping the mood light.
 
 **승 — 일상 [세트 4]**
 User: 밥 먹었어요?
@@ -278,8 +263,7 @@ User: 밥 먹어요. / 빨리 드세요!
 AI: 이따가 먹을게요. 고마워요!
 
 **Outro:**
-> She pats her stomach and laughs. "배고파요!" — honest as always. 😊
->
+She pats her stomach and laughs. "배고파요!" — honest as always. 😊
 
 ---
 
@@ -300,8 +284,7 @@ User: 아쉬워요. / 더 하고 싶어요!
 AI: 저도요! 우리 다음에 또 해요.
 
 **Outro:**
-> She pouts at the camera playfully. "아쉬워요~"
->
+She pouts at the camera playfully. "아쉬워요~"
 
 **승 — 작별 [세트 6]**
 User: 다음에 또 해요. / 또 해줘요!
@@ -310,5 +293,4 @@ User: 잘 쉬어요. / 푹 쉬어요!
 AI: 고마워요! 잘 자요.
 
 **Outro:**
-> "좋은 꿈 꿔요~" The screen goes dark, but her warmth lingers. 📱
->
+"좋은 꿈 꿔요~" The screen goes dark, but her warmth lingers. 📱

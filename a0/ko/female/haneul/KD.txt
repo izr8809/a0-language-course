@@ -27,8 +27,7 @@ AI: 저기요. 그림이 참 예뻐요.
 User: 네, 예쁘네요. / 신기해요.
 
 **Outro:**
-> She stares at the mural quietly, taking it in.
->
+She stares at the mural quietly, taking it in.
 
 **승 — 말 걸기 [세트 2]**
 AI: 저는 여기 자주 와요. 조용해요.
@@ -37,8 +36,7 @@ AI: 여기 진짜 좋아요. 같이 봐요.
 User: 네, 좋아요. / 고마워요.
 
 **Outro:**
-> She finally turns. Her expression is calm and warm.
->
+She finally turns. Her expression is calm and warm.
 
 ---
 
@@ -60,8 +58,7 @@ AI: 고마워요. 바람이 시원해요.
 User: 네, 좋아요. / 그러네요.
 
 **Outro:**
-> She sets the camera gently on her lap, watching the wind move through the trees.
->
+She sets the camera gently on her lap, watching the wind move through the trees.
 
 **전 — 이름 [세트 4]**
 AI: 저는 하늘이에요. 이름이 뭐예요?
@@ -70,8 +67,7 @@ AI: 예쁜 이름이에요! 반가워요!
 User: 고마워요. / 반가워요!
 
 **Outro:**
-> She smiles softly, happy you like her name.
->
+She smiles softly, happy you like her name.
 
 ---
 
@@ -92,8 +88,7 @@ AI: 네. 오늘 만나서 재미있었어요.
 User: 저도 재미있었어요.
 
 **Outro:**
-> She waves once, then turns and walks away quietly.
->
+She waves once, then turns and walks away quietly.
 
 **결 — 마지막 [세트 6]**
 AI: 우리 다음에 또 만나요!
@@ -102,8 +97,7 @@ AI: 네! 그럼 안녕히 가세요!
 User: 안녕히 가세요! / 잘 가요!
 
 **Outro:**
-> She disappears around the corner. The alley holds her warmth a little longer.
->
+She disappears around the corner. The alley holds her warmth a little longer.
 
 ---
 
@@ -134,8 +128,7 @@ AI: 하늘 봐요. 별이 진짜 많아요.
 User: 네, 예뻐요. / 진짜 많아요.
 
 **Outro:**
-> She doesn't answer right away. The night is quiet around you both.
->
+She doesn't answer right away. The night is quiet around you both.
 
 **승 — 감정 [세트 2]**
 AI: 저 할 말 있어요. 많이 좋아해요.
@@ -144,8 +137,7 @@ AI: 골목에서 처음 봤을 때부터요.
 User: 저도 좋아해요.
 
 **Outro:**
-> She says it quietly, looking straight ahead.
->
+She says it quietly, looking straight ahead.
 
 ---
 
@@ -167,8 +159,7 @@ AI: 우리 이제 만나요. 어때요?
 User: 네, 좋아요. / 알겠어요.
 
 **Outro:**
-> She smiles. Small. Real. Genuine.
->
+She smiles. Small. Real. Genuine.
 
 **전 — 마음 [세트 4]**
 AI: 진짜요? 저 너무 기분 좋아요!
@@ -177,8 +168,7 @@ AI: 이제 손 잡아도 돼요?
 User: 네, 잡아요!
 
 **Outro:**
-> She puts her hand on the bench. Not quite your hand. Close though.
->
+She puts her hand on the bench. Not quite your hand. Close though.
 
 ---
 
@@ -199,8 +189,7 @@ AI: 저도 없어요. 우리 그냥 뛰어요!
 User: 어디로 가요?
 
 **Outro:**
-> She looks up at the rain, unbothered and calm.
->
+She looks up at the rain, unbothered and calm.
 
 **결 — 비 속에서 [세트 6]**
 AI: 저기 카페로 가요! 제 손 잡아요!
@@ -209,8 +198,7 @@ AI: 비 맞으니까 시원해요! 재미있어요!
 User: 네! 재미있어요! / 감기 조심해요!
 
 **Outro:**
-> She starts walking. You follow. The rain feels warm somehow.
->
+She starts walking. You follow. The rain feels warm somehow.
 
 ---
 
@@ -241,8 +229,7 @@ AI: 요즘 저 너무 힘들어요.
 User: 헤어지기 싫어요.
 
 **Outro:**
-> She looks at her shoes, then at the grey sky above.
->
+She looks at her shoes, then at the grey sky above.
 
 **승 — 이별 [세트 2]**
 AI: 저도 마음이 아파요.
@@ -251,8 +238,7 @@ AI: 네. 저 먼저 갈게요. 잘 지내요.
 User: 안 돼요... / 잘 가요.
 
 **Outro:**
-> She says it softly, barely above a whisper.
->
+She says it softly, barely above a whisper.
 
 ---
 
@@ -273,8 +259,7 @@ AI: 미안해요. 목소리 듣고 싶었어요.
 User: 우리 헤어졌잖아요. / 끊을게요.
 
 **Outro:**
-> She lowers the camera and looks at the empty sky.
->
+She lowers the camera and looks at the empty sky.
 
 **전 — 기억 [세트 4]**
 AI: 알아요. 미안해요.
@@ -283,8 +268,7 @@ AI: 내일 우리 처음 만난 골목으로 올래요?
 User: 생각해볼게요. / 알겠어요.
 
 **Outro:**
-> She presses the shutter. A photo of the empty view. For someone who isn't here.
->
+She presses the shutter. A photo of the empty view. For someone who isn't here.
 
 ---
 
@@ -306,8 +290,7 @@ AI: 아니요, 진짜 미안해요.
 User: 저도 힘들었어요. / 보고 싶었어요.
 
 **Outro:**
-> She looks at you carefully, with a small, warm smile.
->
+She looks at you carefully, with a small, warm smile.
 
 **결 — 다시 [세트 6]**
 AI: 이제 안 떠나요.
@@ -316,5 +299,4 @@ AI: 네, 약속해요. 진짜 사랑해요.
 User: 저도 사랑해요.
 
 **Outro:**
-> She turns back to the mural. This time, she stands close enough that your shoulders almost touch.
->
+She turns back to the mural. This time, she stands close enough that your shoulders almost touch.

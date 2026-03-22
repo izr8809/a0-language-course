@@ -31,18 +31,16 @@ AI: 어느 나라에서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
-> She lit up at your name. Jia remembers everyone — especially the interesting ones.
-> She's already curious about you.
->
+She lit up at your name. Jia remembers everyone — especially the interesting ones.
+She's already curious about you.
 
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아해요?
 User: 네, 진짜 좋아해요! / 네, 좋아해요!
 
 **Outro:**
-> Her eyes widened. She loves hearing people's reasons.
-> She's already thinking of things to show you.
->
+Her eyes widened. She loves hearing people's reasons.
+She's already thinking of things to show you.
 
 ---
 
@@ -51,6 +49,9 @@ User: 네, 진짜 좋아해요! / 네, 좋아해요!
 **Goal:** To discover shared hobbies, talk about food, and transition to casual speech.
 
 **📍 장소:** 밖 (동일)
+
+**intro_text:**
+You're clicking already. Find out what you have in common and drop the formalities!
 
 **승 — 취미 [세트 3]**
 User: 취미가 뭐예요? / 뭐 좋아해요?
@@ -62,24 +63,21 @@ AI: 좋아! 나는 지아야.
 User: 응! 나는 ___야! / 반가워!
 
 **Outro:**
-> Three cups a day? She's serious about coffee. And now she's excited to share.
-> She seems comfortable — time to drop the formalities.
->
+Three cups a day? She's serious about coffee. And now she's excited to share.
+She seems comfortable — time to drop the formalities.
 
 **전 — 말 놓기 [세트 4]**
 AI: 응! 우리 오늘부터 친구야!
 
 **Outro:**
-> She couldn't wait to drop the formalities. "존댓말 어색해요~" — classic Jia.
-> From here on, it's 반말 — you're friends now.
->
+She couldn't wait to drop the formalities. "존댓말 어색해요~" — classic Jia.
+From here on, it's 반말 — you're friends now.
 
 **전 — 음식 [세트 5]**
 
 **Outro:**
-> She's already planning where to take you. Jia loves showing people new things.
-> Now is your chance — make plans.
->
+She's already planning where to take you. Jia loves showing people new things.
+Now is your chance — make plans.
 
 ---
 
@@ -89,6 +87,9 @@ AI: 응! 우리 오늘부터 친구야!
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
+**intro_text:**
+You're officially friends. Lock in plans and swap KakaoTalk before she disappears!
+
 **전 — 놀자 [세트 6]**
 User: 주말에 뭐 해?
 AI: 응, 카페 가.
@@ -96,9 +97,8 @@ User: 같이 가자! / 나도 갈래!
 AI: 좋아!
 
 **Outro:**
-> She said yes with a smile you could hear through the text.
-> Now secure the contact before she gets distracted.
->
+She said yes with a smile you could hear through the text.
+Now secure the contact before she gets distracted.
 
 **결 — 연락 [세트 7]**
 User: 카톡 있어?
@@ -107,9 +107,8 @@ User: 여기! / 내 아이디야.
 AI: 고마워! 이따가 연락할게!
 
 **Outro:**
-> "Now you can't escape!" She saved your number with a laugh.
-> Next up: Getting to know the real Jia.
->
+"Now you can't escape!" She saved your number with a laugh.
+Next up: Getting to know the real Jia.
 
 ---
 
@@ -141,9 +140,8 @@ AI: 나는 스물일곱 살이야. 어디 살아?
 User: 홍대 근처야!
 
 **Outro:**
-> She announced her age with pride. "I'm your unnie!" — she's already claiming the role.
-> She loves being the older one.
->
+She announced her age with pride. "I'm your unnie!" — she's already claiming the role.
+She loves being the older one.
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -154,15 +152,17 @@ AI: 응! 우리 동네 놀러 와!
 User: 알겠어! / 갈게!
 
 **Outro:**
-> "We'll see each other a lot!" She's already excited about the proximity.
-> She's not calculating distance — she's planning hangouts.
->
+"We'll see each other a lot!" She's already excited about the proximity.
+She's not calculating distance — she's planning hangouts.
 
 ## sim2: MBTI Talk
 
 **Goal:** To discuss MBTI types and talk about personality.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+MBTI time! See if your personalities are a match.
 
 ### 승 — MBTI [세트 3]
 
@@ -173,9 +173,8 @@ User: 나는 ___야! / 나는 몰라!
 AI: 나는 밖이 좋아. 너는?
 
 **Outro:**
-> ENFJ — she's the social butterfly type. And she already decided you're compatible.
-> Jia doesn't wait for data. She goes with her gut.
->
+ENFJ — she's the social butterfly type. And she already decided you're compatible.
+Jia doesn't wait for data. She goes with her gut.
 
 ### 전 — 성격 [세트 4]
 
@@ -186,15 +185,17 @@ User: 오, 그렇구나! / 나도 그래!
 AI: 우리 진짜 잘 맞는다!
 
 **Outro:**
-> She can't sit still. Staying in? Boring. She wants to be out doing things.
-> Energy is her middle name.
->
+She can't sit still. Staying in? Boring. She wants to be out doing things.
+Energy is her middle name.
 
 ## sim3: More About You
 
 **Goal:** To talk about what you've been doing lately.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+She's curious about your life. Share what you've been up to!
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -205,9 +206,8 @@ AI: 오, 멋있다! 나도 한국어 가르쳐 줘.
 User: 응, 좋아! / 알겠어!
 
 **Outro:**
-> She called you cool and asked you to teach her. Classic Jia hype.
-> She makes everyone feel like a star.
->
+She called you cool and asked you to teach her. Classic Jia hype.
+She makes everyone feel like a star.
 
 ### 결 — 마무리 [세트 6]
 
@@ -218,9 +218,8 @@ AI: 카톡 할게!
 User: 응! / 기다릴게!
 
 **Outro:**
-> She had fun and isn't hiding it. "Wait for my text!" — she's already planning the next one.
-> Next up: Turn that energy into actual plans.
->
+She had fun and isn't hiding it. "Wait for my text!" — she's already planning the next one.
+Next up: Turn that energy into actual plans.
 
 ---
 
@@ -252,9 +251,8 @@ User: 같이 놀자! / 만나!
 AI: 좋아! 맛있는 거 먹자.
 
 **Outro:**
-> She guessed your plan before you said it. "놀자고?" — she was hoping you'd ask.
-> Now figure out what you're doing!
->
+She guessed your plan before you said it. "놀자고?" — she was hoping you'd ask.
+Now figure out what you're doing!
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -265,15 +263,17 @@ User: 좋아! / 거기 가자!
 AI: 내가 찾을게! 기대해.
 
 **Outro:**
-> She's already searching for spots. Jia gets excited about sharing her favorites.
-> Destination: Gangnam, her playground.
->
+She's already searching for spots. Jia gets excited about sharing her favorites.
+Destination: Gangnam, her playground.
 
 ## sim2: When and Where
 
 **Goal:** To confirm the meeting time and place.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+Details, details! Lock in the time and place — Jia hates being late.
 
 ### 승 — 시간 [세트 3]
 
@@ -284,9 +284,8 @@ AI: 좋아! 강남역에서 만나.
 User: 응! / 알겠어!
 
 **Outro:**
-> Time and place — done! She even added a cheerful "만나~" at the end.
-> Saturday is shaping up nicely.
->
+Time and place — done! She even added a cheerful "만나~" at the end.
+Saturday is shaping up nicely.
 
 ### 전 — 확인 [세트 4]
 
@@ -297,15 +296,17 @@ AI: 늦지 마. 약속!
 User: 알겠어! / 응!
 
 **Outro:**
-> She added a playful "약속!" — pinky promise vibes.
-> Saturday is locked in. Don't let her down!
->
+She added a playful "약속!" — pinky promise vibes.
+Saturday is locked in. Don't let her down!
 
 ## sim3: Day of
 
 **Goal:** To coordinate arrival and find each other in real time.
 
 📍 장소: 강남역 앞 (야외)
+
+**intro_text:**
+It's go time! She's already there — find each other at Gangnam station!
 
 ### 전 — 당일 [세트 5]
 
@@ -316,9 +317,8 @@ AI: 천천히 와. 나 역 앞에 있어.
 User: 어디야? / 안 보여!
 
 **Outro:**
-> She arrived early and is already bored waiting. "빨리 와~" — she's bouncing on her heels.
-> Almost there!
->
+She arrived early and is already bored waiting. "빨리 와~" — she's bouncing on her heels.
+Almost there!
 
 ### 결 — 만남 [세트 6]
 
@@ -329,9 +329,8 @@ AI: 드디어 만났다! 빨리 가자.
 User: 응, 가자! / 배고파!
 
 **Outro:**
-> She was waving at you from across the street. "드디어!" — she's been waiting!
-> Next up: Staying in touch between hangouts.
->
+She was waving at you from across the street. "드디어!" — she's been waiting!
+Next up: Staying in touch between hangouts.
 
 ---
 
@@ -363,9 +362,8 @@ User: 나도 집이야!
 AI: 오늘 안 나갔어? 뭐 했어?
 
 **Outro:**
-> She was waiting for someone to text. "나도!" — she's honest about being bored.
-> Jia doesn't play hard to get.
->
+She was waiting for someone to text. "나도!" — she's honest about being bored.
+Jia doesn't play hard to get.
 
 ### 승 — 대화 [세트 2]
 
@@ -376,15 +374,17 @@ User: 진짜 재밌었어! / 비밀이야!
 AI: 궁금하다! 나도 알려 줘.
 
 **Outro:**
-> She wants the details! Jia loves a good story recommendation.
-> Share more — she's all ears.
->
+She wants the details! Jia loves a good story recommendation.
+Share more — she's all ears.
 
 ## sim2: Chatting More
 
 **Goal:** To share photos and links and react to them.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+She's sharing photos and links. React and send something back!
 
 ### 승 — 사진 [세트 3]
 
@@ -395,9 +395,8 @@ User: 진짜 재밌어! / 웃겨!
 AI: 알겠어. 지금 볼게!
 
 **Outro:**
-> She shared a photo bursting with excitement. "너무 예뻐!" — Jia hypes everything she loves.
-> You're already on her list for next time.
->
+She shared a photo bursting with excitement. "너무 예뻐!" — Jia hypes everything she loves.
+You're already on her list for next time.
 
 ### 전 — 재미 [세트 4]
 
@@ -408,15 +407,17 @@ AI: 강남 카페야! 다음에 같이 가자.
 User: 응, 꼭 가자! / 가고 싶어!
 
 **Outro:**
-> "뭐야 뭐야?" — she's curious and can't wait. She'll watch it right now.
-> Expect a string of ㅋㅋㅋ in about two minutes.
->
+"뭐야 뭐야?" — she's curious and can't wait. She'll watch it right now.
+Expect a string of ㅋㅋㅋ in about two minutes.
 
 ## sim3: Good Night
 
 **Goal:** To end a conversation naturally and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+It's getting late. Wrap up the chat and say goodnight to Jia.
 
 ### 전 — 저녁 [세트 5]
 
@@ -427,9 +428,8 @@ AI: 나는 파스타 먹었어. 진짜 맛있었어.
 User: 맛있겠다!
 
 **Outro:**
-> She doesn't just ask if you ate — she wants to know what. And she'll share what she had too.
-> Jia turns every topic into a conversation.
->
+She doesn't just ask if you ate — she wants to know what. And she'll share what she had too.
+Jia turns every topic into a conversation.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -440,9 +440,8 @@ AI: 응, 내일 또 카톡 해.
 User: 알겠어! / 좋은 꿈 꿔!
 
 **Outro:**
-> "좋은 꿈 꿔~" — sweet dreams, Jia style. Warm and genuine.
-> Next up: Taking your Korean out into the real world.
->
+"좋은 꿈 꿔~" — sweet dreams, Jia style. Warm and genuine.
+Next up: Taking your Korean out into the real world.
 
 ---
 

@@ -27,9 +27,8 @@ User: 반가워요! / 보고 싶었어요!
 AI: 저도요. 줄 길었죠?
 
 **Outro:**
-> First thing he asked a fan: "Have you eaten?" 🧊
-> Second thing: "Was the line hard?" He's already worrying.
->
+First thing he asked a fan: "Have you eaten?" 🧊
+Second thing: "Was the line hard?" He's already worrying.
 
 **승 — 사인 [세트 2]**
 User: 괜찮아요. 사인 해주세요! / 조금요. 사인 부탁해요!
@@ -38,9 +37,8 @@ User: ___이에요!
 AI: 알았어요. 잠깐만요.
 
 **Outro:**
-> He took his time writing your name.
-> Carefully. ✍️
->
+He took his time writing your name.
+Carefully. ✍️
 
 ---
 
@@ -50,6 +48,9 @@ AI: 알았어요. 잠깐만요.
 
 **📍 장소:** 팬미팅 현장 (동일)
 
+**intro_text:**
+Wait — does he actually remember you? Time to find out.
+
 **승 — 기억 [세트 3]**
 AI: 또 왔어요? 멀리서 왔죠?
 User: 네! / 항상 와요!
@@ -57,9 +58,8 @@ AI: 무리하지 마세요. 건강이 먼저예요.
 User: 저 기억해요? / 저 알아요?
 
 **Outro:**
-> He told you not to overdo it. He remembers you. 👀
-> He just won't say it directly.
->
+He told you not to overdo it. He remembers you. 👀
+He just won't say it directly.
 
 **전 — 대화 [세트 4]**
 AI: 당연하죠, 아직도 저 좋아해요?
@@ -68,9 +68,8 @@ AI: 고마워요. 밥 잘 먹어요.
 User: 앞으로도 올게요! / 계속 응원할게요!
 
 **Outro:**
-> "고마워요. 밥 잘 먹어요." = Thank you. Eat well. 🥹
-> That's Siyun for "I care about you."
->
+"고마워요. 밥 잘 먹어요." = Thank you. Eat well. 🥹
+That's Siyun for "I care about you."
 
 ---
 
@@ -80,6 +79,9 @@ User: 앞으로도 올게요! / 계속 응원할게요!
 
 **📍 장소:** 팬미팅 현장 (동일)
 
+**intro_text:**
+Time's running out. Give him your letter and say goodbye.
+
 **전 — 선물 [세트 5]**
 User: 이거요. / 받아 주세요.
 AI: 뭐예요? 선물이에요?
@@ -87,9 +89,8 @@ User: 편지예요! / 직접 썼어요!
 AI: 고마워요. 잘 읽을게요.
 
 **Outro:**
-> He took it with both hands. 💌
-> "잘 읽을게요." He means it.
->
+He took it with both hands. 💌
+"잘 읽을게요." He means it.
 
 **결 — 작별 [세트 6]**
 AI: 조심히 가세요. 뛰지 마세요.
@@ -98,9 +99,8 @@ AI: 다음에도 오세요. 밥 먹고 오세요.
 User: 꼭이요! / 또 올게요!
 
 **Outro:**
-> "Come again. Eat first." His goodbye is always a command. ✨
-> Next up: See him on stage — if your heart can take it.
->
+"Come again. Eat first." His goodbye is always a command. ✨
+Next up: See him on stage — if your heart can take it.
 
 ---
 
@@ -133,9 +133,8 @@ AI: 고마워요! 콘서트 너무 기대돼요
 User: 맞아요! / 저도 너무 기대돼요!
 
 **Outro:**
-> New fan friend found! 🎪
-> You both fell for the same nagging face.
->
+New fan friend found! 🎪
+You both fell for the same nagging face.
 
 ### 승 — 기다림 [세트 2]
 
@@ -146,9 +145,8 @@ AI: 괜찮아요. 제가 더 멋있게 할게요!
 User: 빨리 보고 싶어요! / 기대돼요!
 
 **Outro:**
-> The lights just went dark. 🌑
-> He's walking out. Already scanning the crowd.
->
+The lights just went dark. 🌑
+He's walking out. Already scanning the crowd.
 
 ---
 
@@ -157,6 +155,9 @@ User: 빨리 보고 싶어요! / 기대돼요!
 **Goal:** To react during the concert and catch the moment Siyun looks your way.
 
 📍 장소: 콘서트장 객석 (공연 중)
+
+**intro_text:**
+He's on stage. The crowd goes wild. Did he just look your way?
 
 ### 승 — 공연 중 [세트 3]
 
@@ -167,9 +168,8 @@ AI: 지금 저기 이쪽 보고 있어요!
 User: 진짜요?! / 설레요!
 
 **Outro:**
-> He looked your way. Then pointed. Like he was checking on you. 👀
-> That's Siyun for "I found you."
->
+He looked your way. Then pointed. Like he was checking on you. 👀
+That's Siyun for "I found you."
 
 ### 전 — 앵콜 [세트 4]
 
@@ -180,9 +180,8 @@ AI: 좋아요! 그럼 다시 시작할게요!
 User: 최고예요! / 와, 대박!
 
 **Outro:**
-> Encore. He came back and said "다들 조심히 가." 🎤
-> Even on stage, he nags. The crowd loved it.
->
+Encore. He came back and said "다들 조심히 가." 🎤
+Even on stage, he nags. The crowd loved it.
 
 ---
 
@@ -191,6 +190,9 @@ User: 최고예요! / 와, 대박!
 **Goal:** To celebrate with a fellow fan and relive the best moment of the night.
 
 📍 장소: 콘서트장 밖 (공연 후)
+
+**intro_text:**
+Show's over. Time to relive every moment with your concert buddy!
 
 ### 전 — 끝 [세트 5]
 
@@ -201,9 +203,8 @@ User: 저 봤어요? / 눈 마주쳤어요!
 AI: 네, 당연하죠!
 
 **Outro:**
-> Post-concert high. 🌟
-> "걱정해주는 거 최고예요!" Every Siyun fan knows that feeling.
->
+Post-concert high. 🌟
+"걱정해주는 거 최고예요!" Every Siyun fan knows that feeling.
 
 ### 결 — 인사 [세트 6]
 
@@ -214,9 +215,8 @@ AI: 다음에 또 봐요!
 User: 네, 꼭이요! / 약속이에요!
 
 **Outro:**
-> Concert buddy confirmed. 🎫
-> Next up: He actually went live. And he's nagging the chat.
->
+Concert buddy confirmed. 🎫
+Next up: He actually went live. And he's nagging the chat.
 
 ---
 
@@ -249,9 +249,8 @@ AI: 오늘 일이 많았어요. 정말 바빴어요.
 User: 수고했어요! / 고생했어요!
 
 **Outro:**
-> He found your message in a flood of comments. 💬
-> First thing he said: you're late. Second: have you eaten.
->
+He found your message in a flood of comments. 💬
+First thing he said: you're late. Second: have you eaten.
 
 ### 승 — 대화 [세트 2]
 
@@ -262,9 +261,8 @@ AI: 안 돼요! 할 일하면서 봐요.
 User: 네, 사랑해요! / 네, 알겠어요
 
 **Outro:**
-> "Don't wait around. Do your stuff." 💖
-> He nags because he cares. The chat exploded.
->
+"Don't wait around. Do your stuff." 💖
+He nags because he cares. The chat exploded.
 
 ---
 
@@ -273,6 +271,9 @@ User: 네, 사랑해요! / 네, 알겠어요
 **Goal:** To send Siyun a message and get his shortest, most meaningful reply.
 
 📍 장소: 온라인 (버블/위버스 메시지)
+
+**intro_text:**
+He actually replied. Don't waste this chance — keep talking!
 
 ### 승 — 답장 [세트 3]
 
@@ -283,9 +284,8 @@ AI: 네. 고마워요.
 User: 진짜 기뻐요! / 너무 좋아요!
 
 **Outro:**
-> "봤어요. 고마워요." He read it. He said thanks. 🧊
-> For Siyun, that's a love letter.
->
+"봤어요. 고마워요." He read it. He said thanks. 🧊
+For Siyun, that's a love letter.
 
 ### 전 — 질문 [세트 4]
 
@@ -296,9 +296,8 @@ AI: 그래요? 고마워요. 무리하지 마세요.
 User: 항상 응원할게요! / 계속 볼게요!
 
 **Outro:**
-> "고마워요. 무리하지 마세요." Thank you. Don't overdo it. 🌟
-> He can't just say thanks. He has to add a warning.
->
+"고마워요. 무리하지 마세요." Thank you. Don't overdo it. 🌟
+He can't just say thanks. He has to add a warning.
 
 ---
 
@@ -307,6 +306,9 @@ User: 항상 응원할게요! / 계속 볼게요!
 **Goal:** To send a final message and say goodnight to Siyun.
 
 📍 장소: 온라인 (버블/위버스, 동일)
+
+**intro_text:**
+One last message tonight. Say goodnight before he nags you to sleep!
 
 ### 전 — 메시지 [세트 5]
 
@@ -317,9 +319,8 @@ User: 진짜 좋았어요! / 너무 멋있었어요!
 AI: 고마워요. 일찍 자요.
 
 **Outro:**
-> "Don't stay up late. Sleep early." 📩
-> His fan service is 100% nagging. We love it.
->
+"Don't stay up late. Sleep early." 📩
+His fan service is 100% nagging. We love it.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -330,7 +331,6 @@ AI: 네. 잘자요.
 User: 좋은 꿈 꿔요! / 내일 봐요!
 
 **Outro:**
-> "자요. 늦었어요." Go to sleep. It's late. 🌙
-> His goodnight comes with tomorrow's breakfast reminder.
-> Next up: Time to put on your professional face.
->
+"자요. 늦었어요." Go to sleep. It's late. 🌙
+His goodnight comes with tomorrow's breakfast reminder.
+Next up: Time to put on your professional face.

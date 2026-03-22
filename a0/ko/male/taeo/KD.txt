@@ -28,9 +28,8 @@ AI: 같이 가자. 내 거 써.
 User: 괜찮아? / 진짜?
 
 **Outro:**
-> He offered without thinking.
-> That's just how he is.
->
+He offered without thinking.
+That's just how he is.
 
 **승 — 우산 [세트 2]**
 AI: 비 오면 좋아. 조용하잖아.
@@ -39,9 +38,8 @@ AI: 비 오면 편해. 그냥 좋아.
 User: 그건 그래. / 나도 좋아.
 
 **Outro:**
-> He likes the rain. He said it simply.
-> You're starting to understand him.
->
+He likes the rain. He said it simply.
+You're starting to understand him.
 
 ---
 
@@ -51,6 +49,9 @@ User: 그건 그래. / 나도 좋아.
 
 **📍 장소:** 연남동 골목 (동일)
 
+**intro_text:**
+One umbrella, two people. Walk together and listen to the rain.
+
 **승 — 걷기 [세트 3]**
 AI: 천천히 걷자.
 User: 왜? / 천천히?
@@ -58,9 +59,8 @@ AI: 비 소리 좋잖아.
 User: 그러네. / 맞아, 비 소리 좋다.
 
 **Outro:**
-> He slowed down for the rain.
-> And for you.
->
+He slowed down for the rain.
+And for you.
 
 **전 — 이름 [세트 4]**
 AI: 나 태오야. 너는?
@@ -69,9 +69,8 @@ AI: 좋은 이름이다.
 User: 잘 됐어? / 고마워.
 
 **Outro:**
-> "Good name." He said it like he meant it.
-> Like he'd been waiting to hear it.
->
+"Good name." He said it like he meant it.
+Like he'd been waiting to hear it.
 
 ---
 
@@ -81,6 +80,9 @@ User: 잘 됐어? / 고마워.
 
 **📍 장소:** 연남동 골목 (비 그침)
 
+**intro_text:**
+The rain is slowing down. Neither of you wants to leave just yet.
+
 **전 — 멈춤 [세트 5]**
 User: 비 그쳤어. / 비 멈췄다.
 AI: 아예 안 와?
@@ -88,9 +90,8 @@ User: 그쳤는데. / 안 와.
 AI: 조금만 더 걷자.
 
 **Outro:**
-> The rain stopped. He pretended it didn't.
-> He wasn't ready to go.
->
+The rain stopped. He pretended it didn't.
+He wasn't ready to go.
 
 **결 — 다음에 [세트 6]**
 User: 고마워. / 오늘 좋았어.
@@ -99,9 +100,8 @@ User: 또 봐. / 다음에 또 봐.
 AI: 비 오면 또 보자.
 
 **Outro:**
-> "When it rains, let's meet again." His version of a promise.
-> You'll be checking the weather now.
->
+"When it rains, let's meet again." His version of a promise.
+You'll be checking the weather now.
 
 ---
 
@@ -132,9 +132,8 @@ AI: 네 표정이.
 User: 무슨 표정? / 내 표정?
 
 **Outro:**
-> He noticed right away.
-> He already knows.
->
+He noticed right away.
+He already knows.
 
 ### 승 — 물어봄 [세트 2]
 
@@ -144,9 +143,8 @@ User: 어떻게 알아? / 진짜?
 AI: 보면 알아. 원래 그래.
 
 **Outro:**
-> "I can tell by looking."
-> He always does.
->
+"I can tell by looking."
+He always does.
 
 ---
 
@@ -156,6 +154,9 @@ AI: 보면 알아. 원래 그래.
 
 📍 장소: 연남동 공유 작업실 (동일)
 
+**intro_text:**
+He's not saying much. He's just here. That's enough.
+
 ### 승 — 옆에 [세트 3]
 
 AI: 옆에 있을게.
@@ -164,9 +165,8 @@ AI: 그냥 있고 싶어.
 User: 고마워. / 좋아, 고마워.
 
 **Outro:**
-> No big reason. Just here.
-> That's enough.
->
+No big reason. Just here.
+That's enough.
 
 ### 전 — 바람 [세트 4]
 
@@ -176,9 +176,8 @@ AI: 기분 나아질 거야.
 User: 그러려나. / 나가자.
 
 **Outro:**
-> He said fresh air would help.
-> Simple advice. But it works.
->
+He said fresh air would help.
+Simple advice. But it works.
 
 ---
 
@@ -188,6 +187,9 @@ User: 그러려나. / 나가자.
 
 📍 장소: 연남동 골목 (밤)
 
+**intro_text:**
+Night air, quiet streets. Sometimes silence says more than words.
+
 ### 전 — 조용히 [세트 5]
 
 User: 말 안 해도 돼? / 조용히 있어도 돼?
@@ -196,9 +198,8 @@ User: 그래도 돼? / 괜찮아?
 AI: 나는 다 괜찮아.
 
 **Outro:**
-> He gave you permission to just be.
-> He means it.
->
+He gave you permission to just be.
+He means it.
 
 ### 결 — 알아줌 [세트 6]
 
@@ -208,9 +209,8 @@ User: 항상? / 계속?
 AI: 응 항상.
 
 **Outro:**
-> "Always have." He said it like it was obvious.
-> Like he's been paying attention all along.
->
+"Always have." He said it like it was obvious.
+Like he's been paying attention all along.
 
 ---
 
@@ -241,9 +241,8 @@ User: 뭔 생각? / 무슨 생각?
 AI: 너 생각이야.
 
 **Outro:**
-> "Thinking about you."
-> He's not ready yet.
->
+"Thinking about you."
+He's not ready yet.
 
 ### 승 — 근처까지 [세트 2]
 
@@ -253,9 +252,8 @@ User: 말해. / 해봐.
 AI: 아직 준비 안 됐어.
 
 **Outro:**
-> "Not ready yet." He looked away.
-> But he confirmed it. He has something.
->
+"Not ready yet." He looked away.
+But he confirmed it. He has something.
 
 ---
 
@@ -265,6 +263,9 @@ AI: 아직 준비 안 됐어.
 
 📍 장소: 연남동 골목 (동일)
 
+**intro_text:**
+He's ready to say it. Simple, honest, completely him.
+
 ### 승 — 고백 [세트 3]
 
 AI: 좋아해.
@@ -273,9 +274,8 @@ AI: 너를 좋아해.
 User: 진짜? / 정말?
 
 **Outro:**
-> "I like you." Simple and direct.
-> That's his confession. All of it.
->
+"I like you." Simple and direct.
+That's his confession. All of it.
 
 ### 전 — 확인 [세트 4]
 
@@ -285,9 +285,8 @@ User: 진짜? / 언제부터?
 AI: 진짜야. 계속 생각나.
 
 **Outro:**
-> "For real. I keep thinking about you." His version of yes.
-> He said it honestly.
->
+"For real. I keep thinking about you." His version of yes.
+He said it honestly.
 
 ---
 
@@ -297,6 +296,9 @@ AI: 진짜야. 계속 생각나.
 
 📍 장소: 연남동 골목 (동일)
 
+**intro_text:**
+The confession landed. Now it's your turn to respond.
+
 ### 전 — 나도 [세트 5]
 
 User: 나도 좋아해. / 나도 그래.
@@ -305,9 +307,8 @@ User: 알았어? / 느꼈어?
 AI: 그냥 알아. 느낌이 그래.
 
 **Outro:**
-> "I just know. It feels that way."
-> He always trusts his feelings.
->
+"I just know. It feels that way."
+He always trusts his feelings.
 
 ### 결 — 우리 [세트 6]
 
@@ -317,9 +318,8 @@ User: 계속? / 같이 있자고?
 AI: 우리 잘 맞잖아.
 
 **Outro:**
-> "Let's stay together." His way of making it official.
-> You're together now. Simple as that.
->
+"Let's stay together." His way of making it official.
+You're together now. Simple as that.
 
 ---
 
@@ -350,9 +350,8 @@ AI: 보고 싶었어.
 User: 나도. / 진짜?
 
 **Outro:**
-> He said he feels bad. That's how he shows it hurts.
-> He's not going anywhere.
->
+He said he feels bad. That's how he shows it hurts.
+He's not going anywhere.
 
 ### 승 — 이별 [세트 2]
 
@@ -362,9 +361,8 @@ AI: 같이 먹으러 가자.
 User: 좋아. / 어디 가?
 
 **Outro:**
-> "Don't go. Please." Then: "Stay here."
-> He said it straight. He meant it.
->
+"Don't go. Please." Then: "Stay here."
+He said it straight. He meant it.
 
 ---
 
@@ -374,6 +372,9 @@ User: 좋아. / 어디 가?
 
 📍 장소: 연남동 공유 작업실 (혼자)
 
+**intro_text:**
+Days apart. The workspace feels emptier without him.
+
 ### 승 — 시간이 지나고 [세트 3]
 
 AI: 너랑 있으면 좋아.
@@ -382,9 +383,8 @@ AI: 그냥. 편해.
 User: 나도 편해. / 나도 그래.
 
 **Outro:**
-> "I don't feel good. It's a hard day."
-> He's not pretending anymore.
->
+"I don't feel good. It's a hard day."
+He's not pretending anymore.
 
 ### 전 — 미안해 [세트 4]
 
@@ -394,9 +394,8 @@ AI: 매일.
 User: 매일? / 좋아.
 
 **Outro:**
-> "I feel better. Because you're here."
-> He forgave you before you finished the sentence.
->
+"I feel better. Because you're here."
+He forgave you before you finished the sentence.
 
 ---
 
@@ -406,6 +405,9 @@ User: 매일? / 좋아.
 
 📍 장소: 연남동 골목 (밤)
 
+**intro_text:**
+He came back. Quiet as always, but he's here.
+
 ### 전 — 돌아옴 [세트 5]
 
 User: 우리 잘 맞는 것 같아. / 너랑 있으면 좋아.
@@ -414,9 +416,8 @@ User: 진짜? / 처음부터?
 AI: 응. 처음부터.
 
 **Outro:**
-> "I feel good again." He came back.
-> That's everything.
->
+"I feel good again." He came back.
+That's everything.
 
 ### 결 — 다시 시작 [세트 6]
 
@@ -426,8 +427,7 @@ User: 응, 같이 있자. / 좋아.
 AI: 잘 됐다.
 
 **Outro:**
-> "Let's try again. Together."
-> Some things are worth saying twice.
->
+"Let's try again. Together."
+Some things are worth saying twice.
 
 ---

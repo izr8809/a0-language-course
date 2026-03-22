@@ -29,9 +29,8 @@ AI: 반가워요. 어디서 왔어요?
 User: ___에서 왔어요!
 
 **Outro:**
-> He looked up this time. He even said your name back — quietly, like he was filing it away.
-> But wait... why are you *really* here in Korea?
->
+He looked up this time. He even said your name back — quietly, like he was filing it away.
+But wait... why are you *really* here in Korea?
 
 **승 — 알아가기 [세트 2]**
 AI: 한국 좋아요?
@@ -40,9 +39,8 @@ AI: 어디 좋아요?
 User: 드라마요! / 음식이요!
 
 **Outro:**
-> He asked what you like about Korea. Short question, but he actually listened.
-> Red flag or green flag? Let's see if your hobbies match.
->
+He asked what you like about Korea. Short question, but he actually listened.
+Red flag or green flag? Let's see if your hobbies match.
 
 ---
 
@@ -52,6 +50,9 @@ User: 드라마요! / 음식이요!
 
 **📍 장소:** 밖 (동일)
 
+**intro_text:**
+He's sticking around. Time to find out what you have in common.
+
 **승 — 취미 [세트 3]**
 User: 현준 씨, 뭐 좋아해요? / 취미 뭐예요?
 AI: 커피 좋아해요. 자주 마셔요. 뭐 좋아해요?
@@ -59,9 +60,8 @@ User: 저도 커피! / 드라마 좋아해요!
 AI: 좋네요. 다음에 같이 해요.
 
 **Outro:**
-> "다음에 같이 해요." Four words. But from him, that's practically a speech.
-> Now, prepare for the ultimate Korean obsession... Food.
->
+"다음에 같이 해요." Four words. But from him, that's practically a speech.
+Now, prepare for the ultimate Korean obsession... Food.
 
 **전 — 음식 [세트 4]**
 AI: 밥 먹었어요?
@@ -70,9 +70,8 @@ AI: 그래요. 같이 가요.
 User: 같이 먹어요! / 고마워요!
 
 **Outro:**
-> You said let's eat together. He just said "같이 가요." No fuss, no hesitation.
-> This is your golden chance. Make a move and ask him out!
->
+You said let's eat together. He just said "같이 가요." No fuss, no hesitation.
+This is your golden chance. Make a move and ask him out!
 
 ---
 
@@ -82,6 +81,9 @@ User: 같이 먹어요! / 고마워요!
 
 **📍 장소:** 밖 (동일, 쉬는 시간)
 
+**intro_text:**
+Don't let him walk away. Ask him to hang out this weekend!
+
 **전 — 놀자 [세트 5]**
 User: 주말에 뭐 해요? / 이번 주말 시간 있어요?
 AI: 아직 없어요. 왜요?
@@ -89,9 +91,8 @@ User: 같이 놀래요? / 같이 가요!
 AI: 좋아요. 뭐 할까요?
 
 **Outro:**
-> He said yes — quietly, but he said yes. That counts.
-> Don't let him walk away without getting his Kakao ID!
->
+He said yes — quietly, but he said yes. That counts.
+Don't let him walk away without getting his Kakao ID!
 
 **결 — 연락 [세트 6]**
 User: 카톡 있어요? / 연락처 있어요?
@@ -100,9 +101,8 @@ User: 제 카톡 ___예요!
 AI: 저장할게요. 편하게 말해도 돼요.
 
 **Outro:**
-> No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe. Still in 존댓말.
-> Next up: The test that decides if you're *truly* compatible.
->
+No reply for an hour. Then one message: "잘 들어갔어요?" He asked if you got home safe. Still in 존댓말.
+Next up: The test that decides if you're *truly* compatible.
 
 ---
 
@@ -134,9 +134,8 @@ AI: 저는 27살이에요.
 User: 진짜요? / 오, 그래요?
 
 **Outro:**
-> Age revealed. 27 — older than expected. He carries it quietly.
-> Now find out where he actually lives.
->
+Age revealed. 27 — older than expected. He carries it quietly.
+Now find out where he actually lives.
 
 ### 승 — 어디 살아요 [세트 2]
 
@@ -147,15 +146,17 @@ User: 서울이에요! / 강남 근처예요!
 AI: 가깝네요. 좋아요.
 
 **Outro:**
-> Seocho, near Samsung Station. Prime real estate. He mentioned it like it was nothing.
-> Get ready — the MBTI question is coming.
->
+Seocho, near Samsung Station. Prime real estate. He mentioned it like it was nothing.
+Get ready — the MBTI question is coming.
 
 ## sim2: MBTI Talk
 
 **Goal:** To discuss MBTI types and talk about personality.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+Here it comes — the question every Korean asks. What's your MBTI?
 
 ### 승 — MBTI [세트 3]
 
@@ -166,9 +167,8 @@ User: ENFP예요! / 모르겠어요!
 AI: 재밌어요. 저는 계획적인 편이에요.
 
 **Outro:**
-> ISTJ. Organized, reliable, efficient. The MBTI equivalent of a pressed suit.
-> Now dig a little deeper into who he really is.
->
+ISTJ. Organized, reliable, efficient. The MBTI equivalent of a pressed suit.
+Now dig a little deeper into who he really is.
 
 ### 전 — 성격 [세트 4]
 
@@ -179,15 +179,17 @@ AI: 저는 집이 편해요.
 User: 맞아요 저도요! / 저도 그래요!
 
 **Outro:**
-> He prefers home. But for you, he'll step outside. Don't read into it — or do.
-> One more round — what's he been up to these days?
->
+He prefers home. But for you, he'll step outside. Don't read into it — or do.
+One more round — what's he been up to these days?
 
 ## sim3: More About You
 
 **Goal:** To talk about what you've been doing lately.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+The conversation is flowing. Tell him what you've been up to lately.
 
 ### 전 — 요즘 뭐 해요 [세트 5]
 
@@ -198,9 +200,8 @@ AI: 좋네요. 재밌어요?
 User: 재밌어요! / 좀 어려워요.
 
 **Outro:**
-> He listened carefully. He'll remember this answer next time you meet.
-> Time to wrap this up and make plans to talk again.
->
+He listened carefully. He'll remember this answer next time you meet.
+Time to wrap this up and make plans to talk again.
 
 ### 결 — 마무리 [세트 6]
 
@@ -211,9 +212,8 @@ AI: 카톡 해요. 조심히 가세요.
 User: 네! / 고마워요!
 
 **Outro:**
-> "Go safely." Three words. But he meant every one of them.
-> Next up: Turn that chat into actual plans.
->
+"Go safely." Three words. But he meant every one of them.
+Next up: Turn that chat into actual plans.
 
 ---
 
@@ -245,9 +245,8 @@ User: 같이 놀래요? / 같이 가요!
 AI: 좋아요. 뭐 할까요?
 
 **Outro:**
-> He said yes. Short, clean, no drama. That's how he operates.
-> Now figure out what you're actually doing.
->
+He said yes. Short, clean, no drama. That's how he operates.
+Now figure out what you're actually doing.
 
 ### 승 — 어디 갈까요 [세트 2]
 
@@ -258,15 +257,17 @@ User: 좋아요! / 제가 예약할까요?
 AI: 제가 예약할게요.
 
 **Outro:**
-> Steak it is. He's already making the reservation. You just had to show up.
-> Now nail down the details — when and where exactly?
->
+Steak it is. He's already making the reservation. You just had to show up.
+Now nail down the details — when and where exactly?
 
 ## sim2: When and Where
 
 **Goal:** To confirm the meeting time and place.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+Plans are happening! Lock down the time and place.
 
 ### 승 — 시간 [세트 3]
 
@@ -277,9 +278,8 @@ AI: 좋아요. 삼성역 앞이요.
 User: 네 삼성역! / 좋아요!
 
 **Outro:**
-> Time set. Samsung Station, 6 PM. He picked a place near him — efficient as always.
-> One more confirmation and you're all set.
->
+Time set. Samsung Station, 6 PM. He picked a place near him — efficient as always.
+One more confirmation and you're all set.
 
 ### 전 — 확인 [세트 4]
 
@@ -290,15 +290,17 @@ AI: 늦으면 연락 주세요.
 User: 알겠어요! / 안 늦어요!
 
 **Outro:**
-> Plans confirmed. He didn't say "don't be late" — he said "let me know if you are." Considerate.
-> Saturday is coming... are you ready for the real thing?
->
+Plans confirmed. He didn't say "don't be late" — he said "let me know if you are." Considerate.
+Saturday is coming... are you ready for the real thing?
 
 ## sim3: Day of
 
 **Goal:** To coordinate arrival and find each other in real time.
 
 📍 장소: 삼성역 앞 (야외)
+
+**intro_text:**
+It's the day! He's already there. Time to find each other.
 
 ### 전 — 당일 [세트 5]
 
@@ -309,9 +311,8 @@ AI: 저 도착했어요. 천천히 오세요.
 User: 금방 갈게요! / 곧 가요!
 
 **Outro:**
-> He arrived first. Of course he did. And told you to take your time.
-> Just one more step — actually find each other.
->
+He arrived first. Of course he did. And told you to take your time.
+Just one more step — actually find each other.
 
 ### 결 — 만남 [세트 6]
 
@@ -322,9 +323,8 @@ User: 아, 봤어요! / 찾았어요!
 AI: 가요.
 
 **Outro:**
-> You found each other. One word from him: "Let's go." No wasted breath.
-> Next up: Staying in touch between hangouts.
->
+You found each other. One word from him: "Let's go." No wasted breath.
+Next up: Staying in touch between hangouts.
 
 ---
 
@@ -356,9 +356,8 @@ User: 나도 집이에요! 심심해요. / 저도 집이에요!
 AI: 저도요. 나갈까요?
 
 **Outro:**
-> Conversation started. He matched your energy — brief but present.
-> Now keep it going — ask about his day.
->
+Conversation started. He matched your energy — brief but present.
+Now keep it going — ask about his day.
 
 ### 승 — 대화 [세트 2]
 
@@ -369,15 +368,17 @@ AI: 뭐 봤어요?
 User: 새로 나온 거요! / 비밀이에요!
 
 **Outro:**
-> He asked a follow-up. That's more curiosity than he usually shows.
-> Time to take it up a notch — share something fun.
->
+He asked a follow-up. That's more curiosity than he usually shows.
+Time to take it up a notch — share something fun.
 
 ## sim2: Chatting More
 
 **Goal:** To share photos and links and react to them.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+He just sent a photo. What did he share this time?
 
 ### 승 — 사진 [세트 3]
 
@@ -388,9 +389,8 @@ AI: 한강이에요. 다음에 같이 가요.
 User: 가요! / 네, 가고 싶어요!
 
 **Outro:**
-> Han River photo. He doesn't share often — so when he does, pay attention.
-> Now send him something funny.
->
+Han River photo. He doesn't share often — so when he does, pay attention.
+Now send him something funny.
 
 ### 전 — 재미 [세트 4]
 
@@ -401,15 +401,17 @@ User: 진짜 웃겨요! 봐봐요! / 재밌어요! 봐요!
 AI: 알겠어요. 볼게요.
 
 **Outro:**
-> He'll watch it. And tomorrow he'll quietly reference it like it's no big deal.
-> The night is winding down... time to say goodnight.
->
+He'll watch it. And tomorrow he'll quietly reference it like it's no big deal.
+The night is winding down... time to say goodnight.
 
 ## sim3: Good Night
 
 **Goal:** To end a conversation naturally and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+The night's winding down. Wrap it up and say goodnight.
 
 ### 전 — 저녁 [세트 5]
 
@@ -420,9 +422,8 @@ User: 현준 씨는요? / 현준 씨는 먹었어요?
 AI: 저도 먹었어요. 스테이크요.
 
 **Outro:**
-> Dinner check done. Steak, naturally. The man is consistent.
-> Almost time to wrap up for the night.
->
+Dinner check done. Steak, naturally. The man is consistent.
+Almost time to wrap up for the night.
 
 ### 결 — 잘 자요 [세트 6]
 
@@ -433,9 +434,8 @@ User: 내일 봐요! / 또 봐요!
 AI: 네. 내일 봐요. 잘 쉬세요.
 
 **Outro:**
-> Goodnight said. "Rest well." Quiet. Steady. That's Hyunjun.
-> Next up: Taking your Korean out into the real world.
->
+Goodnight said. "Rest well." Quiet. Steady. That's Hyunjun.
+Next up: Taking your Korean out into the real world.
 
 ---
 

@@ -27,9 +27,8 @@ User: 잘 부탁드려요.
 AI: 네. 이쪽으로 오세요.
 
 **Outro:**
-> Quick introduction, warm handshake. She made it easy.
-> Now find your desk.
->
+Quick introduction, warm handshake. She made it easy.
+Now find your desk.
 
 **승 — 자리 [세트 2]**
 User: 여기 앉아요?
@@ -38,9 +37,8 @@ User: 감사합니다! / 네, 알겠습니다.
 AI: 필요한 거 바로 말하세요.
 
 **Outro:**
-> Your desk was already set up — she'd prepared it herself.
-> She cares through actions, not speeches.
->
+Your desk was already set up — she'd prepared it herself.
+She cares through actions, not speeches.
 
 ---
 
@@ -50,6 +48,9 @@ AI: 필요한 거 바로 말하세요.
 
 **Goal:** To receive your first task and ask basic questions about the office.
 
+**intro_text:**
+Morning at the office. Jia has your first task ready — don't keep her waiting.
+
 **승 — 업무 [세트 3]**
 AI: 이거 읽어보세요. 업무 자료예요.
 User: 다 읽어요? / 지금 읽어요?
@@ -57,9 +58,8 @@ AI: 네. 모르는 거 질문하세요.
 User: 감사합니다! / 네, 읽을게요!
 
 **Outro:**
-> She handed you the folder with an encouraging nod.
-> "모르는 거 있으면 오세요" — her door is always open.
->
+She handed you the folder with an encouraging nod.
+"모르는 거 있으면 오세요" — her door is always open.
 
 **전 — 점심 [세트 4]**
 AI: 점심 먹었어요?
@@ -68,9 +68,8 @@ AI: 같이 가요. 점심시간이에요.
 User: 네!
 
 **Outro:**
-> She stood up with a smile. Lunchtime means team bonding for Jia.
-> She always makes sure the new person eats well.
->
+She stood up with a smile. Lunchtime means team bonding for Jia.
+She always makes sure the new person eats well.
 
 ---
 
@@ -80,6 +79,9 @@ User: 네!
 
 **Goal:** To wrap up your first day and say goodbye to your team leader.
 
+**intro_text:**
+First day almost done! Wrap up and say goodbye to Jia.
+
 **전 — 마무리 [세트 5]**
 User: 이제 집에 가요? / 지금 퇴근해요?
 AI: 네, 수고했어요. 먼저 가세요.
@@ -87,9 +89,8 @@ User: 오늘 감사했습니다! / 수고하셨습니다!
 AI: 내일 9시 출근이에요. 늦지 마세요.
 
 **Outro:**
-> She reminded you of tomorrow's time with a friendly wave.
-> She's strict about schedules, but always kind about it.
->
+She reminded you of tomorrow's time with a friendly wave.
+She's strict about schedules, but always kind about it.
 
 **결 — 인사 [세트 6]**
 User: 내일 봐요!
@@ -98,9 +99,8 @@ User: 안녕히 계세요!
 AI: 네, 푹 쉬세요.
 
 **Outro:**
-> First day: survived. ✨
-> She waved goodbye and waited until you left safely. That's Jia.
->
+First day: survived. ✨
+She waved goodbye and waited until you left safely. That's Jia.
 
 ---
 
@@ -132,9 +132,8 @@ AI: 아주 쉬워요. 한번 해보세요.
 User: 네, 해보겠습니다! / 질문 있습니다.
 
 **Outro:**
-> A task, a deadline, and encouragement: "어렵지 않아요."
-> She believes in you — that's why she gave you the assignment.
->
+A task, a deadline, and encouragement: "어렵지 않아요."
+She believes in you — that's why she gave you the assignment.
 
 ### 승 — 질문 [세트 2]
 
@@ -145,9 +144,8 @@ AI: 아, 이거요? 이렇게 하세요.
 User: 알겠습니다. / 감사합니다.
 
 **Outro:**
-> She showed you right away — no judgment, just help.
-> "간단해요." She makes everything feel manageable.
->
+She showed you right away — no judgment, just help.
+"간단해요." She makes everything feel manageable.
 
 ---
 
@@ -156,6 +154,9 @@ User: 알겠습니다. / 감사합니다.
 **Goal:** To submit your report and receive feedback from your team leader.
 
 📍 장소: 강남 대기업 사무실
+
+**intro_text:**
+Report's done. Time to hand it in and see what Jia thinks.
 
 ### 승 — 제출 [세트 3]
 
@@ -166,9 +167,8 @@ User: 괜찮아요? / 다 맞아요?
 AI: 음, 여기 조금 고치세요.
 
 **Outro:**
-> She took it and read it carefully, giving it her full attention.
-> She takes your work seriously.
->
+She took it and read it carefully, giving it her full attention.
+She takes your work seriously.
 
 ### 전 — 수정 [세트 4]
 
@@ -179,9 +179,8 @@ User: 알겠습니다! / 네, 다시 할게요!
 AI: 네, 천천히 하세요.
 
 **Outro:**
-> One correction. "나머지 괜찮아요" — the rest is fine.
-> From Jia, that's an A+.
->
+One correction. "나머지 괜찮아요" — the rest is fine.
+From Jia, that's an A+.
 
 ---
 
@@ -190,6 +189,9 @@ AI: 네, 천천히 하세요.
 **Goal:** To resubmit and receive quiet acknowledgment from your team leader.
 
 📍 장소: 강남 대기업 사무실 (자기 자리)
+
+**intro_text:**
+You fixed it. Now resubmit and earn that nod of approval from Jia.
 
 ### 전 — 재제출 [세트 5]
 
@@ -200,8 +202,7 @@ User: 진짜요? / 다행입니다!
 AI: 네, 진짜 잘했어요. 수고했어요.
 
 **Outro:**
-> "됐어요. 잘했어요." She smiled when she said it. Genuine praise from Jia.
->
+"됐어요. 잘했어요." She smiled when she said it. Genuine praise from Jia.
 
 ### 결 — 인정 [세트 6]
 
@@ -212,9 +213,8 @@ User: 앞으로도 잘 부탁드려요! / 열심히 하겠습니다!
 AI: 네. 내일도 힘내세요.
 
 **Outro:**
-> "수고했어요." With a warm nod and a real smile. 🌟
-> Next up: Late nights at the office aren't so bad with her around.
->
+"수고했어요." With a warm nod and a real smile. 🌟
+Next up: Late nights at the office aren't so bad with her around.
 
 ---
 
@@ -246,9 +246,8 @@ User: 저도 남을게요. / 저도 일할게요.
 AI: 아니요. 먼저 퇴근하세요.
 
 **Outro:**
-> She said you didn't have to stay.
-> But she didn't tell you to leave.
->
+She said you didn't have to stay.
+But she didn't tell you to leave.
 
 ### 승 — 밤 [세트 2]
 
@@ -259,8 +258,7 @@ User: 아직입니다. / 안 먹었습니다.
 AI: 밥 시킬게요. 뭐 먹고 싶어요?
 
 **Outro:**
-> She already had the delivery app open before you answered.
->
+She already had the delivery app open before you answered.
 
 ---
 
@@ -269,6 +267,9 @@ AI: 밥 시킬게요. 뭐 먹고 싶어요?
 **Goal:** To have a late-night meal together and get a rare glimpse of her softer side.
 
 📍 장소: 강남 대기업 사무실 (회의실)
+
+**intro_text:**
+Late-night delivery arrived. Dinner with Jia — just the two of you.
 
 ### 승 — 식사 [세트 3]
 
@@ -279,9 +280,8 @@ User: 감사합니다! / 잘 먹겠습니다!
 AI: 많이 드세요. 야근 힘들죠?
 
 **Outro:**
-> She ordered extra. "Just in case," she'd say. 🍱
-> But she always orders extra for you.
->
+She ordered extra. "Just in case," she'd say. 🍱
+But she always orders extra for you.
 
 ### 전 — 대화 [세트 4]
 
@@ -292,9 +292,8 @@ User: 네, 같이 힘내요!
 AI: 고마워요. 얼른 먹어요.
 
 **Outro:**
-> "같이 하면 돼요." Together, it's fine. 💙
-> She means it — Jia is always better in a team.
->
+"같이 하면 돼요." Together, it's fine. 💙
+She means it — Jia is always better in a team.
 
 ---
 
@@ -303,6 +302,9 @@ AI: 고마워요. 얼른 먹어요.
 **Goal:** To finish work and leave together, feeling a quiet closeness.
 
 📍 장소: 강남 대기업 빌딩 앞
+
+**intro_text:**
+Work's finally done. Walk out together into the night.
 
 ### 전 — 마무리 [세트 5]
 
@@ -313,8 +315,7 @@ AI: 수고했어요. 이제 가요.
 User: 네, 같이 가요! / 짐 챙길게요.
 
 **Outro:**
-> She closed her laptop and stretched. "Let's go!" energy.
->
+She closed her laptop and stretched. "Let's go!" energy.
 
 ### 결 — 귀가 [세트 6]
 
@@ -325,8 +326,7 @@ AI: 조심히 가세요. 내일 봐요.
 User: 팀장님도요! / 내일 뵐게요!
 
 **Outro:**
-> She walked beside you to the exit, chatting about tomorrow. 🌙
-> Late nights here? Not so bad after all.
->
+She walked beside you to the exit, chatting about tomorrow. 🌙
+Late nights here? Not so bad after all.
 
 ---

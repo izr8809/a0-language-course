@@ -28,9 +28,8 @@ AI: 이름이 뭐예요?
 User: ___이에요!
 
 **Outro:**
-> He asked your name before you even sat down. 😄
-> That's just how he is.
->
+He asked your name before you even sat down. 😄
+That's just how he is.
 
 **승 — 반가워요 [세트 2]**
 AI: 같은 수업이에요? 진짜요?
@@ -39,9 +38,8 @@ AI: 대박! 잘 부탁해요!
 User: 저도 잘 부탁해요! / 네, 반가워요!
 
 **Outro:**
-> He said it like you've been friends for years. 🌟
-> You haven't. But somehow it feels that way.
->
+He said it like you've been friends for years. 🌟
+You haven't. But somehow it feels that way.
 
 ---
 
@@ -51,6 +49,9 @@ User: 저도 잘 부탁해요! / 네, 반가워요!
 
 **📍 장소:** 교실 (수업 시간)
 
+**intro_text:**
+Class project time. He's already walking toward your desk.
+
 **승 — 팀 [세트 3]**
 AI: 같이 팀 할래요?
 User: 저랑요? / 좋아요!
@@ -58,9 +59,8 @@ AI: 네! 저 열심히 할게요!
 User: 기대돼요! / 좋아요!
 
 **Outro:**
-> He didn't hesitate. Not even a second. 🙌
-> He already decided you were his team.
->
+He didn't hesitate. Not even a second. 🙌
+He already decided you were his team.
 
 **전 — 이유 [세트 4]**
 User: 왜 저한테 먼저 말했어요?
@@ -70,9 +70,8 @@ User: 진짜요? / 고마워요.
 AI: 진짜요! 같이 잘해 봐요!
 
 **Outro:**
-> "You looked nice." That's his entire reason. 💛
-> He meant every word.
->
+"You looked nice." That's his entire reason. 💛
+He meant every word.
 
 ---
 
@@ -82,6 +81,9 @@ AI: 진짜요! 같이 잘해 봐요!
 
 **📍 장소:** 건대 캠퍼스 밖 (방과 후)
 
+**intro_text:**
+School's out. He's waiting by the gate with something to say.
+
 **전 — 반말 전환 [세트 5]**
 AI: 내일 와요?
 User: 네, 가요! / 당연하죠!
@@ -89,9 +91,8 @@ AI: 내일 기대해요!
 User: 뭘요? / 뭐예요?
 
 **Outro:**
-> He asked to drop the formality. You said yes. 🤙
-> Everything just got more real.
->
+He asked to drop the formality. You said yes. 🤙
+Everything just got more real.
 
 **결 — 기대해 [세트 6]**
 AI: 저요! 재미있는 거 준비할게요!
@@ -100,9 +101,8 @@ AI: 내일 봐요! 약속해요!
 User: 네! / 내일 봐요!
 
 **Outro:**
-> He's already planning tomorrow. ☀️
-> He always is.
->
+He's already planning tomorrow. ☀️
+He always is.
 
 ---
 
@@ -133,9 +133,8 @@ AI: 안 괜찮아 보여요.
 User: 진짜 괜찮아요. / 걱정 마요.
 
 **Outro:**
-> He saw right through it. 👀
-> He always does.
->
+He saw right through it. 👀
+He always does.
 
 ### 승 — 말해봐요 [세트 2]
 
@@ -145,9 +144,8 @@ AI: 별거 아니어도 돼요. 말해 봐요.
 User: …좀 힘들었어요. / 좀 피곤했어요.
 
 **Outro:**
-> He asked twice. He'll ask again if you need. 😤
-> He's not going anywhere.
->
+He asked twice. He'll ask again if you need. 😤
+He's not going anywhere.
 
 ---
 
@@ -157,6 +155,9 @@ User: …좀 힘들었어요. / 좀 피곤했어요.
 
 📍 장소: 건대 캠퍼스 벤치 (동일)
 
+**intro_text:**
+He's not leaving until you feel better. Brace for maximum Hangyeol energy.
+
 ### 승 — 걱정 [세트 3]
 
 AI: 많이 걱정했어요. 진짜로요.
@@ -165,9 +166,8 @@ AI: 미안해하지 마요! 친구잖아요!
 User: 맞아요. / 그렇죠.
 
 **Outro:**
-> "We're friends!" He said it loud enough for everyone to hear. 💛
-> That's his version of comfort.
->
+"We're friends!" He said it loud enough for everyone to hear. 💛
+That's his version of comfort.
 
 ### 전 — 기운 내요 [세트 4]
 
@@ -177,9 +177,8 @@ AI: 떡볶이요! 기운 날거에요!
 User: 고마워요! / 먹을게요!
 
 **Outro:**
-> His cure for everything: food and energy. 🍱
-> Somehow, it works.
->
+His cure for everything: food and energy. 🍱
+Somehow, it works.
 
 ---
 
@@ -189,6 +188,9 @@ User: 고마워요! / 먹을게요!
 
 📍 장소: 건대 거리 (방과 후)
 
+**intro_text:**
+The day is winding down. He's not letting you walk home alone.
+
 ### 전 — 반말 전환 [세트 5]
 
 AI: 이제 기운 나요?
@@ -197,9 +199,8 @@ AI: 다행이에요! 이제 집에 가요?
 User: 네, 집에 가요. / 네, 가요.
 
 **Outro:**
-> 반말 unlocked. Things just got real. 🌸
-> He smiled like he won something.
->
+반말 unlocked. Things just got real. 🌸
+He smiled like he won something.
 
 ### 결 — 같이 가자 [세트 6]
 
@@ -209,9 +210,8 @@ AI: 안 돼요! 같이 가요!
 User: 알겠어요! / 네, 가요!
 
 **Outro:**
-> "I'll walk you home!" No room for argument. 🏠
-> He'll do this every single time.
->
+"I'll walk you home!" No room for argument. 🏠
+He'll do this every single time.
 
 ---
 
@@ -242,9 +242,8 @@ AI: 좀 이따 말해도 돼요?
 User: 네, 기다릴게요. / 네, 괜찮아요.
 
 **Outro:**
-> He went quiet. That's how you know it's big. 💗
-> Something's changed.
->
+He went quiet. That's how you know it's big. 💗
+Something's changed.
 
 ### 승 — 긴장 [세트 2]
 
@@ -255,9 +254,8 @@ User: 괜찮아요. 말해 봐요. / 천천히 해요.
 AI: 네. 잠깐만요.
 
 **Outro:**
-> He's nervous. The boy who says everything — can't say this. 🌫️
-> Give him a moment.
->
+He's nervous. The boy who says everything — can't say this. 🌫️
+Give him a moment.
 
 ---
 
@@ -267,6 +265,9 @@ AI: 네. 잠깐만요.
 
 📍 장소: 건대 공원 (동일)
 
+**intro_text:**
+He stopped walking. He's looking right at you. Here it comes.
+
 ### 승 — 고백 [세트 3]
 
 AI: 좋아해요!
@@ -275,9 +276,8 @@ AI: 좋아한다고요! 진짜요!
 User: 진짜요? / 정말요?
 
 **Outro:**
-> He said it out loud. In the middle of the park. 💕
-> No hesitation. That's Han Gyeol.
->
+He said it out loud. In the middle of the park. 💕
+No hesitation. That's Han Gyeol.
 
 ### 전 — 대답해 [세트 4]
 
@@ -287,9 +287,8 @@ AI: 진짜요?!
 User: 네! / 당연하죠!
 
 **Outro:**
-> He froze for exactly one second. 🌙
-> Then the biggest smile you've ever seen.
->
+He froze for exactly one second. 🌙
+Then the biggest smile you've ever seen.
 
 ---
 
@@ -299,6 +298,9 @@ User: 네! / 당연하죠!
 
 📍 장소: 건대 공원 (동일)
 
+**intro_text:**
+Everything's out in the open now. Time to make it real.
+
 ### 전 — 반말 전환 [세트 5]
 
 AI: 이제 반말 하자. 우리 사이에 왜 존댓말이야!
@@ -307,9 +309,8 @@ AI: 우리 사귀는 거지?
 User: 응, 당연하지! / 응, 맞아!
 
 **Outro:**
-> No hesitation. No "maybe." 💘
-> He's been ready for a while.
->
+No hesitation. No "maybe." 💘
+He's been ready for a while.
 
 ### 결 — 손 잡아 [세트 6]
 
@@ -319,9 +320,8 @@ AI: 잡을게! 놓지 마!
 User: 안 놓아! / 알겠어!
 
 **Outro:**
-> He reached first. Always does. 🤍
-> He's not letting go.
->
+He reached first. Always does. 🤍
+He's not letting go.
 
 ---
 
@@ -352,9 +352,8 @@ User: 가요! / 싫어요!
 AI: 가기 싫어요.
 
 **Outro:**
-> He apologized first. Immediately. 😶
-> He hates fighting with you.
->
+He apologized first. Immediately. 😶
+He hates fighting with you.
 
 ### 승 — 이별 [세트 2]
 
@@ -364,9 +363,8 @@ User: 한결 씨. / 제발요.
 AI: 한 번만요. 잘할게요.
 
 **Outro:**
-> He said no. Then asked for one more chance. 💔
-> He's not giving up that easily.
->
+He said no. Then asked for one more chance. 💔
+He's not giving up that easily.
 
 ---
 
@@ -375,6 +373,9 @@ AI: 한 번만요. 잘할게요.
 **Goal:** To practice the quiet days — when he's not himself without you.
 
 📍 장소: 건대 캠퍼스 (며칠 후)
+
+**intro_text:**
+Days have passed. He's been quiet. You run into each other again.
 
 ### 승 — 시간이 지나고 [세트 3]
 
@@ -385,9 +386,8 @@ User: 진짜요? / 저도요.
 AI: 많이 보고 싶었어요.
 
 **Outro:**
-> "Honestly, no." He never lies. Not even now. 🌧️
-> He's lost without you.
->
+"Honestly, no." He never lies. Not even now. 🌧️
+He's lost without you.
 
 ### 전 — 보고 싶었어요 [세트 4]
 
@@ -397,9 +397,8 @@ User: 우리 만나요. / 지금 얘기해요.
 AI: 네, 만나요.
 
 **Outro:**
-> He said it first. ☁️
-> That took everything he had.
->
+He said it first. ☁️
+That took everything he had.
 
 ---
 
@@ -409,6 +408,9 @@ AI: 네, 만나요.
 
 📍 장소: 건대 공원 (저녁)
 
+**intro_text:**
+You hear footsteps. Someone's running. It's him.
+
 ### 전 — 돌아옴 [세트 5]
 
 AI: 나야! 뛰어왔어!
@@ -417,9 +419,8 @@ AI: 미안해. 진짜 미안해.
 User: 나도 미안해. / 괜찮아.
 
 **Outro:**
-> He ran. All the way here. 🌸
-> He didn't even think about it.
->
+He ran. All the way here. 🌸
+He didn't even think about it.
 
 ### 결 — 다시 시작 [세트 6]
 
@@ -429,8 +430,7 @@ AI: 약속! 이번엔 진짜!
 User: 알겠어! / 믿어!
 
 **Outro:**
-> "Promise! For real this time!" He held out his pinky. 🤙
-> He means it. He always does.
->
+"Promise! For real this time!" He held out his pinky. 🤙
+He means it. He always does.
 
 ---

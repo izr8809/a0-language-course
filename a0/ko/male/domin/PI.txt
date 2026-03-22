@@ -28,9 +28,8 @@ AI: 이름이 뭐예요?
 User: 저는 ___이에요!
 
 **Outro:**
-> First impression: Passed! 🎯
-> Now tell him where you're from.
->
+First impression: Passed! 🎯
+Now tell him where you're from.
 
 **승 — 어디에서 왔어요 [세트 2]**
 AI: 어디서 왔어요?
@@ -39,16 +38,14 @@ AI: 한국 좋아해요?
 User: 네! / 너무 좋아해요!
 
 **Outro:**
-> They loved your answer! 👀
-> But wait... *why* do you like Korea?
->
+They loved your answer! 👀
+But wait... *why* do you like Korea?
 
 **승 — 왜 좋아해요 [세트 3]**
 
 **Outro:**
-> You have something in common! 👀
-> He seems friendly. Let's see if your hobbies match.
->
+You have something in common! 👀
+He seems friendly. Let's see if your hobbies match.
 
 ---
 
@@ -58,6 +55,9 @@ User: 네! / 너무 좋아해요!
 
 **📍 장소:** 밖 (동일)
 
+**intro_text:**
+You're clicking! Time to find common ground and get closer.
+
 **전 — 취미 [세트 4]**
 User: 도민 씨, 취미 뭐예요? / 뭐 좋아해요?
 AI: 음악이요!
@@ -65,9 +65,8 @@ User: 저도요! / 오, 음악!
 AI: 나이가 어떻게 돼요?
 
 **Outro:**
-> Vibe check passed! ✔️
-> He's about to ask you something...
->
+Vibe check passed! ✔️
+He's about to ask you something...
 
 **전 — 말 놓기 [세트 5]**
 User: ___살이에요!
@@ -76,16 +75,14 @@ User: 네, 좋아요! / 그럴까요?
 AI: 좋아!
 
 **Outro:**
-> He wants to speak casually — you're officially becoming friends! 🎉
-> Now hear him in 반말 for the first time.
->
+He wants to speak casually — you're officially becoming friends! 🎉
+Now hear him in 반말 for the first time.
 
 **결 — 반말 시작 [세트 6]**
 
 **Outro:**
-> 반말 unlocked! 🔓
-> He's already asking for your Kakao. Classic Domin.
->
+반말 unlocked! 🔓
+He's already asking for your Kakao. Classic Domin.
 
 ---
 
@@ -95,6 +92,9 @@ AI: 좋아!
 
 **📍 장소:** 밖 (동일)
 
+**intro_text:**
+He wants to hang out again. Exchange info and lock in plans!
+
 **결 — 연락 [세트 7]**
 AI: 아이디 알려줘!
 User: 여기! / ___이야.
@@ -102,9 +102,8 @@ AI: 저장했어! 주말에 뭐 해?
 User: 일정 없어! / 모르겠어!
 
 **Outro:**
-> Contact secured! 🔒
-> He's already making plans...
->
+Contact secured! 🔒
+He's already making plans...
 
 **결 — 약속 [세트 8]**
 AI: 같이 놀래? 밥 먹으러 가자!
@@ -113,9 +112,8 @@ AI: 삼겹살 어때? 맛있는 데 알아!
 User: 좋아! / 가자!
 
 **Outro:**
-> It's officially a date! 🥂
-> Next up: The test that decides if you're *truly* compatible.
->
+It's officially a date! 🥂
+Next up: The test that decides if you're *truly* compatible.
 
 ---
 
@@ -147,9 +145,8 @@ AI: 오, 나랑 비슷해! 나는 25살!
 User: 진짜? / 오, 그래?
 
 **Outro:**
-> Age revealed! 🎂
-> Now find out where they actually live.
->
+Age revealed! 🎂
+Now find out where they actually live.
 
 ### 승 — 어디 살아 [세트 2]
 
@@ -160,15 +157,17 @@ User: 서울이야! / 홍대 근처야!
 AI: 오, 가깝다! 놀러 와!
 
 **Outro:**
-> Neighbors? Maybe! 📍
-> Get ready — the MBTI question is coming.
->
+Neighbors? Maybe! 📍
+Get ready — the MBTI question is coming.
 
 ## sim2: MBTI Talk
 
 **Goal:** To discuss MBTI types and talk about personality.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+Here it comes — the MBTI question. Are you compatible?
 
 ### 승 — MBTI [세트 3]
 
@@ -179,9 +178,8 @@ User: 나는 ___야! / 모르겠어!
 AI: 그렇구나.
 
 **Outro:**
-> Compatibility check: Passed! 💫
-> Now dig a little deeper into who they really are.
->
+Compatibility check: Passed! 💫
+Now dig a little deeper into who they really are.
 
 ### 전 — 성격 [세트 4]
 
@@ -192,15 +190,17 @@ AI: 나는 밖이 좋아!
 User: 오 나랑 같아! / 나랑 다르네!
 
 **Outro:**
-> Same energy! ✨
-> One more round — what are they up to these days?
->
+Same energy! ✨
+One more round — what are they up to these days?
 
 ## sim3: More About You
 
 **Goal:** To talk about what you've been doing lately.
 
 📍 장소: 카페 (동일)
+
+**intro_text:**
+The conversation's flowing. Share what you've been up to!
 
 ### 전 — 요즘 뭐 해 [세트 5]
 
@@ -211,9 +211,8 @@ AI: 한국어 어때? 재밌어?
 User: 응, 재밌어! / 좀 어려워.
 
 **Outro:**
-> Honest answer! 😄
-> Time to wrap this up and make plans to talk again.
->
+Honest answer! 😄
+Time to wrap this up and make plans to talk again.
 
 ### 결 — 마무리 [세트 6]
 
@@ -224,9 +223,8 @@ AI: 카톡 해!
 User: 응, 기다릴게! / 알겠어!
 
 **Outro:**
-> New friend unlocked! 🔓
-> Next up: Turn that chat into actual plans.
->
+New friend unlocked! 🔓
+Next up: Turn that chat into actual plans.
 
 ---
 
@@ -258,9 +256,8 @@ User: 같이 놀래? / 시간 있어?
 AI: 응! 뭐 할까?
 
 **Outro:**
-> They said yes! 🙌
-> Now figure out what you're actually doing.
->
+They said yes! 🙌
+Now figure out what you're actually doing.
 
 ### 승 — 어디 갈까 [세트 2]
 
@@ -271,15 +268,17 @@ User: 홍대 어때? / 강남 갈까?
 AI: 홍대 가자!
 
 **Outro:**
-> Destination: Hongdae! 🗺️
-> Now nail down the details — when and where exactly?
->
+Destination: Hongdae! 🗺️
+Now nail down the details — when and where exactly?
 
 ## sim2: When and Where
 
 **Goal:** To confirm the meeting time and place.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+Plans are taking shape. Lock in the time and place!
 
 ### 승 — 시간 [세트 3]
 
@@ -290,9 +289,8 @@ AI: 좋아! 홍대역 앞?
 User: 응, 거기! / 몇 번 출구?
 
 **Outro:**
-> Time locked in! ⏰
-> One more confirmation and you're all set.
->
+Time locked in! ⏰
+One more confirmation and you're all set.
 
 ### 전 — 확인 [세트 4]
 
@@ -303,15 +301,17 @@ AI: 늦으면 안 돼!
 User: 알겠어! / 안 늦어!
 
 **Outro:**
-> Plans confirmed! 📅
-> Saturday is coming... are you ready for the real thing?
->
+Plans confirmed! 📅
+Saturday is coming... are you ready for the real thing?
 
 ## sim3: Day of
 
 **Goal:** To coordinate arrival and find each other in real time.
 
 📍 장소: 홍대역 앞 (야외)
+
+**intro_text:**
+It's the big day! Get there and find each other.
 
 ### 전 — 당일 [세트 5]
 
@@ -322,9 +322,8 @@ AI: 나 도착했어! 빨리 와!
 User: 금방 가! / 거의 다 왔어!
 
 **Outro:**
-> Almost there! 🏃
-> Just one more step — actually find each other.
->
+Almost there! 🏃
+Just one more step — actually find each other.
 
 ### 결 — 만남 [세트 6]
 
@@ -335,9 +334,8 @@ User: 아, 봤어! / 여기야!
 AI: 가자!
 
 **Outro:**
-> You found each other! 🎉
-> Next up: Staying in touch between hangouts.
->
+You found each other! 🎉
+Next up: Staying in touch between hangouts.
 
 ---
 
@@ -369,9 +367,8 @@ User: 나도 집! / 집이야!
 AI: 오늘 뭐 했어?
 
 **Outro:**
-> Conversation started! 💬
-> Now keep it going — ask about their day.
->
+Conversation started! 💬
+Now keep it going — ask about their day.
 
 ### 승 — 대화 [세트 2]
 
@@ -382,15 +379,17 @@ User: 새로 나온 거! / 비밀!
 AI: 나중에 알려줘!
 
 **Outro:**
-> Chatting like pros! 😎
-> Time to take it up a notch — share something fun.
->
+Chatting like pros! 😎
+Time to take it up a notch — share something fun.
 
 ## sim2: Chatting More
 
 **Goal:** To share photos and links and react to them.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+The chat's heating up. Share photos, links, and laughs!
 
 ### 승 — 사진 [세트 3]
 
@@ -401,9 +400,8 @@ AI: 다음에 같이 오자!
 User: 좋아! / 언제 갈까?
 
 **Outro:**
-> Han River plans made! 🌊
-> Now send them something funny.
->
+Han River plans made! 🌊
+Now send them something funny.
 
 ### 전 — 재미 [세트 4]
 
@@ -415,15 +413,17 @@ User: 진짜 웃겨! / 이거 꼭 봐!
 
 
 **Outro:**
-> Link sent! 😂
-> The night is winding down... time to say goodnight.
->
+Link sent! 😂
+The night is winding down... time to say goodnight.
 
 ## sim3: Good Night
 
 **Goal:** To end a conversation naturally and say goodnight.
 
 📍 장소: 온라인 (카톡, 동일)
+
+**intro_text:**
+It's getting late. Wrap up the chat and say goodnight!
 
 ### 전 — 저녁 [세트 5]
 
@@ -434,9 +434,8 @@ User: 너는? / 뭐 먹었어?
 AI: 나 라면 먹었어!
 
 **Outro:**
-> Dinner check done! 🍜
-> Almost time to wrap up for the night.
->
+Dinner check done! 🍜
+Almost time to wrap up for the night.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -447,9 +446,8 @@ User: 내일 봐! / 또 연락해!
 AI: 응, 내일 봐!
 
 **Outro:**
-> Goodnight said! 🌙
-> Next up: Taking your Korean out into the real world.
->
+Goodnight said! 🌙
+Next up: Taking your Korean out into the real world.
 
 ---
 

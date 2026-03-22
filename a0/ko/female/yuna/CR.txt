@@ -28,8 +28,7 @@ AI: 저도요! 잘 부탁해요!
 User: 네! / 잘 부탁해요!
 
 **Outro:**
-> She hands you an apron before you even ask.
->
+She hands you an apron before you even ask.
 
 **승 — 자기소개 [세트 2]**
 User: 오늘 첫날이에요. / 떨려요.
@@ -38,8 +37,7 @@ User: 다행이에요. / 좋아요.
 AI: 같이 잘 해요! 뭐부터 알려줄까요?
 
 **Outro:**
-> She adjusts your apron collar and gives you a thumbs up.
->
+She adjusts your apron collar and gives you a thumbs up.
 
 ---
 
@@ -60,8 +58,7 @@ AI: 금방 외워요. 같이 해봐요!
 User: 해볼게요. / 열심히 할게요.
 
 **Outro:**
-> She taps the menu board cheerfully, pointing at everything.
->
+She taps the menu board cheerfully, pointing at everything.
 
 **전 — 주문 연습 [세트 4]**
 User: 이건 뭐예요? / 인기 메뉴가 뭐예요?
@@ -70,8 +67,7 @@ User: 알겠어요. / 고마워요.
 AI: 잘 할 거예요.
 
 **Outro:**
-> She gives you a quick thumbs up across the counter.
->
+She gives you a quick thumbs up across the counter.
 
 ---
 
@@ -92,8 +88,7 @@ AI: 고마워! 첫날 어때?
 User: 나도. / 좋아.
 
 **Outro:**
-> She grins and kicks her legs up on the chair.
->
+She grins and kicks her legs up on the chair.
 
 **결 — 편한 대화 [세트 6]**
 User: 힘들어? / 괜찮아?
@@ -102,8 +97,7 @@ User: 나도 그래. / 나도 재밌어.
 AI: 잘 됐다! 내일도 같이 하자!
 
 **Outro:**
-> First day done. Yuna is already planning tomorrow's playlist.
->
+First day done. Yuna is already planning tomorrow's playlist.
 
 ---
 
@@ -133,8 +127,7 @@ AI: 여기서 주문 받아봐요!
 User: 알겠어요. / 네!
 
 **Outro:**
-> She's already taking an order before you even arrive.
->
+She's already taking an order before you even arrive.
 
 **승 — 주문 확인 [세트 2]**
 User: 이거 맞아요? / 잘 했어요?
@@ -143,8 +136,7 @@ User: 다행이에요. / 고마워요.
 AI: 잘 하고 있어요. 다음 손님도 해봐요!
 
 **Outro:**
-> She high-fives you under the counter. Teamwork!
->
+She high-fives you under the counter. Teamwork!
 
 ---
 
@@ -165,8 +157,7 @@ AI: 주말엔 더 바빠요.
 User: 그렇군요. / 대단하네요.
 
 **Outro:**
-> She hands you a drink without saying anything.
->
+She hands you a drink without saying anything.
 
 **전 — 카페 얘기 [세트 4]**
 User: 여기 얼마나 됐어요? / 오래 됐어요?
@@ -175,8 +166,7 @@ User: 오~ / 그렇구나.
 AI: 같이 하면 더 좋아요.
 
 **Outro:**
-> She smiles like she just made a lifelong coworker.
->
+She smiles like she just made a lifelong coworker.
 
 ---
 
@@ -197,8 +187,7 @@ AI: 오늘 잘 했어.
 User: 너도. / 고마워.
 
 **Outro:**
-> She starts wiping down the counter, humming to herself.
->
+She starts wiping down the counter, humming to herself.
 
 **결 — 청소 대화 [세트 6]**
 User: 뭐 도와줄까? / 같이 하자.
@@ -207,8 +196,7 @@ User: 알겠어. / 금방 할게.
 AI: 고마워! 내일도 올 거지?
 
 **Outro:**
-> She hummed while mopping. The café has never looked this clean.
->
+She hummed while mopping. The café has never looked this clean.
 
 ---
 
@@ -238,8 +226,7 @@ AI: 테이블 닦아요.
 User: 알겠어요. / 네!
 
 **Outro:**
-> She ties her hair back and grabs the mop right away.
->
+She ties her hair back and grabs the mop right away.
 
 **승 — 역할 분담 [세트 2]**
 User: 다 닦았어요. / 끝났어요.
@@ -248,8 +235,7 @@ User: 뭐 더 있어요? / 또 뭐 해요?
 AI: 바닥만요. 금방 끝나요!
 
 **Outro:**
-> Almost done! She's already excited about going home.
->
+Almost done! She's already excited about going home.
 
 ---
 
@@ -270,8 +256,7 @@ AI: 오늘 어땠어요?
 User: 재밌었어요. / 좋았어요.
 
 **Outro:**
-> She claps her hands together and looks satisfied.
->
+She claps her hands together and looks satisfied.
 
 **전 — 퇴근 대화 [세트 4]**
 User: 집 어디예요? / 집 가까워요?
@@ -280,8 +265,7 @@ User: 좋겠어요. / 같이 가요!
 AI: 같이 나가요!
 
 **Outro:**
-> She grabs your arm and heads for the door. No hesitation.
->
+She grabs your arm and heads for the door. No hesitation.
 
 ---
 
@@ -302,8 +286,7 @@ AI: 오늘 고마워. 재밌었지?
 User: 나도. / 재밌었어.
 
 **Outro:**
-> She waves and starts walking, then glances back.
->
+She waves and starts walking, then glances back.
 
 **결 — 작별 [세트 6]**
 User: 또 보자. / 내일 봐.
@@ -312,5 +295,4 @@ User: 잘 가. / 조심히 가.
 AI: 너도!
 
 **Outro:**
-> She waves big, then runs off. Tomorrow, same time, same energy.
->
+She waves big, then runs off. Tomorrow, same time, same energy.

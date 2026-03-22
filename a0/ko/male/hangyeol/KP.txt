@@ -27,9 +27,8 @@ AI: 와줘서 고마워요!
 User: 저도 좋아요! / 감사해요!
 
 **Outro:**
-> He said thank you before you even said a word. 🌟
-> Now tell him your name — he's already leaning in to hear it.
->
+He said thank you before you even said a word. 🌟
+Now tell him your name — he's already leaning in to hear it.
 
 **승 — 이름 [세트 2]**
 AI: 이름이 뭐예요?
@@ -38,9 +37,8 @@ AI: 기억할게요!
 User: 진짜요? / 감사해요!
 
 **Outro:**
-> He repeated your name like it mattered. Because it did. 💛
-> Now ask for what you came here for.
->
+He repeated your name like it mattered. Because it did. 💛
+Now ask for what you came here for.
 
 ---
 
@@ -50,6 +48,9 @@ User: 진짜요? / 감사해요!
 
 **📍 장소:** 팬미팅 사인회 (테이블, 동일)
 
+**intro_text:**
+Album in hand. He's reaching for it. Make every second count!
+
 **승 — 사인 [세트 3]**
 AI: 사인 해드릴까요?
 User: 네, 부탁해요! / 네, 해주세요!
@@ -57,9 +58,8 @@ AI: 여기요!
 User: 감사해요! / 좋아요!
 
 **Outro:**
-> He handed it back with both hands. 📖
-> You still have thirty seconds. Use them.
->
+He handed it back with both hands. 📖
+You still have thirty seconds. Use them.
 
 **전 — 대화 [세트 4]**
 AI: 멀리서 왔어요?
@@ -68,9 +68,8 @@ AI: 고생했어요!
 User: 아니에요! / 괜찮아요!
 
 **Outro:**
-> He asked. He actually wanted to know. 🐾
-> The staff is signaling. Time's almost up.
->
+He asked. He actually wanted to know. 🐾
+The staff is signaling. Time's almost up.
 
 ---
 
@@ -80,6 +79,9 @@ User: 아니에요! / 괜찮아요!
 
 **📍 장소:** 팬미팅 사인회 (테이블, 동일)
 
+**intro_text:**
+Last chance before the staff waves you off. Say what matters!
+
 **전 — 선물 [세트 5]**
 User: 이거요! / 선물이에요!
 AI: 와, 감사해요!
@@ -87,9 +89,8 @@ User: 좋아해요! / 응원해요!
 AI: 저도요!
 
 **Outro:**
-> He said it back without hesitating. 💛
-> One last thing before you go.
->
+He said it back without hesitating. 💛
+One last thing before you go.
 
 **결 — 작별 [세트 6]**
 AI: 다음에 또 와요!
@@ -98,9 +99,8 @@ AI: 기다릴게요!
 User: 감사해요! / 다음에 봐요!
 
 **Outro:**
-> "기다릴게요." He meant every syllable. ✨
-> Next up: See him on stage — louder, brighter, just for you.
->
+"기다릴게요." He meant every syllable. ✨
+Next up: See him on stage — louder, brighter, just for you.
 
 ---
 
@@ -132,9 +132,8 @@ AI: 자리 찾았어요? 여기예요!
 User: 네! / 찾았어요!
 
 **Outro:**
-> New concert friend unlocked. 🎪
-> Tell them exactly how nervous you are right now.
->
+New concert friend unlocked. 🎪
+Tell them exactly how nervous you are right now.
 
 ### 승 — 기다림 [세트 2]
 
@@ -144,9 +143,8 @@ AI: 빨리 보고 싶어요!
 User: 저도요! / 많이 기다렸어요!
 
 **Outro:**
-> The lights just cut out. 🌑
-> He's walking out right now.
->
+The lights just cut out. 🌑
+He's walking out right now.
 
 ---
 
@@ -156,6 +154,9 @@ User: 저도요! / 많이 기다렸어요!
 
 **📍 장소:** 콘서트장 객석 (공연 중)
 
+**intro_text:**
+The music drops. He's on stage. Scream your heart out!
+
 ### 승 — 공연 중 [세트 3]
 
 AI: 와! 시작해요!
@@ -164,9 +165,8 @@ AI: 이쪽 봤어요! 인사했어요!
 User: 진짜요?! / 떨려요!
 
 **Outro:**
-> He pointed at this section. YOUR section. And smiled. 🫵
-> The whole arena lost it. You lost it more. He waved back.
->
+He pointed at this section. YOUR section. And smiled. 🫵
+The whole arena lost it. You lost it more. He waved back.
 
 ### 전 — 앵콜 [세트 4]
 
@@ -176,9 +176,8 @@ AI: 다시 나왔어요! 최고예요!
 User: 최고예요! / 진짜 좋아요!
 
 **Outro:**
-> Encore delivered. He ran back on stage like he'd been waiting to. 🎤
-> The show is over. Your voice is gone. His energy? Still at 200%.
->
+Encore delivered. He ran back on stage like he'd been waiting to. 🎤
+The show is over. Your voice is gone. His energy? Still at 200%.
 
 ---
 
@@ -188,6 +187,9 @@ User: 최고예요! / 진짜 좋아요!
 
 **📍 장소:** 콘서트장 밖 (공연 후)
 
+**intro_text:**
+Show's over but the adrenaline is still pumping. Time to relive every moment!
+
 ### 전 — 끝 [세트 5]
 
 User: 진짜 좋았어요! / 최고였어요!
@@ -196,9 +198,8 @@ User: 인사도 받았어요!
 AI: 저도 봤어요! 진짜 멋있어요!
 
 **Outro:**
-> Post-concert high. Everything is glowing. 🌟
-> Lock in your next concert partner right now.
->
+Post-concert high. Everything is glowing. 🌟
+Lock in your next concert partner right now.
 
 ### 결 — 인사 [세트 6]
 
@@ -208,9 +209,8 @@ AI: 다음에 또 같이 와요!
 User: 네, 꼭이요! / 또 와요!
 
 **Outro:**
-> Concert buddy for life. 🎫
-> Next up: He went live — and he's reading every single comment out loud.
->
+Concert buddy for life. 🎫
+Next up: He went live — and he's reading every single comment out loud.
 
 ---
 
@@ -242,9 +242,8 @@ AI: 기다렸어요!
 User: 저도요! / 반가워요!
 
 **Outro:**
-> He found your message in a flood of comments. 💬
-> He's still here. Keep going.
->
+He found your message in a flood of comments. 💬
+He's still here. Keep going.
 
 ### 승 — 대화 [세트 2]
 
@@ -254,9 +253,8 @@ AI: 진짜요? 저도요!
 User: 사랑해요! / 최고예요!
 
 **Outro:**
-> Love sent. He said it right back. 💛
-> Now check your messages — he left you something.
->
+Love sent. He said it right back. 💛
+Now check your messages — he left you something.
 
 ---
 
@@ -266,6 +264,9 @@ User: 사랑해요! / 최고예요!
 
 **📍 장소:** 온라인 (버블/위버스 메시지)
 
+**intro_text:**
+New notification. He actually replied. Open it!
+
 ### 승 — 답장 [세트 3]
 
 AI: 댓글 봤어요!
@@ -274,9 +275,8 @@ AI: 당연하죠!
 User: 감사해요! / 좋아요!
 
 **Outro:**
-> "당연하죠!" He reads every single one. 🌟
-> He's still typing. There's more.
->
+"당연하죠!" He reads every single one. 🌟
+He's still typing. There's more.
 
 ### 전 — 질문 [세트 4]
 
@@ -286,9 +286,8 @@ AI: 최고예요! 감사해요!
 User: 항상 응원할게요! / 화이팅이에요!
 
 **Outro:**
-> He said thank you like he really meant it. 💛
-> Send one last message before he signs off.
->
+He said thank you like he really meant it. 💛
+Send one last message before he signs off.
 
 ---
 
@@ -298,6 +297,9 @@ User: 항상 응원할게요! / 화이팅이에요!
 
 **📍 장소:** 온라인 (버블/위버스, 동일)
 
+**intro_text:**
+One last message before he signs off. Make it count!
+
 ### 전 — 메시지 [세트 5]
 
 User: 오늘 라이브 좋았어요! / 재미있었어요!
@@ -306,9 +308,8 @@ User: 또 해요! / 기다릴게요!
 AI: 네, 꼭 할게요!
 
 **Outro:**
-> He promised. Out loud. 📩
-> One final exchange before the night ends.
->
+He promised. Out loud. 📩
+One final exchange before the night ends.
 
 ### 결 — 잘 자 [세트 6]
 
@@ -318,6 +319,5 @@ AI: 다음에 또 만나요! 안녕!
 User: 네! / 다음에 봐요!
 
 **Outro:**
-> Goodnight exchanged. He smiled at the camera before going offline. 🌙
-> Next up: Time to put on your professional face.
->
+Goodnight exchanged. He smiled at the camera before going offline. 🌙
+Next up: Time to put on your professional face.

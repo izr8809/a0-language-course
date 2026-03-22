@@ -26,8 +26,7 @@ AI: 여기 자주 와요? 처음 봐요.
 User: 처음 왔어요. / 네, 처음이에요.
 
 **Outro:**
-> She looks out the window quietly, enjoying the view.
->
+She looks out the window quietly, enjoying the view.
 
 **승 — 자리 [세트 2]**
 AI: 여기 제 자리예요. 옆에 앉아요.
@@ -36,8 +35,7 @@ AI: 저는 하늘이에요. 이름이 뭐예요?
 User: 저는 ___이에요.
 
 **Outro:**
-> She turns back to the window, calm and focused.
->
+She turns back to the window, calm and focused.
 
 ---
 
@@ -58,8 +56,7 @@ AI: 사진 찍어요? 카메라 있어요?
 User: 아니요, 없어요. / 핸드폰만 있어요.
 
 **Outro:**
-> She nods slowly, quietly thinking.
->
+She nods slowly, quietly thinking.
 
 **전 — 작업 [세트 4]**
 AI: 저는 그림 그려요.
@@ -68,8 +65,7 @@ AI: 풍경 그려요. 보여줄까요?
 User: 네, 좋아요! / 네!
 
 **Outro:**
-> She holds up her sketch — a quiet landscape from today.
->
+She holds up her sketch — a quiet landscape from today.
 
 ---
 
@@ -90,8 +86,7 @@ AI: 고마워요. 내일도 와요?
 User: 네. / 아마도요.
 
 **Outro:**
-> She smiles quietly. She seems to like you already.
->
+She smiles quietly. She seems to like you already.
 
 **결 — 다음에 [세트 6]**
 AI: 우리 내일 또 봐요.
@@ -100,8 +95,7 @@ AI: 네, 조심히 가요!
 User: 네! / 안녕히 계세요!
 
 **Outro:**
-> She waves without looking back, already lost in thought.
->
+She waves without looking back, already lost in thought.
 
 ---
 
@@ -131,8 +125,7 @@ AI: 사진 찍어 줄까요?
 User: 네, 좋아요! / 고마워요!
 
 **Outro:**
-> She points at the window. She always notices pretty things.
->
+She points at the window. She always notices pretty things.
 
 **승 — 찍기 [세트 2]**
 AI: 저기 서 봐요. 하나, 둘, 셋!
@@ -141,8 +134,7 @@ AI: 네, 진짜 잘 나왔어요!
 User: 마음에 들어요! / 감사해요!
 
 **Outro:**
-> She takes the photo and smiles at the screen, satisfied.
->
+She takes the photo and smiles at the screen, satisfied.
 
 ---
 
@@ -163,8 +155,7 @@ AI: 와, 진짜 멋있어요! 최고예요!
 User: 정말요? 고마워요.
 
 **Outro:**
-> She looks at it once more, genuinely interested.
->
+She looks at it once more, genuinely interested.
 
 **전 — 소개 [세트 4]**
 AI: 언제부터 했어요?
@@ -173,8 +164,7 @@ AI: 진짜 잘해요. 멋있어요!
 User: 네! 고마워요! / 더 열심히 할게요!
 
 **Outro:**
-> She tilts her head, thinking about what to add next.
->
+She tilts her head, thinking about what to add next.
 
 ---
 
@@ -195,8 +185,7 @@ AI: 커피 마셔요? 제가 줄게요.
 User: 네, 고마워요. / 좋아요.
 
 **Outro:**
-> She goes to the corner and comes back with two paper cups, humming something.
->
+She goes to the corner and comes back with two paper cups, humming something.
 
 **결 — 쉬기 [세트 6]**
 AI: 잠깐만 기다려요. 금방 올게요.
@@ -205,8 +194,7 @@ AI: 자, 커피 마셔요!
 User: 네, 고마워요.
 
 **Outro:**
-> The breeze comes in and she closes her eyes, enjoying the moment.
->
+The breeze comes in and she closes her eyes, enjoying the moment.
 
 ---
 
@@ -236,8 +224,7 @@ AI: 저도 끝났어요. 가방 챙겨요.
 User: 네, 챙길게요. / 알겠어요.
 
 **Outro:**
-> She closes her sketchbook and stretches quietly.
->
+She closes her sketchbook and stretches quietly.
 
 **승 — 정리 [세트 2]**
 AI: 천천히 해요.
@@ -246,8 +233,7 @@ AI: 빠트린 거 없어요? 잘 봐요.
 User: 네, 다 챙겼어요! / 없어요!
 
 **Outro:**
-> She stands at the window for a moment, calm as always.
->
+She stands at the window for a moment, calm as always.
 
 ---
 
@@ -268,8 +254,7 @@ AI: 저도 진짜 좋았어요.
 User: 뭐가 제일 좋았어요? / 저도요!
 
 **Outro:**
-> She looks around the empty studio with a satisfied expression.
->
+She looks around the empty studio with a satisfied expression.
 
 **전 — 생각 [세트 4]**
 AI: 같이 있어서 좋았어요.
@@ -278,8 +263,7 @@ AI: 저 매일 와요. 또 올 거예요?
 User: 네, 매일 올게요! / 자주 올게요!
 
 **Outro:**
-> She says it quietly, with a gentle smile.
->
+She says it quietly, with a gentle smile.
 
 ---
 
@@ -300,8 +284,7 @@ AI: 내일 몇 시에 와요?
 User: 오후예요! / 두 시예요!
 
 **Outro:**
-> She steps out quietly, already looking forward to tomorrow.
->
+She steps out quietly, already looking forward to tomorrow.
 
 **결 — 다음 [세트 6]**
 AI: 알겠어요. 제가 여기서 기다릴게요.
@@ -310,5 +293,4 @@ AI: 조심히 가요! 내일 만나요!
 User: 네, 안녕히 가세요! / 내일 봐요!
 
 **Outro:**
-> She walks away slowly, her camera bag swinging, already thinking about tomorrow.
->
+She walks away slowly, her camera bag swinging, already thinking about tomorrow.

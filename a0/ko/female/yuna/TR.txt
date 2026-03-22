@@ -24,8 +24,7 @@ AI: 네! 몇 인분이요?
 User: 일 인분이요. / 이 인분주세요.
 
 **Outro:**
-> Your phone buzzes. Yuna texts: "거기 떡볶이 맛있어!! 꼭 먹어!!"
->
+Your phone buzzes. Yuna texts: "거기 떡볶이 맛있어!! 꼭 먹어!!"
 
 **승 — 추가 [세트 2]**
 AI: 치즈 추가하실래요?
@@ -34,8 +33,7 @@ AI: 네! 잠깐만 기다려 주세요.
 User: 네! / 알겠어요!
 
 **Outro:**
-> Another text from Yuna: "치즈 무조건 넣어!! 진짜 맛있어!!"
->
+Another text from Yuna: "치즈 무조건 넣어!! 진짜 맛있어!!"
 
 ---
 
@@ -45,6 +43,9 @@ User: 네! / 알겠어요!
 
 **📍 장소:** 신촌 야시장 포장마차 (동일)
 
+**intro_text:**
+Time to pay! Card or cash — you decide.
+
 **승 — 결제 [세트 3]**
 AI: 다 됐어요! 오천 원이에요.
 User: 카드 돼요? / 현금이요.
@@ -52,8 +53,7 @@ AI: 네, 됩니다!
 User: 여기요. / 감사합니다!
 
 **Outro:**
-> Yuna texts again: "음료도 사!! 거기 매실차 맛있어!"
->
+Yuna texts again: "음료도 사!! 거기 매실차 맛있어!"
 
 **전 — 추가주문 [세트 4]**
 AI: 음료도 드릴까요?
@@ -62,8 +62,7 @@ AI: 네, 알겠습니다!
 User: 감사합니다! / 네!
 
 **Outro:**
-> Phone lights up: "빨리 먹어!! 사진 보내!!"
->
+Phone lights up: "빨리 먹어!! 사진 보내!!"
 
 ---
 
@@ -73,6 +72,9 @@ User: 감사합니다! / 네!
 
 **📍 장소:** 신촌 야시장 포장마차 (동일)
 
+**intro_text:**
+Almost done! Finish up and say goodbye like a regular.
+
 **전 — 마무리 [세트 5]**
 AI: 맛있게 드셨어요?
 User: 네, 잘먹었어요. / 진짜 맛있었어요!
@@ -80,8 +82,7 @@ AI: 감사합니다! 또 오세요!
 User: 네! / 또 올게요!
 
 **Outro:**
-> You send Yuna a photo. She replies instantly: "맛있겠다!!! 나도 먹고 싶어ㅠㅠ"
->
+You send Yuna a photo. She replies instantly: "맛있겠다!!! 나도 먹고 싶어ㅠㅠ"
 
 **결 — 인사 [세트 6]**
 AI: 포장도 돼요!
@@ -90,9 +91,8 @@ AI: 네! 안녕히 가세요!
 User: 감사합니다! / 안녕히 계세요!
 
 **Outro:**
-> Yuna's last text: "나한테도 사와!! 약속!!"
-> Street food mission complete. Next up: caffeine time!
->
+Yuna's last text: "나한테도 사와!! 약속!!"
+Street food mission complete. Next up: caffeine time!
 
 ---
 
@@ -120,8 +120,7 @@ AI: 아이스요?
 User: 아이스요. / 따뜻하게요.
 
 **Outro:**
-> Yuna texts: "나도 거기 자주 가! 아메리카노 맛있어!!"
->
+Yuna texts: "나도 거기 자주 가! 아메리카노 맛있어!!"
 
 **승 — 추가 [세트 2]**
 AI: 사이즈는요?
@@ -130,8 +129,7 @@ AI: 네, 알겠습니다!
 User: 감사합니다! / 네!
 
 **Outro:**
-> Yuna replies: "거기 케이크 진짜 맛있어!! 사진 찍어 보내!!"
->
+Yuna replies: "거기 케이크 진짜 맛있어!! 사진 찍어 보내!!"
 
 ---
 
@@ -141,6 +139,9 @@ User: 감사합니다! / 네!
 
 **📍 장소:** 신촌 카페 카운터 (동일)
 
+**intro_text:**
+Your name's on the order. Time to pay and wait for pickup!
+
 **승 — 결제 [세트 3]**
 AI: 사천오백 원이에요!
 User: 여기 카드요. / 여기요.
@@ -148,8 +149,7 @@ AI: 네, 감사합니다! 이름이 어떻게 되세요?
 User: ___이요.
 
 **Outro:**
-> Phone buzzes. Yuna: "나도 지금 카페 가고 싶다ㅠㅠ"
->
+Phone buzzes. Yuna: "나도 지금 카페 가고 싶다ㅠㅠ"
 
 **전 — 이름 [세트 4]**
 AI: 나오면 불러 드릴게요!
@@ -158,8 +158,7 @@ AI: 잠시만 기다려 주세요!
 User: 네! / 알겠어요!
 
 **Outro:**
-> Yuna texts: "다 되면 사진 보내!! 기다릴게!!"
->
+Yuna texts: "다 되면 사진 보내!! 기다릴게!!"
 
 ---
 
@@ -169,6 +168,9 @@ User: 네! / 알겠어요!
 
 **📍 장소:** 신촌 카페 픽업대 → 카페 좌석
 
+**intro_text:**
+Your coffee is ready! Grab it and find the perfect spot.
+
 **전 — 픽업 [세트 5]**
 AI: 아이스 아메리카노 나왔어요!
 User: 감사합니다! / 네!
@@ -176,8 +178,7 @@ AI: 빨대 필요하세요?
 User: 네, 주세요. / 괜찮아요.
 
 **Outro:**
-> You snap a photo and send it. Yuna: "우와 맛있겠다!!! 다음에 같이 가자!!"
->
+You snap a photo and send it. Yuna: "우와 맛있겠다!!! 다음에 같이 가자!!"
 
 **결 — 자리 [세트 6]**
 User: 자리 있어요? / 여기 앉아도 돼요?
@@ -186,9 +187,8 @@ User: 감사합니다! / 네!
 AI: 맛있게 드세요!
 
 **Outro:**
-> Yuna's text: "창가 자리 분위기 좋지?! 부럽다!!"
-> Café mission complete. Next up: getting around Sinchon!
->
+Yuna's text: "창가 자리 분위기 좋지?! 부럽다!!"
+Café mission complete. Next up: getting around Sinchon!
 
 ---
 
@@ -216,8 +216,7 @@ User: 감사합니다! / 네!
 AI: 카드 찍으세요!
 
 **Outro:**
-> Yuna texts: "버스 탔어?! 조심히 가!!"
->
+Yuna texts: "버스 탔어?! 조심히 가!!"
 
 **승 — 확인 [세트 2]**
 User: 홍대역까지 멀어요? / 몇 정거장이에요?
@@ -226,8 +225,7 @@ User: 알겠어요! / 감사합니다!
 AI: 네!
 
 **Outro:**
-> Yuna replies: "금방이야!! 도착하면 바로 연락해!!"
->
+Yuna replies: "금방이야!! 도착하면 바로 연락해!!"
 
 ---
 
@@ -237,6 +235,9 @@ AI: 네!
 
 **📍 장소:** 버스 안
 
+**intro_text:**
+You're on the bus! Keep an eye out for your stop.
+
 **승 — 이동 [세트 3]**
 User: 다음이 홍대역이에요? / 여기 어디예요?
 AI: 아직이에요!
@@ -244,8 +245,7 @@ User: 아, 네! / 알겠어요!
 AI: 다음에 내리세요!
 
 **Outro:**
-> Phone lights up. Yuna: "아직이야?? 빨리 와!!"
->
+Phone lights up. Yuna: "아직이야?? 빨리 와!!"
 
 **전 — 하차 준비 [세트 4]**
 AI: 다음 정류장 홍대역이에요!
@@ -254,8 +254,7 @@ AI: 네, 조심히 내리세요!
 User: 네! / 감사합니다!
 
 **Outro:**
-> Yuna texts: "도착?!?! 나 지금 배고파!!"
->
+Yuna texts: "도착?!?! 나 지금 배고파!!"
 
 ---
 
@@ -265,6 +264,9 @@ User: 네! / 감사합니다!
 
 **📍 장소:** 홍대역 앞 → 택시
 
+**intro_text:**
+You made it to Hongdae! Now hop in a taxi to finish the trip.
+
 **전 — 도착 [세트 5]**
 User: 택시 어디서 타요? / 정류장 어디예요?
 AI: 저쪽에 있어요!
@@ -272,8 +274,7 @@ User: 저쪽이요? / 저기요?
 AI: 네, 저쪽이요!
 
 **Outro:**
-> Yuna replies: "택시 타?! 가까운데!! 걸어!!"
->
+Yuna replies: "택시 타?! 가까운데!! 걸어!!"
 
 **결 — 택시 [세트 6]**
 User: 신촌이요. / 신촌 가 주세요.
@@ -282,6 +283,5 @@ User: 네! / 감사합니다!
 AI: 안전벨트 매 주세요!
 
 **Outro:**
-> Your phone buzzes one last time. Yuna: "도착하면 연락해!! 밥 먹으러 가자!!"
-> Transportation mission complete. You survived Korean buses and taxis!
->
+Your phone buzzes one last time. Yuna: "도착하면 연락해!! 밥 먹으러 가자!!"
+Transportation mission complete. You survived Korean buses and taxis!
